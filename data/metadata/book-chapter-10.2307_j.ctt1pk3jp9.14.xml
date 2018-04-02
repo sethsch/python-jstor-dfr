@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1pk3jp9</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Idolizing Authorship</book-title>
+         <subtitle>Literary Celebrity and the Construction of Identity, 1800 to the Present</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Franssen</surname>
+               <given-names>Gaston</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Honings</surname>
+               <given-names>Rick</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>01</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9789089649638</isbn>
+      <isbn content-type="epub">9789048528677</isbn>
+      <publisher>
+         <publisher-name>Amsterdam University Press</publisher-name>
+         <publisher-loc>Amsterdam</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Gaston Franssen</copyright-holder>
+         <copyright-holder>Rick Honings</copyright-holder>
+         <copyright-holder>Amsterdam University Press B.V.</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1pk3jp9"/>
+      <abstract abstract-type="short">
+         <p>Though these days, our celebrity culture tends to revolve around movie stars and pop musicians, there have been plenty of celebrity authors over the years and around the world. This volume brings together a number of contributors to look at how and why certain writers have attained celebrity throughout history. How were their images as celebrities constructed by themselves and in complicity with their fans? And how did that process and its effects differ from country to country and era to era?</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.3</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>9</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.5</book-part-id>
+                  <title-group>
+                     <title>Idolizing Authorship</title>
+                     <subtitle>An introduction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Franssen</surname>
+                           <given-names>Gaston</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Honings</surname>
+                           <given-names>Rick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>‘Love it or hate it, celebrity is one of the dominant features of modern life’, says Fred Inglis in<italic>A Short History of Celebrity</italic>(2010).¹ His statement is undoubtedly true: we are endlessly confronted with celebrities in the press, on television and on the Internet. Even animals can become celebrities. What are we to make of Keiko, the killer whale in the film<italic>Free Willy</italic>(1993)? Or of little Knut, the polar bear cub that was born in Berlin Zoo in 2006, around which a whole merchandising industry sprang up, replete with T-shirts and coffee mugs? But it is especially</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Olympian Writer</title>
+                     <subtitle>Johann Wolfgang Goethe (1749-1832)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hoffmann</surname>
+                           <given-names>Silke</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>Throughout his literary career, from the publication of the immensely popular novel<italic>Die Leiden des jungen Werthers</italic>(<italic>The Sorrows of Young Werther</italic>, 1774) – a text which found fans all over Europe – to his monumental autobiographical work,<italic>Aus meinem Leben: Dichtung und Wahrheit</italic>(<italic>From My Life: Poetry and Truth</italic>, 1811‑1833), an account in which he fashioned himself as a singular personality, the famous classic author Johann Wolfgang Goethe was worshipped – in a most literal, religious sense. He was considered to be a supreme being, a true idol, a god.</p>
+                     <p>Indeed, a pilgrimage to Goethe’s house on Weimar’s Frauenplan</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Dutch Byron</title>
+                     <subtitle>Nicolaas Beets (1814-1903)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Honings</surname>
+                           <given-names>Rick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>In late 2014, a lock of Lord Byron’s hair came up for sale on eBay. The asking price was 3500 pounds – a telling sign, if any were needed, that enchantment still surrounds the English poet today, as indeed it did in his own time. A Byronic spirit visited 1820s Europe, and everywhere there arose an interest in George Gordon Byron (1788-1824). His rebellious, revolutionary personality appealed to the imagination, as did his personal history, one marked by scandal and restiveness, culminating in his self-imposed exile and illustrious end at Missolonghi on 19 April 1824, during the Greek War of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Enemy of Society, Hero of the Nation</title>
+                     <subtitle>Henrik Ibsen (1828-1906)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van der Poll</surname>
+                           <given-names>Suze</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>In 1891, Henrik Ibsen returned home to his native Norway following a long voluntary exile. He was hailed as a super star by his fellow Norwegians and admirers from all over the (Western) world. The young Irish student James Joyce wrote him a fan letter, and the young painter Edvard Munch portrayed him sitting in his own chair at the Grand Hotel in Oslo. Though Ibsen often reacted somewhat grumpily when people tried to approach him, he had yearned for admiration and acknowledgement before he left Norway in 1864.</p>
+                     <p>The English poet, writer, translator and critic Edmund Gosse characterized Ibsen</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>From Bard to Brand</title>
+                     <subtitle>Holger Drachmann (1846-1908)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van der Liet</surname>
+                           <given-names>Henk</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>When the Danish poet, painter, and bon vivant Holger Drachmann died in 1908, his death marked the end of an era in more ways than one. His passing symbolically signalled the end of the romantic and late-romantic tradition in Danish art and culture, one that had dominated most of the nineteenth century. From the 1870s onwards, new literary and cultural currents gradually came to the fore and gathered momentum. Just as in many other parts of the world, remarkable progress was made in science, industry, transportation, and communication, as well as in the cultural realm. Commonly this period in Scandinavian</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>In the Future, When I Will Be More of a Celebrity</title>
+                     <subtitle>Louis Couperus (1863-1923)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kemperink</surname>
+                           <given-names>Mary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>The Dutch writer Louis Couperus (1863-1923) is considered today as one of the most prominent novelists of the fin de siecle. He made his name with realist novels such as<italic>Eline Vere</italic>(1889) and<italic>Small Souls</italic>(1901–1903). Some of his works raised indignant criticism because of their overt presentation of sexuality – including homosexuality – for example the Indian novel<italic>The Hidden Force</italic>(1900) and the historical novel<italic>The Mountain of Light</italic>(1905). For this reason<italic>The Mountain of Light</italic>, unlike several of his other works, was never translated into English. Couperus is considered exemplary of the fin-de-siecle aesthetics.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>À la Recherche de la Gloire</title>
+                     <subtitle>Marcel Proust (1871-1922)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Houppermans</surname>
+                           <given-names>Sjef</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>The term<italic>célèbre</italic>appears 88 times in Marcel Proust’s novel<italic>À la recherche du temps perdu</italic>(translated as<italic>Remembrance of Things Past</italic>, 1922-1931, and, recently,<italic>In Search of Lost Time</italic>, 2002) and presents an essential term if one is to acquire a nuanced understanding of the aesthetic dimension of this oeuvre.¹ Certain architectural works may be<italic>célèbres</italic>and, of course certain aristocratic families as well. Robert de Saint-Loup gives his nobility an aesthetic turn, being ‘famed for the smartness of his clothes’.² The singular quality of his appearance ‘must correspond to a life different from that led by other men’,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The National Skeleton</title>
+                     <subtitle>Ezra Pound (1885-1972)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Liebregts</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>It is possible that the enduring image of the American poet Ezra Pound, both in literary history and the popular imagination, was defined in a single gesture, one that was to cast a long shadow over not only his innovative contributions to English-language poetry, but also his energy in helping to shape what we now call Modernism. In 1945, Pound was found guilty of treason by an American court for broadcasting on behalf of Mussolini’s Italian government during the war. He escaped execution on grounds of insanity and was sent to St Elizabeth’s in Washington, a mental hospital where he</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Playing God</title>
+                     <subtitle>Harry Mulisch (1927-2010)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bax</surname>
+                           <given-names>Sander</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>In a cartoon from November 2010, we see Dutch literary writer Harry Mulisch in heaven, having seated himself on God’s throne. The title of the cartoon is ‘Harry Mulisch Comes Home’. God looks a little surprised at being chased out of his chair. An approximate translation of Mulisch words to God reads: ‘Thanks, old boy, for keeping my seat warm’. This cartoon by Jean Gouders provides us with a telling representation of the ‘dead author’. The dead author, an important topos in literary theory from the 1970s onwards, appears here in a slightly paradoxical manner, being combined with an older</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Literary Stardom and Heavenly Gifts</title>
+                     <subtitle>Haruki Murakami (1949)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Franssen</surname>
+                           <given-names>Gaston</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>217</fpage>
+                  <abstract>
+                     <p>‘The scale of the celebrity of the Japanese novelist Haruki Murakami is impossible to convey’, reflects Philip Hensher in his review of the Japanese writer’s novel<italic>1Q84</italic>(2009-2010).¹ The illustrations of Murakami’s fame that follow this remark indicate that Hensher is referring both to the author’s phenomenal commercial success and global popularity. For example,<italic>1Q84</italic>sold 1,5 million copies in the month after its publication in Japan. English translations of Murakami’s work are usually also bestsellers, as fans queue up in front of bookstores into the evening in order to purchase their copy at midnight launches.² His novels have been</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Sincere e-Self-Fashioning</title>
+                     <subtitle>Dmitrii Vodennikov (1968)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rutten</surname>
+                           <given-names>Ellen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>239</fpage>
+                  <abstract>
+                     <p>In Russia as elsewhere, from the late eighteenth century onwards writers have acknowledged, reflected upon, and toyed with their status as public faces.¹ In the late eighteenth century the famous court poet Gavriila Derzhavin ‘obsessively’ defended ‘the purity of his personal motives’ in response to accusations of public political flattery.² In the first half of the nineteenth century, Mikhail Lermontov exploited hyper-stylized painted portraits to consolidate his status as a Great Romantic poet. And around the 1900s, Leo Tolstoi – in one of the many paradoxes that shape his biography – combined a persistent love for the unmediated with an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>The Fame and Blame of an Intellectual Goth</title>
+                     <subtitle>Sofi Oksanen (1977)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lehtonen</surname>
+                           <given-names>Sanna</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>257</fpage>
+                  <abstract>
+                     <p>Imagine Finland – a small nation, less than a hundred years old, on the northeastern outskirts of Europe. A country where national identity is built on an eccentric mixture of celebratory discourses: its education system, its engineers (behind the Nokia wonder), its heroes of the Second World War, its world champions in ice hockey, and an innate perseverance that allows its people to survive where others might not. This is a place where education – at all levels – is free for everyone, where people’s general level of education is high, where the public-library network is well maintained, and where</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.17</book-part-id>
+                  <title-group>
+                     <title>Notes on the Contributors</title>
+                  </title-group>
+                  <fpage>275</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pk3jp9.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>279</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

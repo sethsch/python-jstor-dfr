@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/chan13234</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL3031.T3C4468 2004</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Chinese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Taiwan</subject>
+            <subj-group>
+               <subject content-type="lcsh">20th century</subject>
+               <subj-group>
+                  <subject content-type="lcsh">History and criticism</subject>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Literary Culture in Taiwan</book-title>
+         <subtitle>Martial Law to Market Law</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Chang</surname>
+               <given-names>Sung-sheng Yvonne</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>06</day>
+         <month>10</month>
+         <year>2004</year>
+      </pub-date>
+      <isbn content-type="epub">9780231507127</isbn>
+      <isbn content-type="epub">0231507127</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2004</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/chan13234"/>
+      <abstract abstract-type="short">
+         <p>With monumental changes in the last two decades, Taiwan is making itself anew. The process requires remapping not only the country's recent political past, but also its literary past. Taiwanese literature is now compelled to negotiate a path between residual high culture aspirations and the emergent reality of market domination in a relatively autonomous, increasingly professionalized field. This book argues that the concept of a field of cultural production is essential to accounting for the ways in which writers and editors respond to political and economic forces. It traces the formation of dominant concepts of literature, competing literary trends, and how these ideas have met political and market challenges.</p>
+         <p>Contemporary Taiwanese literature has often been neglected and misrepresented by literary historians both inside and outside of Taiwan. Chang provides a comprehensive and fluent history of late twentieth-century Taiwanese literature by placing this vibrant tradition within the contexts of a modernizing local economy, a globalizing world economy, and a postcolonial and post-Cold War world order.</p>
+      </abstract>
+      <counts>
+         <page-count count="288"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.4</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>With the monumental changes of the last fifteen years or so, Taiwan is making itself anew. The process commands serious scholarly efforts at remapping Taiwan’s recent past, not least, its literary past. Though unquestionably a crucial component of local cultural production, for various reasons contemporary Taiwanese literature has been consistently neglected and frequently misrepresented by literary historians inside and outside Taiwan. One purpose of this study is to redress those problems. In addition, though, if an in-depth account of contemporary Taiwanese literature is important for Taiwan itself, it is also valuable for illuminating larger issues of crossborder literary phenomena in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Academic Contexts and Conceptual Frameworks</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This chapter is divided into two parts. The first part surveys the current state of “Taiwanese literary studies,” beginning with an introduction to the frames of reference that have colored the study of Taiwan and Taiwanese literature from outside, followed by a brief account of recent developments within Taiwan as scholars there increasingly take the lead in articulating their own cultural heritage.</p>
+                     <p>Outside, various critical paradigms have governed the broader field of “Taiwan studies” over the last few decades. Particularly in the United States, the value of “Taiwan” as an object of scholarly inquiry tends to vary with its usefulness</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Political and Market Factors in the Literary Field</title>
+                  </title-group>
+                  <fpage>45</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Students of Chinese literature are well aware that politics plays an overriding role in modern Chinese literary history. In fact, some of the landmark scholarly works on modern Chinese literature are by social scientists writing primarily about the Communist state’s mechanisms of cultural control. Merle Goldmann’s <italic>Chinese Literary Dissent</italic> (1967) is an example <italic>par excellence</italic>. However, as many observers have noted since C. T. Hsia’s famous remark on Chinese writers’ perpetual “obsession with China” opened the door to this insight, in China political control over culture is not simply an imposition of the state’s will—ra traditional self-regulatory impulse and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Soft-Authoritarian Rule and the Mainstream Position</title>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract abstract-type="extract">
+                     <p>A scene from President Chiang Kai-shek’s funeral in 1975 is featured in a PBS television documentary on the history of contemporary Taiwan, <italic>Tug of War</italic>, first broadcast in November 1998. Crowds of civilian mourners form long lines on the desolate-looking streets of Taipei, many weeping on their knees and some climbing up construction fences to pay their last respects. The scene lasts for approximately one and a half minutes, but the narrator, who has focused on the political and diplomatic implications of this momentous event, makes virtually no comment to account for what the screen is showing—throngs of people</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>The Modernist Trend and Aestheticization of the “China Trope” in Mainstream Literature</title>
+                  </title-group>
+                  <fpage>90</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Under authoritarian rule, with all potentially subversive artistic and cultural formations actively suppressed, the Mainstream position is by definition the one endorsed by the political authorities, and enjoys a monopoly on power to define legitimate literary discourses. Despite their privileged position and better access to government resources, however, individual Mainstream agents must still utilize their cultural capital tactfully. Competition within the government’s prescribed parameters can still be fierce and dynamic.¹ This was especially the case in Taiwan when the government relaxed its aggressive literary mobilization efforts in the midto late 1950s, and an elitist, western-influenced literary formation championing artistic autonomy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Localist Position as a Product of Social Opposition</title>
+                  </title-group>
+                  <fpage>122</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The highlights of this report, published in the English-language <italic>Taipei Times</italic> shortly after the Democratic Progressive Party assumed power, are of course President Chen Shui-bian’s argument with the “regional” status of Taiwanese literature, which amounts to an indirect evocation of a “Taiwanese nation.” Speaking at the Salt Belt Literature Workshop, the home base of Localist literature, Chen apparently felt free to openly criticize the former government’s marginalization of a literary position commonly associated with separatist politics. The speech, of course, was mainly political rhetoric, since the “national literature” label is primarily a political designation. Nonetheless, it marked a new era</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>
+                        <italic>Fukan</italic>-Based Literary Culture and Middle-Class Genres</title>
+                  </title-group>
+                  <fpage>141</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Nanfang Shuo (pen name of Wang Xingqing), a renowned columnist and public intellectual, nicely sums up the momentous events in Taiwan in the 1970s and 1980s:¹</p>
+                     <p>Chronologically speaking, for Taiwan the seventies began with the appointment of Chiang Ching-kuo as the Deputy Speaker of the Executive Yuan in June 1969, which heralded the predictable arrival of a “Chiang Ching-kuo Era”; what unmistakably punctuated the end of the decade, then, was the severing of diplomatic relations with the United States in December 1979. … This was a decade in which the status of Taiwan in the international arena was severely challenged.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>High Culture Aspirations and Transformations of Mainstream Fiction</title>
+                  </title-group>
+                  <fpage>168</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The previous chapter established that a middle-class genre emerged in and dominated the Taiwan literary field between the late 1970s and late 1980s, and that the Mainstream writers active at this time were politically conservative. This chapter explores some other aspects of the period’s literary culture that complicated the post–martial law development of Mainstream literature. Most significant were the lingering high culture aspirations of many Mainstream writers. In Taiwan, high/low literary hierarchies were established during the Modernist literary movement that began in the late 1950s and flourished in the 1960s. In the 1960s and 1970s, scholars from various foreign</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>New Developments in the Post–Martial Law Period</title>
+                  </title-group>
+                  <fpage>190</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The lifting of martial law in 1987 divides Taiwan’s post-1949 era into two drastically different periods. Although a clearer picture of the latest period seems to be emerging now, various cultural forces are still busily negotiating. Returning to Raymond Williams’s tripartite structure of cultural formations (dominant, alternative, oppositional), the ongoing developments in Taiwan’s cultural field may be described as follows.</p>
+                     <p>With sinocentrism under attack, the dominant culture of the martial law period and the corresponding Mainstream position in the literary field are seriously undermined. Localism, which used to play the oppositional role, is now contending for the dominant position in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.14</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>213</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.15</book-part-id>
+                  <title-group>
+                     <title>SELECTED BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>233</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/chan13234.16</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

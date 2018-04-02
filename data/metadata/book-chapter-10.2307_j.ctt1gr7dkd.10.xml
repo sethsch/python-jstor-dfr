@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1d4v0cc</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1gr7dkd</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Strange Narrators in Contemporary Fiction</book-title>
+         <subtitle>Explorations in Readers' Engagement with Characters</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>CARACCIOLO</surname>
+               <given-names>MARCO</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>12</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9780803294967</isbn>
+      <isbn content-type="epub">9780803296756</isbn>
+      <isbn content-type="epub">0803296754</isbn>
+      <publisher>
+         <publisher-name>UNP - Nebraska</publisher-name>
+         <publisher-loc>Lincoln; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>the Board of Regents of the University of Nebraska</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1gr7dkd"/>
+      <abstract abstract-type="short">
+         <p>A storyteller's craft can often be judged by how convincingly the narrative captures the identity and personality of its characters. In this book, the characters who take center stage are "strange" first-person narrators: they are fascinating because of how they are at odds with what the reader would wish or expect to hear-while remaining reassuringly familiar in voice, interactions, and conversations. Combining literary analysis with research in cognitive and social psychology, Marco Caracciolo focuses on readers' encounters with the "strange" narrators of ten contemporary novels, including Bret Easton Ellis's<italic>American Psycho</italic>, Haruki Murakami's<italic>Hard-Boiled Wonderland and the End of the World</italic>, and Mark Haddon's<italic>The Curious Incident of the Dog in the Night-Time</italic>. Caracciolo explores readers' responses to narrators who suffer from neurocognitive or developmental disorders, who are mentally disturbed due to multiple personality disorder or psychopathy, whose consciousness is split between two parallel dimensions or is disembodied, who are animals, or who lose their sanity.A foray into current work on reception, reader-response, cognitive literary study, and narratology,<italic>Strange Narrators in Contemporary Fiction</italic>illustrates why any encounter with a fictional text is a complex negotiation of interlaced feelings, thoughts, experiences, and interpretations.</p>
+      </abstract>
+      <counts>
+         <page-count count="312"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.5</book-part-id>
+                  <title-group>
+                     <title>Spiders on Drugs:</title>
+                     <subtitle>A Prologue</subtitle>
+                  </title-group>
+                  <fpage>xiii</fpage>
+                  <abstract>
+                     <p>In 1995 three nasa researchers published a scientific report illustrating the effects of psychoactive drugs on the webs spun by<italic>Araneus diadematus</italic>, commonly known as the European garden spider (Noever, Cronise, and Relwani 1995). Building on pharmacologist P. N. Witt’s research from the 1940s, the authors demonstrate that spiderwebs can be used to test the toxicity of chemicals such as mescaline, amphetamine, or even caffeine.¹ Indeed, the webs woven by spiders exposed to these substances display distinctive alterations when compared to spiders in the control condition, as evidenced by the drawings included in the report: the healthy compactness of drug-free</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.6</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Minding Characters</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Narrators of very different kinds can elicit feelings of strangeness in the audience. Over the course of this book we will run into a number of “strange” narrators—where the scare quotes highlight, here and throughout, that a narrator cannot be strange in and of itself: strangeness is always a matter of experiential and interpretive negotiation between particular readers and particular texts. However, feelings of strangeness are not completely unpredictable either, because readers within a certain interpretive community—or within neighboring communities—tend to share a large number of cultural assumptions and templates for defining “normality” (for instance, in relation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Patterns of Cognitive Dissonance</title>
+                  </title-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>How does it feel to dig up your father’s grave if you know his corpse won’t be there? We have already met Oskar Schell, the nine-year-old narrator of Jonathan Safran Foer’s<italic>Extremely Loud and Incredibly Close</italic>(2005). Oskar’s father died during the September 11 attacks on the World Trade Center; since his body was never found, the family had to bury an empty coffin. Still, at the end of his long—and largely unsuccessful—peregrinations through New York in the hope of finding out more about his dead father, Oskar makes one last attempt at achieving closure: in what he</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Two Child Narrators</title>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>Homing in on two contemporary novels featuring “strange” narrators, Mark Haddon’s<italic>The Curious Incident of the Dog in the Night-Time</italic>(2004) and Emma Donoghue’s<italic>Room</italic>(2010), this chapter begins illustrating the theoretical arguments discussed over the previous pages. It fleshes out my model of defamiliarization in readers’ interactions with characters, giving a degree of empirical reality to concepts such as character-centered illusion, cognitive strangeness, and the oscillation between empathy and imaginative resistance.</p>
+                     <p>I have argued that this oscillation is responsible for the feelings of strangeness that may emerge in readers’ experience. Implicit in this idea is that audiences’ engagement with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Madness between Violence and Insight</title>
+                  </title-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>While in<italic>The Curious Incident</italic>and<italic>Room</italic>the narrators’ cognitive strangeness is associated with feelings of sympathy, innocence, and humor, this chapter focuses on two novels in which the narrators are linked to violence and the grotesque disruption of bodily boundaries: Bret Easton Ellis’s<italic>American Psycho</italic>(1991) and Chuck Palahniuk’s<italic>Fight Club</italic>(1996).</p>
+                     <p>The narrator of Ellis’s novel—Patrick Bateman—has a high-paying job on Wall Street. Like his “yuppie” colleagues, we see him wasting his life in inane conversations about designer clothes and upscale restaurants. nlike his colleagues, Bateman is a psychopath and a serial killer: reading his monologue</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>A Strange Mood</title>
+                  </title-group>
+                  <fpage>114</fpage>
+                  <abstract>
+                     <p>I stressed in the prologue that defamiliarization is far from being a purely cognitive process of belief change, since it is always accompanied by an emotional “feel,” which may span a wide affective gamut of curiosity, puzzlement, hesitation, and unease. This chapter focuses on the feelings of strangeness that underlie readers’ engagements with characters by using as case studies two novels, Haruki Murakami’s<italic>Hard-Boiled Wonderland and the End of the World</italic>(2011; originally published in Japanese in 1985) and Martin Amis’s<italic>Time’s Arrow</italic>(2003; first edition 1991). Both texts play on a triangulation between the reader and two narrators (Murakami)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Tales of Rats and Pigs</title>
+                  </title-group>
+                  <fpage>140</fpage>
+                  <abstract>
+                     <p>After arguing that “strange” narrators can be employed as tools for phenomenological investigation, this chapter places this investigation into a broader perspective by looking at the animal narrators of Andrzej Zaniewski’s Rat (1995; originally published in Polish in 1993) and Marie Darrieussecq’s<italic>Pig Tales</italic>(1997; originally published in French in 1996). My analysis should be read against the background of larger discussions on animal consciousness in fields such as cognitive ethology (Griffin 2001) and animal studies (see, e.g., Wolfe 2009). To what extent are nonhuman animals capable of conscious experience, and how are we to know their conscious states in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Obsessive Narrators, Unstable Knowledge</title>
+                  </title-group>
+                  <fpage>178</fpage>
+                  <abstract>
+                     <p>The two novels examined in this chapter may seem less closely connected in thematic terms than the pairs we have considered in the previous chapters: what can Umberto Eco’s<italic>Foucault’s Pendulum</italic>(1989; originally published in Italian in 1988), which traces the adventures of three Italian intellectuals in a world of occult writings and conspiracy theories, have in common with Mark Danielewski’s<italic>The House of Leaves</italic>(2000), a twenty-first-century haunted house tale known for its typographical experimentation and “cult” following? A preliminary answer could turn on how both novels draw on genre fiction (the thriller or detective novel in Eco, Gothic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.13</book-part-id>
+                  <title-group>
+                     <title>Coda:</title>
+                     <subtitle>Uses of the Character-Centered Illusion</subtitle>
+                  </title-group>
+                  <fpage>218</fpage>
+                  <abstract>
+                     <p>In the concluding lines of<italic>Why We Read Fiction</italic>, Lisa Zunshine writes, “I can say that I personally read fiction because it offers a pleasurable and intensive workout for my Theory of Mind” (2006, 164). Zunshine’s argument is well known: we feel attracted to fiction because it affords opportunities for exercising our “theory of mind” (our capacity to attribute mental states to other subjects), thus functioning as some sort of cognitive “weightlifting” (124–25). In discussing this gymnastic metaphor, Zunshine is careful to uncouple the pleasure provided by reading fictional characters’ minds from its real-world consequences, adding that “[just] as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.14</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.15</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>263</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gr7dkd.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

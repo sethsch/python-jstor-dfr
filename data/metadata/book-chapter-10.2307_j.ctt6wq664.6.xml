@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt6nwr76</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wq664</book-id>
+      <subj-group>
+         <subject content-type="call-number">PQ8355.T78 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Peruvian literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Peruvian literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">21th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese in literature</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>History</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Closed Hand</book-title>
+         <subtitle>Images of the Japanese in Modern Peruvian Literature</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Tsurumi</surname>
+               <given-names>Rebecca Riger</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>04</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9781557536075</isbn>
+      <isbn content-type="epub">9781612492131</isbn>
+      <publisher>
+         <publisher-name>Purdue University Press</publisher-name>
+         <publisher-loc>West Lafayette, Indiana</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Purdue University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wq664"/>
+      <abstract abstract-type="short">
+         <p>In her book, The Closed Hand: Images of the Japanese in Modern Peruvian Literature, Rebecca Riger Tsurumi captures the remarkable story behind the changing human landscape in Peru at the end of the nineteenth century when Japanese immigrants established what would become the second largest Japanese community in South America. She analyzes how non-Japanese Peruvian narrators unlock the unspoken attitudes and beliefs about the Japanese held by mainstream Peruvian society, as reflected in works written between l966 and 2006. Tsurumi explores how these Peruvian literary giants, including Mario Vargas Llosa, Miguel Gutiérrez, Alfredo Bryce Echenique, Carmen Ollé, Pilar Dughi, and Mario Bellatin, invented Japanese characters whose cultural differences fascinated and confounded their creators. She compares the outsider views of these Peruvian narrators with the insider perceptions of two Japanese Peruvian poets, José Watanabe and Doris Moromisato, who tap personal experiences and memories to create images that define their identities. The book begins with a brief sociohistorical overview of Japan and Peru, describing the conditions in both nations that resulted in Japanese immigration to Peru and concluding in contemporary times. Tsurumi traces the evolution of the terms “Orient” and “Japanese/Oriental” and the depiction of Asians in Modernista poetry and in later works by Octavio Paz and Jorge Luis Borges. She analyzes the images of the Japanese portrayed in individual works of modern Peruvian narrative, comparing them with those created in Japanese Peruvian poetry. The book concludes with an appendix containing excerpts from Tsurumi’s interviews and correspondence in spa with writers and poets in Lima and Mexico City.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.5</book-part-id>
+                  <title-group>
+                     <label>Chapter One</label>
+                     <title>A Socio-historical Overview of the Japanese Presence in Peru</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Fierce debate over immigration policy and the acceptance of rapidly growing minorities in mainstream society continues to inflame public opinion in the mass media throughout the world. Divergent attitudes toward newly arrived immigrants who must pass through a grueling process of assimilation are universal themes that serve as a wellspring of drama for writers and poets alike. This study focuses on Peru, the first Latin American country to have a major Japanese settlement and home to the second largest Japanese population in the region.¹ Modern Peruvian writers without Japanese ancestry hold conflicting views of their country’s largest minority. Some delineate</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.6</book-part-id>
+                  <title-group>
+                     <label>Chapter Two</label>
+                     <title>Images of the Orient/Japan in Spanish American Literature from the Modernistas and Beyond</title>
+                  </title-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>The allure of Japan continues to captivate Spanish readers, as indicated by the recent publication of the first Spanish translation of Japan’s national epic,<italic>Heike Monogatari</italic>(<italic>Tale of the Heike; Cantar de Heike</italic>),¹ Spanish editions of the Japanese classics like<italic>Genji monogatari</italic>(<italic>Tale of Genji</italic>) or<italic>Historia de Genji</italic>(<italic>I and II</italic>), Spanish collections of Japanese poetry, studies of Japanese Noh and Kabuki theater, and translations of works by popular Japanese novelists such as Ishiguro Kazuo, Ōe Kenzaburō, Tanizaki Jun’ichirō, Abe Kōbō, Kawabata Yasunari, and Murakami Haruki, among many others.</p>
+                     <p>Since ancient times, the Orient has evoked images of romance,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.7</book-part-id>
+                  <title-group>
+                     <label>Chapter Three</label>
+                     <title>A Japanese Swashbuckler in La casa verde and a Japanese Gangster in Travesuras de la niña mala</title>
+                  </title-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>In his remarkable novel<italic>La casa verde,</italic>Nobel Prize winner Mario Vargas Llosa (Arequipa, 1936) creates one of the earliest and most indelible portraits of a Japanese protagonist in Spanish American literature.¹ The novelist tapped into the legends echoing in the Amazon villages about a real man, a ruthless fugitive of Japanese ancestry but of unknown origin who was called Tushía.² Vargas Llosa first heard stories about Tushía’s mythical exploits on his eye-opening journey into the Amazon jungle in the summer of 1958³ (Harss and Dohmann 366; Díez 65). He traveled to the Upper Marañón region in the company of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.8</book-part-id>
+                  <title-group>
+                     <label>Chapter Four</label>
+                     <title>Images of the Japanese in Peruvian Short Fiction:</title>
+                     <subtitle>“Matavilela” and “Muerte de Sevilla en Madrid”</subtitle>
+                  </title-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>In the post-boom sixties, two prominent Peruvian authors born within a year of each other but on opposite ends of the social spectrum, wrote short works of fiction that added further nuances to the broad strokes drawn by Vargas Llosa in his portrait of Fushía in<italic>La casa verde</italic>. Miguel Gutiérrez Correa (Piura, 1940), born into a very modest family in Piura, and Alfredo Bryce Echenique (Lima, 1939), from a celebrated aristocratic family in Lima,¹ both educated at the Universidad Nacional Mayor de San Marcos, chose to add Japanese protagonists to their repertoires, drawn primarily from their imaginations with little</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.9</book-part-id>
+                  <title-group>
+                     <label>Chapter Five</label>
+                     <title>Las dos caras del deseo:</title>
+                     <subtitle>A Female Nikkei Character in a Pivotal Role</subtitle>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>In her first novel,<italic>Las dos caras del deseo</italic>, renowned poet Carmen Ollé (Lima, 1947) breaks new ground not only by writing “la pri-primera novela que aborda abiertamente una temática lesbiana” (Reisz 47), but also by creating a female Nikkei character in a pivotal role. Before introducing Eiko,¹ the alluring yet shrewd agent of change who will upset the heroine’s tedious existence in Lima, Ollé probes the depth of protagonist Ada’s apathy, solitude, and melancholy. The novelist traces the transformation of both characters as they become involved in each other’s lives and how the example of one unexpectedly inspires the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.10</book-part-id>
+                  <title-group>
+                     <label>Chapter Six</label>
+                     <title>Postwar Japanese Literature as a Catalyst for Change in Puñales escondidos</title>
+                  </title-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>In a telling decision, Peruvian author and psychiatrist Pilar Dughi (Lima, 1956–2005) selected four outstanding examples of postwar Japanese literature to serve as catalysts that would compel Fina Artadi, the heroine of her first novel,<italic>Puñales escondidos</italic>(1998), to reexamine her life and make decisions that would have important repercussions on her future.¹ By choosing works of modern Japanese fiction rather than shaping her own Japanese protagonist, Dughi acted on her belief in literature as a source of profound insight and in the power of selected works of Japanese fiction to effect change.</p>
+                     <p>In this chapter, I will explore</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.11</book-part-id>
+                  <title-group>
+                     <label>Chapter Seven</label>
+                     <title>Images of the Japanese in El jardín de la señora Murakami and Shiki Nagaoka:</title>
+                     <subtitle>Una nariz de ficción</subtitle>
+                  </title-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>Mario Bellatin (Mexico City, 1960)¹ wraps himself in the traditions of distant foreign cultures like a magician’s cloak of invisibility that enables him to reflect on important questions about literature and uncover truths about the act of writing and the role of the writer in his texts. Diana Palaversich depicts the novelist’s place within the panorama of current Latin American literature as a “ proyecto original y arriesgado, cuyo objetivo es crear un universo paralelo que desafía no sólo la lógica del mundo concreto sino también los preceptos de la literatura realista, protagonizada por personajes verosímiles y caracterizada por textos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.12</book-part-id>
+                  <title-group>
+                     <label>Chapter Eight</label>
+                     <title>Reflections of the Japanese in the Poetry of José Watanabe</title>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>Images of the Japanese are striking in clarity and depth in the works of two Nisei poets in Peru. José Watanabe¹ and Doris Moromisato distill a rich elixir from their childhood memories, lessons imparted from their immigrant parents and learned from their own unique perspective as Nisei Peruvians. Watanabe and Moromisato speak to their readers in divergent voices, reflecting their gender and generational differences. They also share an intrinsic Japanese character that sets them apart from other writers in this book, and lends a rare quality to their works. Moreover, unlike most of the Peruvian narrators in this study, who</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.13</book-part-id>
+                  <title-group>
+                     <label>Chapter Nine</label>
+                     <title>Representations of the Okinawan/Japanese in the Poetry of Doris Moromisato</title>
+                  </title-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Nisei poet Doris Moromisato Miasato (Chambala, Lima, 1962) has wrestled with formidable questions of gender, sexuality, and national identity all her life and embraces them as primary themes in her poetry. This study examines how she invests her work with images of the Okinawan/Japanese reflecting her parents’ heritage in two of her works:<italic>Chambala era un camino</italic>and<italic>Diario de la mujer es ponja</italic>. To arrive at a deeper understanding of her perspective as a Nisei poet in Peru, it was important to interview the poet about her family’s experience as immigrants in Peru.</p>
+                     <p>Both of Moromisato’s parents came from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.14</book-part-id>
+                  <title-group>
+                     <label>Chapter Ten</label>
+                     <title>Conclusions</title>
+                  </title-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>In the twenty-first century, cultural and racial diversity has become an inescapable reality. Immigration issues and the soaring growth of minorities throughout the world increasingly provoke public opinion in the mass media, on the Internet, and in the national and local platforms of political candidates. This book attempts to capture the story behind this changing human landscape in Peru, the conflicts as cultures collide, and the universal struggle of newcomers determined to adapt while still retaining something of their own culture in their new homeland. It explores the clash of tradition versus modernity for Japanese immigrants and subsequent generations in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.15</book-part-id>
+                  <title-group>
+                     <title>Appendix</title>
+                     <subtitle>Interviews with Six Authors</subtitle>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.16</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>255</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.17</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>285</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>303</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq664.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>314</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

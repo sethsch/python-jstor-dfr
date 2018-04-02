@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.cttn31zk</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1r24tt</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Film Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Lost in Translation</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>King</surname>
+               <given-names>Geoff</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>03</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748637454</isbn>
+      <isbn content-type="epub">9780748637478</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Geoff King</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.3366/j.ctt1r24tt"/>
+      <abstract abstract-type="short">
+         <p>Elusive, subtle and atmospheric, Lost in Translation was one of the indie hits of 2004, earning widespread critical praise, awards and success at the box office. But what was the basis of its appeal and how exactly is the film marked as a distinctly independent work? This book, by a leading authority on contemporary American indie cinema, provides an in-depth analysis of the balance of more and less mainstream qualities offered by the film at all levels, from industrial factors such as funding, marketing and release strategy to formal qualities such as its low-key narrative structure and the impressionistic use of imagery and music. Other issues examined in detail include the role of stardom, particularly the role of Bill Murray, the distinctive 'auteur' contribution made by writer-director Sofia Coppola and the film's ambiguous relationship with the romantic comedy genre. Textual and industrial analysis is also supplemented by consideration of online responses to the film that offer insights into the various ways in which it was either appreciated or rejected by viewers.Key Features* A unique attempt to pin down the precise nature of the film and its appeal toviewers* A major contribution to our understanding of the contemporary American indie film landscape* Written by a leading authority on American indie film</p>
+      </abstract>
+      <counts>
+         <page-count count="168"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.3</book-part-id>
+                  <title-group>
+                     <title>Series Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Needham</surname>
+                           <given-names>Gary</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tzioumakis</surname>
+                           <given-names>Yannis</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Lost in Translation</italic> opens with a fade-up from black to a medium close-up shot of Scarlet Johansson’s rear, clad in transparent pastel pink underwear, as her character lies down on her side. The image, framing her figure from lower back to just below the knee, is held for a lengthy thirty-four seconds and largely abstracted from the narrative at the time; still at first, then moving slightly as the legs adjust position. Company credits fade in and out above the upper edge of the figure, followed by music and the appearance of the main title across the lower half of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.5</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Industrial Contexts:</title>
+                     <subtitle>From Indie to Indiewood</subtitle>
+                  </title-group>
+                  <fpage>6</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Lost in Translation</italic> is rooted, in several respects, in Coppola’s own background, a fact that was emphasised in much of the media coverage of the film’s release and is a significant dimension of the manner in which it might be positioned in the wider cinematic spectrum. The jet-lagged setting in Tokyo was inspired by her experiences during several years of travel to the city and elsewhere in connection with various aspects of her earlier career (including photography, work in music video, the development of a line of clothing and the promotion of <italic>The Virgin Suicides</italic> [1999]). From this, apparently, came</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.6</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Frameworks:</title>
+                     <subtitle>Stardom, Authorship, Genre</subtitle>
+                  </title-group>
+                  <fpage>31</fpage>
+                  <abstract abstract-type="extract">
+                     <p>If <italic>Lost in Translation</italic> was originally written with Bill Murray in mind, and Murray figured most centrally in marketing devices such as the trailer and the main poster, the presence of the star is as good a place as any to begin the closer analysis of the film itself, and some of the key frameworks in which it might be expected to be located for viewers. Murray was an important ingredient in the production from a commercial point of view, as reflected by his prominence in the marketing campaign, which implies that his presence was considered to be one of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.7</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>Form:</title>
+                     <subtitle>Narrative, Visual Style, Music</subtitle>
+                  </title-group>
+                  <fpage>76</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The narrative dimension is one in which <italic>Lost in Translation</italic> is most clearly marked as a product of the indie sector, its primary defining feature being its comparative slightness. <italic>Lost in Translation</italic> is a production in which, by mainstream standards, relatively little happens. Plotting is restricted largely to the development of the relationship between Bob and Charlotte, a relationship that itself, as seen in the previous chapter, refuses to conform to more conventional ‘romantic’ expectations, despite the employment of certain devices familiar from the template of romantic comedy. <italic>Lost in Translation</italic> fits, in this respect, into a wider tendency, particularly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.8</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>Themes:</title>
+                     <subtitle>Alienation, Disconnection and Representation</subtitle>
+                  </title-group>
+                  <fpage>126</fpage>
+                  <abstract abstract-type="extract">
+                     <p>If we move on to ask what <italic>Lost in Translation is about</italic>, at the level of the themes with which it engages, explicitly or more implicitly, most apparent are the issues of loneliness, alienation and disconnection to which reference has already been made on numerous occasions in this book, including what is signified by some of the formal qualities examined in the previous chapter. The lack of overt narrative ‘action’, visuals such as the images of Charlotte framed in her hotel window or exploring parts of the city and the cooler tones of the soundtrack are all expressive of this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.9</book-part-id>
+                  <title-group>
+                     <title>Afterword</title>
+                  </title-group>
+                  <fpage>140</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On balance, where exactly, then, does <italic>Lost in Translation</italic> sit in the wider independent/Indiewood spectrum? There is, perhaps, no single or one-dimensional answer. Some aspects of the film lean towards the Indiewood pole, particularly at the industrial level and in the centrality of a major star such as Bill Murray both to the fi lm itself and the manner in which it was sold. More distinctly indie qualities also remain to the fore, however, and play a central part in establishing the particular resonances of the film, notably in the formal dimension, most obviously the low-key nature of its narrative</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.10</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>141</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.11</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>150</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r24tt.12</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>156</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

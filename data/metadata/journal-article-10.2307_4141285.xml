@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="misc">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">japalanglite</journal-id>
+         <journal-id journal-id-type="jstor">j100985</journal-id>
+         <journal-title-group>
+            <journal-title>Japanese Language and Literature</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Teachers of Japanese</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">15367827</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4141285</article-id>
+         <title-group>
+            <article-title>Back Matter</article-title>
+         </title-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>2004</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">38</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i388530</issue-id>
+         <fpage>253</fpage>
+         <lpage>256</lpage>
+         <page-range/>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4141285"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

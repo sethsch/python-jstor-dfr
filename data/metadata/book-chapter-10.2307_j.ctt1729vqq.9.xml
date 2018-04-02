@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt13kh4gb</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1729vqq</book-id>
+      <subj-group>
+         <subject content-type="call-number">PS153.A84H585 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">American literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Asian American authors</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Asian Americans in popular culture</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Asian Americans</subject>
+         <subj-group>
+            <subject content-type="lcsh">Race identity</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Racially mixed people</subject>
+         <subj-group>
+            <subject content-type="lcsh">Race identity</subject>
+            <subj-group>
+               <subject content-type="lcsh">United States</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+         <subject>Language &amp; Literature</subject>
+         <subject>Psychology</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Racial Ambiguity in Asian American Culture</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>HO</surname>
+               <given-names>JENNIFER ANN</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>12</day>
+         <month>05</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780813570709</isbn>
+      <isbn content-type="epub">9780813570716</isbn>
+      <isbn content-type="epub">0813570719</isbn>
+      <publisher>
+         <publisher-name>Rutgers University Press</publisher-name>
+         <publisher-loc>NEW BRUNSWICK; NEW JERSEY; LONDON</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Jennifer Ann Ho</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1729vqq"/>
+      <abstract abstract-type="short">
+         <p>The sheer diversity of the Asian American populace makes them an ambiguous racial category. Indeed, the 2010 U.S. Census lists twenty-four Asian-ethnic groups, lumping together under one heading people with dramatically different historical backgrounds and cultures. In<italic>Racial Ambiguity in Asian American Culture</italic>, Jennifer Ann Ho shines a light on the hybrid and indeterminate aspects of race, revealing ambiguity to be paramount to a more nuanced understanding both of race and of what it means to be Asian American.</p>
+         <p>Exploring a variety of subjects and cultural artifacts, Ho reveals how Asian American subjects evince a deep racial ambiguity that unmoors the concept of race from any fixed or finite understanding. For example, the book examines the racial ambiguity of Japanese American nisei Yoshiko Nakamura deLeon, who during World War II underwent an abrupt transition from being an enemy alien to an assimilating American, via the Mixed Marriage Policy of 1942. It looks at the blogs of Korean, Taiwanese, and Vietnamese Americans who were adopted as children by white American families and have conflicted feelings about their "honorary white" status. And it discusses Tiger Woods, the most famous mixed-race Asian American, whose description of himself as "Cablinasian"-reflecting his background as Black, Asian, Caucasian, and Native American-perfectly captures the ambiguity of racial classifications.</p>
+         <p>Race is an abstraction that we treat as concrete, a construct that reflects only our desires, fears, and anxieties. Jennifer Ho demonstrates in<italic>Racial Ambiguity in Asian American Culture</italic>that seeing race as ambiguous puts us one step closer to a potential antidote to racism.</p>
+      </abstract>
+      <counts>
+         <page-count count="232"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Ambiguous Americans</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>At the beginning of<italic>My Year of Meats</italic>, the novelist Ruth Ozeki includes the following encounter between her protagonist, Jane Takagi-Little, a half-white–half-Japanese American documentary filmmaker, and an unnamed white American World War II veteran:</p>
+                     <p>“Where are you from, anyway?” he asked, squinting his bitter blue eyes at me.</p>
+                     <p>“New York,” I answered.</p>
+                     <p>He shook his head and glared and wiggled a crooked finger inches from my face. “No, I mean where were you<italic>born?</italic>”</p>
+                     <p>“Quam, Minnesota,” I said.</p>
+                     <p>“No, no . . .<italic>What</italic>are you?” He whined with frustration. And in a voice that was low, but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>From Enemy Alien to Assimilating American:</title>
+                     <subtitle>Yoshiko deLeon and the Mixed-Marriage Policy of the Japanese American Incarceration</subtitle>
+                  </title-group>
+                  <fpage>22</fpage>
+                  <abstract>
+                     <p>Yoshiko Tanaka Nakamura deLeon led an exceptional life. Her Japanese immigrant mother divorced her alcoholic husband at the turn-of- the- century at a time when divorce was unheard of and in a cultural climate that made female enfranchisement nearly impossible, and she moved with her daughter to the Central Coast of California after remarrying another Japanese immigrant farmer. Yoshiko herself also transgressed propriety and Japanese cultural norms by marrying her Filipino immigrant husband, Gabriel deLeon, a man who initially sold vegetables out of a truck upon his arrival to the United States and who built up his fortunes and his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Antisentimental Loss:</title>
+                     <subtitle>Stories of Transracial/Transnational Asian American Adult Adoptees in the Blogosphere</subtitle>
+                  </title-group>
+                  <fpage>44</fpage>
+                  <abstract>
+                     <p>From Huckleberry Finn to Harry Potter, narratives about orphans fascinate and proliferate in popular culture, and in recent years, the figure of the adopted child has made its way into several films and television sitcoms, such as<italic>Modern Family, Trophy Wife, Easy A, The Blind Side, Then She Found Me, Did You Hear about the Morgans?</italic>, and the<italic>Sex in the City</italic>franchise (both the television series and the two films that followed). In the works listed, many of these adoptees are Asian children, who are used as plot points for a happy resolution to infertility or childlessness.¹ Furthermore, these</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Cablinasian Dreams, Amerasian Realities:</title>
+                     <subtitle>Transcending Race in the Twenty-First Century and Other Myths Broken by Tiger Woods</subtitle>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>On a clear Sunday morning on April 13, 1997, in Augusta, Georgia, professional golfers, throngs of spectators, and viewers around the globe stood ready to anoint its next prince, a golfing prodigy who was already known by just a single moniker: Tiger. By the time Tiger Woods walked off the eighteenth hole at Augusta National, one of the nation’s most prestigious and exclusive country clubs that hosts the Masters, one of the world’s most prestigious and exclusive golf tournaments, Woods had broken several tournament records: he had the lowest recorded score (eighteen under par), won the Masters at the youngest</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Ambiguous Movements and Mobile Subjectivity:</title>
+                     <subtitle>Passing in between Autobiography and Fiction with Paisley Rekdal and Ruth Ozeki</subtitle>
+                  </title-group>
+                  <fpage>96</fpage>
+                  <abstract>
+                     <p>Contemporary Asian American literature was born out of an ambiguous text: Maxine Hong Kingston’s<italic>Woman Warrior</italic>. First published in 1976 by Knopf when Kingston was an unpublished and unknown writer living in Hawaii,<italic>The Woman Warrior: Memoir of a Girlhood among Ghosts</italic>heralded the wave of both Asian American literature and Asian American literary criticism in the post-civil rights era. Its multidisciplinary appeal quickly made<italic>Woman Warrior</italic>canonical within the fields of women’s studies, Asian American studies, American literature, and autobiography studies.¹ Originally branded as “nonfiction,” critics have grappled with its generic ambiguity.² Is it truly autobiographical or entirely fictional?</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Transgressive Texts and Ambiguous Authors:</title>
+                     <subtitle>Racial Ambiguity in Asian American Literature</subtitle>
+                  </title-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>At the 2008 Association of Asian American Studies (AAAS) conference awards banquet, the prize for best work of Asian American fiction was given to James Janko’s<italic>Buffalo Boy and Geronimo</italic>(2006).¹ When Janko, a white American man in his mid-fifties, strode up to the podium, I heard murmurs of confusion and consternation from surrounding tables. A friend turned to me and asked, “Is that a white guy who just won the award for Asian American fiction?” I nodded my head slowly and in the days following the banquet polled people for their reactions to Janko’s winning this award. The Asian</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.10</book-part-id>
+                  <title-group>
+                     <title>Coda</title>
+                     <subtitle>Ending with Origins: My Own Racial Ambiguity</subtitle>
+                  </title-group>
+                  <fpage>148</fpage>
+                  <abstract>
+                     <p>In Monique Truong’s novel<italic>Bitter in the Mouth</italic>, protagonist Linda “Linh-dao” Nguyen Hammerick explains the difference between the optics that govern how one’s identity is perceived versus the more complicated ways in which factors other than the visual govern one’s racial identity: “I was often asked by complete strangers what it was like to grow up being Asian in the South. You mean what was it like to grow up looking Asian in the South, I would say back to them with the southern accent that had revealed to them the particularities of my biography.”¹ Linda may look Asian, but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.11</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>153</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.12</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>189</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.13</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>207</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729vqq.14</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>217</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

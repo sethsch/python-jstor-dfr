@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revudeuxmond</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50019358</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Revue des Deux Mondes</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Revue des Deux Mondes</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">07509278</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">22664831</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44187881</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>CHRONIQUES</subject>
+               <subj-group>
+                  <subject>Romans japonais</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Le temps des enfants</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Solange</given-names>
+                  <surname>Fasquelle</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>9</month>
+            <year>1999</year>
+         </pub-date>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40175063</issue-id>
+         <fpage>166</fpage>
+         <lpage>169</lpage>
+         <product>
+            <source>L'Annulaire</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Yoko</given-names>
+               <surname>Ogawa</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Naufrages</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Akira</given-names>
+               <surname>Yoshimura</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Le Chat dans le cercueil</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Mariko</given-names>
+               <surname>Koike</surname>
+            </string-name>
+         </product>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/44187881"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>fre</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

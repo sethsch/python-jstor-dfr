@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">artj</journal-id>
+         <journal-id journal-id-type="jstor">j100093</journal-id>
+         <journal-title-group>
+            <journal-title>Art Journal</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>College Art Asssociation</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00043249</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/20068418</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Dialogue: Art and Labor</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A Wastrel's Progress and the Worm's Retreat</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Hirsch</given-names>
+                  <surname>Perlman</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>2005</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">64</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i20068410</issue-id>
+         <fpage>64</fpage>
+         <lpage>69</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2005 College Art Association, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/20068418"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1562e117a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1562e124" publication-type="other">
+Christopher Knight, "A Pop Naturalist," Los
+Angeles Times (September 13, 2004): E1</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1562e134a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1562e141" publication-type="other">
+U. S. Department of Defense, news transcript,
+"DoD News Briefing—Secretary Rumsfeld and
+Gen. Myers," avail, online at http://www.
+defenselink.mil/transcripts/2002/t02122002_t21
+2sdv2.html.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1562e160a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1562e167" publication-type="other">
+Theodore L. Shaw, Don't Get Taught Art This
+Way (Boston: Stuart Publications, 1957), 73</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1562e177a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1562e184" publication-type="other">
+Ibid., 75</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1562e192a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1562e199" publication-type="other">
+Simone Weil, Gravity and Grace, trans. Emma
+Cranford ( 1947 trans., 1952; New York:
+Routledge, 1997), 160</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1562e212a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1562e219" publication-type="other">
+Paul Virilio, Art and Fear, trans. Julie Rose (New
+York: Continuum, 2003), 37, 56-57</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1562e229a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1562e236" publication-type="other">
+Jane Gallop and Dick Blau, Living with His
+Camera (Durham, Duke University Press, 2003),
+153.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1562e249a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1562e256" publication-type="other">
+Haruki Murakami, "Super-Frog Saves Tokyo," in
+After the Quake: Stories, trans. Jay Rubin (New
+York: Knopf, 2003)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

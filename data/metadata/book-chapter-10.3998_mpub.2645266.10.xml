@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.3998/mpub.2645266</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN2266.5.T48 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Theater</subject>
+         <subj-group>
+            <subject content-type="lcsh">United States</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+               <subj-group>
+                  <subject content-type="lcsh">20th century</subject>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Theater</subject>
+         <subj-group>
+            <subject content-type="lcsh">United States</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+               <subj-group>
+                  <subject content-type="lcsh">21st century</subject>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Performing arts</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">Influence</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Intercultural communication in the performing arts</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Performing Arts</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>America's Japan and Japan's Performing Arts</book-title>
+         <subtitle>Cultural Mobility and Exchange in New York, 1952-2011</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>THORNBURY</surname>
+               <given-names>BARBARA E.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>04</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780472118854</isbn>
+      <isbn content-type="epub">9780472029280</isbn>
+      <publisher>
+         <publisher-name>University of Michigan Press</publisher-name>
+         <publisher-loc>Ann Arbor</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>University of Michigan</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.3998/mpub.2645266"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>America's Japan and Japan's Performing Arts</italic>studies the images and myths that have shaped the reception of Japan-related theater, music, and dance in the United States since the 1950s. Soon after World War II, visits by Japanese performing artists to the United States emerged as a significant category of American cultural-exchange initiatives aimed at helping establish and build friendly ties with Japan. Barbara E. Thornbury explores how "Japan" and "Japanese culture" have been constructed, reconstructed, and transformed in response to the hundreds of productions that have taken place over the past sixty years in New York, the main entry point and defining cultural nexus in the United States for the global touring market in the performing arts. The author's transdisciplinary approach makes the book appealing to those in the performing arts studies, Japanese studies, and cultural studies.</p>
+      </abstract>
+      <counts>
+         <page-count count="274"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.2</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.4</book-part-id>
+                  <title-group>
+                     <title>Japanese Names and Terms</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This book is a study of the images and myths that have defined and shaped the reception of Japan-related theater, music, and dance in the United States since the postwar 1950s. In the mid-1980s, at the height of fierce trade tensions between the United States and Japan, Clyde Haberman reported in the<italic>New York Times</italic>, “Japanese contend that the trouble is not their lingering restrictions so much as American laziness in attempting to penetrate this country’s markets. Learn our language, Prime Minister Yasuhiro Nakasone has said many times. Study our culture. ‘Americans don’t try hard enough’ is a favorite catch</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>America’s Kabuki-Japan</title>
+                  </title-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>Against the backdrop of a cold-war imperative to secure Japan as an American friend in Asia through projects of cultural diplomacy, three Pulitzer Prize winners—playwright-novelist Paul Green, producer-director-playwright Joshua Logan, and novelist-journalist James Michener—turned their individual enthusiasm for kabuki into a highly publicized campaign to bring American audiences into direct contact with the art form. What eventually followed was a series of celebrated tours of the United States by kabuki performers from Japan, starting with the female-led Azuma Kabuki Dancers and Musicians in 1954 and continuing to this day—with the most recent one occurring in 2007.</p>
+                     <p>In</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>“America’s Japan,” the Performing Arts, and Japan Society, New York</title>
+                  </title-group>
+                  <fpage>76</fpage>
+                  <abstract>
+                     <p>“In this modern era, where boundaries—national, cultural and conceptual—are constantly bent and traversed, Japanese culture is no longer confined to the geographical borders of Japan,” Japan Society told readers of its brochure for Japan Transatlantic: Tokio-Berlin, its fall 2009 performing arts season. The three “Japan-themed performances … were developed in Berlin by international artists in collaboration with Japanese artists based outside of Japan.”² These were<italic>Heavenly BENTO</italic>, by post theater, identified on its website as an “interdisciplinary performing arts unit”³ based in New York, Berlin, and Tokyo, founded by media artist Hiroko Tanahashi and director Max Schumacher;<italic>Ame</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>De-familiarizing Japan at La MaMa E.T.C.</title>
+                  </title-group>
+                  <fpage>106</fpage>
+                  <abstract>
+                     <p>“The brilliant theatrical and dramatic upsurge in Japan in the late 1960s truly merits the appellation ‘renaissance,’” Yasunari Takahashi has written. “It brought about a revolutionary change in the concept of theatrical representation, if not in the actual structure of society.”² In 1970, just three years after founding the Tenjo Sajiki theater troupe in Tokyo, Shuji Terayama, one of the primary figures of that upsurge, made his American directorial debut in New York at La MaMa E.T.C. As Steven Clark has pointed out, Tenjo Sajiki was “one of the first Japanese theater companies to perform a significant number of plays</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Claiming the New, Reclaiming the Old in “Music From Japan”</title>
+                  </title-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>“Today, the number of Oriental music students in this country has multiplied manyfold, and there has been a notable increase in soloists and orchestra players from Japan and South Korea (and, so far, a few from China). Orientals have placed high in or won all of the recent major music competitions. Their seemingly sudden appearance on our concert stages has been so remarkable that it has prompted tongue wagging in lay circles as to whether performers from the Far East can really understand or play Western music.”² Although it seems as if these words had to have been written in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Lincoln Center Festival’s Japan</title>
+                  </title-group>
+                  <fpage>144</fpage>
+                  <abstract>
+                     <p>“The processes of globalization,” Patrick Lonergan has written, “have contributed to a subsequent festivalization of the performing arts industry, transforming festivals into the preferred sites for the promotion and consumption of high-end cultural products.”² Since its first season in 1996, the Lincoln Center Festival, which runs for three weeks each July, has become one of the most prominent of the preferred sites to which Lonergan referred. “At Lincoln Center we have to create series of events that can stand out in the context of everything else in New York,” festival director Nigel Redden told an interviewer. “That can mean big.”³</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Negotiating the Foreign:</title>
+                     <subtitle>Language, American Audiences, and Theater from Japan</subtitle>
+                  </title-group>
+                  <fpage>164</fpage>
+                  <abstract>
+                     <p>In his critically acclaimed US theatrical debut in 1979, Kobo Abe delivered a provocative collage of words, images, and sound. Onstage, amid the mutating figures of actors draped in large cloths, seemingly random English-language words and sentences were projected onto “costumes and whatever else was handy”—such as “Storm,” “Leap,” “Fake Fish,” “Frozen Dreams” and “Look! The sea is falling into the sky!”² Perhaps for lack of a better term, one reviewer referred to the projections as “subtitles,”³ but it would have been more accurate to say that they were stand-alone elements in a work in which dialogue was reduced</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Closure and Counterpoint:</title>
+                     <subtitle>The JapanNYC Festival, the Earthquake and Tsunami Benefit Concerts, and Circuits of Mobility and Exchange, 2010–2011</subtitle>
+                  </title-group>
+                  <fpage>186</fpage>
+                  <abstract>
+                     <p>In his introduction to<italic>Cultural Mobility: A Manifesto</italic>Stephen Greenblatt cites the “urgent need to rethink fundamental assumptions about the fate of culture in an age of global mobility.” Some cultures, he notes, “are routinely celebrated for their depth, authenticity, and wholeness.” Others “are criticized for shallowness, disorientation, and incoherence.”² Within the narrative framework of America’s Japan,<italic>both</italic>celebration and criticism regularly—and sometimes simultaneously—characterize the reception of the performing arts. When I started this project, I could not have predicted the two sets of Japan-focused performing arts events that provide a ready-made endpoint for my look at how</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.14</book-part-id>
+                  <title-group>
+                     <title>Select Bibliography</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.2645266.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>251</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

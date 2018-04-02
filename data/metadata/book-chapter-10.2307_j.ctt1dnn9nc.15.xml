@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1dnn8d8</collection-id>
+      <volume>67</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1dnn9nc</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL720.T47 2009</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">China</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Korea</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Taiwan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Translating and interpreting</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Intertextuality</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Empire of Texts in Motion</book-title>
+         <subtitle>Chinese, Korean, and Taiwanese Transculturations of Japanese Literature</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Thornber</surname>
+               <given-names>Karen Laura</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>11</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780674036253</isbn>
+      <isbn content-type="epub">9781684170517</isbn>
+      <isbn content-type="epub">1684170516</isbn>
+      <publisher>
+         <publisher-name>Harvard University Asia Center</publisher-name>
+         <publisher-loc>Cambridge (Massachusetts); London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>The President and Fellows of Harvard College</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1dnn9nc"/>
+      <abstract abstract-type="short">
+         <p>By the turn of the twentieth century, Japan’s military and economic successes made it the dominant power in East Asia, drawing hundreds of thousands of Chinese, Korean, and Taiwanese students to the metropole and sending thousands of Japanese to other parts of East Asia. The constant movement of peoples, ideas, and texts in the Japanese empire created numerous literary contact nebulae, fluid spaces of diminished hierarchies where writers grapple with and transculturate one another’s creative output. Drawing extensively on vernacular sources in Japanese, Chinese, and Korean, this book analyzes the most active of these contact nebulae: semicolonial Chinese, occupied Manchurian, and colonial Korean and Taiwanese transculturations of Japanese literature. It explores how colonial and semicolonial writers discussed, adapted, translated, and recast thousands of Japanese creative works, both affirming and challenging Japan’s cultural authority. Such efforts not only blurred distinctions among resistance, acquiescence, and collaboration but also shattered cultural and national barriers central to the discourse of empire. In this context, twentieth-century East Asian literatures can no longer be understood in isolation from one another, linked only by their encounters with the West, but instead must be seen in constant interaction throughout the Japanese empire and beyond.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.3</book-part-id>
+                  <title-group>
+                     <title>Conventions</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>Empire, Transculturation, and Literary Contact Nebulae</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Cultures and cultural products are constantly in motion, grappling with and interpenetrating one another within and across artistic, ethnic, geographic, linguistic, political, ideological, and temporal frontiers. In so doing, they create and embody fluid spaces of transculturation, where transculturation is understood as the “many different processes of [their] assimilation, adaptation, rejection, parody, resistance, loss, and ultimately transformation.”¹ Simultaneously affirming and undermining cultural capital and authority at the same time that it creates identities, transculturating almost always entails negotiating power dynamics.² It thus can be particularly vibrant in empires and postimperial spaces. In the nineteenth- and twentieth-century British, French, Ottoman, American,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.5</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Travel, Readerly Contact, and Writerly Contact in the Japanese Empire</title>
+                  </title-group>
+                  <fpage>28</fpage>
+                  <abstract>
+                     <p>The Japanese imperium, like most empires of the nineteenth and twentieth centuries, was characterized by multiple imbricated artistic contact nebulae. Differences were simultaneously undermined and reinforced: frequent transcultural interactions destabilized frontiers, yet colonial policies, not to mention anxieties intensified by increased transcultural encounters, often resulted in powerful rhetoric of separateness. Closely integrated with one another, travel, readerly contact, and writerly contact flourished in this environment, creating numerous literary contact nebulae that illuminate the ambiguities of cultural negotiation in empires and their aftermaths.</p>
+                     <p>(Former) metropoles often pull powerfully on colonial and post-colonial intellectuals, who travel in large numbers to their cities,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.6</book-part-id>
+                  <title-group>
+                     <title>[Part I Introduction]</title>
+                  </title-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>Often appearing together, interpretive and interlingual transculturations of creative texts (i.e., literary criticism, adaptations, and translations) lend valuable insights into how individuals and societies negotiate with literary output across frontiers.¹ Import, bookseller, and library records illuminate patterns of availability, sales, browsing, and circulation, but they tell little about how texts are actually read. In contrast, by integrating literary works into different cultural spheres, interpretive and interlingual transculturations reveal not only the scale and scope but also the intricacies and ethics of crosscultural engagement on many levels, from the local, to the national, to the global.² They generally do so more</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.7</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Transcultural Literary Criticism in the Japanese Empire</title>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>Intra-empire and intra-postimperial literary criticism, understood in the broadest sense as writings of all sorts about creative texts from other cultures in the empire/postimperium, are vital forms of textual contact and interpretive transculturation. Whether advertising blurbs, explanatory notes, reviews, articles, chapters (including those accompanying translations and anthologies), or separate volumes, writings on literature often provide first contacts with creative texts. Frequently bold and trenchant, they impact patterns of literary consumption and production. Both colonial and postcolonial writings on literature from the (former) metropole and writings from the (former) metropole on colonial and postcolonial literatures expose readers to creative texts from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.8</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Multiple Vectors and Early Interlingual Transculturations of Japanese Literature</title>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>Interpretive and interlingual transculturations of creative texts engage in multiple layers of negotiation. In empires and postimperial sites, these forms of textual contact often embody the ambivalence of (post)colonial writers toward the cultural output of the (former) metropole, of writers from the (former) metropole toward the cultural products of their (post)colonial counterparts, as well as of inter-(post)colonial relations. Interpretive and intertextual transculturations also obscure and at times deeply compromise dichotomies. Critical studies, regardless of tenor, often reduce creative works to fragments of their former selves and frequently serve as springboards for discourse on broader political, social, and cultural concerns. For</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.9</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>From Cultural Innovation to Total War</title>
+                  </title-group>
+                  <fpage>172</fpage>
+                  <abstract>
+                     <p>The March First Movement in Korea (1919), the May Fourth Movement in China (1919), and the Taiwan New Literature movement of the late 1910s and early 1920s all stimulated a flood of new writing, including adaptations and translations of foreign literatures. Although it failed to liberate Korea, the March First Movement led to a publishing boom. As part of their new Cultural Policy (<italic>bunka seiji</italic>), Japanese authorities relaxed publication controls and granted permits for hundreds of Korean-language periodicals, many of which carried translations of foreign literatures. China’s May Fourth Movement, politically an outgrowth of increasing concern over Chinese sovereignty and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.10</book-part-id>
+                  <title-group>
+                     <title>[Part II Introduction]</title>
+                  </title-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>The rapid movement of peoples, ideas, and texts throughout the Japanese empire created numerous literary contact nebulae, active sites of linguistic, readerly, writerly, and textual contact where intellectuals of different backgrounds forged relationships, consumed one another’s literatures, read and published in multiple languages, and interpretively and interlingually transculturated one another’s creative texts. The hybridity and multivalent discourse of the early twentieth-century East Asian cultural realm also yielded substantial numbers of intra-empire intertextual transculturations; Chinese, Japanese, Korean, and Taiwanese writers interlaced into their creative work manipulated fragments from and transposed allusions to literature from throughout the Japanese imperium. Many of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.11</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>Intertextuality, Empire, and East Asia</title>
+                  </title-group>
+                  <fpage>213</fpage>
+                  <abstract>
+                     <p>The term “intertextuality” generally refers to the presence of literary intertexts, understood as anything that links one creative work to another: explicit and implicit citations and transposed allusions, assimilations of substantive and structural features, and participation in literary conventions.¹ Literary intertexts, particularly allusions to creative predecessors, often are more difficult to identify within a given work than references to extratextual circumstances. But exploring the dynamics of this form of textual contact gives greater insights into literary contact nebulae than could emerge from focusing solely on a creative work’s engagement with the experienced and imagined worlds. This is especially true in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.12</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>Spotlight on Suffering</title>
+                  </title-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>Suffering is a universal human experience and a central focus of literature. It is as difficult to imagine a literature that does not discuss suffering as it is to imagine a life without suffering. When attempting to translate seemingly untranslatable pain, literature in some sense compromises the unfathomable. But it also illuminates anguish in ways other discourses cannot. It offsets medical records that dehumanize the individual; it challenges scientific and historical accounts that focus primarily on facts and figures while remaining silent concerning personal experience. Notwithstanding his assertion that to write poetry after Auschwitz is barbaric, even Theodor W. Adorno</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.13</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>Reconceptualizing Relationships:</title>
+                     <subtitle>Individuals, Families, Nations</subtitle>
+                  </title-group>
+                  <fpage>291</fpage>
+                  <abstract>
+                     <p>Probing human relationships is as central to literature as delving into suffering. Even rarer than the creative text silent on suffering is the one unconcerned with human connections, whether interpersonal—among lovers, relatives, friends, comrades, enemies, or strangers—or intrasocietal, between people and their communities or nations. In many literary works, including most of those discussed in the previous chapter, suffering overshadows the relationships complicit in its perpetuation. But relationships themselves are key axes of creative texts, which scrutinize both the diverse networks that tie people together or keep them apart and the powerful roles gender, class, politics, ethnicity, race,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.14</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>Questions of Agency:</title>
+                     <subtitle>Raising Responsibility, Parodying Persistence, and Rethinking Reform</subtitle>
+                  </title-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>Questions concerning human agency—responsibility, endurance, and ultimately the ability to (bring about) change—underlie much intertextualization that reconceptualizes suffering and relationships. But some textual contact prioritizes concern with agency. To be sure, most literature deals to at least a limited degree with issues of personal and societal flexibility (the ability both to change and to be changed), persistence (working to maintain or to change the status quo), and responsibility (accountability, culpability, and obligation). Yet dynamic intertextualization, particularly when confrontational, frequently accentuates these anxieties as texts grapple with their own positionalities vis-à-vis literary predecessors. Embodying the ambiguities of creative agency,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.15</book-part-id>
+                  <title-group>
+                     <title>EPILOGUE:</title>
+                     <subtitle>Postwar Intra–East Asian Dialogues and the Future of Negotiating Transculturally</subtitle>
+                  </title-group>
+                  <fpage>375</fpage>
+                  <abstract>
+                     <p>The more we examine East Asian cultures, the more the diversity and complexity of their deep interconnections become apparent and the clearer it is that dividing this region’s creative output along national and linguistic lines can hinder our understanding of its vibrant artistic production. This is just as true for the decades since World War Two as it was for the colonial period and in fact for most of East Asia’s history. Conventional focuses on postwar East-West cultural negotiations, intra–East Asian popular culture flows, as well as East Asian depictions of East Asian “others,” do not do justice to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.16</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>389</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.17</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>467</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>535</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1dnn9nc.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>593</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

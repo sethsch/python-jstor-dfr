@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt7p9ck</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt18kr446</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN56.D555 C38 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Disasters in literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Catastrophical, The, in literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Disasters</subject>
+         <subj-group>
+            <subject content-type="lcsh">Social aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">Germany</subject>
+               <subj-group>
+                  <subject content-type="lcsh">Congresses</subject>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Germany</subject>
+         <subj-group>
+            <subject content-type="lcsh">Civilization</subject>
+            <subj-group>
+               <subject content-type="lcsh">Congresses</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Environmental Science</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Catastrophe and Catharsis</book-title>
+         <subtitle>Perspectives on Disaster and Redemption in German Culture and Beyond</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Gerstenberger</surname>
+               <given-names>Katharina</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Nusser</surname>
+               <given-names>Tanja</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>12</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9781571139016</isbn>
+      <isbn content-type="epub">9781782046783</isbn>
+      <publisher>
+         <publisher-name>Boydell &amp; Brewer</publisher-name>
+         <publisher-loc>Rochester, NY, USA; Woodbridge, Suffolk, UK</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Editors and Contributors</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7722/j.ctt18kr446"/>
+      <abstract abstract-type="short">
+         <p>Destroying human habitat and taking human lives, disasters, be they natural, man-made, or a combination, threaten large populations, even entire nations and societies. They also disrupt the existing order and cause discontinuity in our sense of self and our perceptions of the world. To restore order, not only must human beings be rescued and affected areas rebuilt, but the reality of the catastrophe must also be transformed into narrative. The essays in this collection examine representations of disaster in literature, film, and mass media in German and international contexts, exploring the nexus between disruption and recovery through narrative from the eighteenth century to the present. Topics include the Lisbon earthquake, the Paris Commune, the Hamburg and Dresden fire-bombings in the Second World War, nuclear disasters in Alexander Kluge's films, the filmic aesthetics of catastrophe, Yoko Tawada's lectures on the Fukushima disaster and Christa Wolf's novel Störfall in light of that same disaster, Joseph Haslinger and the tsunami of 2004, traditions regarding avalanche disaster in the Tyrol, and the problems and implications of defining disaster. Contributors: Carol Anne Costabile-Heming, Yasemin Dayioglu-Yücel, Janine Hartman, Jan Hinrichsen, Claudia Jerzak, Lars Koch, Franz Mauelshagen, Tanja Nusser, Torsten Pflugmacher, Christoph Weber. Katharina Gerstenberger is Professor and Chair of the Department of Languages and Literature at the University of Utah. Tanja Nusser is DAAD Visiting Associate Professor of German at the University of Cincinnati.</p>
+      </abstract>
+      <counts>
+         <page-count count="244"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gerstenberger</surname>
+                           <given-names>Katharina</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nusser</surname>
+                           <given-names>Tanja</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gerstenberger</surname>
+                           <given-names>Katharina</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nusser</surname>
+                           <given-names>Tanja</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Catastrophe calls for interpretation. Over two thousand books pertaining to catastrophe or disaster have come out in the United States alone since 2000, ranging from popular genres to scientific volumes in fields as different as ethnography, geology, history, gender studies, literature studies, media studies, sociology, and philosophy. Disaster movies entertain large audiences with gripping plots and spellbinding images. Our volume investigates this fascination with catastrophes or disasters.<italic>Catastrophe and Catharsis: Perspectives on Disaster and Redemption in German Culture and Beyond</italic>explores approaches to catastrophe and its representations in Germany and neighboring countries from a variety of disciplinary perspectives within the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.5</book-part-id>
+                  <title-group>
+                     <label>1:</label>
+                     <title>Tableaux of Terror:</title>
+                     <subtitle>The Staging of the Lisbon Earthquake of 1755 as Cathartic Spectacle</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Weber</surname>
+                           <given-names>Christoph</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>The Swiss author Max Frisch wrote in his novel<italic>Der Mensch erscheint im Holozän</italic>(Man Appears in the Holocene) that “Katastrophen kennt allein der Mensch, sofern er sie überlebt; die Natur kennt keine Katastrophen” (human beings alone experience catastrophes—provided they survive them; nature does not recognize catastrophes).¹ The way we perceive the onslaught of natural disasters is deeply grounded in sociocultural conventions. With the rise of the sciences in the early modern era, our understanding of nature has undergone a dramatic paradigm shift. Through the scientific lens, the natural world has seemingly been reduced to a demystified<italic>other</italic>. Conversely,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.6</book-part-id>
+                  <title-group>
+                     <label>2:</label>
+                     <title>The French Burn Paris, 1871</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hartman</surname>
+                           <given-names>Janine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>A “Pompeii of havoc” rained flame and ash on Paris the 24th of May, 1871, with the burning of Napoleon III’s Tuileries palace and other traditional sites of state, financial, and religious authority. Scorched bits of paper fell across the city and suburbs. The diarist and novelist Edmond de Goncourt called it “black rain.” The fire added ruins to those from the Prussian bombardment and the provisional government’s shelling.¹ The fraternal conflict stained the world’s perception of nineteenth-century French civilization.</p>
+                     <p>National war devolved into civil war as French and Paris Communard governments and press demonized each other while trying to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.7</book-part-id>
+                  <title-group>
+                     <label>3:</label>
+                     <title>Memory Politics:</title>
+                     <subtitle>The Bombing of Hamburg and Dresden</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jerzak</surname>
+                           <given-names>Claudia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>In July and August 1943, British and US air forces carried out attacks on Hamburg, and a similar assault largely destroyed Dresden just before the end of the Second World War. The air raids caused destruction, loss, and suffering that permeated individual, collective, and cultural memory in Germany for decades to come. Existing scholarship has described the firestorms extensively;¹ this chapter instead examines religious, civic, and governmental political organizations and institutions engaged in the performative appropriation of public space by organizing commemorative events affecting the construction of individual and collective memories. Focusing on the mythicization of history and participation from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.8</book-part-id>
+                  <title-group>
+                     <label>4:</label>
+                     <title>Observing the Observation of Nuclear Disasters in Alexander Kluge</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pflugmacher</surname>
+                           <given-names>Torsten</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>Alexander Kluge is famous for his kaleidoscopic war narratives:<italic>Schlachtbeschreibung</italic>(The Battle), on the battle of Stalingrad, and<italic>Luftangriff auf Halberstadt am 8. April</italic>1945 (The Air Raid on Halberstadt) are well-known titles.¹ Less known is Kluge’s polymorphic focus on recent disasters such as the attack on the World Trade Center, the sinking of the nuclear submarine Kursk, and the nuclear disasters at the power plants in Chernobyl and Fukushima. Kluge organizes his narratives on the management of nuclear disasters as a mix of fictional and factual narrative and has written almost sixty short stories on Chernobyl in Die Lücke,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.9</book-part-id>
+                  <title-group>
+                     <label>5:</label>
+                     <title>Rereading Christa Wolf’s Störfall following the 2011 Fukushima Catastrophe</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Costabile-Heming</surname>
+                           <given-names>Carol Anne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>90</fpage>
+                  <abstract>
+                     <p>Christa Wolf’S<italic>Störfall: Nachrichten eines Tages</italic>(1987;<italic>Accident: A Day’s News</italic>, 1989), written between June and September 1986 and published in 1987, relates a day in the life of an unnamed female narrator as she struggles simultaneously to comprehend the enormity of a nuclear disaster and to pass the hours as her brother undergoes surgery for a brain tumor.¹ Penned shortly after the catastrophic nuclear accident that occurred on April 26, 1986, at the Chernobyl nuclear power plant in Ukraine, this narrative pits public debates about technological advancement against the private concerns that citizens had about the safety of newly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.10</book-part-id>
+                  <title-group>
+                     <label>6:</label>
+                     <title>Narrating the Untellable:</title>
+                     <subtitle>Yoko Tawada and Haruki Murakami as Transnational Translators of Catastrophe</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dayıoğlu-Yücel</surname>
+                           <given-names>Yasemin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>106</fpage>
+                  <abstract>
+                     <p>Whereas Japan Happened to be the stage for an unavoidable natural catastrophe, the Tohoku earthquake of March 2011, it was followed by a man-made catastrophe that the famous Japanese writer Haruki Murakami called a “second massive nuclear disaster” and that has been memorialized by the nuclear plant’s name: Fukushima. Referring back to Hiroshima, Murakami distinguished between Japan’s active and passive confrontation with nuclear threats: “This time no one dropped a bomb on us … we committed the crime with our own hands.”¹ Subsumed under the name “Fukushima” is the conflation of a natural and a manmade catastrophe, as well as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.11</book-part-id>
+                  <title-group>
+                     <label>7:</label>
+                     <title>Beautiful Destructions:</title>
+                     <subtitle>The Filmic Aesthetics of Spectacular Catastrophes</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nusser</surname>
+                           <given-names>Tanja</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>124</fpage>
+                  <abstract>
+                     <p>When I began to conceptualize this chapter, I came across a film that does not deal at all with disasters, but then again, maybe it does. To quote a short dialogue from the film without contextualizing it:</p>
+                     <p>Jake: “You know I love you baby! I wouldn’t leave you. It wasn’t my fault.”</p>
+                     <p>The Woman (who doesn’t have a name in the film): “You’re a miserable slug. You think you can talk your way out of this now? You betrayed me!”</p>
+                     <p>Jake (pleading): “No I didn’t, honest! I ran out of gas! I had a flat tire! I didn’t have enough</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.12</book-part-id>
+                  <title-group>
+                     <label>8:</label>
+                     <title>Constellations of Primal Fear in Josef Haslinger’s Phi Phi Island</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Koch</surname>
+                           <given-names>Lars</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>138</fpage>
+                  <abstract>
+                     <p>The earthquakes that shook the Indian Ocean region in the early morning of December 26, 2004 with a force of 9.3 on the Richter scale resulted in one of the worst natural disasters in centuries. The tsunami, which left about 230,000 people dead, is also one of the best-documented transnational media events since 9/11.¹ Over the New Year transition period 2004–2005, countless amateur videorecordings were shown on the news programs. The immense interest, which was clearly radically different from the way the media dealt with other natural disasters such as the earthquakes in Iran in 2003 and in Haiti</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.13</book-part-id>
+                  <title-group>
+                     <label>9:</label>
+                     <title>Avalanche Catastrophes and Disaster Traditions:</title>
+                     <subtitle>Anthropological Perspectives on Coping Strategies in Galtür, Tyrol</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hinrichsen</surname>
+                           <given-names>Jan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Within the social and cultural sciences, the concept of “tradition” and the manifold controversies it has been embedded in play a significant role in the cultural analysis of continuity and change of social orders. Therefore, tradition has to be understood as a key concept of understanding disasters as decisive points of negotiating social order in the face of existential threat. The relationship between tradition and disaster becomes tangible in the case of the Tyrolian community of Galtür, which suffers from avalanche catastrophes on a regular basis and was hit by a devastating avalanche in February 1999.¹ The case of Galtür</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.14</book-part-id>
+                  <title-group>
+                     <label>10:</label>
+                     <title>Defining Catastrophes</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mauelshagen</surname>
+                           <given-names>Franz</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>172</fpage>
+                  <abstract>
+                     <p>Opinions diverge over how—if at all—the terms “disaster” and “catastrophe” should be defined.¹ Despite a by now noticeable tendency toward certain interdisciplinary standards (for example, adopting the distinction between “natural hazards” and “disasters”), any critical examination of previous definitory attempts is confronted with a stunning diversity of definitions and approaches.² There is little interdisciplinary consensus, and just as little within the individual disciplines that have ventured into disaster studies.³ Additionally, the definitions given by national and international (governmental or nongovernmental) organizations have done little to reduce the multiplicity of concepts. Not sharing widespread concerns about finding a consensus,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.15</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>191</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.16</book-part-id>
+                  <title-group>
+                     <title>Notes on the Contributors</title>
+                  </title-group>
+                  <fpage>217</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>221</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kr446.18</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

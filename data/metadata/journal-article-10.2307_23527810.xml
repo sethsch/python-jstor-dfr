@@ -1,0 +1,1857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">univpennlawrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100396</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>University of Pennsylvania Law Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Pennsylvania Law School</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00419907</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23527810</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>DEBATE</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>ALGORITHMS AND SPEECH</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Stuart Minor</given-names>
+                  <surname>Benjamin</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2013</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">161</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23525923</issue-id>
+         <fpage>1445</fpage>
+         <lpage>1494</lpage>
+         <permissions>
+            <copyright-statement>© 2013 University of Pennsylvania Law Review</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23527810"/>
+         <abstract>
+            <p>One of the central questions in free speech jurisprudence is what activities the First Amendment encompasses. This Article considers that questions in the context of an area of increasing importance—algorithm-based decisions. I begin by looking to broadly accepted legal sources, which for the First Amendment means primarily Supreme Court jurisprudence. That jurisprudence provides for very broad First Amendment coverage, and the Court has reinforced that breadth in recent cases. Under the Court's jurisprudence the First Amendment (and the heightened scrutiny it entails) would apply to many algorithm-based decisions, specifically those entailing substantive communications. We could of course adopt a limiting conception of the First Amendment, but any nonarbitrary exclusion of algorithm-based decisions would require major changes in the Court's jurisprudence. I believe that First Amendment coverage of algorithm-based decisions is too small a step to justify such changes. But insofar as we are concerned about the expansiveness of First Amendment coverage, we may want to limit it in two areas of genuine uncertainty: editorial decisions that are neither obvious nor communicated to the reader, and laws that single out speakers but do not regulate their speech. Even with those limitations, however, an enormous and growing amount of activity will be subject to heightened scrutiny absent a fundamental reorientation of First Amendment jurisprudence.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d995e123a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d995e132" publication-type="other">
+christopher steiner, automate THIS: how
+Algorithms Came to Rule Our World 7 (2012)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e142a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d995e149" publication-type="other">
+Algorithm Characterization,
+WlKIPEDIA, http://en.wikipedia.org/wiki/Algorithm_characterizations (last updated Feb. 11, 2013)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e159a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d995e166" publication-type="other">
+Vincent Blasi, The Pathological Perspective and the First Amendment, 85 COLUM.
+L. REV. 449, 449-66 (1985)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e175" publication-type="other">
+Thomas H. Jackson &amp; John Calvin Jeffries, Jr., Commercial Speech:
+Economic Due Process and the First Amendment, 65 VA. L. REV. 1,14-25 (1979)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e184" publication-type="other">
+Jedediah Purdy, The
+Roberts Court v. America, DEMOCRACY, Winter 2012, at 46, 49-53.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e194" publication-type="other">
+Frederick Schauer, The Boundaries of the
+First Amendment: A Preliminary Exploration of Constitutional Salience, 117 HARV. L. Rev. 1765, 1794-
+95 (2004) [hereinafter Schauer, Boundaries]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e206" publication-type="other">
+Frederick Schauer, Codifying the First Amendment:
+New York v. Ferber, 1982 SUP. CT. REV. 285</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e215" publication-type="other">
+Frederick Schauer, Commercial Speech and the
+Architecture of the First Amendment, 56 U. ClN. L. REV. 1181 (1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e224" publication-type="other">
+Frederick Schauer, First
+Amendment Opportunism, in ETERNALLY VIGILANT 174 (Lee C. Bollinger &amp; Geoffrey R. Stone
+eds., 2002).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e237a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d995e244" publication-type="other">
+Tim Wu, Machine Speech, 161 U. PA. L. REV. 1498 (2013)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e252a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d995e259" publication-type="other">
+Oren Bracha &amp; Frank Pasquale, Federal Search Commission? Access, Fairness, and
+Accountability in the Law of Search, 93 CORNELL L. REV. 1149,1193-1201 &amp; n.239 (2008)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e269a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d995e276" publication-type="other">
+Stuart Minor Benjamin, Transmitting, Editing, and Communicating: Determining What "The
+Freedom of Speech" Encompasses, 60 DUKE L.J. 1673, 1695 (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e286a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d995e293" publication-type="other">
+Algorithm, WlKIPEDIA, http://en.wikipedia.org/wiki/Algorithm (last updated Mar.
+29, 2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e302" publication-type="other">
+What Is a Computer Algorithm?, HowSTUFFWORKS, http://computer.howstuffworks.
+com/question7i7.htm (last visited Apr. 10, 2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e312a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d995e319" publication-type="other">
+Steven E. Halpern, Harmonizing the Convergence of Medium, Expression, and Func-
+tionality: A Study of the Speech Interest in Computer Software, 14 HARV. J.L. &amp; TECH. 139, 181 (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e328" publication-type="other">
+Robert Post,
+Encryption Source Code and the First Amendment, 15 BERKELEY TECH. L.J. 713, 716 (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e337" publication-type="other">
+Schauer,
+Boundaries, supra note 5, at 1794</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e347" publication-type="other">
+Katherine A. Moerke, Note, Free Speech to a Machine?
+Encryption Software Source Code Is Not Constitutionally Protected "Speech" Under the First Amendment,
+84 MINN. L. Rev. 1007, 1027 (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e360a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d995e367" publication-type="other">
+Junger v. Daley, 209 F.3d 481 (6th Cir. 2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e373" publication-type="other">
+Bernstein v. Dep't of Justice, 176 F.3d 1132 (9th Cir. 1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e379" publication-type="other">
+Karn v. Dep't of State, 925 F. Supp. 1 (D.D.C. 1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e386a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d995e393" publication-type="other">
+Universal City Studios, Inc. v. Corley, 273 F.3d 429, 447 (2d Cir. 2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e399" publication-type="other">
+Bernstein, 176 F.3d at 1141</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e405" publication-type="other">
+192 F.3d
+1308 (9th Cir. 1999).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e416a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d995e423" publication-type="other">
+Search King, Inc. v. Google Tech., Inc., No. 02-1457, 2003 WL 21464568, at *3-4 (W.D.
+Okla. May 27, 2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e432" publication-type="other">
+Victor T. Nilsson,
+Note, You're Not from Around Here, Are You? Fighting Deceptive Marketing in the Twenty-First
+Century, 54 ARIZ. L. REV. 801, 807 (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e444" publication-type="other">
+PageRank, WlKIPEDIA, http://en.
+wikipedia.org/wiki/PageRank (last updated Apr. 6, 2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e454a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d995e461" publication-type="other">
+Kinderstart.com, LLC v. Google, Inc., No. 06-2057, 2007 WL 831806, at *4 (N.D. Cal.
+Mar. 16, 2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e471a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d995e478" publication-type="other">
+Frank Pasquale, Dominant Search Engines: An Essential Cultural id Political Facility, in THE
+next Digital Decade 401, 402 (Berin Szoka 8t Adam Marcus eds., 2010), available at http://
+nextdigitaldecade.com/ndd_book.pdf.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e491a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d995e498" publication-type="other">
+Bracha &amp; Pasquale, supra note 7; see also Jennifer A. Chandler, A Right to Reach an
+Audience: An Approach to Intermediary Bias on the Internet, 35 hofstra L. REV. 1095, 1117 (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e508a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d995e515" publication-type="other">
+Eugene Volokh 8t Donald m. Falk, First Amendment Protection for
+Search Engine Search Results (2012), available at http://www.volokh.com/wp-content/
+uploads/2012/05/SearchEngineFirstAmendment.pdf.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e527" publication-type="other">
+Id. at 3.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e533" publication-type="other">
+James Grimmelmann, Search Engines as Advisors (2013) (unpublished
+manuscript)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e543a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d995e550" publication-type="other">
+Tim Wu, Free Speech for Computers?, N.Y. TIMES, June 20, 2012, at A29</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e556" publication-type="other">
+note 84,
+infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e567a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d995e574" publication-type="other">
+Sable Commc'ns of Cal., Inc. v. FCC, 492 U.S. 115, 126 (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e580" publication-type="other">
+Holder v. Humanitarian
+Law Project, 130 S. Ct. 2705, 2712 (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e589" publication-type="other">
+18
+U.S.C. § 2339B(a)(l) (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e599a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d995e606" publication-type="other">
+Turner Broad. Sys., Inc. v. FCC {Turner I), 512 U.S. 622, 662 (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e612" publication-type="other">
+United States v. O'Brien, 391 U.S. 367, 377 (1968)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e619a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d995e626" publication-type="other">
+131 S. Ct. 2653 (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e633a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d995e640" publication-type="other">
+Vt. Stat. Ann. tit. 18, § 4631(d) (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e647a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d995e654" publication-type="other">
+Sorrell, 131 S. Ct. at 2659.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e661a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d995e668" publication-type="other">
+Time Warner Entm't Co. v. FCC, 240 F.3d 1126,1137,1143-44 (D.C. Cir. 2001).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e676a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d995e683" publication-type="other">
+Comcast Corp. v. FCC, 379 F.3d 1,10 (D.C. Cir. 2009).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e690a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d995e697" publication-type="other">
+Akhil Reed Amar, Intratextualism, 112 harv.
+L. REV. 747 (1999).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e706" publication-type="other">
+U.S. CONST, art. I, § 6, cl. 1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e712" publication-type="other">
+Amar, supra, at 815.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e719" publication-type="other">
+Adrian Vermeule &amp; Ernest A. Young, Commentary, Hercules,
+Herbert, and Amar: The Trouble with Intratextualism, 113 harv. L. REV. 730 (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e729a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d995e736" publication-type="other">
+Leonard W. Levy, Freedom of Speech and Press in Early American History:
+Legacy of suppression 4 (i960) [hereinafter Levy, Legacy]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e745" publication-type="other">
+Stanley C. Brubaker,
+Original Intent and Freedom of Speech and Press</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e754" publication-type="other">
+The Bill OF RIGHTS: ORIGINAL MEANING AND CURRENT understanding 82, 85
+(Eugene W. Hickok, Jr. ed., 1991).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e764" publication-type="other">
+LEONARD W. LEVY, JEFFERSON AND CIVIL LIBERTIES: THE DARKER SIDE
+46 (1963)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e773" publication-type="other">
+LEVY, LEGACY, supra, at xxi</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e779" publication-type="other">
+Robert H. Bork,
+Neutral Principles and Some First Amendment Problems, 47 IND. L.J. 1, 22 (1971)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e788" publication-type="other">
+G. Edward White, Historicizing Judicial Scrutiny,
+57 S.C. L. REV. 1, 60 (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e797" publication-type="other">
+4 WILLIAM BLACKSTONE, commentaries *151</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e804a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d995e811" publication-type="other">
+infra notes 30-32</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e817" publication-type="other">
+William P. Marshall, In Defense of the Search for Truth as a First Amendment
+Justification, 30 GA. L. REV. 1 (1995).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e826" publication-type="other">
+Alexander Meiklejohn, Free Speech and Its Relation to Self-Government (1948)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e833" publication-type="other">
+Robert C. Post, Constitutional Domains: Democracy, Community, Management 119-
+78 (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e842" publication-type="other">
+Cass R. Sunstein, Democracy and the Problem of Free Speech (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e848" publication-type="other">
+Harry Kalven, Jr., The New York Times Case: A Note on "The Central Meaning of the First Amend-
+ment," 1964 SUP. CT. Rev. 191.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e857" publication-type="other">
+C. EDWIN BAKER, HUMAN LIBERTY
+AND FREEDOM of Speech 194-224 (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e866" publication-type="other">
+Richard H. Fallon, Jr., Two Senses of Autonomy, 46
+STAN. L. Rev. 875 (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e875" publication-type="other">
+Harry H. Wellington, On Freedom of Expression, 88 YALE L.J. 1105
+(1979).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e885" publication-type="other">
+Vincent Blasi, The Checking Value in First
+Amendment Theory, 1977 AM. B. FOUND. RES. J. 521.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e894" publication-type="other">
+MARTIN H.
+Redish, Freedom of Expression: A Critical Analysis (1984)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e903" publication-type="other">
+David A.J. Richards, Free
+Speech and Obscenity Law: Toward a Moral Theory of the First Amendment, 123 U. PA. L. REV. 45 (1974).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e913a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d995e920" publication-type="other">
+THOMAS I. EMERSON, TOWARD A GENERAL THEORY OF THE FIRST
+AMENDMENT at vii (1966)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e929" publication-type="other">
+DANIEL A. FARBER, THE FIRST AMENDMENT 6 (2d
+ed. 2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e938" publication-type="other">
+Post,
+Reconciling Theory and Doctrine in First Amendment Jurisprudence, 88 CALIF. L. REV. 2353, 2372
+(2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e951" publication-type="other">
+Cass R. Sunstein, Minimalism at War, 2004 sup. CT. Rev. 47, 48</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e958a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d995e965" publication-type="other">
+Justice Holmes's dissent in Abrams v. United States, 250 U.S. 616 (1919)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e971" publication-type="other">
+Joseph Blocher, Institutions in the Marketplace of Ideas, 57 DUKE L.J. 821, 823-24 (2008).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e977" publication-type="other">
+Abrams, 250 U.S. at 630</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e984" publication-type="other">
+Blocher, supra, at 824-25</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e992a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d995e999" publication-type="other">
+Red Lion Broad. Co. v. FCC, 395 U.S. 367, 390 (1969).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1006a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d995e1013" publication-type="other">
+supra note 29</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1019" publication-type="other">
+Hurley v. Irish-Am. Gay, Lesbian &amp;
+Bisexual Grp. of Bos., Inc., 515 U.S. 557, 573-75 (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1028" publication-type="other">
+Turner I, 512 U.S. 622, 641 (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1035" publication-type="other">
+First Nat'l Bank of Bos. v. Bellotti, 435
+U.S. 765, 777 n.11 (1978)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1044" publication-type="other">
+EMERSON, supra note 29, at 9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1050" publication-type="other">
+Mills v.
+Alabama, 384 U.S. 214, 218 (1966)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1060a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d995e1067" publication-type="other">
+Post, supra note 10, at 716</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1073" publication-type="other">
+Lee Tien, Publishing Software as
+a Speech Act, 15 BERKELEY TECH. L.J. 629, 636 (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1083a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d995e1090" publication-type="other">
+376 U.S. 254, 268-69 (1964)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1097a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d995e1104" publication-type="other">
+425 U.S. 748, 758, 770 (1976)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1111a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d995e1120" publication-type="other">
+IMS Health Inc. v. Ayotte, 550 F.3d 42, 52-53 (1st Cir. 2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1126" publication-type="other">
+Sorrell v. IMS
+Health, Inc. 131 S.Ct. 2653 (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1137a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d995e1144" publication-type="other">
+Sorrell, 131 S. Ct. at 2667.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1150" publication-type="other">
+Id. at 2666-67</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1157a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d995e1164" publication-type="other">
+130 S. Ct. 1577 (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1171a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d995e1178" publication-type="other">
+131 S. Ct. 2729 (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1185a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d995e1192" publication-type="other">
+132 S. Ct. 2537 (2012)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1199a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d995e1206" publication-type="other">
+Id. at 2547</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1212" publication-type="other">
+Stevens, 130 S. Ct. at 1586, and
+Brown, 131 S. Ct. at 2734</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1221" publication-type="other">
+Id. at 2544</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1228a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d995e1235" publication-type="other">
+Brown, 131 S. Ct. at 2734.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1243a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d995e1250" publication-type="other">
+Id. at 2733.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1257a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d995e1264" publication-type="other">
+333 U.S. 507, 510 (1948).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1271a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d995e1278" publication-type="other">
+Brown, 131 S. Ct. at 2733.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1284" publication-type="other">
+Winters v. New York, 333 U.S. 507, 510 (1948).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1290" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1297a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d995e1304" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1311a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d995e1318" publication-type="other">
+id. at 2742</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1325a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d995e1332" publication-type="other">
+Id. at 2737 n.4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1338" publication-type="other">
+Winters, 333 U.S. at 510</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1346a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d995e1353" publication-type="other">
+512 U.S. 622 (1994).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1360a1310">
+            <label>99</label>
+            <p>
+               <mixed-citation id="d995e1367" publication-type="other">
+Cable Television Consumer Protection and Competition Act of 1992, Pub. L. 102-385, 106
+Stat. 1460 (codified as amended in scattered sections of 47 U.S.C.).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1377a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d995e1384" publication-type="other">
+2 U.S. at 636</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1390" publication-type="other">
+City of Los Angeles v.
+Preferred Commc'ns, Inc., 476 U.S. 488, 494 (1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1400a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d995e1409" publication-type="other">
+Roth v. United States, 354 U.S. 476, 484 (1957)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1415" publication-type="other">
+FREDERICK SCHAUER, FREE SPEECH: A PHILOSOPHICAL
+ENQUIRY 94 (1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1425" publication-type="other">
+Steven G. Gey, Why Should the First Amendment Protect
+Government Speech When the Government Has Nothing to Say f, 95 IOWA L. REV. 1259, 1274 (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1434" publication-type="other">
+Frederick Schauer, Speech and "Speech"—Obscenity and "Obscenity": An Exercise in the Interpretation of
+Constitutional Language, 67 GEO. L.J. 899, 920-21 (1979)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1443" publication-type="other">
+515 U.S. 557, 569 (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1449" publication-type="other">
+W. Va. State Bd. of Educ. v.
+Barnette, 319 U.S. 624, 632 (1943)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1458" publication-type="other">
+Nat'l Socialist Party of Am. v. Village of Skokie, 432 U.S. 43,
+43 U977)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1467" publication-type="other">
+Spence v. Washington, 418 U.S. 405, 411 (1974)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1474a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d995e1481" publication-type="other">
+Rumsfeld v. Forum for Academic &amp; Institutional Rights, Inc., 547 U.S. 47, 66
+(2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1490" publication-type="other">
+Spence, 418 U.S. at 409-10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1497a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d995e1504" publication-type="other">
+Hurley, 515 U.S. at 569.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1512a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d995e1519" publication-type="other">
+KENT GREENAWALT, SPEECH, CRIME, AND THE USES OF LANGUAGE 54 (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1525" publication-type="other">
+Melville B. Nimmer, The Meaning of Symbolic Speech Under the First
+Amendment, 21 UCLA L. REV. 29, 36 (1973)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1534" publication-type="other">
+Thomas Scanlon, A Theory of
+Freedom of Expression, 1 PHIL. &amp; PUB. AFF. 204, 206 (1972)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1544a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d995e1551" publication-type="other">
+Wu, supra note 6, at 1529.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1557" publication-type="other">
+infra notes 58-62</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1563" publication-type="other">
+infra note 84.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1570a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d995e1577" publication-type="other">
+Rumsfeld, 547 U.S. at 65-66</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1584a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d995e1591" publication-type="other">
+Giboney v. Empire Storage &amp; Ice Co., 336 U.S. 490, 498 (1949).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1597" publication-type="other">
+United States v. Alvarez, 132 S. C.t. 2537, 2544 (2012)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1604a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d995e1611" publication-type="other">
+Int'l Soc'y for Krishna Consciousness, Inc. v. Lee, 505 U.S. 672, 678-85 (1992)
+(</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1621a1310">
+            <label>81</label>
+            <p>
+               <mixed-citation id="d995e1628" publication-type="other">
+Sunstein, supra note 29, at 48</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1636a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d995e1643" publication-type="other">
+Aetna Cas. &amp; Sur. Co. v. Jeppesen &amp; Co.,
+642 F.2d 339, 341-44 (9th Cir. 1981)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1652" publication-type="other">
+Brocklesby v. United States, 767 F.2d 1288,1295 n.9
+(9th Cir. 1985)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1662a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d995e1669" publication-type="other">
+US
+DEBT Clock, http://www.usdebtclock.org</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1679a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d995e1688" publication-type="other">
+Hurley
+v. Irish-Am. Gay, Lesbian &amp; Bisexual Grp. of Bos., Inc., 515 U.S. 557, 570 (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1697" publication-type="other">
+Turner /, 512
+U.S. 622, 636 (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1707" publication-type="other">
+Danny Sullivan, The New York Times Algorithm Why It Needs Government
+Regulation, SEARCH ENGINE LAND (July 15, 2010) http://searchengineland.com/regulating-the-
+new-york-times-46521</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1720a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d995e1727" publication-type="other">
+Morse v. Frederick, 551 U.S. 393, 397 (2007).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1733" publication-type="other">
+Id. at 401.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1740a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d995e1747" publication-type="other">
+Hurley, 515 U.S. at 569</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1754a1310">
+            <label>67</label>
+            <p>
+               <mixed-citation id="d995e1761" publication-type="other">
+Irish-Am. Gay, Lesbian &amp; Bisexual Grp. of Bos. v. City of Boston, 636 N.E.2d 1293, 1299
+(Mass. 1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1770" publication-type="other">
+Hurley, 515 U.S. 557 (1995).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1778a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d995e1785" publication-type="other">
+SIS U.S. at 576.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1792a1310">
+            <label>69</label>
+            <p>
+               <mixed-citation id="d995e1799" publication-type="other">
+Id. at 574.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1806a1310">
+            <label>71</label>
+            <p>
+               <mixed-citation id="d995e1813" publication-type="other">
+The State of the News Media 2013: Annual Report on American Journalism, PEW RES.
+Ctr.'s Project for Excellence Journalism, available at http://stateofthemedia.org/2013/
+overview-5 (last visited Apr. 10, 2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1825" publication-type="other">
+NARRATIVE SCIENCE, http://narrativescience.com
+(last visited Apr. 10, 2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1834" publication-type="other">
+Steven Levy, Can an Algorithm Write a Better News Story than a Human Reporter?, WIRED (April 24,
+2012), http://www.wired.com/gadgetlab/2012/04/can-an-algorithm-write-a-better-news-story-than-a-
+human-reporter/all</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1847a1310">
+            <label>77</label>
+            <p>
+               <mixed-citation id="d995e1856" publication-type="other">
+Amy Hadfield, Narrative Science, Newsblaster Show that Algorithm- Writing Articles Have
+a Key Role to Play in Journalism's Future, EDITORS WEBLOG (Aug. 8, 2012), http://www.
+editorsweblog.org/2012/08/22/narrative-science-newsblaster-show-that-algorithm-writing-articles-
+have-a-key-role-to-pla</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1871" publication-type="other">
+Irina Titova,
+Book Written by Computer Hits Shelves, ST. PETERSBURG TIMES (Russ.) (Jan. 22, 2008), available
+at http://www.sptimes.ru/story/24786.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1884" publication-type="other">
+Id.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1890" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1897a1310">
+            <label>74</label>
+            <p>
+               <mixed-citation id="d995e1904" publication-type="other">
+BLEKKO, http://blekko.com (last visited Apr. 10, 2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1911a1310">
+            <label>73</label>
+            <p>
+               <mixed-citation id="d995e1918" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1926a1310">
+            <label>76</label>
+            <p>
+               <mixed-citation id="d995e1933" publication-type="other">
+About, BLEKKO, http://blekko.com/about (last visited Apr. to, 2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1940a1310">
+            <label>77</label>
+            <p>
+               <mixed-citation id="d995e1947" publication-type="other">
+DUCKDUCKGO,
+https://duckduckgo.com (last visited Apr. 10, 2013).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1956" publication-type="other">
+Jose Vilches, Interview with
+DuckDuckGo Founder Gabriel Weinberg, TECHSPOT (Aug. 21, 2012), http://www.techspot.com/
+article/559-gabriel-weinberg-interview/page2.html.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1968" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1975a1310">
+            <label>78</label>
+            <p>
+               <mixed-citation id="d995e1982" publication-type="other">
+United States v. Stevens, 130 S. Ct. 1577, 1591 (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e1988" publication-type="other">
+Cohen v. California, 403 U.S. 15, 25 (1971)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e1995a1310">
+            <label>79</label>
+            <p>
+               <mixed-citation id="d995e2002" publication-type="other">
+Matt Cutts, Another Step to Reward High-Quality Sites, GOOGLE WEBMASTER CENTRAL
+BLOG (Apr. 24, 2012, 2:45 PM), http://googlewebmastercentral.blogspot.com/2012/04/another-
+step-to-reward-high-quality.html</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2015a1310">
+            <label>80</label>
+            <p>
+               <mixed-citation id="d995e2024" publication-type="other">
+JEW WATCH, http://www.jewwatch.com (last visited
+Apr. 10, 2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2033" publication-type="other">
+James Grimmelmann, The Google Dilemma, 53 N.Y.L. SCH. L. REV. 939,
+943-45 (2008-2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2043" publication-type="other">
+Somini Sengupta, Opinion, Free Speech in the Age ofYouTube, N.Y. TIMES,
+Sept. 23, 2012, at SR 4.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2052" publication-type="other">
+Grimmelmann, supra, at 943.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2058" publication-type="other">
+Id.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2064" publication-type="other">
+Id. at 943-44.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2070" publication-type="other">
+An Explanation of Our Search Results, GOOGLE, http://www.google.
+com/explanation.html (last visited Apr. 10, 2013).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2079" publication-type="other">
+Id.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2086" publication-type="other">
+Grimmelmann, supra, at 944.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2093a1310">
+            <label>81</label>
+            <p>
+               <mixed-citation id="d995e2100" publication-type="other">
+An Explanation of Our Search Results, supra note 80</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2108a1310">
+            <label>82</label>
+            <p>
+               <mixed-citation id="d995e2115" publication-type="other">
+Eric Goldman, Search Engine Bias and the Demise of Search Engine Utopianism, 8 YALE
+J.L. &amp; TECH. 188, 189, 192 (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2124" publication-type="other">
+Google, Search Quality Meeting: Spelling for Long Queries (Annotated), YOUTUBE (Mar. 12, 2012),
+http://www.youtube.com/watch?v=JtRJXnXgE-A</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2134a1310">
+            <label>83</label>
+            <p>
+               <mixed-citation id="d995e2141" publication-type="other">
+Jonathan Strickland, How Does the Internet
+Workf, HOWSTUFFWORKS (May 7, 2010), http://computer.howstuffworks.com/internet/basics/
+interneti.htm.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2154a1310">
+            <label>84</label>
+            <p>
+               <mixed-citation id="d995e2161" publication-type="other">
+Wu, supra note 6, 1530</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2167" publication-type="other">
+512 U.S. 622, 636 (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2173" publication-type="other">
+Hurley v. Irish-Am. Gay, Lesbian &amp; Bisexual Grp. of Bos., Inc., 515 U.S. 557, 370 (1995)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2180a1310">
+            <label>83</label>
+            <p>
+               <mixed-citation id="d995e2189" publication-type="other">
+Interactive Digital Software Ass'n v. St. Louis County, 200 F. Supp. 2d 1126,
+1133-34 (E.D. Mo. 2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2198" publication-type="other">
+329 F.3&lt;i 954 (8th Cir. 2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2205" publication-type="other">
+America's Best Family Showplace Corp. v. City of New York,
+536 F. Supp. 170, 174 (E.D.N.Y. 1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2214" publication-type="other">
+Marc Jonathan Blitz, A First Amendment for Second
+Life: What Virtual Worlds Mean for the Law of Video Games, 11 VAND. J. ENT. &amp; TECH. L. 779, 785
+(2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2226" publication-type="other">
+Terri R. Day &amp; Ryan C. W. Hall, Déjà Vu:
+From Comic Books to Video Games: Legislative Reliance on "Soft Science" to Protect Against Uncertain
+Societal Harm Linked to Violence v. the First Amendment, 89 OR. L. REV. 415, 450 (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2238" publication-type="other">
+Patrick M. Garry, Defining Speech in an Entertainment Age: The Case of First
+Amendment Protection for Video Games, 57 SMU L. REV. 101, 122 (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2247" publication-type="other">
+Paul E. Salamanca, Video Games as a Protected Form of
+Expression, 40 Ga. L. REV. 153, 194-205 (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2256" publication-type="other">
+Kevin W. Saunders, Regulating Youth Access to Violent Video Games: Three Responses to First
+Amendment Concerns, 2003 MICH. ST. L. REV. 51, 101-05</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2266" publication-type="other">
+Anthony Ventry III, Note, Application
+of the First Amendment to Violent and Nonviolent Video Games, 20 Ga. St. U. L. Rev. 1129, 1131
+(2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2279a1310">
+            <label>86</label>
+            <p>
+               <mixed-citation id="d995e2286" publication-type="other">
+supra notes 43-48</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2292" publication-type="other">
+Sorrell v. IMS Health, Inc., 131 S.
+Ct. 2653, 2659 (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2302a1310">
+            <label>87</label>
+            <p>
+               <mixed-citation id="d995e2309" publication-type="other">
+supra notes 28-32</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2317a1310">
+            <label>88</label>
+            <p>
+               <mixed-citation id="d995e2324" publication-type="other">
+Bork, supra note 27, at 20</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2331a1310">
+            <label>89</label>
+            <p>
+               <mixed-citation id="d995e2338" publication-type="other">
+Schauer, Boundaries, supra note 5, at 1785.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2345a1310">
+            <label>90</label>
+            <p>
+               <mixed-citation id="d995e2352" publication-type="other">
+130 S. Ct. 876 (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2359a1310">
+            <label>91</label>
+            <p>
+               <mixed-citation id="d995e2366" publication-type="other">
+C. Edwin Baker, Commercial Speech: A Problem in the Theory of Freedom, 62 iowa.
+L. REV. 1, 3 (1976)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2375" publication-type="other">
+CASS R. SUNSTEIN, DEMOCRACY
+AND THE PROBLEM OF Free Speech 123, 127 (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2385a1310">
+            <label>92</label>
+            <p>
+               <mixed-citation id="d995e2392" publication-type="other">
+Cent. Hudson Gas &amp; Elec. Corp. v. Pub. Serv. Comm'n, 447 U.S. 557, 561
+(1980)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2401" publication-type="other">
+44 Liquormart, Inc. v. Rhode Island, 517 U.S. 484 (1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2408a1310">
+            <label>95</label>
+            <p>
+               <mixed-citation id="d995e2415" publication-type="other">
+The Kinks, Give the People What They Want (Arista Records 1981).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2423a1310">
+            <label>96</label>
+            <p>
+               <mixed-citation id="d995e2430" publication-type="other">
+Reply Brief for Appellants Turner Broad. Sys., Inc. at 19-20, Turner I, 512 U.S.
+622 (1994) (No. 93-44), 1993 WL 664649</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2439" publication-type="other">
+Reply Brief for Appellants
+Discovery Commc'ns, Inc. and the Learning Channel, Inc. at 6, Turner I, 512 U.S. 622 (No. 93-
+44), 1993 WL 664652</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2452a1310">
+            <label>98</label>
+            <p>
+               <mixed-citation id="d995e2461" publication-type="other">
+Wu, supra note 6, at 1530.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2467" publication-type="other">
+supra note 88</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2474" publication-type="other">
+ARTS &amp;
+LETTERS Daily, http://www.aldaily.com/ (last visited Apr. to, 2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2483" publication-type="other">
+REDDIT, http://www.
+reddit.com/ (last visited Apr. 10, 2013).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2492" publication-type="other">
+Arts
+Letters Daily, WlKIPEDIA, http://en.wikipedia.org/wiki/Arts_%26_Letters_Daily (last updated
+Feb. 10, 2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2504" publication-type="other">
+Reddit, WlKIPEDIA, http://en.wikipedia.org/wiki/Reddit (last updated Apr. 4,
+2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2514a1310">
+            <label>99</label>
+            <p>
+               <mixed-citation id="d995e2521" publication-type="other">
+First Nat'l Bank of Bos. v. Bellotti, 435 U.S. 763, 783 (1978)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2527" publication-type="other">
+Va. State Bd. of Pharmacy v. Va. Citizens Consumer Council, Inc., 425 U.S. 748, 757
+(1976)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2536" publication-type="other">
+Kleindienst
+v. Mandel, 408 U.S. 753, 762 (1972)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2546" publication-type="other">
+Stanley
+v. Georgia, 394 U.S. 557, 564 (1969)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2555" publication-type="other">
+Griswold v. Connecticut, 381 U.S. 479, 482 (1965)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2561" publication-type="other">
+Thomas I. Emerson,
+Legal Foundations of the Right to Know, 1976 WASH. U. L.Q. 1, 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2570" publication-type="other">
+Thomas Scanlon, A Theory of Freedom of
+Expression, 1 PHIL. &amp; PUB. AFF. 204 (1972)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2580a1310">
+            <label>100</label>
+            <p>
+               <mixed-citation id="d995e2587" publication-type="other">
+Va. State Bd. of Pharmacy, 425 U.S. at 756</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2594a1310">
+            <label>101</label>
+            <p>
+               <mixed-citation id="d995e2603" publication-type="other">
+id.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2609" publication-type="other">
+Sorrell v. IMS Health, Inc., 131 S. Ct. 2653, 2670-71 (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2616" publication-type="other">
+Edenfield v. Fane, 507 U.S. 761, 767 (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2623a1310">
+            <label>102</label>
+            <p>
+               <mixed-citation id="d995e2630" publication-type="other">
+Red Lion Broad. Co. v. FCC, 395 U.S. 367, 390 (1969)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2636" publication-type="other">
+Jerome A. Barron, Access to the Press—A New First
+Amendment Right, 80 HARV. L. REV. 1641, 1666 (1967)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2647a1310">
+            <label>103</label>
+            <p>
+               <mixed-citation id="d995e2654" publication-type="other">
+Pac. Gas &amp; Elec. Co. v. Pub. Utils. Comm'n, 475 U.S. 1, 4, 20-21 (1986)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2660" publication-type="other">
+Miami
+Herald Publ'g Co. v. Tornillo, 418 U.S. 241, 258 (1974)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2670a1310">
+            <label>104</label>
+            <p>
+               <mixed-citation id="d995e2677" publication-type="other">
+Elena Kagan, Private Speech, Public Purpose: The Role of Governmental Motive in
+First Amendment Doctrine, 63 U. CHI. L. REV. 413, 414 (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2686" publication-type="other">
+Jed Rubenfeld, The First
+Amendment's Purpose, 53 STAN. L. REV. 767, 775-79 (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2696a1310">
+            <label>105</label>
+            <p>
+               <mixed-citation id="d995e2705" publication-type="other">
+Sorrell, 131 S. Ct. at: 2665</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2711" publication-type="other">
+United States v. United Foods,
+Inc., 533 U.S. 405, 408, 417 (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2721" publication-type="other">
+Turner I, 512 U.S. 622, 638 (1994)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2728a1310">
+            <label>106</label>
+            <p>
+               <mixed-citation id="d995e2735" publication-type="other">
+NIETZSCHE Family Circus, http://www.losanjealous.com/nfc (last visited Apr. to,
+2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2745a1310">
+            <label>107</label>
+            <p>
+               <mixed-citation id="d995e2752" publication-type="other">
+SClGEN—AN AUTOMATIC CS paper GENERATOR, http://pdos.csail.mit.edu/
+scigen/#relwork (last visited Apr. 10, 2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2761" publication-type="other">
+timothy, Randomly Generated Paper Accepted to Conference,
+slashdot (Apr. 13, 2005, 2:00 PM), http://entertainment.slashd0t.0rg/st0ry/05/04/13/1723206/
+randomly-generated-paper-accepted-to-conference</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2774a1310">
+            <label>109</label>
+            <p>
+               <mixed-citation id="d995e2781" publication-type="other">
+Postmodernism Generator, http://page112.com/iphone/pomo/ (last visited Apr. 10,
+2013).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2790" publication-type="other">
+Id.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2796" publication-type="other">
+Narrative Science, see supra notes 71-73</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2804a1310">
+            <label>111</label>
+            <p>
+               <mixed-citation id="d995e2811" publication-type="other">
+SAMIR CHOPRA &amp; laurence F. WHITE, A LEGAL THEORY FOR AUTONO-
+MOUS artificial AGENTS (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2821a1310">
+            <p>
+               <mixed-citation id="d995e2827" publication-type="other">
+David Dowe &amp; Graham Oppy, The Turing Test, stanford
+ENCYCL. OF PHIL. (Jan. 26, 2011), http://plato.stanford.edu/entries/turing-test</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2836" publication-type="other">
+JAMES BOYLE, BROOKINGS INST., ENDOWED BY THEIR
+Creator? The Future of Constitutional Personhood 6 (2011), available at http://
+www.brookings.edU/~/media/research/files/papers/2011/3/09%20personhood%20boyle/0309_person
+hood_boyle</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2852a1310">
+            <label>113</label>
+            <p>
+               <mixed-citation id="d995e2859" publication-type="other">
+Wu, supra note 18.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2866a1310">
+            <label>114</label>
+            <p>
+               <mixed-citation id="d995e2873" publication-type="other">
+BOYLE, supra note 112.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2880a1310">
+            <label>115</label>
+            <p>
+               <mixed-citation id="d995e2887" publication-type="other">
+Benjamin, supra note 8, at 1686.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2894a1310">
+            <label>116</label>
+            <p>
+               <mixed-citation id="d995e2903" publication-type="other">
+Cohen v. Cowles Media Co., 501 U.S. 663, 669 (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2909" publication-type="other">
+infra note 123</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2916" publication-type="other">
+Cowles Media, 501 U.S. at 676-77</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2922" publication-type="other">
+Alan E. Garfield, The Mischief of Cohen v. Cowles Media Co., 35 GA.
+L. REV. 1087, 1095 (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2931" publication-type="other">
+Eugene Volokh, Speech as Conduct:
+Generally Applicable Laws, Illegal Courses of Conduct, "Situation-Altering Utterances," and the Uncharted
+Zones, 90 CORNELL L. Rev. 1277,1294 (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2943" publication-type="other">
+Garfield, supra, at 1094</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2949" publication-type="other">
+Volokh, supra, at 1294.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2957a1310">
+            <label>117</label>
+            <p>
+               <mixed-citation id="d995e2964" publication-type="other">
+supra notes 52-62</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e2970" publication-type="other">
+Benjamin, supra note 8, at 1701.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2977a1310">
+            <label>118</label>
+            <p>
+               <mixed-citation id="d995e2984" publication-type="other">
+547 U.S. 47, 66 (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e2991a1310">
+            <label>119</label>
+            <p>
+               <mixed-citation id="d995e2998" publication-type="other">
+Cate
+McQuaid, Sweet but Not Sugarcoated, BOSTON.COM (Dec. 13, 2007) http://www.boston.com/ae/
+theater_arts/articles/2007/i2/i3/sweet_but_not_sugarcoated.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3011a1310">
+            <label>120</label>
+            <p>
+               <mixed-citation id="d995e3018" publication-type="other">
+jupra notes 74-82</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3025a1310">
+            <label>121</label>
+            <p>
+               <mixed-citation id="d995e3032" publication-type="other">
+FAQ: What
+Are "Janitors"?, 4CHAN, http://www.4chan.0rg/faq#whojan (last visited Apr. 10, 2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3042a1310">
+            <label>122</label>
+            <p>
+               <mixed-citation id="d995e3049" publication-type="other">
+Benjamin, supra note 8, at 1701</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3057a1310">
+            <label>123</label>
+            <p>
+               <mixed-citation id="d995e3066" publication-type="other">
+Associated Press v. United States, 326 U.S. 1, 19-20 (1943)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3072" publication-type="other">
+id. at 7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3079" publication-type="other">
+Lorain Journal Co. v. United States, 342 U.S. 143, 156 (1951)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3085" publication-type="other">
+FCC v. Nat'l Citizens Comm. for Broad., 436 U.S. 775, 800 n.18 (1978)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3091" publication-type="other">
+Nat'l Soc'y of Prof'l Eng'rs v. United States, 435 U.S. 679, 697-98 (1978)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3098a1310">
+            <label>124</label>
+            <p>
+               <mixed-citation id="d995e3105" publication-type="other">
+365 U.S. 127 (1961).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3112a1310">
+            <label>125</label>
+            <p>
+               <mixed-citation id="d995e3119" publication-type="other">
+458 U.S. 886, 907 (1982)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3126a1310">
+            <label>126</label>
+            <p>
+               <mixed-citation id="d995e3133" publication-type="other">
+Noerr, 365 U.S. at 137-38</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3139" publication-type="other">
+id. at 139</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3145" publication-type="other">
+381 U.S. 657, 670 (1965)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3152" publication-type="other">
+Cal. Motor Transp. Co. v.
+Trucking Unlimited, 404 U.S. 508, 510-11 (1972)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3161" publication-type="other">
+486 U.S. 492,
+499 (1988).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3171a1310">
+            <label>127</label>
+            <p>
+               <mixed-citation id="d995e3178" publication-type="other">
+458 U.S. at 911-12.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3185a1310">
+            <label>128</label>
+            <p>
+               <mixed-citation id="d995e3192" publication-type="other">
+Noerr, 365 U.S. at 144</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3200a1310">
+            <label>129</label>
+            <p>
+               <mixed-citation id="d995e3207" publication-type="other">
+493 U.S. 411 (1990).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3214a1310">
+            <label>130</label>
+            <p>
+               <mixed-citation id="d995e3221" publication-type="other">
+Id. at 414-18.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3228a1310">
+            <label>131</label>
+            <p>
+               <mixed-citation id="d995e3235" publication-type="other">
+856 F.2d 226, 248 (D.C. Cir. 1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3241" publication-type="other">
+493 U.S. 411 (1990).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3248a1310">
+            <label>132</label>
+            <p>
+               <mixed-citation id="d995e3255" publication-type="other">
+Superior Court Trial Lawyers Ass'n, 493 U.S. at 424-25.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3262a1310">
+            <label>133</label>
+            <p>
+               <mixed-citation id="d995e3269" publication-type="other">
+Id. at 426-27</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3275" publication-type="other">
+Allied Tube &amp; Conduit Corp. v. Indian Head, Inc., 486 U.S. 492,
+508 (1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3284" publication-type="other">
+486 U.S. at 506-10.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3291" publication-type="other">
+Id. at 508.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3298a1310">
+            <label>134</label>
+            <p>
+               <mixed-citation id="d995e3307" publication-type="other">
+481 U.S. 221, 228 (1987)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3313" publication-type="other">
+Turner I, 512 U.S. 622, 640-41 (1994)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3321a1310">
+            <label>135</label>
+            <p>
+               <mixed-citation id="d995e3328" publication-type="other">
+499 U.S. 439, 447 (1991).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3335a1310">
+            <label>136</label>
+            <p>
+               <mixed-citation id="d995e3342" publication-type="other">
+Id. at 453.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3349a1310">
+            <label>137</label>
+            <p>
+               <mixed-citation id="d995e3356" publication-type="other">
+47 U.S.C. § 533(f)(1)(B) (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3362" publication-type="other">
+Time Warner Entm't Co. v. FCC, 240 F.3d 1126, 1137-39 (D.C. Cir. 2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3369a1310">
+            <label>138</label>
+            <p>
+               <mixed-citation id="d995e3376" publication-type="other">
+Time Warner Entm't Co. v. FCC, 93 F.3d 957, 973 (D.C. Cir. 1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3383a1310">
+            <label>139</label>
+            <p>
+               <mixed-citation id="d995e3390" publication-type="other">
+Time Warner Entm't Co. v. FCC, 56 F.3d 151, 181-82 (D.C. Cir. 1995)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3397a1310">
+            <label>140</label>
+            <p>
+               <mixed-citation id="d995e3404" publication-type="other">
+Christopher S. Yoo, Architectural Censorship and the FCC, 78 S. CAL. L. REV. 669, 687
+(2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3415a1310">
+            <label>141</label>
+            <p>
+               <mixed-citation id="d995e3422" publication-type="other">
+City of Lakewood v. Plain Dealer Publ'g Co., 486 U.S. 750, 767-68 (1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3428" publication-type="other">
+Saia v. New York, 334 U.S. 558, 562 (1948)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3434" publication-type="other">
+Lovell v. City of Griffin, 303 U.S. 444, 450-51 (1938)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3441" publication-type="other">
+486 U.S. at 759.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3448a1310">
+            <label>142</label>
+            <p>
+               <mixed-citation id="d995e3455" publication-type="other">
+supra note 27</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3462a1310">
+            <label>143</label>
+            <p>
+               <mixed-citation id="d995e3469" publication-type="other">
+514 U.S. 549, 567 (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3475" publication-type="other">
+United States v. Morrison, 529 U.S. 598 (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3481" publication-type="other">
+Gonzales v. Raich, 545 U.S. 1 (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3488" publication-type="other">
+Lopez, 514 U.S. at 584 (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3494" publication-type="other">
+Morrison, 529 U.S. at 627</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3500" publication-type="other">
+Brief for Virginia Delegate Bob
+Marshall et al. as Amici Curiae in Support of Respondents at 11-14, Dep't of Health &amp; Human
+Servs. v. Florida, 132 S. Ct. 2566 (2012) (No. 11-398), 2012 WL 484059 (Feb. 13, 2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3512" publication-type="other">
+Wickard v. Filburn, 317 U.S.
+111 (1942)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3521" publication-type="other">
+United States v. Darby, 312 U.S. 100 (1941)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3527" publication-type="other">
+Randy E. Barnett, Commandeering
+the People: Why the Individual Health Insurance Mandate Is Unconstitutional, 5 N.Y.U. J.L. &amp;
+LIBERTY 581, 619 (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3540a1310">
+            <label>144</label>
+            <p>
+               <mixed-citation id="d995e3547" publication-type="other">
+ERIK BRYNjOLFSSON &amp; ANDREW MCAFEE, race AGAINST THE machine:
+How the Digital Revolution is Accelerating Innovation, Driving Productivity,
+and Irreversibly Transforming Employment and the Economy (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d995e3560a1310">
+            <label>145</label>
+            <p>
+               <mixed-citation id="d995e3567" publication-type="other">
+Jeopardy! (ABC television broadcast
+Feb. 15, 2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3576" publication-type="other">
+Id.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3582" publication-type="other">
+Melissa Maerz, Watson Wins "Jeopardy!" Finale; Ken Jennings Welcomes "Our
+New Computer Overlords," L.A. TIMES (Feb. 16, 2011), http://latimesblogs.latimes.com/showtracker/
+2011/02/watson-jeopardy-finale-man-vs-machineshowdown.html</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d995e3595" publication-type="other">
+Ratzule, Watson the New Computer
+Overlord, YOUTUBE (Feb. 16, 2011), http://www.youtube.com/watch?v=Skfw282fJak</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

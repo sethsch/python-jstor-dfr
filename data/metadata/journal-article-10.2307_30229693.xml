@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revilibrfundcaja</journal-id>
+         <journal-id journal-id-type="jstor">j50000462</journal-id>
+         <journal-title-group>
+            <journal-title>Revista de libros de la Fundación Caja Madrid</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Fundación Caja de Madrid</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">1698532X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">30229693</article-id>
+         <title-group>
+            <article-title>Aves migratorias</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Eloy</given-names>
+                  <surname>Tizón</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>2001</year>
+         </pub-date>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">60</issue>
+         <issue-id>i30229674</issue-id>
+         <fpage>42</fpage>
+         <lpage>42</lpage>
+         <product>
+            <source>Crónica del pájaro que da cuerda al mundo</source>
+            <string-name>
+               <given-names>Haruki</given-names>
+               <surname>Murakami</surname>
+            </string-name>
+            <string-name>
+               <given-names>Lourdes</given-names>
+               <surname>Porta</surname>
+            </string-name>
+            <string-name>
+               <given-names>Junichi</given-names>
+               <surname>Matsuura</surname>
+            </string-name>
+         </product>
+         <self-uri xlink:href="https://www.jstor.org/stable/30229693"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>spa</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

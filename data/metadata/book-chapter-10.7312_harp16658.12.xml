@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/harp16658</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL788.4.G43R37 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Murasaki Shikibu, 978?– Genji monogatari</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Reading<italic>The Tale of Genji</italic>
+         </book-title>
+         <subtitle>Sources from the First Millennium</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Harper</surname>
+               <given-names>Thomas</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Shirane</surname>
+               <given-names>Haruo</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="translator">TRANSLATIONS AND INTRODUCTIONS BY</role>
+         <contrib contrib-type="translator" id="contrib3">
+            <name name-style="western">
+               <surname>Caddeau</surname>
+               <given-names>Patrick</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib4">
+            <name name-style="western">
+               <surname>Cook</surname>
+               <given-names>Lewis</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib5">
+            <name name-style="western">
+               <surname>Denecke</surname>
+               <given-names>Wiebke</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib6">
+            <name name-style="western">
+               <surname>Emmerich</surname>
+               <given-names>Michael</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib7">
+            <name name-style="western">
+               <surname>Harper</surname>
+               <given-names>Thomas</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib8">
+            <name name-style="western">
+               <surname>Jamentz</surname>
+               <given-names>Michael</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib9">
+            <name name-style="western">
+               <surname>Laffin</surname>
+               <given-names>Christina</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib10">
+            <name name-style="western">
+               <surname>McMullen</surname>
+               <given-names>James</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib11">
+            <name name-style="western">
+               <surname>Rowley</surname>
+               <given-names>Gaye</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib12">
+            <name name-style="western">
+               <surname>Naito</surname>
+               <given-names>Satoko</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib13">
+            <name name-style="western">
+               <surname>Shirane</surname>
+               <given-names>Haruo</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib14">
+            <name name-style="western">
+               <surname>Suzuki</surname>
+               <given-names>Tomi</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib15">
+            <name name-style="western">
+               <surname>Yoshio</surname>
+               <given-names>Hitomi</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>12</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9780231537209</isbn>
+      <isbn content-type="epub">0231537204</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/harp16658"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>The Tale of Genji</italic>, written one thousand years ago, is a masterpiece of Japanese literature, is often regarded as the best prose fiction in the language. Read, commented on, and reimagined by poets, scholars, dramatists, artists, and novelists, the tale has left a legacy as rich and reflective as the work itself.</p>
+         <p>This sourcebook is the most comprehensive record of the reception of<italic>The Tale of Genji</italic>to date. It presents a range of landmark texts relating to the work during its first millennium, almost all of which are translated into English for the first time. An introduction prefaces each set of documents, situating them within the tradition of Japanese literature and cultural history. These texts provide a fascinating glimpse into Japanese views of literature, poetry, imperial politics, and the place of art and women in society. Selections include an imagined conversation among court ladies gossiping about their favorite characters and scenes in<italic>Genji</italic>; learned exegetical commentary; a vigorous debate over the morality of<italic>Genji</italic>; and an impassioned defense of<italic>Genji</italic>'s ability to enhance Japan's standing among the twentieth century's community of nations. Taken together, these documents reflect Japan's fraught history with vernacular texts, particularly those written by women.</p>
+      </abstract>
+      <counts>
+         <page-count count="632"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.3</book-part-id>
+                  <title-group>
+                     <title>Illustrations</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations and Periods of Japanese History</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.5</book-part-id>
+                  <title-group>
+                     <title>Chapter Titles of The Tale of Genji</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SHIRANE</surname>
+                           <given-names>HARUO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>
+                        <italic>The Tale of Genji</italic>, written in the early eleventh century by a woman known as Murasaki Shikibu, has become a world classic and is still regarded as Japan’s finest work of literature. Since the early twentieth century,<italic>The Tale of Genji</italic>has been called the world’s first novel, giving us distinctive and memorable characters, realistic settings, and a deep interior view of the life of the nobility, particularly that of women of the middle ranks, in the heyday of Heian court society. The tale, which eventually grew to the fifty-four chapters that we have now, attracted notice from Murasaki Shikibu’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Early Discussions of Fiction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>THE MOTHER OF MICHITSUNA</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <string-name>PRINCESS SENSHI</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <string-name>MINAMOTO NO TAMENORI</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <string-name>SEI SHŌNAGON</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <string-name>MURASAKI SHIKIBU</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib6" xlink:type="simple">
+                        <string-name>THE DAUGHTER OF SUGAWARA NO TAKASUE</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>The impact<italic>of The Tale of Genji</italic>on its first readers, and their responses to it, can be fully appreciated only within the context of the romances or tales (<italic>monogatari</italic>) they were reading before the appearance of<italic>Genji</italic>and what was being said about them, by both their devotees and their detractors. Only three prose fictions of any length survive from the century before<italic>Genji: The Tale of the Bamboo Cutter (Taketori monogatari), The Tale of the Hollow Tree (Utsuho monogatari)</italic>, and<italic>The Tale of the Lady in the Lower Room (Ochikubo monogatari)</italic>. That such tales abounded we know from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>Genji Gossip (Plus a Bit of Good Advice)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>ABUTSU</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>“Criticism,” one eminent critic writes, “is in effect—or should be—what happens when people get excited about works of art and want to share that excitement with others.”¹ The texts in this chapter are the earliest known discussions of<italic>The Tale of Genji</italic>. They are also, in the most literal sense, exactly the sort of “criticism as conversation” described here as ideal. They are the record of people (probably women) who are excited about<italic>The Tale of Genji</italic>and are sharing their excitement with one another.</p>
+                     <p>We already have glimpsed the scenes of some of this discourse: the Bureau</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Toward Canonization</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="editor" id="contrib1" xlink:type="simple">
+                        <role>COMPILED BY</role>
+                        <string-name>FUJIWARA NO SHUNZEI</string-name>
+                     </contrib>
+                     <contrib contrib-type="other" id="contrib2" xlink:type="simple">
+                        <role>ANNOTATED BY</role>
+                        <string-name>KITAMURA KIGIN</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <string-name>FUJIWARA NO SHUNZEI</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <string-name>SOJAKU</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <string-name>THE JUNTOKU RETIRED EMPEROR</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib6" xlink:type="simple">
+                        <string-name>FUJIWARA NO TEIKA</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib7" xlink:type="simple">
+                        <string-name>THE GOTOBA RETIRED EMPEROR</string-name>
+                     </contrib>
+                     <contrib contrib-type="editor" id="contrib8" xlink:type="simple">
+                        <role>COMPILED BY</role>
+                        <string-name>FUJIWARA NO NAGATSUNA</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>158</fpage>
+                  <abstract>
+                     <p>That sea change in attitudes toward<italic>The Tale of Genji</italic>that we sum up under the convenient rubric of “canonization” is in fact a shifting amalgam of forces, some in concert, some in conflict, never quite coalescing in total consensus, yet yielding ultimately what one scholar aptly describes as the transformation of<italic>Genji</italic>from “a women’s romance into a men’s classic.”¹ Very little documentation of this process, which spanned at least two centuries, survives, but the scattering of sources that we do have allows us at least roughly to chart its progress. We can assume, first of all, that the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>Obsequies for Genji</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>FUJIWARA NO TAMETSUNE</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <string-name>THE MOTHER OF ACTING MIDDLE COUNSELOR LORD SANEKI</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <string-name>FUJIWARA NO TAKANOBU</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <string-name>FUJIWARA NO MUNEIE</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <string-name>CHŌKEN</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib6" xlink:type="simple">
+                        <string-name>SEIKAKU</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>“Obsequies for<italic>Genji</italic>” is a rough translation of<italic>Genji kuyō</italic>, a term for which there is no precise English equivalent. A<italic>kuyō</italic>is a dedicatory service in which the merit acquired in preparing for and performing the rite is assigned to another person, usually deceased, in order to diminish that person’s suffering and speed his or her progress toward Buddhahood. The title<italic>Genji kuyō</italic>was applied to various such rites performed on behalf of Murasaki Shikibu, her readers, her hero the Shining Genji, and even<italic>The Tale of Genji</italic>itself.</p>
+                     <p>The reason that such rites were thought necessary lies in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>The Tale of Genji Apocrypha</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>MOTOORI NORINAGA</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>The<italic>Oxford English Dictionary</italic>defines “apocrypha” as works “of unknown authorship; not authentic, spurious; uncanonical; false.” One or more of these descriptions would fit each of the texts in this chapter, but none of them is “apocryphal” in quite the same way as any of the others. “Sakurahito” and “Sumori” are the surviving fragments of chapters that were considered authentic by late-Heian editors of<italic>Genji</italic>; they may even have been written by Murasaki Shikibu, but were later rejected as noncanonical. “Yamaji no tsuyu” is a spurious “last chapter” of unknown authorship, but is not without an air of authenticity. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Medieval Commentary</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>SŌGI</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <string-name>KITAMURA KIGIN</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>337</fpage>
+                  <abstract>
+                     <p>“By what means do we attribute value to works of art, and how do our evaluations affect our ways of attending to them?”¹ In the case of<italic>The Tale of Genji</italic>, the short answers to this double-edged question would be that the most voluminous of all such means was exegetical commentary and that this “form of attention” encouraged readers to regard<italic>Genji</italic>in ways that hitherto had been considered more appropriate to the Chinese classics or the Buddhist scriptures than to anonymous fictions written in prose.</p>
+                     <p>As we have seen in previous chapters, in its earliest years<italic>Genji</italic>was treated</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Edo-Period Treatises</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>KUMAZAWA BANZAN</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <string-name>ANDŌ TAMEAKIRA</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <string-name>MOTOORI NORINAGA</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <string-name>MATSUDAIRA SADANOBU</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <string-name>HAGIWARA HIROMICHI</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>382</fpage>
+                  <abstract>
+                     <p>By the end of the Edo period, it had become common practice to distinguish the<italic>Genji</italic>commentaries of that era from those of the medieval era. The former were called the “New Commentaries” and the latter, the “Old Commentaries.” But what was so “new” about the New Commentaries or, for that matter, “old” about the Old Commentaries? At first glance, the last of the Old Commentaries, Kitamura Kigin’s<italic>Moonlit Lake Commentary</italic>(<italic>Kogetsushō</italic>), actually<italic>looks</italic>newer than anything by Keichū, Kamo no Mabuchi, or Motoori Norinaga. As we have seen, it contains a complete text of<italic>The Tale of Genji</italic>, as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Modern Reception</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>SUEMATSU KENCHŌ</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <string-name>TSUBOUCHI SHŌYŌ</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <string-name>SASSA SEISETSU</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <string-name>YOSANO AKIKO</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <string-name>VIRGINIA WOOLF</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib6" xlink:type="simple">
+                        <string-name>MASAMUNE HAKUCHŌ</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib7" xlink:type="simple">
+                        <string-name>TANIZAKI JUN’ICHIRŌ</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>538</fpage>
+                  <abstract>
+                     <p>When Japan entered the fray of global politics at the end of the nineteenth century, its new nation builders were convinced that a national literature, which presupposed a common and continuous national language, would be indispensable to the construction of a unified nationstate. In this context,<italic>The Tale of Genji</italic>was to become a crucial text.</p>
+                     <p>From a global perspective, the publication in 1882 of an English translation of<italic>The Tale of Genji</italic>was an epoch-making event. The translation was an abridged version of the first seventeen chapters of<italic>Genji</italic>by Suematsu Kenchō (1855–1920), who lived in England from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">harp16658.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>591</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

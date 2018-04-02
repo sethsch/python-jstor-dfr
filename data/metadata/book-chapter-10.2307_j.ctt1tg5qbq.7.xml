@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1tfj8m3</collection-id>
+      <volume>298</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1tg5qbq</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL856.U673Z87 2008</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Murakami, Haruki, 1949</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Murakami, Haruki, 1949</subject>
+         <subj-group>
+            <subject content-type="lcsh">Appreciation</subject>
+            <subj-group>
+               <subject content-type="lcsh">United States</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Japanization of Modernity</book-title>
+         <subtitle>Murakami Haruki between Japan and the United States</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Suter</surname>
+               <given-names>Rebecca</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>2008</year>
+      </pub-date>
+      <isbn content-type="ppub">9780674060760</isbn>
+      <isbn content-type="epub">9781684174713</isbn>
+      <isbn content-type="epub">1684174716</isbn>
+      <publisher>
+         <publisher-name>Harvard University Asia Center</publisher-name>
+         <publisher-loc>Cambridge (Massachusetts); London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2008</copyright-year>
+         <copyright-holder>The President and Fellows of Harvard College</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1tg5qbq"/>
+      <abstract abstract-type="short">
+         <p>Murakami Haruki is perhaps the best-known and most widely translated Japanese author of his generation. Despite Murakami’s critical and commercial success, particularly in the United States, his role as a mediator between Japanese and American literature and culture is seldom discussed. Bringing a comparative perspective to the study of Murakami’s fiction, Rebecca Suter complicates our understanding of the author’s oeuvre and highlights his contributions not only as a popular writer but also as a cultural critic on both sides of the Pacific. Suter concentrates on Murakami’s short stories—less known in the West but equally worthy of critical attention—as sites of some of the author’s bolder experiments in manipulating literary (and everyday) language, honing cross-cultural allusions, and crafting metafictional techniques. This study scrutinizes Murakami’s fictional worlds and their extraliterary contexts through a range of discursive lenses: modernity and postmodernity, universalism and particularism, imperialism and nationalism, Orientalism and globalization. By casting new light on the style and substance of Murakami’s prose, Suter situates the author and his works within the sphere of contemporary Japanese literature and finds him a prominent place within the broader sweep of the global literary scene.</p>
+      </abstract>
+      <counts>
+         <page-count count="262"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.3</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The subject of my work is the role of the contemporary Japanese writer Murakami Haruki as a cultural mediator between Japan and the United States. Murakami is probably the most translated among contemporary Japanese writers; at the same time, he has been very active in introducing American literature to Japan, having translated writers such as F. Scott Fitzgerald, John Irving, Grace Paley, Tim O’Brien, J. D. Salinger, and Raymond Carver. Although many critics both in the West and in Japan have discussed Murakami’s works, very few have analyzed his role as a literary and cultural mediator between Japan and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.4</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>The Japanization of Modernity</title>
+                  </title-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>The term “modernity” is often abused and misused—defined so many ways that it seems to lose all meaning. In light of this overuse, one might be tempted to dispense with the term altogether; however, I believe we should still address it, looking at what the proliferation of discourses on modernity achieves and what it conceals, precisely because it is so frequently misused in contemporary debates on crucial issues. The term is employed with notable frequency today by Western journalism, be it to define Islamic terrorism as born of the incapacity to accept or deal with Western modernity; to connect</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.5</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Murakami Haruki, Japan, and America</title>
+                  </title-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>In his literary production, Murakami Haruki straddles the United States and Japan and shows how the cultural interactions between the two entities challenge dominant discourses through a “complicitous critique.” With his double activity as a translator of Western literature and as a novelist widely read in Japan, in the West, and in Asia, Murakami’s works cast light upon the literary side of the “Japanization of modernity” described in the previous chapter. How, then, does Murakami fit into this complex schema? Before analyzing his texts, it would be fruitful to look briefly at the ways in which he is perceived in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.6</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Language and Culture</title>
+                  </title-group>
+                  <fpage>62</fpage>
+                  <abstract>
+                     <p>This chapter will analyze one of the main intercultural strategies of Murakami’s texts: the use of language and writing, particularly of foreign vocabulary and of<italic>katakana</italic>, one of two syllabaries used along with Chinese ideograms to write in Japanese. By means of a number of strategies based on the polygraphy of Japanese, Murakami’s texts highlight some crucial aspects of Japan’s relationship with the West, while at the same time foregrounding the linguistically constructed nature of reality.</p>
+                     <p>The creative use of writing systems is by no means exclusive to Murakami Haruki: both foreign languages and the peculiarities of the Japanese writing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.7</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>Literature and Identity</title>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>In many of Murakami’s texts, the narrator is a writer, a journalist, or a translator, and this writer-protagonist often plays the role of an interpreter of reality. In this sense, his texts respond to the same need to “put order into chaos,” to which Euro-American modernists responded by rejecting positivist rationalism and turning to myth and the subconscious, and to which the detective novel responded by reaffirming the power of reason with the figure of the detective, the “mental metaphor for order.”</p>
+                     <p>Murakami is positioned halfway between these two strategies. On the one hand, the way he introduces writers and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.8</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>In Other Worlds</title>
+                  </title-group>
+                  <fpage>140</fpage>
+                  <abstract>
+                     <p>The short story “Nemuri,” from the collection<italic>TV pīpuru</italic>—translated by Jay Rubin as “Sleep,” in the collection<italic>The Elephant Vanishes</italic>—provides a good example of the dynamics of the formation of individual identity and the attribution of meaning to reality through the use of foreign culture/literature that have been discussed in the previous section. Literature in this text constitutes an “other world” that allows the narrator to distance the reality in which she lives, and acquire greater awareness of herself as an individual.</p>
+                     <p>Literature is crucial to “Nemuri” in a number of ways: the story parodies a Western genre,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.9</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>An indication of Murakami Haruki’s rising popularity can be seen, for example, in the fact that his short stories are ever more frequently published in the<italic>New Yorker</italic>, which carried as many as four works by Murakami between 2005 and 2006: “Where I’m Likely to Find It,” a translation of “Doko de are sore ga mitsukarisō na basho de” from the collection<italic>Tōkyō kitanshū</italic>, was published in May 2005; “The Kidney-Shaped Stone That Moves Every Day” (“Hibi idō suru jinzō no katachi o shita ishi”) in September 2005; and “The Shinagawa Monkey” (“Shinagawazaru”) in February 2006. In the meantime, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.10</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>193</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.11</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>217</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.12</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>229</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5qbq.13</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

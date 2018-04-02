@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt46nt82</book-id>
+      <subj-group>
+         <subject content-type="call-number">PQ6292.V5K5313 2004</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Calderón de la Barca, Pedro, 1600–1681. Vida es sueño</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Life's a Dream (<italic>La Vida es Sueño</italic>)</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="translator" id="contrib1">
+            <role>A PROSE TRANSLATION AND CRITICAL INTRODUCTION BY</role>
+            <name name-style="western">
+               <surname>KIDD</surname>
+               <given-names>MICHAEL</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>08</month>
+         <year>2004</year>
+      </pub-date>
+      <isbn content-type="ppub">9780870817762</isbn>
+      <isbn content-type="epub">9780870818059</isbn>
+      <publisher>
+         <publisher-name>University Press of Colorado</publisher-name>
+         <publisher-loc>Boulder, Colorado</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2004</copyright-year>
+         <copyright-holder>Michael Kidd</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt46nt82"/>
+      <abstract abstract-type="short">
+         <p>A beautiful and haunting tale of love, betrayal, knowledge, and power, Life's a Dream (La vida es sueño, 1636) is the best known and most widely admired play of Catholic Europe's greatest dramatist, Pedro Calderón de la Barca (1600-1681). Calderón's long life witnessed both the pinnacle and collapse of Spanish political power as well as the great flowering of Spanish classical literature. Michael Kidd's new prose translation renders Calderón's masterpiece into a transparent, modern American idiom that preserves the beauty and complexity of Calderón's Baroque Spanish. The result is a highly readable and adaptable text that is enhanced by a generous selection of supporting materials, including a thorough critical introduction and glossary.</p>
+      </abstract>
+      <counts>
+         <page-count count="176"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>M.K.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>When Calderón was born in 1600, Spain was the most powerful country in the world, but the seeds had already been planted of a decline that would take it, by the time of his death in 1681, to the humiliating status of a second-tier power. The story of Spain’s rise and fall is the sobering tale of a country that collapsed under the burden of its own achievements. Rather than chronicle that process in detail, which would occupy much more space than this Introduction allows, I will begin with three salient general features of early modern Spanish society: religious intensity,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.5</book-part-id>
+                  <title-group>
+                     <title>Translator’s Notes</title>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Rendering calderón’s <italic>La vida es sueño</italic> into English presents the translator with a series of difficult but unavoidable questions. Which dialect is desirable? Should archaisms be modernized or rendered into analogous English structures? Which is the most appropriate medium, verse or prose? What constitutes a scene change? How should proper names be handled? What about wordplay? And finally, what should be done with enigmatic or disputed passages? My dissatisfaction with the various answers that previous translators have given to these questions provides the primary impetus behind this new translation of the crown jewel of classical Spanish theater.</p>
+                     <p>Most translators have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.6</book-part-id>
+                  <title-group>
+                     <title>Suggestions for Directors</title>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Like many classical plays, <italic>Life’s a Dream</italic> can be productively staged with true minimalist principles. Only three settings are implied throughout the play: Sigismund’s tower and surroundings (1.1, 2.2, 3.1), the royal palace (1.2, 2.1, 3.2), and a wilderness area somewhere between the two (3.3). As Ruano de la Haza has pointed out, no mention is made in either the dialogue or the stage directions of stage decor in the palace scenes, which, consequently, were probably meant to be played on a bare stage in front of a neutral curtain.¹ The tower and wilderness scenes imply some background elements—mountains,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.7</book-part-id>
+                  <title-group>
+                     <title>Selected Bibliography</title>
+                  </title-group>
+                  <fpage>77</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.8</book-part-id>
+                  <title-group>
+                     <title>Act 1</title>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Enter</italic> ROSSAURA <italic>at the top of the mountain, disguised as a man dressed for the road. As she makes her way down the mountain, she addresses the horse from which she has just been thrown.</italic>
+                     </p>
+                     <p>ROSSAURA. Monstrous hippogriff, peer of the wind, you’re as ill conceived as a bolt of lightning without flame, a bird without color, a fish without scales, or a beast without instinct! Where do you speed off to bucking, lurching, and bolting before the obscure labyrinth of those barren crags? Stay, then, on this mountainside and let the beasts have their Phaëthon; while I, a woman</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.9</book-part-id>
+                  <title-group>
+                     <title>Act 2</title>
+                  </title-group>
+                  <fpage>109</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Enter</italic> VASILY <italic>and</italic> CLOTHOLD.</p>
+                     <p>CLOTHOLD. Everything you ordered has been carried out.</p>
+                     <p>VASILY. Tell me, Clothold, how it went.</p>
+                     <p>CLOTHOLD. In this way, my lord. With the soothing concoction you had brewed from a mixture of medicinal herbs, whose tyrannical properties and secret powers so dissipate, rob, and disorient human reasoning that they turn one into a living corpse, and whose potency robs one in his sleep of his senses and faculties—there’s no reason to doubt that this is possible, for so many times, my lord, experiment has shown us, and it’s true, that medicine is full of natural</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.10</book-part-id>
+                  <title-group>
+                     <title>Act 3</title>
+                  </title-group>
+                  <fpage>133</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Enter</italic> BUGLE <italic>amid darkness. He addresses the audience.</italic>
+                     </p>
+                     <p>BUGLE. In a haunted tower, because of what I know, I’m being held captive. What will they do to me because of my ignorance if they ax me because of my knowledge? To think that a fellow should be sentenced to a life of starving to death! Everyone will say I’m feeling sorry for myself. Well, they’re right, because this silence, in my opinion, doesn’t befit one named Bugle, and I can’t shut up. My only company here, if I can bring myself to say so, are spiders and mice—what lovely</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46nt82.11</book-part-id>
+                  <title-group>
+                     <title>Glossary</title>
+                  </title-group>
+                  <fpage>155</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

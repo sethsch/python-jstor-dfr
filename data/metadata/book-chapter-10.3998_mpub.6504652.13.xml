@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.3998/mpub.6504652</book-id>
+      <subj-group>
+         <subject content-type="call-number">JZ1242 .F68 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">International relations</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Communication in politics</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Persuasion (Psychology)</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Forging the World</book-title>
+         <subtitle>Strategic Narratives and International Relations</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Miskimmon</surname>
+               <given-names>Alister</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>O’Loughlin</surname>
+               <given-names>Ben</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Roselle</surname>
+               <given-names>Laura</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>16</day>
+         <month>01</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9780472130214</isbn>
+      <isbn content-type="epub">9780472122509</isbn>
+      <publisher>
+         <publisher-name>University of Michigan Press</publisher-name>
+         <publisher-loc>Ann Arbor</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>the University of Michigan</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.3998/mpub.6504652"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Forging the World</italic>brings together leading scholars in International Relations (IR) and Communication Studies to investigate how, when, and why strategic narratives shape the structure, politics, and policies of the global system. Put simply, strategic narratives are tools that political actors employ to promote their interests, values, and aspirations for the international order by managing expectations and altering the discursive environment. These narratives define "who we are" and "what kind of world order we want."</p>
+      </abstract>
+      <counts>
+         <page-count count="352"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.3</book-part-id>
+                  <title-group>
+                     <title>Preface and Acknowledgments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Miskimmon</surname>
+                           <given-names>Alister</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Loughlin</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roselle</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Miskimmon</surname>
+                           <given-names>Alister</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Loughlin</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roselle</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Communication and power are the touchstones for the study of strategic narrative. The concept of strategic narrative focuses our attention, as both International Relations scholars and analysts of foreign policy—and as students wishing to understand more about the world around us—on a world in which power and communication technologies are in the midst of a rapid transition. The aim of this volume is to highlight the explanatory power of the concept of strategic narrative. We do this by focusing on a set of empirical studies across a range of important issues in international affairs. These studies demonstrate how</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Strategic Narratives:</title>
+                     <subtitle>Methods and Ethics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Loughlin</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="author">with</role>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Miskimmon</surname>
+                           <given-names>Alister</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roselle</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>We are on the cusp of being able to better understand questions in International Relations hitherto considered unanswerable due to methodological limitations of the discipline. Methodology is vital to the enterprise of studying strategic narrative because the right methods allow us to explain how strategic narratives are formed, projected, received, and interpreted. Only then can we build explanations of the roles narratives play in persuasion, influence, identity-formation, alliance-building, order-shaping, and other major concerns of IR. There is a sense today among those practicing international relations that the rapid transformation of global political communication has opened up new opportunities to manage</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Strategic Narratives and Great Power Identity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roselle</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>56</fpage>
+                  <abstract>
+                     <p>After the dissolution of the Soviet Union, there was a moment for possible post–Cold War narrative alignment as some leaders on each side sought a new world order; a moment to move beyond the Cold War narrative of East versus West. George H. W. Bush set out a system narrative of international cooperation that important leaders in the former USSR shared. But in the years that immediately followed, short-term tactical conflicts on each side meant that this moment for alignment was squandered—visions of order reverted back to Cold War narrations—with the United States seeking to be leader</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Finding a Unified Voice?</title>
+                     <subtitle>The European Union through a Strategic Narrative Lens</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Miskimmon</surname>
+                           <given-names>Alister</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>This volume argues that analyzing strategic narratives in international affairs is central to our understanding of the forces that shape the world today. This chapter assesses how international organizations construct and deploy an effective strategic narrative—in this case, the European Union. The EU has relied on a strategic narrative from its inception to the present day. The EU has tried to use this narrative to build support within Europe for deeper integration and sought to forge influence internationally. Over the years this narrative has shifted from a grand strategic vision of the people of Europe—working together across national</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Power of Strategic Narratives:</title>
+                     <subtitle>The Communicative Dynamics of Chinese Nationalism and Foreign Relations</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Liao</surname>
+                           <given-names>Ning</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>110</fpage>
+                  <abstract>
+                     <p>The symbolic representation of collective identity—an essential communicative element of nationalism—invariably involves the strategic deployment of narratives. An archetypical example in this regard is the creation and transmission of master commemorative narratives. In the nexus of Chinese domestic politics and foreign relations, such historical accounts are central to the internal and external legitimation of the nondemocratic state. By bestowing determined meanings upon the past, which is causally related to the present and future of the Chinese nation-state, this sort of strategic narrative defines the identity role of the Chinese Communist Party (CCP) in China’s sociopolitical development and projects</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Beyond Neoliberalism:</title>
+                     <subtitle>Contested Narratives of International Development</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Singh</surname>
+                           <given-names>J. P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>134</fpage>
+                  <abstract>
+                     <p>Efforts in international organization to improve human well-being and uplift millions of people from poverty constitute one of the greatest stories begun in the last century. The<italic>idea of international development</italic>can be traced back to the evolution of political economy as an academic discipline, but its instrumentalization as a set of strategic narratives to be pushed on to states and societies, initially from the imaginations of technocrats in international organizations charged with a development mandate, matured after World War II. The narrative continues to evolve as nearly one billion people in the world still live below the poverty line.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Public Diplomacy, Networks, and the Limits of Strategic Narratives</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brown</surname>
+                           <given-names>Robin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>164</fpage>
+                  <abstract>
+                     <p>The debate over strategic narrative revolves around three claims. The first claim is that some narratives are<italic>strategically</italic>significant, for instance the BRICS narrative of the “rise of the rest” or the Taliban’s account of the role of NATO forces in Afghanistan. These accounts of the world influence how people and organizations understand the world and act within it (Miskimmon, O’Loughlin, and Roselle 2013). The second claim is that an actor can successfully promote their own narrative to<italic>strategically</italic>advance their position in the world. A strategic narrative provides a simple and persuasive account of a strategy that helps to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Strategic Narratives of the Arab Spring and After</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arsenault</surname>
+                           <given-names>Amelia</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hong</surname>
+                           <given-names>Sun-ha</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Price</surname>
+                           <given-names>Monroe E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>190</fpage>
+                  <abstract>
+                     <p>Our quondam certainties about what occurred during the 2011 “Arab Spring” have faded.¹ What even to call the series of events in Tunisia, Egypt, and beyond is increasingly problematic, given the less than rosy aftermath to the initial protests (see for example, “Arab Spring” 2013). The struggle over nomenclature underscores the power of stories and their limitations in policy and political change. The uprisings were replete with projected narratives, narratives whose proponents sought to shape current and future events as protestors took to the streets and state actors dug in their heels to retain power. These strategic narratives were constructed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Narrative Wars:</title>
+                     <subtitle>Understanding Terrorism in the Era of Global Interconnectedness</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Archetti</surname>
+                           <given-names>Cristina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>218</fpage>
+                  <abstract>
+                     <p>Both in terrorism research and counterterrorism practitioners’ circles “narratives” are<italic>en vogue</italic>. Just to illustrate the extent of their ubiquity on both sides of the Atlantic, the U. K. government’s 2009 antiterrorism strategy identified the narrative of “oppression and victimhood” promoted by al Qaeda (Home Office 2009, 155)—which portrays Muslims around the world as victims of Western aggressors—as the fuel for homegrown extremism (141). The Dutch National Coordinator for Counterterrorism released a whole collection of contributions by academics and researchers about “Countering Violent Extremist Narratives” in 2010. A White House document about preventing violent extremism has more recently</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.13</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Filling the Narrative Vacuum in a Global Crisis:</title>
+                     <subtitle>Japan’s Triple Disaster</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Loughlin</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>246</fpage>
+                  <abstract>
+                     <p>The silhouette of the triple disasters striking Japan in March 2011 had loomed large for several decades in Japan (cf. Kittler 2010, 25). The country is regularly beset with natural disasters, while the iconography of nuclear energy and disaster is embedded in Japanese culture through the mushroom clouds of Hiroshima, the films of Godzilla (Kirby 2011), and Katsuhiro Otomo’s 2005 film<italic>Steamboy</italic>(see Sotinel 2011). Its material infrastructure is as prepared as any for earthquakes (Kingston 2012, 2). Risk was known and anticipated. On March 11 the fourth largest earthquake reported globally since 1900 hit in the sea just east</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.14</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Understanding International Order and Power Transition:</title>
+                     <subtitle>A Strategic Narrative Approach</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Miskimmon</surname>
+                           <given-names>Alister</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Loughlin</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>276</fpage>
+                  <abstract>
+                     <p>Understanding continuity and change in international order is a central question in the study of International Relations. IR theories conceptualize order in different ways. Each theory underpins a narrative about how an effective resolution to obstacles or tensions in the international system can be reached and stability secured. Neorealists conceive order as the result of power balances in the international system between dominant states (Waltz 1979). The English school conceives order being built on a “society of states” (Bull 2002; Linklater and Suganami 2006; Linklater 2007). Koivisto and Dunne (2010, 615) suggest that “for English School internationalists, the problem with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.15</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Conclusions</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Miskimmon</surname>
+                           <given-names>Alister</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Loughlin</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roselle</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>This volume has made three advances in the study of international relations and communication. First, the chapters show the<italic>durability</italic>of the strategic narrative concept. They demonstrate how the dynamics of formation, projection, and reception and our three narrative types operate across a range of case studies. Second, the volume illustrates the inclusivity of the strategic narrative approach. Authors explored different points on the spectrum of persuasion without guidance from the editors, in ways that enrich our understanding of how influence works. Third, the volume shows the continued<italic>potential</italic>of the strategic narrative approach. All authors added ideas beyond what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.16</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>325</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.6504652.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>329</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

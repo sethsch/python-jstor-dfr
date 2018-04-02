@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revilibrfundcaja</journal-id>
+         <journal-id journal-id-type="jstor">j50000462</journal-id>
+         <journal-title-group>
+            <journal-title>Revista de libros de la Fundación Caja Madrid</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Fundación Caja de Madrid</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">1698532X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">30231186</article-id>
+         <title-group>
+            <article-title>Los cuatro fantásticos y Derek Walcott: En el Basurero de la Historia</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Eduardo</given-names>
+                  <surname>Lago</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>2008</year>
+         </pub-date>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">138</issue>
+         <issue-id>i30231168</issue-id>
+         <fpage>42</fpage>
+         <lpage>43</lpage>
+         <product>
+            <source>La maravillosa vida breve de Óscar Wao</source>
+            <string-name>
+               <given-names>Junot</given-names>
+               <surname>Díaz</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 2006 de las reproducciones autorizados: VEGAP</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/30231186"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>spa</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

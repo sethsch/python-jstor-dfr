@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abaco</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000969</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Ábaco</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Centro de Iniciativas Culturales y Sociales</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">02136252</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>journal-series-title</meta-name>
+               <meta-value>2 Epoca</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41219229</article-id>
+         <title-group>
+            <article-title>RESTAURACIÓN DEL ARTE MESTIZO: NINGÚN "APOCALÍPTICO" Y MENOS "INTEGRADOS"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>LLUIS XABEL</given-names>
+                  <surname>ÁLVAREZ</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2008</year>
+         </pub-date>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">58</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40054885</issue-id>
+         <fpage>62</fpage>
+         <lpage>74</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41219229"/>
+         <abstract>
+            <p>El libro "Apocalípticos e integrados" (1965), de Umberto Eco ha sido con frecuencia mal entendido, sobre todo en España. Los dos conceptos enfrentados no se refieren a posiciones políticas sino a las posiciones estéticas de aquella década ante el fenómeno creciente de la influencia de los medios de masas y su incidencia en el fenómeno estético. Este fragmento o esbozo de ensayo trata de mostrar a través del cotejo de los puntos de vista sobre el arte contemporáneo de Arthur Danto y de Joseph Margolis cómo y hasta qué punto ha evolucionado la propuesta clasificatoria de Eco en estos cuarenta y tres años transcurridos, con referencias también a las peculiaridades, al respecto, de la estética hispana. La conclusión va en el sentido de que la "integración" de los medios es un hecho consumado para la estética.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>spa</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

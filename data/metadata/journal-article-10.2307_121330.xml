@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">procnatiacadscie</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100014</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Proceedings of the National Academy of Sciences of the United States of America</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>National Academy of Sciences of the United States of America</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00278424</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">121330</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Biological Sciences</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>IL-18, Although Antiallergic When Administered with IL-12, Stimulates IL-4 and Histamine Release by Basophils</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Tomohiro</given-names>
+                  <surname>Yoshimoto</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Hiroko</given-names>
+                  <surname>Tsutsui</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Kouji</given-names>
+                  <surname>Tominaga</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Katsuaki</given-names>
+                  <surname>Hoshino</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Haruki</given-names>
+                  <surname>Okamura</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Shizuo</given-names>
+                  <surname>Akira</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>William E.</given-names>
+                  <surname>Paul</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Kenji</given-names>
+                  <surname>Nakanishi</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>23</day>
+            <month>11</month>
+            <year>1999</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">96</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">24</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i207175</issue-id>
+         <fpage>13962</fpage>
+         <lpage>13966</lpage>
+         <page-range>13962-13966</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1993-1999 National Academy of Sciences of the United States of America</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/121330"/>
+         <abstract>
+            <p>IL-18 is a proinflammatory cytokine that plays an important role in natural killer cell activation and T helper 1 (Th1) cell responses. Mast cells and basophils are major inducers and effectors of allergic inflammation. Here we show that basophils and mast cells derived by culture of bone marrow cells with IL-3 for 10 days express IL-18Rα chain and that basophils produce large amounts of IL-4 and IL-13 in response to stimulation with IL-3 and IL-18. Injection of IL-12 and IL-18 inhibits IgE production in helminth-infected wild-type mice and abolishes the capacity of their basophils to produce IL-4 and IL-13 in response to stimulation either with IL-3 and IL-18 or with Fcε R cross-linkage. By contrast, this combination of cytokines actually increases IgE levels in helminth-infected IFN-γ -/- mice and enhances IL-4 and IL-13 production by their basophils. Furthermore, injection of IL-18 alone enhances basophil production of IL-4 and histamine both in wild-type and IFN-γ -/- mice. Thus, IL-18 has the potential to stimulate basophils but, when given with IL-12, exhibits an antiallergic action in vivo.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Immunology</kwd>
+         </kwd-group>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>[Endnotes]</title>
+         <ref id="d1260e269a1310">
+            <label>1</label>
+            <mixed-citation id="d1260e276" publication-type="journal">
+Okamura, H., Tsutsui, H., Komatsu, T., Yutsudo, M., Hakura, A., Tanimoto,
+T., Torigoe, K., Okura, T., Nukada, Y., Hattori, K., et al. (1995) Nature
+(London)378, 88-91.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Okamura</surname>
+                  </string-name>
+               </person-group>
+               <fpage>88</fpage>
+               <volume>378</volume>
+               <source>Nature (London)</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e311a1310">
+            <label>2</label>
+            <mixed-citation id="d1260e318" publication-type="journal">
+Ushio, S., Namba, M., Okura, T., Hattori, K., Nukada, Y., Akita, K., Tanabe,
+F., Konishi, K., Micallef, M., Fujii, M., et al. (1996) J. Immunol.156,4274-4279.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ushio</surname>
+                  </string-name>
+               </person-group>
+               <fpage>4274</fpage>
+               <volume>156</volume>
+               <source>J. Immunol.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e350a1310">
+            <label>3</label>
+            <mixed-citation id="d1260e357" publication-type="journal">
+Okamura, H., Tsutsui, H., Kashiwamura, S.-I., Yoshimoto, T. &amp; Nakanishi, K.
+(1998) Adv. Immunol.70, 281-312.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Okamura</surname>
+                  </string-name>
+               </person-group>
+               <fpage>281</fpage>
+               <volume>70</volume>
+               <source>Adv. Immunol.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e389a1310">
+            <label>4</label>
+            <mixed-citation id="d1260e396" publication-type="journal">
+Kohno, K., Kataoka, J., Ohtsuki, T., Suemoto, Y., Okamoto, I., Usui, M., Ikeda,
+M. &amp; Kurimoto, M. (1997) J. Immunol.158, 1541-1550.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kohno</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1541</fpage>
+               <volume>158</volume>
+               <source>J. Immunol.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e429a1310">
+            <label>5</label>
+            <mixed-citation id="d1260e436" publication-type="journal">
+Robinson, D., Shibuya, K., Mui, A., Zonin, F., Murphy, E., Sana, T., Hartley,
+S. B., Menon, S., Kastelein, R., Bazan, F., et al. (1997) Immunity7, 571-581.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Robinson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>571</fpage>
+               <volume>7</volume>
+               <source>Immunity</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e468a1310">
+            <label>6</label>
+            <mixed-citation id="d1260e475" publication-type="journal">
+Yoshimoto, T., Takeda, K., Tanaka, T., Ohkusu, K., Kasiwamura, S.-I.,
+Okamura, H., Akira, S. &amp; Nakanishi, K. (1998) J. Immunol.161, 3400-3407.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Yoshimoto</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3400</fpage>
+               <volume>161</volume>
+               <source>J. Immunol.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e507a1310">
+            <label>7</label>
+            <mixed-citation id="d1260e514" publication-type="journal">
+Dao, T., Ohashi, K. &amp; Kayano, T. (1996) Cell. Immunol.173, 230-235.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Dao</surname>
+                  </string-name>
+               </person-group>
+               <fpage>230</fpage>
+               <volume>173</volume>
+               <source>Cell. Immunol.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e543a1310">
+            <label>8</label>
+            <mixed-citation id="d1260e550" publication-type="journal">
+Tsutsui, H., Nakanishi, K., Matsui, K., Higashino, K., Okamura, H., Miyazawa,
+Y. &amp; Kaneda, K. (1996) J. Immunol.157, 3967-3973.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Tsutsui</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3967</fpage>
+               <volume>157</volume>
+               <source>J. Immunol.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e582a1310">
+            <label>9</label>
+            <mixed-citation id="d1260e589" publication-type="journal">
+Torigoe, K., Ushio, S., Okura, T., Kobayashi, S., Taniai, M., Kunikata, T.,
+Murakami, T., Sanou, O., Kojima, H., Fuji, M., et al. (1997) J. Biol. Chem.272,
+25737-25742.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Torigoe</surname>
+                  </string-name>
+               </person-group>
+               <fpage>25737</fpage>
+               <volume>272</volume>
+               <source>J. Biol. Chem.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e624a1310">
+            <label>10</label>
+            <mixed-citation id="d1260e631" publication-type="journal">
+Born, T. L., Thomassen, E., Bird, T. A. &amp; Sims, J. E. (1998) J. Biol. Chem.273,
+29445-29450.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Born</surname>
+                  </string-name>
+               </person-group>
+               <fpage>29445</fpage>
+               <volume>273</volume>
+               <source>J. Biol. Chem.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e664a1310">
+            <label>11</label>
+            <mixed-citation id="d1260e671" publication-type="journal">
+Dinarello, C. A. (1999) J. Allergy Clin. Immunol.103, 11-24.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Dinarello</surname>
+                  </string-name>
+               </person-group>
+               <fpage>11</fpage>
+               <volume>103</volume>
+               <source>J. Allergy Clin. Immunol.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e700a1310">
+            <label>12</label>
+            <mixed-citation id="d1260e707" publication-type="journal">
+Xu, D., Chan, W. L., Leung, B. P., Hunter, D., Schulz, K., Carter, R. W.,
+McInnes, I. B., Robinson, J. H. &amp; Liew, F. Y. (1998) J. Exp. Med.188,
+1485-1492.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Xu</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1485</fpage>
+               <volume>188</volume>
+               <source>J. Exp. Med.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e742a1310">
+            <label>13</label>
+            <mixed-citation id="d1260e749" publication-type="journal">
+Hyodo, Y., Matsui, K., Hayashi, N., Tsutsui, H., Kashiwamura, S.-I., Yamauchi,
+H., Hiroishi, K., Takeda, K., Tagawa, Y.-I., Iwakura, Y., et al. (1999) J. Im-
+munol.162, 1662-1668.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Hyodo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1662</fpage>
+               <volume>162</volume>
+               <source>J. Immunol.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e784a1310">
+            <label>14</label>
+            <mixed-citation id="d1260e791" publication-type="journal">
+Hoshino, T., Wiltrout, R. H. &amp; Young, H. A. (1999) J. Immunol.162,
+5070-5077.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Hoshino</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5070</fpage>
+               <volume>162</volume>
+               <source>J. Immunol.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e823a1310">
+            <label>15</label>
+            <mixed-citation id="d1260e832" publication-type="journal">
+Yoshimoto, T., Okamura, H., Tagawa, Y.-I., Iwakura, Y. &amp; Nakanishi, K.
+(1997) Proc. Natl. Acad. Sci. USA94, 3948-3953.<object-id pub-id-type="jstor">10.2307/41936</object-id>
+               <fpage>3948</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e848a1310">
+            <label>16</label>
+            <mixed-citation id="d1260e855" publication-type="journal">
+Paul, W. E., Seder, R. A. &amp; Plaut, M. (1993) Adv. Immunol.53, 1-29.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Paul</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>53</volume>
+               <source>Adv. Immunol.</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e885a1310">
+            <label>17</label>
+            <mixed-citation id="d1260e892" publication-type="journal">
+Costa, J. J., Weller, P. F. &amp; Galli, S. J. (1997) J. Am. Med. Assoc.278, 1815-1822.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Costa</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1815</fpage>
+               <volume>278</volume>
+               <source>J. Am. Med. Assoc.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e921a1310">
+            <label>18</label>
+            <mixed-citation id="d1260e928" publication-type="book">
+Galli, S. J. &amp; Lantz, C. S. (1999) in Fundamental Immunology, ed. Paul, W. E.
+(Lippincott, Philadelphia), 4th Ed., pp. 1137-1184.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Galli</surname>
+                  </string-name>
+               </person-group>
+               <edition>4</edition>
+               <fpage>1137</fpage>
+               <source>Fundamental Immunology</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e960a1310">
+            <label>19</label>
+            <mixed-citation id="d1260e967" publication-type="journal">
+Plaut, M., Pierce, J. H., Watson, C. J., Hanley-Hyde, J., Nordan, R. P. &amp; Paul,
+W. E. (1989) Nature (London)339, 64-67.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Plaut</surname>
+                  </string-name>
+               </person-group>
+               <fpage>64</fpage>
+               <volume>339</volume>
+               <source>Nature (London)</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e999a1310">
+            <label>20</label>
+            <mixed-citation id="d1260e1006" publication-type="journal">
+Burd, P. R., Rogers, H. W., Gordon, J. R., Martin, C. A., Jayaraman, S., Wilson,
+S. D., Dvorak, A. M., Galli, S. J. &amp; Dorf, M. E. (1989)J. Exp. Med.170, 245-257.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Burd</surname>
+                  </string-name>
+               </person-group>
+               <fpage>245</fpage>
+               <volume>170</volume>
+               <source>J. Exp. Med.</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1038a1310">
+            <label>21</label>
+            <mixed-citation id="d1260e1045" publication-type="journal">
+Seder, R. A., Plaut, M., Barbieri, S., Urban, J., Jr., Finkelman, F. D. &amp; Paul,
+W. E. (1991) J. Immunol.147, 903-909.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Seder</surname>
+                  </string-name>
+               </person-group>
+               <fpage>903</fpage>
+               <volume>147</volume>
+               <source>J. Immunol.</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1077a1310">
+            <label>22</label>
+            <mixed-citation id="d1260e1084" publication-type="journal">
+Seder, R. A., Paul, W. E., Dvorak, A. M., Sharkis, S. J., Kagey-Sobotka, A., Niv,
+Y., Finkelman, F. D., Barbieri, S. A., Galli, S. J. &amp; Plaut, M. (1991) Proc. Natl.
+Acad. Sci. USA88, 2835-2839.<object-id pub-id-type="jstor">10.2307/2356281</object-id>
+               <fpage>2835</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1104a1310">
+            <label>23</label>
+            <mixed-citation id="d1260e1111" publication-type="journal">
+Burd, P. R., Thompson, W. C., Max, E. E. &amp; Mills, F. C. (1995) J. Exp. Med.
+181, 1373-1380.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Burd</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1373</fpage>
+               <volume>181</volume>
+               <source>J. Exp. Med.</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1143a1310">
+            <label>24</label>
+            <mixed-citation id="d1260e1150" publication-type="journal">
+Ochensberger, B., Daepp, G. C., Rihs, S. &amp; Dahinden, C. A. (1996) Blood88,
+3028-3037.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ochensberger</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3028</fpage>
+               <volume>88</volume>
+               <source>Blood</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1182a1310">
+            <label>25</label>
+            <mixed-citation id="d1260e1189" publication-type="journal">
+Hoshino, K., Tsutsui, H., Kawai, T., Takeda, K., Nakanishi, K., Takeda, Y, &amp;
+Akira, A. (1999) J. Immunol.162, 5041-5044.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Hoshino</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5041</fpage>
+               <volume>162</volume>
+               <source>J. Immunol.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1221a1310">
+            <label>26</label>
+            <mixed-citation id="d1260e1228" publication-type="journal">
+Dvorak, A. M., Seder, R. A., Paul, W. E., Morgan, E. S. &amp; Galli, S. J. (1994)
+Am. J. Pathol.144, 160-170.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Dvorak</surname>
+                  </string-name>
+               </person-group>
+               <fpage>160</fpage>
+               <volume>144</volume>
+               <source>Am. J. Pathol.</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1260a1310">
+            <label>27</label>
+            <mixed-citation id="d1260e1267" publication-type="journal">
+Kinzer, C. A., Keegan, A. D. &amp; Paul, W. E. (1995) J. Exp. Med.182, 575-579.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kinzer</surname>
+                  </string-name>
+               </person-group>
+               <fpage>575</fpage>
+               <volume>182</volume>
+               <source>J. Exp. Med.</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1296a1310">
+            <label>28</label>
+            <mixed-citation id="d1260e1303" publication-type="journal">
+Dvorak, A. M. (1997) Int. Arch. Allergy. Immunol.114, 1-9.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Dvorak</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>114</volume>
+               <source>Int. Arch. Allergy. Immunol.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1333a1310">
+            <label>29</label>
+            <mixed-citation id="d1260e1340" publication-type="journal">
+Conrad, D. H., Ben-Sasson, S. Z., Le Gros, G., Finkelman, F. D. &amp; Paul, W. E.
+(1990) J. Exp. Med.171, 1497-1508.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Conrad</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1497</fpage>
+               <volume>171</volume>
+               <source>J. Exp. Med.</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1372a1310">
+            <label>30</label>
+            <mixed-citation id="d1260e1379" publication-type="journal">
+Tsutsui, H., Matsui, K., Kawada, N., Hyodo, Y., Hayashi, N., Okamura, H.,
+Higashino, K. &amp; Nakanishi, K. (1997) J. Immunol.159, 3961-3967.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Tsutsui</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3961</fpage>
+               <volume>159</volume>
+               <source>J. Immunol.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1260e1411a1310">
+            <label>31</label>
+            <mixed-citation id="d1260e1418" publication-type="journal">
+Gauchat, J. F., Henchoz, S., Mazzei, G., Aubry, J. P., Brunner, T., Blasey, H.,
+Life, P., Talabot, D., Flores-Romo, L., Thompson, J., et al. (1993) Nature
+(London)365, 340-343.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Gauchat</surname>
+                  </string-name>
+               </person-group>
+               <fpage>340</fpage>
+               <volume>365</volume>
+               <source>Nature (London)</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.cttttgm5</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL857.A3683Z75 2011</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nakagami Kenji</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">
+            <italic>Buraku</italic> people in literature</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Other (Philosophy) in literature</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Nakagami, Japan</book-title>
+         <subtitle>Buraku and the Writing of Ethnicity</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>McKnight</surname>
+               <given-names>Anne</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>02</day>
+         <month>03</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780816672851</isbn>
+      <isbn content-type="ppub">0816672857</isbn>
+      <isbn content-type="epub">9780816677009</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>Minneapolis; London</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.5749/j.cttttgm5"/>
+      <abstract abstract-type="short">
+         <p>Anne McKnight shows how Nakagami Kenji’s exploration of buraku writing led to a unique blend of fiction and ethnography—and a reimagining of modern Japanese literature. McKnight develops a parallax view of Nakagami’s achievement, allowing us to see the writer much as he saw himself, as a writer whose accomplishments traversed both buraku literary arts and high literary culture in Japan.</p>
+      </abstract>
+      <counts>
+         <page-count count="296"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>I Is an Other</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>How do you write yourself into a literature that doesn’t seem to know you exist? In 1990, shortly before his death, Nakagami Kenji gave a speech at the Frankfurt Book Fair on precisely that subject. His talk was titled “Am I Japanese?”—a question that may have seemed odd to his listeners, most of whom had come to hear the musings of an “insider” of Japanese literature.¹ Instead, Nakagami presented a parallax view of Japanese literary history and his own place in that world.</p>
+                     <p>In his Frankfurt lecture, Nakagami describes the experience of living between a world of vernacular oral</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>An Archive of Activism</title>
+                  </title-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>The most important task carried out by early twentieth-century<italic>buraku</italic>activist thinkers was crafting a history of their own that would establish a place for the<italic>buraku</italic>within a national historiography. While the Meiji government made efforts to create a body of citizens that was less stratified than it had been under the Tokugawa status system, ethnologists and writers began to consolidate and narrate history. Three years after the Meiji Restoration, in 1871, the Meiji government issued a decree that eliminated the two outcast groups that sat outside of the Tokugawa status system and composed the “abject classes” (<italic>senmin</italic>):<italic>eta</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Confession and the Crisis of Buraku Writing in the 1970s</title>
+                  </title-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>This chapter shows how the theme of confession preoccupied writers in the 1970s who sought to place<italic>buraku</italic>settings and characters at the center of their work. Since<italic>The Broken Commandment</italic>, confession had been an instrumental part of literary characterization—and a heavily freighted one—for representing<italic>buraku</italic>characters and adjudicating how they fit in terms of national belonging. The confessional narrative pioneered in<italic>The Broken Commandment</italic>is a set-piece in which the<italic>buraku</italic>character reveals a long-held secret of his identity, one that is pent up but has guided his life as a young adult. The confession provokes immediate</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Constituents of National Literature</title>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>In 1955, five years after winning the Nobel Prize, William Faulkner visited Japan as a guest of the U.S. State Department’s Exchange of Persons Division. He later described himself and his Japanese hosts as “two people running at top speed on the opposite sides of a plate-glass window.”¹ Despite or because of this disconnect, his works became perhaps the most attentively interpreted pieces of American literature in the postwar Japanese academy. Japanese scholar of American literature Owada Eiko notes, “Roughly speaking, there is at least one—or more in many cases—professor who can teach Faulkner in a graduate program</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Inaudible Man</title>
+                  </title-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>In a 1968 novella titled<italic>On the Japanese Language</italic>(<italic>Nihongo ni tsuite</italic>), Nakagami takes received tradition from both African American and<italic>buraku</italic>writings and puts it in the service of a modernist first-person narrative.¹ This chapter focuses on a set of close readings to explore how these allusions are woven into the text of<italic>On the Japanese Language</italic>to bear specific reference to Japan’s alignment in the Vietnam War.² I explore the role of “namelessness” that appears in James Baldwin’s 1961 essay collection<italic>Nobody Knows My Name</italic>, the “invisibility” of Ralph Ellison’s 1952 novel, and the key rhetorical device from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>The 38th Parallax:</title>
+                     <subtitle>Nakagami in/and Korea</subtitle>
+                  </title-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>The ideas of exchange and exile punctuated Nakagami’s works. During a period of intense travel beginning in the late 1970s, he transposed these questions from the immediate domestic context of Kumano and<italic>kokubungaku</italic>(national literature) to the regional context of East Asia. He paid special attention to the national context of Korea, itself fraught with ideas of Southernness—divided by a border from the North, a former “South” of Japan’s imperial reach and emerging from its position in the global South to become a modern industrialized nation. Between 1978 and 1985, Nakagami visited Korea seven times and traveled extensively from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Subculture and the South</title>
+                  </title-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>Distribution of fan-based subcultures like character goods and anime has flourished outside Japan since the mid-1990s. At the same time, most new research and venues that explore these new subculture exchanges and their social forms have almost entirely dropped prose fiction from their analysis.¹ The Superflat aesthetic comes from the field of visual fine arts.² “Cool” comes from discussions of soft power in international relations circles and in both Asian and Asian American contexts draws on cultural forms “from pop music to consumer electronics, architecture to fashion, and animation to cuisine.”³ Discussions of fan culture focus on the worlding qualities</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.11</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>I began<italic>Nakagami, Japan</italic>by showing how the notion of parallax was integral to Nakagami’s writing and how his doubled point of view attempted to run counter to the myth of Japan’s postwar world as a monocultural, homogenous society that prevailed in the 1970s and 1980s. Parallax provided a way to talk about the two viewing positions of<italic>buraku</italic>and mainstream that helped shape the contours of Nakagami’s biography as well as the two audiences who clustered around his work, readers of fine fiction and discursive readers familiar with an archive of<italic>buraku</italic>rhetorical activism. It also provided a way</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.12</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.13</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>271</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttgm5.14</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>283</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

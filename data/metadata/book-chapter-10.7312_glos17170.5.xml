@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt125w0r</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/glos17170</book-id>
+      <subj-group>
+         <subject content-type="call-number">DS849.K6S68 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">Foreign relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">Korea (South)</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Korea (South)</subject>
+         <subj-group>
+            <subject content-type="lcsh">Foreign relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">Japan</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Group identity</subject>
+         <subj-group>
+            <subject content-type="lcsh">Political aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">Japan</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Group identity</subject>
+         <subj-group>
+            <subject content-type="lcsh">Political aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">Korea (South)</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">National characteristics, Japanese</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">National characteristics, Korean</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">United States</subject>
+         <subj-group>
+            <subject content-type="lcsh">Foreign relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">Japan</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">Foreign relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">United States</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">United States</subject>
+         <subj-group>
+            <subject content-type="lcsh">Foreign relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">Korea (South)</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Korea (South)</subject>
+         <subj-group>
+            <subject content-type="lcsh">Foreign relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">United States</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Japan-South Korea Identity Clash</book-title>
+         <subtitle>East Asian Security and the United States</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>GLOSSERMAN</surname>
+               <given-names>BRAD</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>SNYDER</surname>
+               <given-names>SCOTT A .</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>26</day>
+         <month>05</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9780231539289</isbn>
+      <isbn content-type="epub">0231539282</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/glos17170"/>
+      <abstract abstract-type="short">
+         <p>Japan and South Korea are Western-style democracies with open-market economies committed to the rule of law. They are also U.S. allies. Yet despite their shared interests, shared values, and geographic proximity, divergent national identities have driven a wedge between them. Drawing on decades of expertise, Brad Glosserman and Scott Snyder investigate the roots of this split and its ongoing threat to the region and the world.</p>
+         <p>Glosserman and Snyder isolate competing notions of national identity as the main obstacle to a productive partnership between Japan and South Korea. Through public opinion data, interviews, and years of observation, they show how fundamentally incompatible, rapidly changing conceptions of national identity in Japan and South Korea--and not struggles over power or structural issues--have complicated territorial claims and international policy. Despite changes in the governments of both countries and concerted efforts by leading political figures to encourage US-ROK-Japan security cooperation, the Japan-Korea relationship continues to be hobbled by history and its deep imprint on ideas of national identity. This book recommends bold, policy-oriented prescriptions for overcoming problems in Japan-Korea relations and facilitating trilateral cooperation among these three Northeast Asian allies, recognizing the power of the public on issues of foreign policy, international relations, and the prospects for peace in Asia.</p>
+      </abstract>
+      <counts>
+         <page-count count="240"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>VII</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>IX</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>THE JAPAN–SOUTH KOREA DIVIDE</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>AMERICA’S ALLIANCES WITH SOUTH KOREA AND JAPAN HAVE succeeded beyond the wildest expectations of their founders. Set up during the early 1950s, these two alliances have established a framework for Asian stability that has kept the peace, enabled prosperity resulting from economic take-offs in Japan and South Korea, and been flexible enough to manage and adapt to domestic political transformations in both countries. A study of alliances since the 1800s shows the average duration of such arrangements lasts just over a decade; these two alliances have survived for over six decades and are still going strong.¹</p>
+                     <p>They survived the Cold</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>JAPAN’S IDENTITY CRISIS</title>
+                  </title-group>
+                  <fpage>22</fpage>
+                  <abstract>
+                     <p>CONFUSION I S TO BE EXPECTED. WHETHER THE OPERATIVE time span is 150 years, 75 years, or 35 years, Japan has spiraled through a series of ups and downs that have shaken the nation to its core, along with Japanese notions of national identity. Over the past few decades, the country has gone from world-beater to beaten down, from trendsetter to treading water. At the beginning of 2014, Japan appeared to be enjoying a recovery, one whose durability may well depend on ideas of national identity. A national consensus on power and purpose will help direct the country’s energies in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>SOUTH KOREA’S GROWING CONFIDENCE</title>
+                  </title-group>
+                  <fpage>60</fpage>
+                  <abstract>
+                     <p>THE END OF THE COLD WAR COINCIDED WITH POWERFUL changes in South Korea’s domestic political system. The country’s democratic transition and its international economic emergence occurred at the same time that the Berlin Wall came down and the Soviet Union collapsed. But the end of the superpower competition did not end the longstanding political confrontation on the Korean Peninsula. After Seoul hosted the 1988 Olympics, South Korea’s diplomatic horizons expanded as a result of normalization agreements with the Soviet Union in 1990, Eastern European countries, and eventually the People’s Republic of China in 1992. South Korean president Kim Young Sam</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>CONVERGENCE AND ALIENATION IN JAPAN–SOUTH KOREA RELATIONS</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>IT IS NOT SURPRISING THAT JAPAN–SOUTH KOREA RELATIONS are so complicated, given that Japan invaded and occupied Korea and tried to assimilate Koreans for over three decades during the twentieth century. The psychological scars would be even deeper if not for interceding developments, including the fratricidal Korean War, a bloody fight that relinked Japan and South Korea (from a security perspective) as a result of Japan’s logistical support in the war and the establishment of Japan and South Korea’s parallel alliances with the United States. Perhaps what is even more remarkable is South Korea’s great success by following Japan’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>IMPLICATIONS FOR ALLIANCE MANAGEMENT</title>
+                  </title-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>SINCE THE END OF THE COLD WAR, U.S. STRATEGISTS AND policy makers have recognized that alliances — indeed U.S. engagement with the Asia-Pacific region as a whole — needed to be reevaluated given a new geopolitical environment. As a result, in the 1990s a series of studies provided ample justification for the continuation of the Cold War hub-and-spoke security architecture.¹</p>
+                     <p>While continuity may have made strategic sense, domestic changes within the United States and its allies challenged the strength and perceived value of alliances, making it more difficult to refurbish and modernize those institutions. Domestic political debates in an environment characterized by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>REINVIGORATING TRILATERALISM</title>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>NORTHEAST ASIA IS A REGION OF EXTRAORDINARY VITALITY and change. It is a locus of economic energy and technological dynamism, the place where the top three economies in the world intersect with each other; its democracies are vibrant and evolving; its societies among the most wired in the world, early adapters, and the place where technology and culture are interacting in ways that influence the rest of the world. But while the changes are mesmerizing, it is important to remember that the region enjoys great continuity as well. The Cold War lingers in Northeast Asia: two countries remain divided. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.10</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>181</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.11</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.12</book-part-id>
+                  <title-group>
+                     <title>ABOUT THE AUTHORS</title>
+                  </title-group>
+                  <fpage>217</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">glos17170.13</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>219</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

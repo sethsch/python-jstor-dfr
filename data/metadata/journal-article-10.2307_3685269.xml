@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">substance</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100431</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>SubStance</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Wisconsin Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00492426</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15272095</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.2307/3685269</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reintegrating Reality</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Voyage to Eudoxia: The Emergence of a Post-Rational Epistemology in Literature and Science</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>David</given-names>
+                  <surname>Porush</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">22</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2/3</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i287896</issue-id>
+         <fpage>38</fpage>
+         <lpage>49</lpage>
+         <page-range>38-49</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1993 The Board of Regents of the University of Wisconsin System</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/3685269"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>NOTES</title>
+         <ref id="d722e123a1310">
+            <label>3</label>
+            <mixed-citation id="d722e130" publication-type="journal">
+Calvino's work and its relation to cybernetics in "Cybernetic Fiction
+and Postmodern Science," New Literary History 20, 2 (Winter, 1989) 373-96<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Calvino</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>373</fpage>
+               <volume>20</volume>
+               <source>New Literary History</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e165a1310">
+            <label>4</label>
+            <mixed-citation id="d722e172" publication-type="book">
+Emma Lapidot, Borges and Artificial Intelligence (New York: Peter Lang,
+1991)<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Lapidot</surname>
+                  </string-name>
+               </person-group>
+               <source>Borges and Artificial Intelligence</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+      <ref-list>
+         <title>WORKS CITED</title>
+         <ref id="d722e206a1310">
+            <mixed-citation id="d722e210" publication-type="book">
+Bachelard, Gaston. The New Scientific Spirit. Trans. Arthur Goldhammer. New York:
+Beacon Press, 1984.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bachelard</surname>
+                  </string-name>
+               </person-group>
+               <source>The New Scientific Spirit</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e235a1310">
+            <mixed-citation id="d722e239" publication-type="book">
+Borges, Jorge Luis. "The Aleph," in The Aleph and Other Stories 1933-1969. New York:
+Bantam, 1970.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Borges</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Aleph</comment>
+               <source>The Aleph and Other Stories 1933-1969</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e268a1310">
+            <mixed-citation id="d722e272" publication-type="book">
+Calvino, Italo. Invisible Cities. New York: Harcourt, Brace, Jovanovich, 1974.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Calvino</surname>
+                  </string-name>
+               </person-group>
+               <source>Invisible Cities</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e294a1310">
+            <mixed-citation id="d722e298" publication-type="book">
+von Neumann, John. The Computer and the Brain. New Haven: Yale University Press,
+1956.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>von Neumann</surname>
+                  </string-name>
+               </person-group>
+               <source>The Computer and the Brain</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

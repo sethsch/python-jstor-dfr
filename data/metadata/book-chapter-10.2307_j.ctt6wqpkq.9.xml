@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqpkq</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL740.65.D45S43 2004</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Detective and mystery stories, Japanese</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">Women authors</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Bodies of Evidence</book-title>
+         <subtitle>Women, Society, and Detective Fiction in 1990s Japan</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Seaman</surname>
+               <given-names>Amanda C.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>28</day>
+         <month>02</month>
+         <year>2004</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824827366</isbn>
+      <isbn content-type="epub">9780824861667</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2004</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqpkq"/>
+      <abstract abstract-type="short">
+         <p>The publication in 1992 of Miyabe Miyuke’s highly anticipated Kasha (translated into English as All She Was Worth) represents a watershed in the history of Japanese women’s detective fiction. Inspired by Miyabe’s success and the increasing number of Western mysteries in translation, women began writing mysteries of all types, employing the narrative and conceptual resources of the detective genre to depict and critique contemporary Japanese society—and the situation of women in it. Bodies of Evidence examines this recent boom and the ways in which five contemporary authors (Miyabe, Nonami Asa, Shibata Yoshiki, Kirino Natsuo, and Matsuo Yumi) critically engage with a variety of social issues and concerns: consumerism and the crisis of identity, discrimination and harassment in the workplace, sexual harassment and sexual violence, and motherhood. Bodies of Evidence moves beyond the borders of detective fiction scholarship by exploring the worlds constructed by these authors in their novels and showing how they intersect with other political, cultural, and economic discourses and with the lived experiences of contemporary Japanese women.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In 1992, Miyabe Miyuki’s<italic>Kasha</italic>(Cart of fire, translated into English as<italic>All She Was Worth</italic>) was the most anticipated novel of the season. This prizewinning detective novel solidified Miyabe’s reputation as one of Japan’s top mystery writers, made it to the top of almost every “best mystery” list, and was even lauded as one of the “best novels of postwar Japan” by an eminent social critic.¹<italic>Kasha</italic>was more than just a good story about a missing woman and her mysterious identity; it was an examination of pressing social issues gripping Japan: personal bankruptcy, the deleterious effects of rampant</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>A Home of One′s Own:</title>
+                     <subtitle>Identity, Community, and Nostalgia in Miyabe Miyuki′s All She Was Worth</subtitle>
+                  </title-group>
+                  <fpage>26</fpage>
+                  <abstract>
+                     <p>Miyabe Miyuki is perhaps the best known and most popular female mystery writer in Japan today, an author whose works (unlike those of the other writers considered in subsequent chapters) do not feature a female detective. As I will demonstrate in the following pages, this writer, who explicitly avoids using women as her main characters, ends up creating a nuanced if problematic vision of their place within modern Japanese society—a vision substantially at odds with that of some of Miyabe’s well-known literary contemporaries.</p>
+                     <p>Billing herself as an “entertainment writer,” Miyabe insists that she is not limited by genre and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Office(r) Ladies:</title>
+                     <subtitle>Police Work as Women′s Work</subtitle>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>For women writers attempting to create a strong and believable female detective, the combustible issues of sex and gender loom large. The author must address a number of difficult questions in her attempt to situate her character in a setting that resonates with how readers perceive the world to be. How, for instance, does a woman’s presence in the workplace affect the men around her, who have spent years steeling themselves from the horrors with which they deal on a daily basis? How does a female character deal with the often sordid world of crime, in which women too often</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Sex and Violence:</title>
+                     <subtitle>Is That a Gun in Your Pocket, or Are You Just Happy to See Me?</subtitle>
+                  </title-group>
+                  <fpage>86</fpage>
+                  <abstract>
+                     <p>In 1993, Kirino Natsuo’s first novel in the Murano Miro series,<italic>Kao ni furikakaru ame</italic>, won the Edogawa Rampo Prize for best mystery. The most notable feature of this novel and those that followed was their protagonist, the hard-boiled female private eye Murano Miro, a woman whose independence and toughness resemble those of her sister detectives across the Pacific.¹ The series, which describes Miro’s transformation into a professional detective, was the first to feature a heroine who takes charge of her own relationships. In the debut novel, Miro’s search through the gritty underside of Tokyo for a missing friend plunges</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Sexing the City:</title>
+                     <subtitle>Bodies and Space in the Work of Matsuo Yumi</subtitle>
+                  </title-group>
+                  <fpage>119</fpage>
+                  <abstract>
+                     <p>Matsuo Yumi’s 1994 collection of short stories,<italic>Baruun Taun no satsujin</italic>(Murder in Balloon Town, 1994), is set in a Tokyo of the near future divided into special wards, each dedicated to a specific function such as industrial production or commercial activities. One of these is the Special Seventh Ward, nicknamed “Balloon Town”—a place designated for pregnant women who leave their homes and families to live in this ward before they give birth. The stories in<italic>Murder in Balloon Town</italic>focus upon the resolution of a crime through the discovery of one key clue, a discovery that requires the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.9</book-part-id>
+                  <title-group>
+                     <title>Afterword</title>
+                  </title-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>Bobbie Ann Mason has suggested that detective fiction is like a sonnet, “endless variations on an inflexible form.”¹ We have traced these variations in the work of Miyabe Miyuki, Nonami Asa, Shibata Yoshiki, Kirino Natsuo, and Matsuo Yumi. While these writers have in some ways critiqued the structures and assumptions of women’s detective fiction, they also have exploited its resources to discuss issues important to them. In particular, these authors are aware of the socio-critical potential inherent in the genre, an aspect that is not lost on literary critics, who have created the new rubric,<italic>shinhonkaku-ha</italic>, to describe the combination</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.10</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>151</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.11</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>177</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.12</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>191</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqpkq.13</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>197</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/ikle13952</book-id>
+      <subj-group>
+         <subject content-type="call-number">JZ5595.I35 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Security, International</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Technology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Social aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Terrorism</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Radicalism</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nuclear disarmament</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Annihilation from Within</book-title>
+         <subtitle>The Ultimate Threat to Nations</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>IKLÉ</surname>
+               <given-names>FRED CHARLES</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>10</day>
+         <month>10</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="epub">9780231511407</isbn>
+      <isbn content-type="epub">023151140X</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>Fred Charles Iklé</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/ikle13952"/>
+      <abstract abstract-type="short">
+         <p>In this eloquent and impassioned book, defense expert Fred Iklé predicts a revolution in national security that few strategists have grasped; fewer still are mindful of its historic roots. We are preoccupied with suicide bombers, jihadist terrorists, and rogue nations producing nuclear weapons, but these menaces are merely distant thunder that foretells the gathering storm.</p>
+         <p>It is the dark side of technological progress that explains this emerging crisis. Globalization guarantees the spread of new technologies, whether beneficial or destructive, and this proliferation reaches beyond North Korea, Iran, and other rogue states. Our greatest threat is a cunning tyrant gaining possession of a few weapons of mass destruction. His purpose would not be to destroy landmarks, highjack airplanes, or attack railroad stations. He would annihilate a nation's government from within and assume dictatorial power. The twentieth century offers vivid examples of tyrants who have exploited major national disasters by rallying violent followers and intimidating an entire nation.</p>
+         <p>To explain how we have become so vulnerable, Iklé turns to history. Some 250 years ago, science was freed from political and religious constraints, causing a cultural split in which one part of our culture remained animated by religion and politics while the other became guided by science. Since then, technological progress and the evolving political order march to different drummers. Science advances at an accelerating pace while religion and politics move along a zigzag course. This divergence will widen and endanger the survival of all nations.</p>
+         <p>Drawing on his experience as a Washington insider, Iklé outlines practical measures that could readily be implemented to help us avert the worst disaster.</p>
+      </abstract>
+      <counts>
+         <page-count count="160"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.3</book-part-id>
+                  <title-group>
+                     <title>WHAT THIS BOOK IS ABOUT</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>MANKIND’S CULTURAL SPLIT</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>We live at a time of ominous contradictions. Our age is unceasingly revolutionary; yet the human race remains moored to ancient traditions. Technological advances bring us ever more wealth and longer lives; yet they also enable evildoers to inflict cataclysmic destruction. Weapons of mass destruction are feared by all nations; yet the scientific knowledge and wherewithal to make such weapons keeps proliferating across our planet. Every country counts on economic growth and wants to benefit from technological progress, yet this common interest neither blunts the clash of religions nor alleviates enmities between nations. Every one of these fateful contradictions is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>SCIENCE PUSHES US OVER THE BRINK</title>
+                  </title-group>
+                  <fpage>19</fpage>
+                  <abstract abstract-type="extract">
+                     <p>We are awestruck by the continuing advances of science, yet often ambivalent about their impact on our world. Rightly so, because the nuclear age taught us the difficulty, nay the impossibility, of reining in threatening consequences of scientific breakthroughs. Today, it is the life sciences that keep producing successive stunners: a steady increase in longevity; therapeutic uses of stem cells; cloning of a human chimera or even a human being; new bioengineered weapons that can unleash a global pandemic; new applications of biotechnology and neurophysiology to discover the inner workings of the human brain; and eventually the ultimate leap—the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>FIVE LESSONS OF THE NUCLEAR AGE</title>
+                  </title-group>
+                  <fpage>39</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The drama of the nuclear age teaches painful lessons. The continuing spread of nuclear technology is turning into a disaster of unimaginable proportions. It is moving beyond the control of any national policy or international agreements. It is the quintessential expression of mankind’s cultural split—the inability of institutions to rein in runaway science. How did we get pulled into this awful maelstrom? Specifically, how has the United States, originally the possessor of a nuclear monopoly, ended up facing a crisis of extreme vulnerability, a world where ruthless dictators, terrorist organizations, even doomsday cults and anarchists can some day possess</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>ANNIHILATION FROM WITHIN</title>
+                  </title-group>
+                  <fpage>59</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The fall of the roman empire did not empower ruthless cults or crazed anarchists to extirpate law and order in every province of the realm. But such an unprecedented reign of violence might become mankind’s fate in this century. The ineluctable dissemination of technology and scientific discoveries will make nuclear and biological weapons accessible to merciless insurgent movements, small terrorist gangs, secretive anarchist groups, and genocidal doomsday cults. Although some scholars and officials have warned of this peril, nobody so far has gazed into this deep abyss.</p>
+                     <p>During the last few years, the media has published frightening news, based on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>TIME TO GET SERIOUS</title>
+                  </title-group>
+                  <fpage>81</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Our capacity to guide and govern will be indispensable if we are to survive the coming era of proliferating mass destruction weapons. Few strategic planners are aware of the ultimate finality of a nuclear or biological attack from within. And none have yet braved the difficulties of planning for it. Understandably, our political leadership is preoccupied with immediate security problems that clamor for prompt attention. Our intelligence services focus on hostile remnants of Al Qaeda, newly emerging jihadist groups, turmoil and killings in Iraq, a continuing danger of terrorist attacks in Indonesia, Afghanistan, Madrid, London, Jordan, the United States. It</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>RESTORATION</title>
+                  </title-group>
+                  <fpage>101</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The history of the human race is a saga with many sad endings. Down through the centuries, a new beginning has followed each demise and new civilizations have been built on the ruins of the old. Whenever a nation or an empire had lost its power, pride, and glory, the waning societies have been replenished by a new influx of people—or alas, have been superseded by multitudes of barbarians. In any event, the decline and fall of great cultures rarely erased the memories of their splendorous past. We still treasure the literature and philosophy of the Roman Empire, long</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.10</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>109</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.11</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>131</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">ikle13952.12</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>133</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

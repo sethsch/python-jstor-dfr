@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqj0q</book-id>
+      <subj-group>
+         <subject content-type="call-number">DS509.3.K59 2014</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">East Asia</subject>
+         <subj-group>
+            <subject content-type="lcsh">Civilization</subject>
+            <subj-group>
+               <subject content-type="lcsh">20th century</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Women</subject>
+         <subj-group>
+            <subject content-type="lcsh">East Asia</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+               <subj-group>
+                  <subject content-type="lcsh">20th century</subject>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">Colonies</subject>
+            <subj-group>
+               <subject content-type="lcsh">Asia</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Imperialism</subject>
+         <subj-group>
+            <subject content-type="lcsh">Social aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">East Asia</subject>
+               <subj-group>
+                  <subject content-type="lcsh">History</subject>
+                  <subj-group>
+                     <subject content-type="lcsh">20th century</subject>
+                  </subj-group>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Archaeology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>In Transit</book-title>
+         <subtitle>The Formation of a Colonial East Asian Cultural Sphere</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Kleeman</surname>
+               <given-names>Faye Yuan</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>03</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824838607</isbn>
+      <isbn content-type="epub">9780824838614</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>HONOLULU</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqj0q"/>
+      <abstract abstract-type="short">
+         <p>This work examines the creation of an East Asian cultural sphere by the Japanese imperial project in the first half of the twentieth century. It seeks to re-read the "Greater East Asian Co-prosperity Sphere" not as a mere political and ideological concept but as the potential site of a vibrant and productive space that accommodated transcultural interaction and transformation. By reorienting the focus of (post)colonial studies from the macro-narrative of political economy, military institutions, and socio-political dynamics, it uncovers a cultural and personal understanding of life within the Japanese imperial enterprise.To engage with empire on a personal level, one must ask: What made ordinary citizens participate in the colonial enterprise? What was the lure of empire? How did individuals not directly invested in the enterprise become engaged with the idea? Explanations offered heretofore emphasize the potency of the institutional or ideological apparatus. Faye Kleeman asserts, however, that desire and pleasure may be better barometers for measuring popular sentiment in the empire-what Raymond Williams refers to as the "structure of feeling" that accompanied modern Japan's expansionism. This particular historical moment disseminated common cultural perceptions and values (whether voluntarily accepted or forcibly inculcated). Mediated by a shared aspiration for modernity, a connectedness fostered by new media, and a mobility that encouraged travel within the empire, an East Asian contact zone was shared by a generation and served as the proto-environment that presaged the cultural and media convergences currently taking place in twenty-first-century Northeast Asia.The negative impact of Japanese imperialism on both nations and societies has been amply demonstrated and cannot be denied, but<italic>In Transit</italic>focuses on the opportunities and unique experiences it afforded a number of extraordinary individuals to provide a fuller picture of Japanese colonial culture. By observing the empire-from Tokyo to remote Mongolia and colonial Taiwan, from the turn of the twentieth century to the postwar era-through the diverse perspectives of gender, the arts, and popular culture, it explores an area of colonial experience that straddles the public and the private, the national and the personal, thereby revealing a new aspect of the colonial condition and its postcolonial implications.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Modernity, Colonialism, and the Formation of a Cultural Empire</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In<italic>Around the World in 80 Days</italic>(1873), Jules Verne created the “most perfect gentleman of English society,” the righteous Phileas Fogg, Esq., who romped across continents and seas to win a 20,000 pound wager. Verne created this particular character to act out the fantasies and dreams of his readers. The fascination with the potential of modern technology, including trains, steamers, and hot air balloons (in the filmic version but not in the book), that Verne explored in the adventurous tale was backed by the actual circumstances of the completion of the transcontinental railway in the United States and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Miyazaki Tōten:</title>
+                     <subtitle>The Last Revolutionary Rebel</subtitle>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>Despite centuries of sharing a written language and a rich cultural heritage, modern East Asia since the turn of the twentieth century has been the site of tensions and antagonisms that have led to bitter conflicts and even all-out warfare. Japan’s expansionist ambitions and the subsequent imperial project destabilized the status quo of a Sinocentric, continentally oriented geopolitical order. Its colonization of Taiwan, Korea, and subsequently many other Asian nations and regions further disrupted existing historical connections, and the aftereffects of these disruptions surface periodically in the form of diplomatic conflicts. At the popular level, the discourse on Sino–Japanese</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Kawahara Misako:</title>
+                     <subtitle>Daughter, Teacher, Good Wife, Wise Mother, and Spy</subtitle>
+                  </title-group>
+                  <fpage>44</fpage>
+                  <abstract>
+                     <p>Miyazaki Tōten was the quintessential man displaced from his proper time—an ambitious youth who was born too late for the Freedom and People’s Rights Movement and too far away from the site of revolution, China, to have made a significant impact. The figure discussed in this chapter, Kawahara Misako,² sometimes referred to by her married name, Ichinomiya Misako (1875–1945), seems to have been the exact opposite of Miyazaki.³ A contemporary of Miyazaki, through fortuitous circumstances and her own indomitable will Kawahara achieved something that no Japanese (man or woman) before her had. Her career exemplifies the ideal of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>History, Memory, and (Auto)biography</title>
+                  </title-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>In Part I, I examined the knowledge flow and cultural exchanges at the turn of the twentieth century, in particular around the time of the Russo–Japanese War, which served as a catalyst for the chosen figures to reconfigure the relationship Japan had with the West and East Asia. The shifting reality of global geopolitics prompted them to express their perspectives and take personal action to foster transformations in East Asia. These two transitional figures, Miyazaki Tōten and Kawahara Misako, though divergent in their ideals and approaches, provide a glimpse of an alternative path, of an alliance founded on something</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Gender, Ethnicity, and the Spectacles of the Empire</title>
+                  </title-group>
+                  <fpage>108</fpage>
+                  <abstract>
+                     <p>Popular culture, celebrities, even scandal and infamy tend to be localized, constrained by geographical and linguistic limitations. What audiences in one area think of as fascinating, interesting, or funny does not necessarily translate into the tastes of another region. America’s ability to export certain cultural commodities, such as films, fast food, and technology, may be an exception to the rule; over the last half century, its cultural products have been able to translate across cultures and gain broad global acceptance. Japan is another country that has been able to surmount cultural and linguistic barriers in order to proliferate its cultural</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Colonial Women and the Primitive:</title>
+                     <subtitle>Masugi Shizue and Sakaguchi Reiko</subtitle>
+                  </title-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>In 2008, Tsushima Yōko published the novel<italic>Too Barbaric</italic>(<italic>Amarini yaban na</italic>), a massive tome about two Japanese women, one living in the 1930s, the other living in 2005, whose lives crossed paths on the island of Taiwan, a former colony of Japan. The protagonist Miyo (Miicha¹ as she is known in the narrative) was a<italic>moga</italic>, a modern girl, who married a young university professor and moved to the colonial capital of Taipei in the early 1930s. The excitement of being with the man she loved in a new and exotic place was the adventure of a lifetime for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Dancers of the Empire</title>
+                  </title-group>
+                  <fpage>186</fpage>
+                  <abstract>
+                     <p>The 2003 documentary film<italic>Viva Tonal: The Dance Age</italic>(<italic>Tiaowushidai</italic>)³ traces the dissemination of popular song and dance from Japan to colonial Taiwan in the 1930s. The Office of the Governor-General (Sōtokufu) first allowed records to be imported from Japan en masse in 1928. Yet the affordability and the content did not suit the native population, 90 percent of whom were natives. It was not until 1933, when the Columbia Record Company of Japan set up its operation on the island, that the popular-music scene took off. With the introduction of the recording industry, Western-style popular music and dances (the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.11</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>211</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.12</book-part-id>
+                  <title-group>
+                     <title>Glossary</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.13</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>249</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.14</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>279</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj0q.15</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

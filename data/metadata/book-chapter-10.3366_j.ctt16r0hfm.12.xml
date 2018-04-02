@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.cttn32r9</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt16r0hfm</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Film Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Contemporary Japanese Cinema Since Hana-Bi</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Bingham</surname>
+               <given-names>Adam</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>23</day>
+         <month>06</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748683734</isbn>
+      <isbn content-type="epub">9780748683741</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Adam Bingham</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.3366/j.ctt16r0hfm"/>
+      <abstract abstract-type="short">
+         <p>Updates the story of Japanese cinema for the 21st century. Contemporary Japanese Cinema Since Hana-Bi is the first study of the significant developments in Japanese genre filmmaking since the turn of the new millennium.This book explores the key films, filmmakers, themes and genres in post-1997 Japanese cinema, during fifteen years in which productivity in the Japanese film industry has reached a higher peak than at any time since the 1950s and a dialogue with earlier traditions of Japanese cinema has been firmly established. Key Features: Considersfilms and filmmakers that have yet to feature predominantly in western discourse on Japanese cinema * Analyses in detail the dialogue that can be seen between new Japanese cinema and the significant trends and practices of past generations * Includes a discussion of the modern state of the Japanese documentary feature, based on interviews with some of its leading practitioners * Includes a review of Japanese-language criticism and a consideration of how the country’s cinema has been perceived within Japan</p>
+      </abstract>
+      <counts>
+         <page-count count="240"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGEMENTS</title>
+                  </title-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.4</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.5</book-part-id>
+                  <title-group>
+                     <title>NOTE AND GLOSSARY</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.6</book-part-id>
+                  <title-group>
+                     <title>TRADITIONS IN WORLD CINEMA</title>
+                  </title-group>
+                  <contrib-group>
+                     <role content-type="editor">General editors:</role>
+                     <contrib contrib-type="editor" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Badley</surname>
+                           <given-names>Linda</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="editor" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Palmer</surname>
+                           <given-names>R. Barton</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <contrib contrib-type="editor" id="contrib3" xlink:type="simple">
+                        <role>Founding editor:</role>
+                        <name name-style="western">
+                           <surname>Schneider</surname>
+                           <given-names>Steven Jay</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.7</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>WHY 1997 AND HANA-BI?</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The cinema of Japan has, over the course of its post-Pacific War history, been an unstable institution. It has been subject to a series of fluctuating fortunes that have in fact contributed significantly to its defining tenets and characteristics, a truly national film industry in that both its fate and its individual products and the characteristics that have defined them have remained closely tied to the sociopolitical flux of the country in which they were made. Of course one could make similar claims about many national cinemas, but in Japan there is a particularly marked sense in which the fortunes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.8</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>JIDAI-GEKI AND CHAMBARA:</title>
+                     <subtitle>THE SAMURAI ONSCREEN</subtitle>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>In 2013, to mark the tenth anniversary of the Japan Foundation’s annual UK touring programme of related Japanese films that have not been granted widespread distribution, a catalogue of works collectively entitled ‘Once upon a time in Japan’ was put together to be played throughout the UK. Concerned with films set in and reflective of a variety of historical periods, this collection underlined what has become an increasingly prevalent feature of contemporary Japanese cinema: namely a pervasive looking back, a re-viewing of the past, with a concomitant sense of the futility that such an undertaking may carry within it, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.9</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>YAKUZA CINEMA</title>
+                  </title-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>Alongside the samurai film the most prominent and popular genre in Japanese cinema in the immediate post-WWII decades was that of the yakuza film. Arguably more than any other generic category in the Japanese canon the yakuza film has been not only perennially visible but also among the most open and responsive to social flux and development, to documenting (explicitly or otherwise) the often dramatic changes that have affected Japan across successive eras of the twentieth century. This ostensibly clearly delineated and narratively demarcated but in fact often amorphous genre thus underlines perfectly some of the issues surrounding the post-millennial</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.10</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>JAPANESE HORROR CINEMA</title>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>Of all the commercial genres to have proliferated in modern Japanese cinema, none has achieved the international success and visibility of the horror film. Horror films have long constituted a vital feature of this country’s cinema, but since the late 1990s they have become arguably<italic>the</italic>face of Japanese filmmaking, and furthermore the prevalent image of an increasingly transnational paradigm. There are several key and interrelated means of conceiving of the importance of J-horror. Most saliently it seizes on the recent past as a site of tension and anxiety, a textual shadow or even doppelganger of the present that haunts</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.11</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>THE CHANGING JAPANESE FAMILY ON FILM</title>
+                  </title-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>In Japanese studies it has often been argued, at times even presumed, that in Japan the family is a microcosm of the nation, the national body traced in the tissue of intergenerational relations within the domestic sphere. The site of often extended familial units, in which the proximity of elderly, middle-aged and young people bespeaks a cross-section of society, is not as prevalent as it once was in the country. Moreover, as Davies and Ikeno stress, the ideology of the family has become weaker in recent decades, lessening as ‘patriarchism has gradually lost its power’ (2002, p. 124), and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.12</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>POSTMODERNISM AND MAGIC REALISM IN CONTEMPORARY JAPANESE CINEMA</title>
+                  </title-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>The modes of magic realism and postmodernism are among the few recent generic trends in Japanese cinema that one could identify as a legitimately new phenomenon, a development in genre filmmaking that owes less to extant and established modes of (national) storytelling than to a broader interaction with and response to cultural paradigms and artistic practices. Of course, there are significant precursors to this sub-strata of Japanese filmmaking, both literary and cinematic – the novels and short stories of Murakami Haruki or Yoshimoto Banana for instance, or several early films by Itami Juzo, most especially<italic>Tampopo</italic>[<italic>Dandelion</italic>] (1986). However, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.13</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>JAPANESE DOCUMENTARY CINEMA:</title>
+                     <subtitle>REALITY AND ITS DISCONTENTS</subtitle>
+                  </title-group>
+                  <fpage>144</fpage>
+                  <abstract>
+                     <p>There is no such thing as a documentary, yet everything is a documentary; ‘reality’ can only be created, not recorded, yet the real, the non-fictive, is an absolute, a guarantee that an audience can learn about the world around them, and thus perhaps learn something about themselves. This apparent paradox of documentary filmmaking – or at least on discourse about the form – is one that has incrementally come to define its horizons and procedural methodology; it has shaped ways in which non-fiction has been produced, received and explored, and has further gone hand-in-hand with an increasing popularisation of its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.14</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>MODERN JAPANESE FEMALE DIRECTORS</title>
+                  </title-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Across the history of the cinema in Japan images and stories of women have remained salient, if not central, to numerous films, filmmakers and genres. The prevalence of female-centred narratives can be traced back to the country’s earliest films; this was even the case when women were officially prohibited from acting on the screen (as they had similarly been prohibited from appearing on stage), when the theatrical figure of the<italic>onnagata</italic>, or female impersonator, predominated in lieu of any actual female performers. However, this pervasive interest in and recourse to onscreen narratives anchored by women has traditionally not found a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.15</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.16</book-part-id>
+                  <title-group>
+                     <title>SELECT FILMOGRAPHY</title>
+                  </title-group>
+                  <fpage>214</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hfm.17</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>220</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqzjt</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL747.8.034 1999</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">1945–</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Oe and Beyond</book-title>
+         <subtitle>Fiction in Contemporary Japan</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>SNYDER</surname>
+               <given-names>STEPHEN</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>GABRIEL</surname>
+               <given-names>PHILIP</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>04</month>
+         <year>1999</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824820404</isbn>
+      <isbn content-type="epub">9780824863760</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>HONOLULU</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1999</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqzjt"/>
+      <abstract abstract-type="short">
+         <p>Are the works of contemporary Japanese novelists, as Nobel Prize winner Oe Kenzaburo has observed, "mere reflections of the vast consumer culture of Tokyo and the subcultures of the world at large"? Or do they contain their own critical components, albeit in altered form? Oe and Beyond surveys the accomplishments of Oe and other writers of the postwar generation while looking further to examine the literary parameters of the "Post-Oe" generation. Despite the unprecedented availability today of the work of many of these writers in excellent English translations, some twenty years have passed since a collection of critical essays has appeared to guide the interested reader through the fascinating world of contemporary Japanese fiction. Oe and Beyond is a sampling of the best research and thinking on the current generation of Japanese writers being done in English. The essays in this volume explore such subjects as the continuing resonances of the atomic bombings; the notion of "transnational subjects"; the question of the "de-canonization" (as well as the "re-canonization") of writers; the construction (and deconstruction) of gender models; the quest for spirituality amid contemporary Japanese consumer affluence; post-modernity and Japanese "infantilism"; the intertwining connections between history, myth-making, and discrimination; and apocalyptic visions of fin de siecle Japan. Contributors pursue various methodological and theoretical approaches to reveal the breadth of scholarship on modern Japanese literature. The essays reflect some of the latest thinking, both Western and Japanese, on such topics as subjectivity, gender, history, modernity, and the postmodern. Oe and Beyond includes essays on Endo Shusaku, Hayashi Kyoko, Kanai Mieko, Kurahashi Yumiko, Murakami Haruki, Murakami Ryu, Nakagami Kenji, Oe Kenzaburo, Ohba Minako, Shimada Masahiko, Takahashi Takako, and Yoshimoto Banana.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Snyder</surname>
+                           <given-names>Stephen</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gabriel</surname>
+                           <given-names>Philip</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>On the evening of October 13, 1994, as reporters began to gather outside Ōe Kenzaburō’s home in suburban Tokyo, a cycle in Japanese literary history was coming to an end. With the awarding of the Nobel Prize for literature, a writer whose career had been marked by literary resistance and (at least symbolic) marginality was officially installed as an icon of mainstream mass culture. It required, however, an outside force, the Nobel committee, to accomplish this repositioning, and it is a measure of Ōe’s commitment to his role as social conscience that he rejected the Order of Culture the government</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>ŌE KENZABURŌ AND THE SEARCH FOR THE SUBLIME AT THE END OF THE TWENTIETH CENTURY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Napier</surname>
+                           <given-names>Susan J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>When Ōe Kenzaburō won the Nobel Prize for literature in October of 1994 he became only the second Japanese writer to win the prize. The first winner was Kawabata Yasunari, who received the award in 1968. Twenty-six years may not seem such a long time in Nobel history (many countries still have not been honored), but they demarcate a clear change in Japan’s literary generations. Ōe’s complex, resolutely intertextual, and frequently grotesque works radically contrast with Kawabata’s exquisite elegies to a lost Japanese past. Critics in both Japan and the West see Ōe as representing a new “international” Japan, a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>THE ROAD TO THE RIVER:</title>
+                     <subtitle>THE FICTION OF ENDŌ SHŪSAKU</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gessel</surname>
+                           <given-names>Van C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>36</fpage>
+                  <abstract>
+                     <p>I have been attempting for some time now, mostly in vain, to argue that the Christian context is not the sole—and, in some ways, perhaps not the most valuable—framework in which to examine the novels of Endō Shūsaku. While I would not suggest for a moment that the Christian substance of Endō’s writings is inconsequential, I think we will have pigeonholed an important writer if we look exclusively at the religious implications of what he has written. Unless we are content to stereotype Endō as a one-theme author, therefore, we must strip him of his title as the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>TEMPORAL DISCONTINUITY IN THE ATOMIC BOMB FICTION OF HAYASHI KYŌKO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bhowmik</surname>
+                           <given-names>Davinder L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>58</fpage>
+                  <abstract>
+                     <p>The writings of Hayashi Kyōko primarily concern the atomic bombing of Nagasaki and its aftermath. Hayashi was born in Nagasaki and was present at its destruction on August 9, 1945. A striking feature of Hayashi’s atomic bomb works is the commingling of past and present within her narratives: although these writings typically focus upon the devastating moment of the bombing and the ensuing confusion, these past events are then generally coupled with facts or incidents from the narrative present. The juxtapositions in time are patently evident, even jarring at times, yet the temporal discontinuity that characterizes Hayashi’s writing does not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>DEMONS, TRANSNATIONAL SUBJECTS, AND THE FICTION OF OHBA MINAKO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hurley</surname>
+                           <given-names>Adrienne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>Drawing objects, ideas, and people together does not always constitute an integrationist gesture; it sometimes neutralizes differences or brings disparate forces into crisis. When different nationalities come into contact in Ohba Minako’s fiction, all the trappings of national identity, as well as the various characters’ foundational understandings of who they are and where they “come from,” are brought into crisis, challenged, and in some cases dismantled beyond recognition. Karatani Kōjin has described a process of confrontation or contact based on inversions. This concept<italic>(tenkō)</italic>incorporates the idea of reversing or converting the status quo.¹ It could be argued that Karatani’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>DOUBLE VISION:</title>
+                     <subtitle>DIVIDED NARRATIVE FOCUS IN TAKAHASHI TAKAKO’S YOSŌI SEYO, WAGA TAMASHII YO</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Williams</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>104</fpage>
+                  <abstract>
+                     <p>Appended to the end of the<italic>nenpu</italic>(bibliography of major literary works) provided for the novelist Takahashi Takako (b. 1932) in the recently published<italic>Shōwa bungaku zenshū</italic>is a cursory statement, penned by the author herself, in which she indicates her intention to refrain from all further literary activity and devote herself entirely to “a life of prayer and meditation.”¹ With this and other statements of the time, Takahashi served notice to the Japanese literary community, not only of her desire to refrain from all creative writing in the future, but also to distance herself from all discussion of her</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>IN THE TRAP OF WORDS:</title>
+                     <subtitle>NAKAGAMI KENJI AND THE MAKING OF DEGENERATE FICTIONS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zimmerman</surname>
+                           <given-names>Eve</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>In an essay entitled “Monogatari no Keifu: Danshō” (Notes on the Genealogy of the Prose Narrative, 1979), Nakagami Kenji spins a news event into a parable. A robber bursts into a bank in Osaka brandishing a gun and takes the customers hostage. After shooting two people, the man is taken captive. The position of the man surrounded by his captors, Nakagami writes, is equivalent to the position of the Japanese writer who is surrounded by the law/system<italic>(hō/seido)</italic>of Japanese culture. The writer who takes action will be sacrificed by those who make up the circle. And when his crime</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>(RE)CANONIZING KURAHASHI YUMIKO:</title>
+                     <subtitle>TOWARD ALTERNATIVE PERSPECTIVES FOR “MODERN” “JAPANESE” “LITERATURE”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sakaki</surname>
+                           <given-names>Atsuko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>That Ōe Kenzaburō was awarded the 1994 Nobel Prize for literature invites us to reconsider what should represent modern Japanese literature in the world. In<italic>Nihon kindai bungaku no kigen</italic>(Origins of Modern Japanese Literature), Karatani<italic>Kōjin</italic>has succeeded in denaturalizing the concepts of the “modern,” the “Japanese,” and “literature” by foregrounding several examples of “doxa,” borrowing Roland Barthes’ terminology, with which certain works have been canonized as representing modern Japanese literature.⁴ Here I want to look at the same coin from the reverse side—that is, to delineate canonicity of modern Japanese literature by examining a decanonized author: Kurahashi</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>MURAKAMI HARUKI’S TWO POOR AUNTS TELL EVERYTHING THEY KNOW ABOUT SHEEP, WELLS, UNICORNS, PROUST, ELEPHANTS, AND MAGPIES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rubin</surname>
+                           <given-names>Jay</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>A wash in the sentiment of a traditional Irish melody, the inner hero of<italic>Sekai no owari to haadoboirudo wandaarando</italic>(Hard-Boiled Wonderland and the End of the World, 1985) reclaims the connection to his heart through music and sets up resonances between himself and the hero of the outer world, his conscious self, in one of the most moving passages in Murakami Haruki’s richly imaginative novel.¹</p>
+                     <p>Murakami is a lover of music—music of all kinds: jazz, classical, folk, rock. Music occupies a central position in his life and work. The title of his first novel commands the reader to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>EXTREME IMAGINATION:</title>
+                     <subtitle>THE FICTION OF MURAKAMI RYŪ</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Snyder</surname>
+                           <given-names>Stephen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>The protagonist of Murakami Ryū’s recent science fiction novel,<italic>Gofungo no sekai</italic>(The World Five Minutes After, 1994), is snatched inexplicably from his life in contemporary Japan into a parallel world (five minutes after our own) in which Japan never surrendered in the Pacific War but fights on fifty years later from a warren of tunnels dug beneath Mount Fuji. He is taken prisoner by the Japanese side and subjected to humiliating interrogations, forced marches, and a bloody battle at the gate of one of the tunnels leading to the subterranean fortress. Finally, due to a misunderstanding, Murakami’s hero, Odagiri</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>DREAM MESSENGERS, RENTAL CHILDREN, AND THE INFANTILE:</title>
+                     <subtitle>SHIMADA MASAHIKO AND THE POSSIBILITIES OF THE POSTMODERN</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gabriel</surname>
+                           <given-names>Philip</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>In what is perhaps the most often cited article on Japan and the postmodern, “Infantile Capitalism and Japan’s Postmodernism: A Fairy Tale,” Asada Akira sketches a vision of capitalism’s “global trajectory” encompassing three stages: elderly capitalism, adult capitalism, and infantile capitalism. In contrast to the model proposed by Maruyama Masao and others of the formation of the mature adult<italic>shutai</italic>(individual subject) as the enabling condition of Japan’s modernity, Asada identifies in contemporary Japan less a process of maturation than a country growing “progressively more infantile” at the same time that its capitalist economy soars:</p>
+                     <p>In Japan, there are neither</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>ARGUING WITH THE REAL:</title>
+                     <subtitle>KANAI MIEKO</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Orbaugh</surname>
+                           <given-names>Sharalyn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>Kanai Mieko’s work defies easy categorization. Much of her early prose was very short and full of scenes of blood, cannibalism, dismemberment, incest; her recent prose takes the form of full-length “novels of manners” in the style of Jane Austen. As the late Nakagami Kenji pointed out, since her debut in 1967 Kanai Mieko has been remarkable for remaining active on the three fronts of poetry, fiction, and literary criticism.¹ Although still young, and not among the most conspicuous figures in the<italic>bundan</italic>(literary society), Kanai has been writing and publishing longer than any other Japanese writer born after the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>JAPANESE WITHOUT APOLOGY:</title>
+                     <subtitle>YOSHIMOTO BANANA AND HEALING</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sherif</surname>
+                           <given-names>Ann</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>278</fpage>
+                  <abstract>
+                     <p>Doctor Machizawa Shizuo, a psychiatrist in Tokyo, reports that he is troubled professionally about the darkness of much of modern Japanese prose narrative. He notes that suicidal individuals frequently stumble into his office clutching copies of Dazai Osamu’s novels and say: “This is exactly how I feel. I’m sorry that I was born”<italic>(Sensei, watashi no kimochi wa kore desu. Umarete, sumimasen)</italic>.¹ In addition to the high incidence of suicide among Japanese novelists, the works themselves, Machizawa asserts, glorify suffering, negativism, and death. The doctor finds an exception in the writings of Yoshimoto Banana (b. 1964), such as the best-seller</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.17</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>303</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzjt.18</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>305</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

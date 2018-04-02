@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="book-review"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">chinaj</journal-id>
+         <journal-id journal-id-type="ucp-id">tcj</journal-id>
+         <journal-title-group>
+            <journal-title>The China Journal</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">13249347</issn>
+         <issn pub-type="epub">1835-8535</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1086/671294</article-id>
+         <article-id pub-id-type="publisher-id">TCJ201618</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" rid="af1" xlink:type="simple">
+               <string-name>
+                  <given-names>Adam</given-names>
+                  <x xml:space="preserve"/>
+                  <surname>Lam</surname>
+               </string-name>
+            </contrib>
+            <aff id="af1">University of Canterbury</aff>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>01</day>
+            <month>07</month>
+            <year>2013</year>
+            <string-date>July 2013</string-date>
+         </pub-date>
+         <volume>70</volume>
+         <issue>1</issue>
+         <issue-id>671325</issue-id>
+         <fpage>262</fpage>
+         <lpage>264</lpage>
+         <product xlink:type="simple">
+            <source>Musings: Reading Hong Kong, China and the World</source>, by<string-name>
+               <given-names>Leo Ou-fan</given-names>
+               <x xml:space="preserve"/>
+               <surname>Lee</surname>
+            </string-name>. Hong Kong: East Slope Publishing, 2011. xiv + 305 pp. HK$190.00/US$27.00 (paperback).</product>
+         <permissions>
+            <copyright-statement>Copyright 2013 by The Australian National University. All rights reserved. For permission to reuse, please contact<email xlink:type="simple" xlink:href="journalpermissions@press.uchicago.edu">journalpermissions@press.uchicago.edu</email>.</copyright-statement>
+            <copyright-year>2013</copyright-year>
+            <copyright-holder>The Australian National University</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/671294"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

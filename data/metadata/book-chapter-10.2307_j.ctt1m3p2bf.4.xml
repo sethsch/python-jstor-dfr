@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="fre">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1h9cvr2</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1m3p2bf</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>L’incoerenza creativa nella narrativa francese contemporanea</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>A cura di</role>
+            <name name-style="western">
+               <surname>Majorano</surname>
+               <given-names>Matteo</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>27</day>
+         <month>02</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9788822900302</isbn>
+      <isbn content-type="epub">9788874629701</isbn>
+      <publisher>
+         <publisher-name>Quodlibet</publisher-name>
+         <publisher-loc>Macerata</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Quodlibet srl</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1m3p2bf"/>
+      <abstract abstract-type="short">
+         <p>Se la letteratura costituisce un rifiuto coraggioso e irrinunciabile delle facili banalizzazioni e delle semplificazioni di comodo, se la letteratura contraddice la pigrizia dei luoghi comuni, se la letteratura è svelamento e apocalisse, allora l’incoerenza, cioè la contraddizione della linearità e della progressione infinita, confortante ma irreale, assume la sua giusta dimensione: quella di un nucleo di energia artistica inesauribile, incontenibile, insopprimibile, caotica almeno quanto caotica è la vita, ma autentica e affidabile. Se le pagine dei romanzi riproducono in narrazione e scrittura il disordine, l’incoerenza che ci circonda, potremmo aprire con più fiducia gli occhi sul buio e, in questo modo, conoscere più a fondo le nostre vite, esprimendo, forse, un giudizio meno severo sulle nostre piccole storie confuse. E l’incoerenza così diventerebbe qualcosa che ancora non vogliamo ammettere: una risorsa del romanzo, forse quella estrema, e un nostro talismano contro la sorte.</p>
+      </abstract>
+      <counts>
+         <page-count count="208"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>fre</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.3</book-part-id>
+                  <title-group>
+                     <title>L’incoerenza e la letteratura</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Majorano</surname>
+                           <given-names>Matteo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>Sul ruolo dell’incoerenza in letteratura mi è capitato di soffermarmi a riflettere, in maniera discontinua e con poca profondità, da molti anni, come se fossi accompagnato da un’ombra di cui avevo consapevolezza e dimestichezza ma scarsa conoscenza. Ad ogni nuova lettura di un romanzo ritornavo sulla questione che allora, per la verità, si poneva non come incoerenza, ma in positivo come «valutazione estetica della coerenza». Questa «percezione dell’ombra» si manifestava sotto la forma di un richiamo a me oscuro e sgradito: mi sembrava che qualcosa di essenziale mi fosse sfuggito nella lettura dei volumi che percorrevo, anche quando credevo di</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.4</book-part-id>
+                  <title-group>
+                     <title>L’incohérence et la littérature</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Majorano</surname>
+                           <given-names>Matteo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>Depuis bien des années, il m’est arrivé de m’arrêter réfléchir sur le rôle de l’incohérence en littérature, de manière discontinue et sans grande profondeur, comme si j’étais accompagné par une ombre qui m’était familière et dont j’avais conscience, mais une connaissance réduite. À chaque nouvelle lecture d’un roman, je revenais sur la question qui, en réalité, se posait à l’époque non comme une incohérence, mais positivement comme l’« évaluation esthétique de la cohérence ». Cette « perception de l’ombre » se manifestait sous forme d’un rappel obscur et désagréable : il me semblait que quelque chose d’essentiel m’avait échappé dans</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.5</book-part-id>
+                  <title-group>
+                     <title>L’incoerenza creativa:</title>
+                     <subtitle>un problema moderno?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Franzini</surname>
+                           <given-names>Elio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>Vorrei dividere il mio breve ragionamento in due parti. Nella prima cercherò di mostrare come quel principio che potremmo chiamare «incoerenza creativa» – che si può riscontrare in tutte le epoche, specie nella narrazione, ma certo non soltanto in essa – sia un problema «moderno»: nel senso banale che soltanto quando se ne acquisisce, per così dire, la consapevolezza, quando cioè si passa dall’errore, più o meno casuale, all’artificio costruttivo, allora esso si trasforma in problema teorico.</p>
+                     <p>Nella seconda, invece, sulle basi della prima parte, avendo cioè acquisito la consapevolezza che si tratta appunto di un «problema», vorrei mostrare come</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.6</book-part-id>
+                  <title-group>
+                     <title>Pourquoi écrire dans une langue qui n’est pas la mienne ?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mizubayashi</surname>
+                           <given-names>Akira</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>Je suis né deux fois. Ma fiche d’identité personnelle se caractérise par une double naissance. Je suis d’abord né au Japon, de parents japonais ; j’ai grandi au Japon ; j’ai été scolarisé au Japon ; j’ai fait mes études supérieures au Japon. J’ai toujours vécu dans ce pays sauf pendant quelques années que j’ai passées en France pour faire des études. Maintenant, je vis à Tokyo et j’y travaille pour vivre.</p>
+                     <p>Cela dit, je garde en moi le souvenir d’une autre naissance. Je suis né en français, si j’ose dire, lorsque j’avais dix-huit ans. J’ai fait l’effort d’une émigration</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.7</book-part-id>
+                  <title-group>
+                     <title>Le roman est-il quantique ?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schneider</surname>
+                           <given-names>Michel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>Avant de commencer, mais peut-être est-ce une façon d’en finir, je voudrais tenter de dissiper un malentendu possible. Rien d’extrême dans mon dernier roman<italic>Amour, suite et fins</italic>¹ : ce roman est banalement contemporain, c’est-à-dire moderne, au sens où Calvino disait qu’aujourd’hui, écrire un roman ne signifie plus raconter, mais dire qu’on raconte. Ou bien, est-ce que vous le jugez non pas contemporain parce qu’extrême, mais extrêmement contemporain ? Alors, vous auriez eu raison : les concepts de la physique quantique que j’utilise non pour décrire des atomes, des protons et des électrons, ou d’autres objets microscopiques, mais des êtres</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.8</book-part-id>
+                  <title-group>
+                     <title>L’incohérence narrative, ou les étonnantes tribulations d’un inconscient au travail</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Josse</surname>
+                           <given-names>Gaëlle</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Allons, disons-le, ce terme d’incohérence me perturbait. Tout d’abord parce que je lui trouvais, au premier abord, une connotation négative, comme l’aveu d’un défaut de fabrique, d’une tache sur la robe qu’on tenterait de faire croire voulue, une fois le dégât constaté. Quelque chose à rapprocher des grandes inventions involontaires, comme la pomme de Newton, l’Amérique de Christophe Colomb, la pénicilline ou la radioactivité.</p>
+                     <p>Et puis je suis tombée sur cette plaisanterie de Woody Allen : « Il semble que le monde soit vraiment divisé entre les bons et les méchants. Les bons dorment mieux, mais les méchants profitent mieux</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.9</book-part-id>
+                  <title-group>
+                     <title>L’incohérence :</title>
+                     <subtitle>du superflu à l’incontournable</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jacquet</surname>
+                           <given-names>Marie Thérèse</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>On le sait, un texte définissable comme littéraire se constitue en tant que système remis en mouvement à chaque lecture et se chargeant à chaque fois d’une signification spécifique, ponctuelle et inévitablement subjective. Si l’écrivain règne en maître incontesté dans son périmètre, il revient à chaque lecteur de se faire (ou non) complice de la représentation proposée : c’est le pacte auteur-lecteur.</p>
+                     <p>Dans tous les cas, une œuvre installe une cohérence, ou mieux un système clos dont l’auteur définit les limites avant tout spatialement lorsqu’il met un terme, aussi ponctuel soit-il, à son œuvre en choisissant de signer le bon</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.10</book-part-id>
+                  <title-group>
+                     <title>L’incohérence créatrice :</title>
+                     <subtitle>de Beckett à Houellebecq</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Majorano</surname>
+                           <given-names>Matteo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>Rien n’est garanti, même en littérature, et il faut tout vérifier afin que cela puisse se révéler d’une quelconque utilité pour celui qui lit. Quand on commence à réfléchir sur une oeuvre, on ne doit procéder ni à partir d’un préjugé personnel ni à partir de l’avis d’autrui, pour aussi respectable qu’il soit : il vaut mieux commencer par des doutes, nos propres doutes, nés des pages du texte, ceux qui permettent d’ébaucher une hypothèse à confirmer, la première partie d’un théorème à démontrer. Une fois que l’on a établi un point d’accès au texte, on avance pas à pas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.11</book-part-id>
+                  <title-group>
+                     <title>Incohérences narratives du fait divers</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Viart</surname>
+                           <given-names>Dominique</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>La question de l’incohérence en matière littéraire tient à la fois du scandale et de l’évidence. De l’évidence car on ne voit pas ce qu’il y aurait à raconter si rien d’étonnant, ni d’insolite ne venait rompre le cours usuel des choses. Pour que récit il y ait, il faut bien qu’un événement singulier, le parcours inattendu de quelque personnage, justifient l’existence même de ce récit. Mais scandale cependant, au regard de certaines normes esthétiques tout au moins, car il convient que l’œuvre s’affirme comme une totalité où l’ensemble des parties est censé concourir à l’harmonie du tout : dès</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.12</book-part-id>
+                  <title-group>
+                     <title>Le monde n’existe pas :</title>
+                     <subtitle>le « nouveau réalisme » de la littérature française contemporaine</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gefen</surname>
+                           <given-names>Alexandre</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>Je commencerai par deux constats simples pour éviter les malentendus : d’une part, il faut souligner le fait qu’il n’y a incohérence que par rapport à un modèle de cohérence critiqué et attaqué et que l’incohérence critique est nécessairement réactionnelle si ce n’est polémique ; d’autre part que, si le mot revient fréquemment pour caractériser la production littéraire contemporaine, il existe sur la longue durée : je renvoie, par exemple, au bel essai de Pierre Jourde,<italic>Empailler le toréador. L’incongru dans la littérature française de Charles Nodier à Éric Chevillard</italic>¹ qui fait la liste des attentats aux modèles de cohérence</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.13</book-part-id>
+                  <title-group>
+                     <title>Annie Ernaux :</title>
+                     <subtitle>la cohérence littéraire de l’incohérence féminine</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Falco</surname>
+                           <given-names>Giusi Alessandra</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>Si l’on considère le rapport entre l’incohérence et la littérature, si l’on essaye de lire un texte en fonction de cette relation, on s’aperçoit que l’une des formes que l’incohérence assume est celle de la rupture. À mieux regarder, il semble clair qu’il s’agit d’une déviation du parcours cohérent de l’écriture, qui a le but de déclencher le mécanisme de « l’intéressant », élément nécessaire pour que la narration puisse démarrer. Afin de mieux comprendre ce phénomène, on pourrait imaginer une dimension antérieure au texte littéraire, qui se présenterait comme un terrain linéaire et sans aspérités. La première irrégularité du</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.14</book-part-id>
+                  <title-group>
+                     <title>Caprices de la narration.</title>
+                     <subtitle>Les contrepoids d’Emmanuel Carrère</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Termite</surname>
+                           <given-names>Marinella</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>L’incohérence secoue les préoccupations fictionnelles qui agitent les oeuvres d’Emmanuel Carrère. À partir des inquiétudes qui soutiennent les choix variables des postures de l’écrivain ou de ses personnages, un cadre mobile s’impose produisant des insignifiances actives. Comme l’auteur le reconnaît à propos de son travail de ressassement dans<italic>La moustache</italic>¹, bien qu’improvisé, ce livre a été très construit autour de bribes narratives complexes tout aussi incohérentes que l’intrigue. L’insistance sur l’acquis de la linéarité de l’infraordinaire devient, alors, incontournable dans l’exploration de procédés en déroute qui vont à la recherche de l’événement et de ses témoins.</p>
+                     <p>Ce que j’essaye, c’est</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.15</book-part-id>
+                  <title-group>
+                     <title>Julia Deck, incohérence psychique et logique textuelle</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Houppermans</surname>
+                           <given-names>Sjef</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>Le premier roman de Julia Deck¹ prend l’allure d’un roman policier classique dans lequel l’échange des rôles installe la perversion. La piste d’Echenoz en dessine le canevas sans toutefois nuire à son originalité. Le personnage principal fortement troublée par le fait que son mari la quitte cherche l’aide de son psy. Les paroles de celui-ci l’enfermant plutôt dans un rituel psychanalytique sclérosé, elle passe à l’acte et le tue à coups de couteau. Elle fera tout pour effacer les traces du crime et pour le revendiquer d’une certaine manière à la fois. D’interrogatoire en errance, de prise en filière à</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.16</book-part-id>
+                  <title-group>
+                     <title>« Bill l’imposteur » ? :</title>
+                     <subtitle>Éric Vuillard et les incongruités révélatrices de Tristesse de la terre</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schoentjes</surname>
+                           <given-names>Pierre</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>En surface, deux trames narratives organisent<italic>Tristesse de la terre</italic>¹ : le récit des dernières guerres indiennes est rappelé parallèlement à l’histoire du Wild West Show. Pendant trente ans en effet, Buffalo Bill, qui fut un acteur de ces guerres, s’est transformé en metteur en scène de la conquête de l’Ouest. Il a su donner une forme d’autant plus solide à la légende américaine que son spectacle conviait volontiers les acteurs historiques et des objets matériels emblématiques. En quelques décennies, et qui suivaient de près les événements évoqués, la réécriture qu’il met en place devant les yeux du public a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.17</book-part-id>
+                  <title-group>
+                     <title>L’incohérence créative :</title>
+                     <subtitle>une possibilité artistique ou l’histoire d’un malentendu entre une œuvre et le monde ?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Viguié</surname>
+                           <given-names>Christian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>Tout d’abord, il semble importun de me situer avant d’aborder un tel sujet, d’indiquer de là où je pars, quelle fut la manière de m’emparer de cette question, et comment elle fut comprise non seulement à travers son aspect théorique mais d’abord à travers le remodelage empirique due à une pratique littéraire et poétique qui se déroule depuis de nombreuses années.</p>
+                     <p>Je dois avouer que le thème de l’incohérence m’a laissé perplexe et m’a fortement désorienté m’obligeant à arpenter un territoire inconnu dont j’ignorais à peu près tout des saillies et des gouffres qui risquaient soit de m’écorcher, soit de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.18</book-part-id>
+                  <title-group>
+                     <title>Résumés</title>
+                  </title-group>
+                  <fpage>191</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.19</book-part-id>
+                  <title-group>
+                     <title>Index des noms</title>
+                  </title-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1m3p2bf.20</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

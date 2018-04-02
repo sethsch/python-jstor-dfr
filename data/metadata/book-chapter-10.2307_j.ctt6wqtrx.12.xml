@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqtrx</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL726.8.M65 2009</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Alien Within</book-title>
+         <subtitle>Representations of the Exotic in Twentieth-Century Japanese Literature</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Morton</surname>
+               <given-names>Leith</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>26</day>
+         <month>02</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824832926</isbn>
+      <isbn content-type="epub">9780824864576</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>HONOLULU</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqtrx"/>
+      <abstract abstract-type="short">
+         <p>Readers worldwide have long been drawn to the foreign, the exotic, and the alien, even before Freud’s famous essay on the uncanny in 1919. Given Japan’s many years of relative isolation, followed by its multicultural empire, these themes seem particularly ripe for exploration and exploitation by Japanese writers. Their literary adventures have taken them inside Japan as well as outside, and how they internalized the exotic through the adoption of modernist techniques and subject matter forms the primary subject of this book. The Alien Within is the first book-length thematic study in English of the alien in modern Japanese literature and helps shed new light on a number of important authors. Morton examines the Gothic, a form of writing with strong affinities to European Gothic and a motif in the fiction of several key modern Japanese writers, such as Arishima Takeo. Morton also discusses the translations of Tsubouchi Shoyo, Japan’s most famous early translator of Shakespeare, and how this most alien and exotic author was absorbed into the Japanese literary and theatrical tradition. The new field of translation theory and how it relates to translating Shakespeare are also discussed. Morton devotes two chapters to the celebrated female poet Yosano Akiko, whose verse on childbirth and her unborn children broke taboos relating to the expression of the female body and sensibility. He also highlights the writing of contemporary Okinawan novelist Oshiro Tatsuhiro, whose work springs from what is for Japanese an exotic subtropical landscape and makes symbolic reference to the otherness at the heart of Japanese religiosity. Another significant but equally overlooked subject is the focus of the final chapter, which analyzes the travel writing of internationally best-selling author Murakami Haruki. Murakami’s great corpus of work includes a one-volume study of the 2000 Sydney Olympics, which Morton discusses in detail. The Alien Within breaks new ground in its treatment of the exotic in modern Japanese writing and in its discussion of authors and work hitherto absent from critical discussions in English. It will be of significant interest to readers of literature and students of modern Japanese culture and women’s writing as well as those fascinated by the occult, Gothic fiction, and the exotic.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>On a recent visit to the Shibuya ward office, or Shibuya city (these days Tokyo wards are often renaming themselves as cities), to renew my Japanese work visa, I noticed that the<italic>gaikokujin tōroku</italic>area had changed its English sign from “alien registration” to “foreigners [sic] registration.” The registration area was still hidden away in a kind of alcove not easily visible from the main counter area. This shift in translation does not affect the vast majority of Japanese citizens, who know the titles of government services only in Japanese, but it does, perhaps, reflect a deeper understanding of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>TRANSLATING THE ALIEN</title>
+                     <subtitle>Tsubouchi Shōyō and Shakespeare</subtitle>
+                  </title-group>
+                  <fpage>10</fpage>
+                  <abstract>
+                     <p>One of the most significant events in the history of modern Japan occurred in 1854 when Commodore Matthew Perry arrived in Edo accompanied by a powerful naval fleet with the express mission of opening Japan to the West. The last in a long line of Western attempts to prise open Japan to Western trade and commerce, it can easily be surmised from the well-armed vessels under Perry’s command that he was determined to achieve this objective, and as later history has demonstrated, he succeeded beyond the wildest dreams of most citizens of the West at the time. Thus the “alien”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>NATURALIZING THE ALIEN</title>
+                     <subtitle>Yosano Akiko’s Revolution in Verse</subtitle>
+                  </title-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>In the late nineteenth century one of the last bastions of Japanese tradition, the<italic>waka</italic>, the dominant genre of traditional Japanese poetry and a mode of writing that constituted the mainstream of Japanese literature from ancient times, was breached by the irruption of Western poetry and poetics. Western poetry was seen as alien to the spirit of traditional Japanese verse, which has been thought at various times to embody the very essence of what it means to be Japanese. It was viewed from at least the seventeenth century as having a spiritual dimension that could not be reproduced in foreign</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>THE DEMON WITHIN</title>
+                     <subtitle>Yosano Akiko and Motherhood</subtitle>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>A reconceptualization of motherhood emerged at a decisive moment in the history of modern Japan—the end of the first decade of the twentieth century—through the writings of the poet Yosano Akiko on childbirth. Akiko’s verse represents the processing of a self, the poet’s unique self, into public textual form via the expression of her own experience of giving birth. Childbirth was traditionally a taboo subject in Japanese literature because of the element of blood-pollution, seen as ritual self-defilement by generations of Japanese.¹ Akiko’s act of self-revelation could also be read as (self)-violation, shame, or guilt, but for Akiko</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>THE GOTHIC NOVEL</title>
+                     <subtitle>Izumi Kyōka and Tanizaki Jun’ichirō</subtitle>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>The gothic mode of fiction began in Europe, specifically in England, in the eighteenth century. However, the gothic as a mode of fantasy has persisted until the present day, and it has now spread beyond the novel to encompass several other art forms, most notably, in recent times, the cinema. The characteristics of Gothic fiction in the eighteenth century were the motifs of wrongful imprisonment—the classic plot is an innocent immured for years in a castle or abbey—madness, death, and evil spirits or ghosts. The horrors of the French Revolution served as fertile territory for eighteenth-century English Gothic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>GOTHIC STYLISTICS</title>
+                     <subtitle>Arishima Takeo and Melodramatic Excess</subtitle>
+                  </title-group>
+                  <fpage>126</fpage>
+                  <abstract>
+                     <p>The connection between the gothic and the melodramatic mode of writing is how a foreign style of writing, indeed a foreign mode of expression, came to dominate Arishima Takeo’s (1878–1923) fiction. It was in this sense that Arishima incorporated elements of the gothic in his fiction although the sources of this style lie not only in Western literature but in Edo literature as well. Arishima discovered the exotic, the alien within—within the highly wrought language from which he constructed his fiction—and without, in the choice of subject matter of much of that fiction. In subject and expression</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>FEMALE SHAMANS</title>
+                     <subtitle>Ōshiro Tatsuhiro and Yuta</subtitle>
+                  </title-group>
+                  <fpage>140</fpage>
+                  <abstract>
+                     <p>Hitherto this book has examined examples of the “other” or the “alien” taken from the prewar corpus of mainstream Japanese literature, or more properly, literature from mainland Japan. This chapter studies an example of postwar literature written in Okinawa, by a writer born, raised, and resident in Okinawa.¹ Okinawa here means the prefecture of Okinawa, not simply the island of this name; it is an archipelago located some four hours from Tokyo by plane. Here I propose to treat the literature of Okinawa as an “Other,” as alien to mainland Japan and its culture. Until 1879 Okinawa—or the Ryūkyū</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>HISTORY / FICTION / IDENTITY</title>
+                     <subtitle>Ōshiro Tatsuhiro and the Uncanny</subtitle>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Chapter 6 explored Ōshiro Tatsuhiro’s vision of<italic>yuta,</italic>the female shamans of Okinawa, but this chapter is concerned with<italic>noro</italic>, women who in some respects have played similar roles to yuta, but whose significance for Okinawan history was much more momentous. There is no mainland equivalent in medieval or modern Japanese history to<italic>noro,</italic>although some similarities may be found to a female seer named Himiko, a possibly mythical figure dating from Japan’s distant past, the third century CE. Ōshiro’s writing on<italic>noro</italic>attempts to stake out the very real differences between mainland and Okinawan culture and to dramatize the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>THE ALIEN WITHOUT</title>
+                     <subtitle>Murakami Haruki and the Sydney Olympics</subtitle>
+                  </title-group>
+                  <fpage>178</fpage>
+                  <abstract>
+                     <p>This chapter will focus on a single volume by the acclaimed Japanese author Murakami Haruki (b. 1949)—<italic>Shidonii!</italic>(Sydney!)—published in January 2001 by the Bungei Shunjū company in Tokyo. Three-quarters of this 409-page book, published originally as a single volume and then in two volumes in paperback, consists of Murakami’s<italic>Shidonii nisshi</italic>(Sydney diary), which records in twenty-three daily entries the minutiae of his life in Sydney and his observations on the Sydney Olympics. The diary also contains many reflections on Australia and its life and culture. This chapter will examine the<italic>Sydney Diary,</italic>rather than the remaining quarter</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.13</book-part-id>
+                  <title-group>
+                     <title>EPILOGUE</title>
+                  </title-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>The subject of the exotic or the alien is a perennial one for literature. Freud’s discussion of the uncanny is primarily aesthetic, based on a reading of several eighteenth-and nineteenth-century European works of literature. Gothic is a mode of writing that dates back over two hundred years, so to analyze several works of Japanese literature written in the twentieth century that utilize such themes is not to attempt something startling or new in literary discourse. Discussion of these themes is nonetheless not all that common in studies of Japanese literature. Much more common is a direct tracing of influence from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.14</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>207</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.15</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>231</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.16</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>251</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqtrx.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>259</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

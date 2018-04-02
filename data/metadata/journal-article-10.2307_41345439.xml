@@ -1,0 +1,3788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">calilawrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100114</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>California Law Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Joe Christensen, Inc. for students of School of Law, University of California, Berkeley</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00081221</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41345439</article-id>
+         <title-group>
+            <article-title>Emotional Regulation and Judicial Behavior</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Terry A.</given-names>
+                  <surname>Maroney</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>2011</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">99</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40063926</issue-id>
+         <fpage>1485</fpage>
+         <lpage>1555</lpage>
+         <permissions>
+            <copyright-statement>Copyright © 2011 California Law Review, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41345439"/>
+         <abstract>
+            <p>Judges are human and experience emotion when hearing cases, though the standard account of judging long has denied that fact. In the post-realist era it is possible to acknowledge that judges have emotional reactions to their work, yet our legal culture continues to insist that a good judge firmly puts those reactions aside. Thus, we expect judges to regulate their emotions, either by preventing emotion's emergence or by walling off its influence. But judges are given precisely no direction as to how to engage in emotional regulation. This Article proposes a model for judicial emotion regulation that goes beyond a blanket admonition to "put emotion aside." While legal discourse on judicial emotion has been stunted, scientific study of the processes of emotion regulation has been robust. By bringing these literatures together for the first time, the Article reveals that our legal culture does nothing to promote intelligent judicial emotion regulation and much to discourage it. An engagement model for managing judicial emotion promises to reverse this maladaptive pattern. It provides concrete tools with which judges may prepare realistically for emotional situations they necessarily will encounter, respond thoughtfully to emotions they cannot help but feel, and integrate lessons from such emotions into their behavior. Importantly, the medical community has begun to pursue just such a program to promote competent emotion regulation by doctors. The engagement model is far superior to all its alternatives. Other regulation strategies, such as avoidance, are fundamentally incompatible with judges ' professional responsibilities. Suppressing the expression and experience of emotion — encouraged by the status quo — is costly and normatively undesirable. Suppression is unrealistic, exacerbates cognitive load, impairs memory, and can paradoxically increase emotion's influence while rendering that influence less transparent. The judicial-engagement model, in contrast, leverages the best of what the psychology of emotion regulation has to offer. It puts a name to what extraordinary judges already are doing well and makes it available to all judges. By setting aside not judicial emotion but, rather, the crude manner in which we have asked judges to manage it, we stand materially to improve the quality of judging.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d414e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d414e121" publication-type="other">
+State v. Hutchinson, 271 A.2d 641, 644 (Md. 1970).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e128a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d414e135" publication-type="other">
+Andrew Malcom, Sotomayor Hearings: The Complete Transcript, Part 1, Top of the
+Ticket, (July 14, 2009, 9:57 AM), http://latimesblogs.latimes.com/washington/2009/07/sonia-
+sotomayor-hearing-transcript.html.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e148a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d414e155" publication-type="other">
+In re Duckman, 898 A.2d 734 (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e162a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d414e169" publication-type="other">
+Kennedy v. Louisiana, 128 S. Ct. 2641, 2646 (2008)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e177a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d414e184" publication-type="other">
+People v. Cerda, No. B146553, 2002 WL 418156, at 4 (Cal. Ct. App. Mar. 19,
+2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e194a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d414e201" publication-type="other">
+Carrington v. United States, 503 F.3d 888, 899 (9th Cir. 2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e207" publication-type="other">
+Gerry Spence, of Murder and Madness: A True Story
+490 (1983))</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e217a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d414e224" publication-type="other">
+Adam Liptak, No Argument: Thomas Keeps Five-Year Silence , N.Y. Times, Feb. 13, 2011,
+at Al</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e233" publication-type="other">
+Benjamin Weiser, Judge Recalls Rationale for Imposing 150-Year
+Sentence , N.Y. Times, June 28, 2011, at Al</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e243a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d414e250" publication-type="other">
+James L. Nolan, Reinventing Justice: The American Drug Court
+Movement 99-104 (2001);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e259" publication-type="other">
+Deborah Chase &amp; Peggy Fulton Нога, The Best Seat in the House : The
+Court Assignment and Judicial Satisfaction , 47 Fam. Ct. REV. 209 (2009).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e269a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d414e276" publication-type="other">
+Interview by Susan Swain, C-SPAN, with the Hon. Antonin Scalia (June 19,
+2009), available at http://supremecourt.c-span.org/assets/pdf/AScalia.pdf</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e286a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d414e293" publication-type="other">
+Unites States v. Ballard, 322 U.S. 78, 93-94 (1944)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e301a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d414e308" publication-type="other">
+Terry A. Maroney, The Persistent Cultural Script of Judicial Dispassion , 99 Calif. L.
+Rev. 629, 630 (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e317" publication-type="other">
+id. at 636 &amp; n.27</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e324a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d414e331" publication-type="other">
+Maroney, supra note 11, at 633-34</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e338a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d414e345" publication-type="other">
+Thomas Hobbes, Leviathan 203 (A.R. Waller ed., Cambridge Univ. Press 1904)
+(1651), quoted in Dan Simon, A Psychological Model of Judicial Decision Making , 30 Rutgers L.J.,
+1,40(1998).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e358a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d414e365" publication-type="other">
+Karl Georg Wurzel, Methods of Juridical Thinking (1904), translated in Science of
+Legal Method: Selected Essays 298 (Ernest Bruncken &amp; Layton B. Register eds., 1917)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e374" publication-type="other">
+Maroney, supra note 11, at 635</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e381a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d414e388" publication-type="other">
+Maroney, supra note 11, at 634-36</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e394" publication-type="other">
+James Madison, The Federalist
+No. 49, at 317 (Clinton Rossiter, ed., 1961)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e403" publication-type="other">
+Kathryn Abrams &amp; Hila Keren, Who 's Afraid of Law and the Emotions ?, 94 Minn. L. Rev.
+1997, 2005 (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e413a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d414e420" publication-type="other">
+Maroney, supra note 11, at 652-57</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e428a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d414e435" publication-type="other">
+Maroney, supra note 11, at 657-58</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e442a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d414e449" publication-type="other">
+Maroney, Supra note 11,at 657 -64</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e456a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d414e463" publication-type="other">
+Id. at 664</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e470a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d414e477" publication-type="other">
+Maroney, supra note 11, at 668.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e483" publication-type="other">
+id. at 668-71.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e489" publication-type="other">
+id. at 671</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e496a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d414e503" publication-type="other">
+Maroney, supra note 11, at 636-40.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e509" publication-type="other">
+id. at 638 &amp; n.34</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e515" publication-type="other">
+id. at 637-39;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e522" publication-type="other">
+id. at 631 &amp; n.5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e528" publication-type="other">
+Richard A. Posner, The Role of the
+Judge in the Twenty-First Century , 86 B.U. L. REV. 1049, 1065 (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e538a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d414e547" publication-type="other">
+supra note 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e553" publication-type="other">
+Maroney, supra note 11, at 641-42</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e561a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d414e568" publication-type="other">
+infra note 25</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e575a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d414e582" publication-type="other">
+Handbook of Emotion Regulation, at xi-xiv &amp; fig.P.1 (James J. Gross ed., 2007)
+(noting that academic citations to "emotion regulation" have increased dramatically since 1991);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e591" publication-type="other">
+Sander L. Koole, The Psychology of Emotion Regulation: An Integrative Review , 23 Cognition &amp;
+Emotion 4, 5 (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e601a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d414e608" publication-type="other">
+James J. Gross, Antecedent-and Response-Focused Emotion Regulation: Divergent
+Consequences for Experience, Expression, and Physiology , 74 J. Personality &amp; Soc. Psychol. 224
+(1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e620" publication-type="other">
+Iris B. Mauss et al., Culture
+and Automatic Emotion Regulation , in Regulating Emotions 39, 40 (Marie Vandekerckhove et al.
+eds., 2008)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e633a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d414e640" publication-type="other">
+James J. Gross &amp; Ross A. Thompson, Emotion Regulation: Conceptual Foundations, in
+Handbook of Emotion Regulation, supra note 24, at 3, 7-8;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e649" publication-type="other">
+Koole, supra note 24, at 5</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e656a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d414e663" publication-type="other">
+infra Part II.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e670a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d414e677" publication-type="other">
+infra Part I</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e685a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d414e692" publication-type="other">
+Daniel Goleman,
+http://www.danielgoleman.info (last visited Sept. 16, 2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e701" publication-type="other">
+Psychology of Emotion: Interpersonal, Experiential, And
+Cognitive Approaches 162 (Paula M. Niedenthal et al. eds., 2006);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e710" publication-type="other">
+Nicola S. Schutte et al.,
+Antecedent-Focused Emotion Regulation, Response Modulation and Well-Being, 28 Current
+Psychol. 21, 23 (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e723" publication-type="other">
+John D. Mayer et al., Emotional Intelligence: Theory, Findings, and Implications , 15 Psychol.
+Inquiry 197 (2004)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e733a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d414e740" publication-type="other">
+infra Section IV. A;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e746" publication-type="other">
+Maroney, supra note 11 , at 640, 642, 678</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e753a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d414e760" publication-type="other">
+Frederick Schauer, Is There a Psychology of Judging ?, in The Psychology of Judicial Decision
+Making 103 (David Klein &amp; Gregory Mitchell eds., 2010).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e769" publication-type="other">
+James J.
+Gross, Emotion Regulation: Past, Present, Future , 13 COGNITION &amp; EMOTION 551 (1999).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e779a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d414e786" publication-type="other">
+infra Parts II &amp; IV.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e793a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d414e800" publication-type="other">
+infra Section II.C.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e807a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d414e814" publication-type="other">
+Gross, supra note 25, at 224;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e820" publication-type="other">
+Koole, supra note 24, at 6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e826" publication-type="other">
+infra Section IV.B.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e834a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d414e841" publication-type="other">
+Renata M. Heilman et al., Emotion Regulation and Decision Making Under Risk and
+Uncertainty , 10 Emotion 257 (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e851a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d414e858" publication-type="other">
+David Klein, Introduction , in Psychology of Judicial Decision Making, supra
+note 31 , at XV</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e868a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d414e875" publication-type="other">
+W. Kip Viscusi, How Do Judges Think About Risk?, AM. L. &amp; Econ. Rev. 26, 36 (1999).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e882a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d414e889" publication-type="other">
+John C. Anderson et al., Evaluation of Auditor Decisions: Hindsight Bias and the
+Expectation Gap , 14 J. Econ. Psychol. 711 (1993);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e898" publication-type="other">
+Chris Guthrie et al., Inside the Judicial Mind , 86
+Cornell L. Rev. 777 (2001);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e907" publication-type="other">
+Guthrie et al.,
+supra , at 787-94;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e917" publication-type="other">
+Jeffrey J. Rachlinski, A Positive Psychological Theory of Judging in
+Hindsight , 65 U. CHI. L. Rev. 571 (1998).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e926" publication-type="other">
+Viscusi, supra note 37, at 26.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e933a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d414e940" publication-type="other">
+Maroney, supra note 11, at 668</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e947a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d414e954" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e962a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d414e969" publication-type="other">
+infra Section III.C.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e976a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d414e983" publication-type="other">
+Maroney, supra note 11, at 651, 681</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e990a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d414e997" publication-type="other">
+Arlie Russell Hochschild, The Managed Heart: Commercialization of Human
+Feeling 7 (1983).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1007a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d414e1014" publication-type="other">
+Klein, supra note 36, at xiii</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1021a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d414e1028" publication-type="other">
+Maroney, supra note 11.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1035a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d414e1042" publication-type="other">
+Posner, supra note 21, at 1065</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1050a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d414e1057" publication-type="other">
+Hochschild, supra note 43, at 7</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1064a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d414e1071" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1078a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d414e1085" publication-type="other">
+Mauss et al., supra note 25, at 47</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1092a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d414e1099" publication-type="other">
+Hochschild, supra note 43, at 1-9.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1106a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d414e1113" publication-type="other">
+Id. at 137-38.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1120a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d414e1127" publication-type="other">
+Id. at 153</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1133" publication-type="other">
+id. at 52-53</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1139" publication-type="other">
+id.
+at App. С;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1149" publication-type="other">
+Sharyn Roach Anleu &amp; Kathy Mack, Magistrates ' Everyday Work and Emotional
+Labour , 32 J.L. &amp; Soc'y 590, 614 (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1158" publication-type="other">
+Alicia A. Grandey, Emotional Regulation in
+the Workplace: A New Way to Conceptualize Emotional Labor , 5 J. Occupational Health
+Psychol. 95 (2000).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1172a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d414e1179" publication-type="other">
+Hochschild, supra note 43, at 35-48.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1185" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1192a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d414e1201" publication-type="other">
+Grandey, supra note 52, at 95</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1208a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d414e1215" publication-type="other">
+Vanda L. Zammuner &amp; Cristina Galli, The Relationship with Patients: " Emotional Labor"
+and Its Correlates in Hospital Employees , in Emotions in Organizational Behavior 251, 254
+(Charmine E .J. Härtel et al. eds., 2005).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1228a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d414e1235" publication-type="other">
+Id. at 252-53</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1242a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d414e1249" publication-type="other">
+Maroney, supra note 11 , at 656-58;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1255" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 599.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1262a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d414e1269" publication-type="other">
+supra Section II.A.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1277a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d414e1284" publication-type="other">
+Posner, supra note 21 , at 1065.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1291a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d414e1298" publication-type="other">
+Maroney, supra note 11 .</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1305a1310">
+            <label>61</label>
+            <p>
+               <mixed-citation id="d414e1312" publication-type="other">
+supra note 2.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1319a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d414e1326" publication-type="other">
+supra notes 1-10.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1333a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d414e1340" publication-type="other">
+State v. Cutts, No. 2008CA000079, 2009 WL 2170687, at 36 (Ohio Ct. App.
+Jul. 22, 2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1349" publication-type="other">
+Commonwealth v.
+White, 910 A.2d 648, 658 (Pa. 2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1359a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d414e1366" publication-type="other">
+Heather Conway &amp; John Stannard, The Honours of Hades: Death, Emotion, and the Law
+of Burial Disputes (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1375" publication-type="other">
+Berman Swartz, Comment, Property -Nature of Rights in Dead Bodies -
+Right of Burial, 12 S. Cal. L. Rev. 435, 436 (1939)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1386a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d414e1393" publication-type="other">
+Maroney, supra note 11</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1400a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d414e1407" publication-type="other">
+Irving J. Kaufman, The Anatomy of Decisionmaking , 53 Fordham L. Rev. 1 , 16 (1984).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1414a1310">
+            <label>67</label>
+            <p>
+               <mixed-citation id="d414e1421" publication-type="other">
+Richard A. Posner, Frontiers of Legal Theory 245 (2001);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1427" publication-type="other">
+Maroney, supra
+note 11, at 659-61</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1436" publication-type="other">
+Richard A.
+Posner, How Judges Think (2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1446" publication-type="other">
+Posner, How Judges Think, supra , at 119</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1452" publication-type="other">
+id. at 106</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1459a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d414e1466" publication-type="other">
+Posner, How Judges Think, supra note 67, at 38</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1473a1310">
+            <label>69</label>
+            <p>
+               <mixed-citation id="d414e1480" publication-type="other">
+Id. at 110</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1487a1310">
+            <label>70</label>
+            <p>
+               <mixed-citation id="d414e1494" publication-type="other">
+id. at 119</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1502a1310">
+            <label>71</label>
+            <p>
+               <mixed-citation id="d414e1509" publication-type="other">
+Alex Kozinski, Chief Judge, U.S. Court of Appeals for the Ninth
+Circuit, in Nashivlle, Tenn. (Feb. 6, 2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1519a1310">
+            <label>72</label>
+            <p>
+               <mixed-citation id="d414e1526" publication-type="other">
+United States v. Kojayan, 8 F.3d 1315 (9th Cir. 1993).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1533a1310">
+            <label>73</label>
+            <p>
+               <mixed-citation id="d414e1540" publication-type="other">
+Chief Judge Kozinski discussed this case, though with less attention to its emotional
+aspects, in Alex Kozinski, Teetering on the High Wire , 68 U. Colo. L. Rev. 1217 (1997).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1550a1310">
+            <label>74</label>
+            <p>
+               <mixed-citation id="d414e1557" publication-type="other">
+infra Section III.C.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1564a1310">
+            <label>75</label>
+            <p>
+               <mixed-citation id="d414e1571" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 592</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1578a1310">
+            <label>76</label>
+            <p>
+               <mixed-citation id="d414e1585" publication-type="other">
+Id. at 593-96</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1593a1310">
+            <label>77</label>
+            <p>
+               <mixed-citation id="d414e1600" publication-type="other">
+Id. at 599-601</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1607a1310">
+            <label>78</label>
+            <p>
+               <mixed-citation id="d414e1614" publication-type="other">
+Id. at 601-02.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1621a1310">
+            <label>79</label>
+            <p>
+               <mixed-citation id="d414e1628" publication-type="other">
+Id. at 614</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1635a1310">
+            <label>80</label>
+            <p>
+               <mixed-citation id="d414e1642" publication-type="other">
+Weiser, supra note 7, at A20</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1649a1310">
+            <label>81</label>
+            <p>
+               <mixed-citation id="d414e1658" publication-type="other">
+California v. Brown, 479 U.S. 538, 542-43 (1987)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1664" publication-type="other">
+Saffle v. Parks, 494 U.S. 484, 493 (1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1671a1310">
+            <label>82</label>
+            <p>
+               <mixed-citation id="d414e1678" publication-type="other">
+Fed. R. Evid. 403 (1999).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1686a1310">
+            <label>83</label>
+            <p>
+               <mixed-citation id="d414e1693" publication-type="other">
+Carey v. Musladin, 549 U.S. 70, 76 (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1699" publication-type="other">
+Terry A. Maroney, Emotional Common Sense as Constitutional Law , 62 Vand. L. Rev. 851
+(2009).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1709a1310">
+            <label>84</label>
+            <p>
+               <mixed-citation id="d414e1716" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 614.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1723a1310">
+            <label>85</label>
+            <p>
+               <mixed-citation id="d414e1730" publication-type="other">
+Id. at 611.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1737a1310">
+            <label>86</label>
+            <p>
+               <mixed-citation id="d414e1744" publication-type="other">
+Mary Lay Schuster &amp; Amy Propen, Degrees of Emotion: Judicial Responses to Victim
+Impact Statements , 6 Law, Culture &amp; Human. 75 (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1754a1310">
+            <label>87</label>
+            <p>
+               <mixed-citation id="d414e1761" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1768a1310">
+            <label>88</label>
+            <p>
+               <mixed-citation id="d414e1775" publication-type="other">
+Id at 89.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1783a1310">
+            <label>89</label>
+            <p>
+               <mixed-citation id="d414e1790" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1797a1310">
+            <label>90</label>
+            <p>
+               <mixed-citation id="d414e1804" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 611</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1810" publication-type="other">
+Schuster &amp; Propen, supra note 86, at 89</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1817a1310">
+            <label>91</label>
+            <p>
+               <mixed-citation id="d414e1824" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 613.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1831a1310">
+            <label>92</label>
+            <p>
+               <mixed-citation id="d414e1838" publication-type="other">
+Id. at 612.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1845a1310">
+            <label>93</label>
+            <p>
+               <mixed-citation id="d414e1852" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 612.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1859a1310">
+            <label>94</label>
+            <p>
+               <mixed-citation id="d414e1866" publication-type="other">
+Schuster &amp; Propen, supra note 86, at 89.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1872" publication-type="other">
+Hochschild, supra note 43, at 90</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1880a1310">
+            <label>95</label>
+            <p>
+               <mixed-citation id="d414e1887" publication-type="other">
+Robert C. Solomon, Philosophy of Emotions , in Handbook of Emotions 3, 3 (Michael
+Lewis et al. eds., 3d ed. 2008).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1897a1310">
+            <label>96</label>
+            <p>
+               <mixed-citation id="d414e1904" publication-type="other">
+Maroney, supra note 11;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1910" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 602</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1917a1310">
+            <label>97</label>
+            <p>
+               <mixed-citation id="d414e1924" publication-type="other">
+Solomon, supra noté 95, at 3</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1931a1310">
+            <label>98</label>
+            <p>
+               <mixed-citation id="d414e1938" publication-type="other">
+Maroney, supra note 11, at 648</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1945a1310">
+            <label>99</label>
+            <p>
+               <mixed-citation id="d414e1952" publication-type="other">
+Maroney, supra note 11, at 676</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1958" publication-type="other">
+Terry A. Maroney, Law and Emotion: A Proposed Taxonomy of an
+Emerging Field , 30 Law &amp; Hum. Behav. 119 (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1967" publication-type="other">
+The Oxford Companion To
+Emotion and the Affective Sciences (David Sander &amp; Klaus R. Scherer eds., 2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e1977a1310">
+            <label>100</label>
+            <p>
+               <mixed-citation id="d414e1984" publication-type="other">
+Marie Vandekerckhove et al., Regulating Emotions: Culture, Social Necessity, and
+Biological Inheritance , in Regulating Emotions, supra note 25, at 1,1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e1993" publication-type="other">
+Arvid Kappas, Psssst! Dr. Jekyll and Mr. Hyde are Actually the Same Person! A Tale of
+Regulation and Emotion, in Regulating Emotions, supra note 25, at 15, 18.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2004a1310">
+            <label>101</label>
+            <p>
+               <mixed-citation id="d414e2011" publication-type="other">
+Robert W. Levenson, Human Emotion: A Functional View , in The Nature of
+Emotion: Fundamental Questions 123, 125 (Paul Ekman &amp; Richard J. Davidson eds., 1994);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2020" publication-type="other">
+Maroney, supra note 11</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2027a1310">
+            <label>102</label>
+            <p>
+               <mixed-citation id="d414e2034" publication-type="other">
+Jennifer S. Beer &amp; Michael V. Lombardo, Insights into Emotion Regulation from
+Neuropsychology , in Handbook of Emotion Regulation, supra note 24, at 69</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2043" publication-type="other">
+Gross, supra note 31, at 558</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2049" publication-type="other">
+Vandekerckhove, supra note 100, at 1-2.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2056a1310">
+            <label>103</label>
+            <p>
+               <mixed-citation id="d414e2063" publication-type="other">
+Kathryn Abrams, The Progress of
+Passion , 100 Mich. L. Rev. 1602, 1602 (2002) (book review of The Passions of Law (Susan A.
+Bandes ed., 1999))</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2076a1310">
+            <label>104</label>
+            <p>
+               <mixed-citation id="d414e2083" publication-type="other">
+Tanja Wranik et al., Intelligent Emotion Regulation: Is Knowledge Power?, in
+Handbook of Emotion Regulation, supra note 24, at 393-407, 393</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2092" publication-type="other">
+James R. Averill, Anger and Aggression: An Essay on Emotion (1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2098" publication-type="other">
+Nicomachean Ethics 1106b20,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2105" publication-type="other">
+The Basic Works of Aristotle 958 (R. McKeon ed., 1941)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2112a1310">
+            <label>105</label>
+            <p>
+               <mixed-citation id="d414e2119" publication-type="other">
+Beer &amp; Lombardo, supra note 102, at 69;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2125" publication-type="other">
+John A. Bargh &amp; Lawrence E.
+Williams, The Nonconscious Regulation of Emotion , in Handbook of Emotion Regulation, supra
+note 24, at 429, 434</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2138a1310">
+            <label>106</label>
+            <p>
+               <mixed-citation id="d414e2145" publication-type="other">
+Maya Tamir et al, Business or Pleasure? Utilitarian Versus Hedonic Considerations in
+Emotion Regulation , 7 Emotion 546, 546 (2007).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2156a1310">
+            <label>107</label>
+            <p>
+               <mixed-citation id="d414e2163" publication-type="other">
+Psychology of Emotion, supra note 29, at 157;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2169" publication-type="other">
+Koole, supra note 24, at 14.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2175" publication-type="other">
+Tamir et
+al., supra note 106, at 552.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2185a1310">
+            <label>108</label>
+            <p>
+               <mixed-citation id="d414e2192" publication-type="other">
+Id. at 546.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2199a1310">
+            <label>109</label>
+            <p>
+               <mixed-citation id="d414e2206" publication-type="other">
+Psychology of Emotion, supra note 29, at 157-58.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2213a1310">
+            <label>110</label>
+            <p>
+               <mixed-citation id="d414e2220" publication-type="other">
+Tamir et al., supra note 106, at 546</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2227a1310">
+            <label>111</label>
+            <p>
+               <mixed-citation id="d414e2234" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2241a1310">
+            <label>112</label>
+            <p>
+               <mixed-citation id="d414e2248" publication-type="other">
+Koole, supra note 24, at 14</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2256a1310">
+            <label>113</label>
+            <p>
+               <mixed-citation id="d414e2263" publication-type="other">
+Tamir et al., supra note 106, at 546.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2270a1310">
+            <label>114</label>
+            <p>
+               <mixed-citation id="d414e2277" publication-type="other">
+Psychology of Emotion, supra note 29, at 158.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2284a1310">
+            <label>115</label>
+            <p>
+               <mixed-citation id="d414e2291" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2298a1310">
+            <label>116</label>
+            <p>
+               <mixed-citation id="d414e2305" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2312a1310">
+            <label>117</label>
+            <p>
+               <mixed-citation id="d414e2319" publication-type="other">
+Vandekerckhove et al., supra note 100, at 3.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2326a1310">
+            <label>118</label>
+            <p>
+               <mixed-citation id="d414e2333" publication-type="other">
+Richard J. Davidson et al., Neural Bases of Emotion Regulation in Nonhuman Primates
+and Humans, in Handbook of Emotion Regulation, supra note 24, at 47, 47;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2342" publication-type="other">
+Daniel M.
+Wegner, White Bears and Other Unwanted Thoughts: Suppression, Obsession, and the
+Psychology of Mental Control 122-24 (1989).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2356a1310">
+            <label>119</label>
+            <p>
+               <mixed-citation id="d414e2363" publication-type="other">
+Gross, supra note 31, at 551-73</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2369" publication-type="other">
+Samuel M. McClure et al.,
+Conflict Monitoring in Cognition-Emotion Competition , in Handbook of Emotion Regulation,
+supra note 24, at 204, 204-05</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2382a1310">
+            <label>120</label>
+            <p>
+               <mixed-citation id="d414e2389" publication-type="other">
+Susan D. Calkins &amp; Ashley Hill, Caregiver Influences on Emerging Emotion
+Regulation: Biological and Environmental Transactions in Early Development , in Handbook of
+Emotion Regulation, supra note 24, at 229.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2402a1310">
+            <label>121</label>
+            <p>
+               <mixed-citation id="d414e2409" publication-type="other">
+Batja Mesquita &amp; Dustin Albert, The Cultural Regulation of Emotions , in Handbook of
+Emotion Regulation, supra note 24, at 486, 487</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2419a1310">
+            <label>122</label>
+            <p>
+               <mixed-citation id="d414e2426" publication-type="other">
+Psychology of Emotion, supra note 29, at 159</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2433a1310">
+            <label>123</label>
+            <p>
+               <mixed-citation id="d414e2440" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 8 .</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2447a1310">
+            <label>124</label>
+            <p>
+               <mixed-citation id="d414e2454" publication-type="other">
+Heilman et al. , supra note 35 , at 263 .</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2462a1310">
+            <label>125</label>
+            <p>
+               <mixed-citation id="d414e2469" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 10.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2475" publication-type="other">
+Josh M. Cisler et al.,
+Emotion Regulation and the Anxiety Disorders: An Integrative Review , 32 J. Psychopathology &amp;
+Behav. Assessment 68, 75 (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2488a1310">
+            <label>126</label>
+            <p>
+               <mixed-citation id="d414e2495" publication-type="other">
+George Loewenstein,
+Affect Regulation and Affective Forecasting , in Handbook of Emotion Regulation, supra note 24,
+at 180-203, 181</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2507" publication-type="other">
+Brian Parkinson &amp; Peter
+Totterdell, Classifying Affect-Regulation Strategies , 13 Cognition &amp; Emotion 277 (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2517a1310">
+            <label>128</label>
+            <p>
+               <mixed-citation id="d414e2524" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 11.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2531a1310">
+            <label>129</label>
+            <p>
+               <mixed-citation id="d414e2538" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2545a1310">
+            <label>130</label>
+            <p>
+               <mixed-citation id="d414e2552" publication-type="other">
+Id. at 12</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2559a1310">
+            <label>131</label>
+            <p>
+               <mixed-citation id="d414e2566" publication-type="other">
+Mauss et al., supra note 25, at 41.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2574a1310">
+            <label>132</label>
+            <p>
+               <mixed-citation id="d414e2581" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 13;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2587" publication-type="other">
+Gal Sheppes &amp; Nachshon Meiran, Divergent
+Cognitive Costs for Online Forms of Reappraisal and Distraction , 8 Emotion 870, 871 (2008);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2596" publication-type="other">
+Loewenstein, supra note 126, at 190.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2603a1310">
+            <label>133</label>
+            <p>
+               <mixed-citation id="d414e2610" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 14.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2616" publication-type="other">
+Barnaby D.
+Dunn et al., The Consequences of Effortful Emotion Regulation When Processing Distressing
+Material: A Comparison of Suppression and Acceptance , 47 Behav. Res. &amp; Therapy 761, 764 n.2
+(2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2632a1310">
+            <label>134</label>
+            <p>
+               <mixed-citation id="d414e2639" publication-type="other">
+William Shakespeare, Macbeth act 1 , sc. 7.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2646a1310">
+            <label>135</label>
+            <p>
+               <mixed-citation id="d414e2653" publication-type="other">
+Mauss et al., supra note 25, at 40-41</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2659" publication-type="other">
+Phillip R. Shaver &amp; Mario Mikulincer, Adult Attachment Strategies and the
+Regulation of Emotion , in Handbook of Emotion Regulation, supra note 24, at 446-65, 452</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2669a1310">
+            <label>136</label>
+            <p>
+               <mixed-citation id="d414e2676" publication-type="other">
+Mauss et al., supra note 25, at 40.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2683a1310">
+            <label>137</label>
+            <p>
+               <mixed-citation id="d414e2690" publication-type="other">
+Wegner, supra note 118, at 7</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2698a1310">
+            <label>138</label>
+            <p>
+               <mixed-citation id="d414e2705" publication-type="other">
+Hochschild, supra note 43, at 35-43.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2712a1310">
+            <label>139</label>
+            <p>
+               <mixed-citation id="d414e2719" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 16-17.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2726a1310">
+            <label>140</label>
+            <p>
+               <mixed-citation id="d414e2733" publication-type="other">
+Wranik et al., supra note 104, at 397</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2739" publication-type="other">
+Richard S. Lazarus, Universal Antecedents of the
+Emotions , in The Nature of Emotion: Fundamental Questions, supra note 101, at 163, 164</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2749a1310">
+            <label>141</label>
+            <p>
+               <mixed-citation id="d414e2756" publication-type="other">
+Nico H. Frijda et al., The Influence of Emotions on Beliefs , in Emotions And Beliefs:
+How Feelings Influence Thoughts 1, 1 (Nico H. Frijda et al. eds., 2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2765" publication-type="other">
+Koole,
+supra note 24, at 13.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2775a1310">
+            <label>142</label>
+            <p>
+               <mixed-citation id="d414e2782" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 16-17.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2789a1310">
+            <label>143</label>
+            <p>
+               <mixed-citation id="d414e2796" publication-type="other">
+Hochschild, supra note 43, at 35-43.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2804a1310">
+            <label>144</label>
+            <p>
+               <mixed-citation id="d414e2811" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 16-17.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2817" publication-type="other">
+Sheppes &amp; Meiran, supra
+note 132, at 870.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2827a1310">
+            <label>145</label>
+            <p>
+               <mixed-citation id="d414e2834" publication-type="other">
+Psychology of Emotion, supra note 29, at 169-70.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2841a1310">
+            <label>146</label>
+            <p>
+               <mixed-citation id="d414e2848" publication-type="other">
+Mauss et al., supra note 25, at 41.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2855a1310">
+            <label>147</label>
+            <p>
+               <mixed-citation id="d414e2862" publication-type="other">
+Cisler et al., supra note 125, at 70.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2869a1310">
+            <label>148</label>
+            <p>
+               <mixed-citation id="d414e2876" publication-type="other">
+Sheppes &amp; Meiran, supra note 132, at 870-71.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2883a1310">
+            <label>149</label>
+            <p>
+               <mixed-citation id="d414e2890" publication-type="other">
+Id. at 871</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2896" publication-type="other">
+Psychology of Emotion, supra note 29, at 163, 169</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2902" publication-type="other">
+Oliver P. John &amp; James J. Gross, Individual Differences in Emotion Regulation , in
+Handbook of Emotion Regulation, supra note 24, at 351, 353</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2913a1310">
+            <label>150</label>
+            <p>
+               <mixed-citation id="d414e2920" publication-type="other">
+Bernard Rimé, Interpersonal Emotion Regulation , in Handbook of Emotion
+Regulation, supra note 24, at 467.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2930a1310">
+            <label>151</label>
+            <p>
+               <mixed-citation id="d414e2937" publication-type="other">
+Id. at 466-85;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2943" publication-type="other">
+Expressive Writing with Feedback , The Online Research
+Consortium, http://www.utpsyc.org/Write (last visited Sept. 16, 2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2953a1310">
+            <label>152</label>
+            <p>
+               <mixed-citation id="d414e2960" publication-type="other">
+Richard Chambers et al., Mindful Emotion Regulation: An Integrative Review , 29
+Clinical Psychol. Rev. 560 (2009).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e2970a1310">
+            <label>153</label>
+            <p>
+               <mixed-citation id="d414e2977" publication-type="other">
+Chambers et al., supra note 152, at 561.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2983" publication-type="other">
+Mindful Schools,
+www.mindfulschools.org (last visited Sept. 14, 2011);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e2992" publication-type="other">
+Susan Greenland, The Mindful Child:
+How tо Help Your Kid Manage Stress and Become Happier, Kinder, and More
+Compassionate (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3005a1310">
+            <label>154</label>
+            <p>
+               <mixed-citation id="d414e3012" publication-type="other">
+Koole, supra note 24, at 27.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3019a1310">
+            <label>155</label>
+            <p>
+               <mixed-citation id="d414e3026" publication-type="other">
+Id. at 28.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3034a1310">
+            <label>156</label>
+            <p>
+               <mixed-citation id="d414e3041" publication-type="other">
+Chambers et al., supra note 152, at 563, 566</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3048a1310">
+            <label>157</label>
+            <p>
+               <mixed-citation id="d414e3057" publication-type="other">
+U. Mich. Emotion &amp; Self-Control Lab., http://selfcontrol.psych.lsa.umich.edu
+(last visited Sept. 14, 2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3066" publication-type="other">
+John Lee Hancock, The Blind Side 125 (Green Rev., Apr. 28, 2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3073" publication-type="other">
+infra Part III,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3079" publication-type="other">
+Susan Nolen-
+Hoeksema et al., Rethinking Rumination , 3 Persp. on Psychol. Sci. 400-24 (2008).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3089a1310">
+            <label>158</label>
+            <p>
+               <mixed-citation id="d414e3096" publication-type="other">
+Nancy Eisenberg et al., Effortful Control and Its Socioemotional Consequences , in
+Handbook of Emotion Regulation, supra note 24, at 287-306, 290</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3105" publication-type="other">
+James J. Gross, Emotion Regulation:
+Affective, Cognitive, and Social Consequences , 39 Psychophysiology 281, 289 (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3115a1310">
+            <label>159</label>
+            <p>
+               <mixed-citation id="d414e3122" publication-type="other">
+Grandey, supra note 52, at 105</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3129a1310">
+            <label>160</label>
+            <p>
+               <mixed-citation id="d414e3136" publication-type="other">
+Eisenberg et al., supra note 158, at 287-88</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3143a1310">
+            <label>161</label>
+            <p>
+               <mixed-citation id="d414e3150" publication-type="other">
+Dunn et al., supra note 133, at 762</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3156" publication-type="other">
+infra Part IV.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3164a1310">
+            <label>162</label>
+            <p>
+               <mixed-citation id="d414e3171" publication-type="other">
+Compare infra notes 312-14, with infra note 187.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3178a1310">
+            <label>163</label>
+            <p>
+               <mixed-citation id="d414e3185" publication-type="other">
+Compare infra notes 366-69, with infra note 155.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3192a1310">
+            <label>164</label>
+            <p>
+               <mixed-citation id="d414e3199" publication-type="other">
+Compare infra notes 380-81 , with infra notes 392-93 .</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3206a1310">
+            <label>165</label>
+            <p>
+               <mixed-citation id="d414e3213" publication-type="other">
+Bargh &amp; Williams, supra note 105, at 430</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3220a1310">
+            <label>166</label>
+            <p>
+               <mixed-citation id="d414e3229" publication-type="other">
+Laura Campbell-Sills &amp; David H. Barlow, Incorporating Emotion Regulation into
+Conceptualizations and Treatments of Anxiety and Mood Disorders , in Handbook of Emotion
+Regulation, supra note 24, at 542, 543</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3242a1310">
+            <label>167</label>
+            <p>
+               <mixed-citation id="d414e3249" publication-type="other">
+Wranik et al., supra note 104, at 400, 403</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3255" publication-type="other">
+Koole, supra note 24, at 22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3261" publication-type="other">
+Tamir et al., supra note 106, at 731-44.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3269a1310">
+            <label>168</label>
+            <p>
+               <mixed-citation id="d414e3276" publication-type="other">
+Wranik et al., supra note 104. at 398:</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3282" publication-type="other">
+John &amp; Gross supra note 149. at 366.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3289a1310">
+            <label>169</label>
+            <p>
+               <mixed-citation id="d414e3296" publication-type="other">
+Wranik et al., supra note 104, at 398.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3303a1310">
+            <label>170</label>
+            <p>
+               <mixed-citation id="d414e3310" publication-type="other">
+John &amp; Gross, supra note 149, at 366.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3317a1310">
+            <label>171</label>
+            <p>
+               <mixed-citation id="d414e3324" publication-type="other">
+Loewenstein, supra note 126, at 197.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3331a1310">
+            <label>172</label>
+            <p>
+               <mixed-citation id="d414e3338" publication-type="other">
+Id. at 181.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3345a1310">
+            <label>173</label>
+            <p>
+               <mixed-citation id="d414e3352" publication-type="other">
+John &amp; Gross, supra note 149.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3360a1310">
+            <label>174</label>
+            <p>
+               <mixed-citation id="d414e3367" publication-type="other">
+Corey Kilgannon &amp; Liz Robbins, Flight Attendant Had Long Imagined Escaping Down
+Chute , N.Y. Times: City Room (Aug. 11, 2010, 4:43 PM), http://cityroom.blogs.nytimes.com/2010/
+08/11/flight-attendant-had-long-imagined-escaping-down-chute-2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3380a1310">
+            <label>175</label>
+            <p>
+               <mixed-citation id="d414e3387" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3394a1310">
+            <label>176</label>
+            <p>
+               <mixed-citation id="d414e3401" publication-type="other">
+Lowenstein, supra note 126, at 180-81.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3408a1310">
+            <label>177</label>
+            <p>
+               <mixed-citation id="d414e3415" publication-type="other">
+Adrian Vermeule, Judging Under Uncertainty 166-68 (2006).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3422a1310">
+            <label>178</label>
+            <p>
+               <mixed-citation id="d414e3429" publication-type="other">
+Wegner, supra note 118, at 175.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3436a1310">
+            <label>180</label>
+            <p>
+               <mixed-citation id="d414e3443" publication-type="other">
+supra notes 139-43.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3451a1310">
+            <label>181</label>
+            <p>
+               <mixed-citation id="d414e3458" publication-type="other">
+supra note 146.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3465a1310">
+            <label>182</label>
+            <p>
+               <mixed-citation id="d414e3472" publication-type="other">
+Jane M. Richards &amp; James J. Gross, Emotion Regulation and Memory: The Cognitive
+Costs of Keeping One's Cool , 79 J. Personality &amp; Soc. Psychol. 410, 416 (2000).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3482a1310">
+            <label>183</label>
+            <p>
+               <mixed-citation id="d414e3489" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 14.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3496a1310">
+            <label>184</label>
+            <p>
+               <mixed-citation id="d414e3503" publication-type="other">
+Richards et al., supra note 182.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3510a1310">
+            <label>185</label>
+            <p>
+               <mixed-citation id="d414e3517" publication-type="other">
+Id. at 415.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3523" publication-type="other">
+Sheppes &amp;
+Meiran, supra note 132, at 871.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3533a1310">
+            <label>186</label>
+            <p>
+               <mixed-citation id="d414e3540" publication-type="other">
+Heilman et al., supra note 35, at 258</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3546" publication-type="other">
+M. R. Delgado et al.,
+Regulating the Expectation of Reward via Cognitive Strategies, 11 Nature Neuroscience 880-81
+(2008)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3560a1310">
+            <label>187</label>
+            <p>
+               <mixed-citation id="d414e3567" publication-type="other">
+Gross, Antecedent-and Response-Focused, supra note 25, at 224</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3573" publication-type="other">
+Gross, Emotion Regulation, supra note 158, at 281;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3579" publication-type="other">
+Loewenstein, supra note 126, at 183-84;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3586" publication-type="other">
+Jane M.
+Richards, The Cognitive Consequences of Concealing Feelings , 13 Current Directions Psychol.
+Sci. 131 (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3599a1310">
+            <label>188</label>
+            <p>
+               <mixed-citation id="d414e3606" publication-type="other">
+Sheppes &amp; Meiran, supra note 132, at 870</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3613a1310">
+            <label>189</label>
+            <p>
+               <mixed-citation id="d414e3620" publication-type="other">
+Psychology of Emotion, supra note 29, at 169 (describing R.S. Lazarus &amp; E. Alfert,
+Short-Circuiting of Threat by Experimentally Altering Cognitive Appraisal , 69 J. Abnormal &amp; Soc.
+Psychol. 195-205 (1964)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3633a1310">
+            <label>190</label>
+            <p>
+               <mixed-citation id="d414e3640" publication-type="other">
+Loewenstein, supra note 126</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3647a1310">
+            <label>191</label>
+            <p>
+               <mixed-citation id="d414e3654" publication-type="other">
+Loewenstein, supra note 126, at 184 (discussing Walter Mischel &amp; Nancy Baker,
+Cognitive Appraisals and Transformations in Delay Behavior , 31 J. Personality &amp; Soc. Psychol.
+419 (1975));</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3666" publication-type="other">
+Walter Mischel &amp; Ozlem Ayduk, Willpower in a Cognitive-Affective Processing
+System: The Dynamics of Delay of Gratification , in Handbook of Self-Regulation 99-129
+(Kathleen D. Vohs &amp; Roy F. Baumeistereds eds., 2004);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3678" publication-type="other">
+McClure et al., supra note 119, at 212-14.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3685a1310">
+            <label>192</label>
+            <p>
+               <mixed-citation id="d414e3692" publication-type="other">
+infra Section IV. A.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3700a1310">
+            <label>194</label>
+            <p>
+               <mixed-citation id="d414e3707" publication-type="other">
+supra note 185.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3714a1310">
+            <label>194</label>
+            <p>
+               <mixed-citation id="d414e3721" publication-type="other">
+Zammuner &amp; Galli, supra note 55, at 251</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3728a1310">
+            <label>195</label>
+            <p>
+               <mixed-citation id="d414e3735" publication-type="other">
+Allen C. Smith III &amp; Sheryll Kleinman, Managing Emotions in Medical School:
+Students ' Contact with the Living and the Dead , 52 Soc. Psychol. Q. 56, 59 (1989).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3745a1310">
+            <label>196</label>
+            <p>
+               <mixed-citation id="d414e3752" publication-type="other">
+Id. at 57</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3759a1310">
+            <label>197</label>
+            <p>
+               <mixed-citation id="d414e3766" publication-type="other">
+Zammuner &amp; Galli, supra note 55, at 252.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3773a1310">
+            <label>198</label>
+            <p>
+               <mixed-citation id="d414e3780" publication-type="other">
+Smith &amp; Kleinman, supra note 195, at 59</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3788a1310">
+            <label>199</label>
+            <p>
+               <mixed-citation id="d414e3795" publication-type="other">
+Hochschild, supra note 43, at 49-50.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3802a1310">
+            <label>200</label>
+            <p>
+               <mixed-citation id="d414e3809" publication-type="other">
+Smith &amp; Kleinman, supra note
+195, at 60.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3819a1310">
+            <label>201</label>
+            <p>
+               <mixed-citation id="d414e3826" publication-type="other">
+Hochschild, supra note 43, at 49-51;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3832" publication-type="other">
+Smith &amp; Kleinman, supra note 195, at 60, 62</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3839a1310">
+            <label>202</label>
+            <p>
+               <mixed-citation id="d414e3846" publication-type="other">
+supra note 169</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3853a1310">
+            <label>203</label>
+            <p>
+               <mixed-citation id="d414e3860" publication-type="other">
+supra Subsection II.B.2.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3867a1310">
+            <label>204</label>
+            <p>
+               <mixed-citation id="d414e3874" publication-type="other">
+Cisler et al., supra note 125, at 78-79</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3882a1310">
+            <label>205</label>
+            <p>
+               <mixed-citation id="d414e3889" publication-type="other">
+supra note 185</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3896a1310">
+            <label>206</label>
+            <p>
+               <mixed-citation id="d414e3903" publication-type="other">
+Martha
+C. Nussbaum, Emotion in the Language of Judging, 70 ST. John's L. Rev. 23, 24-25 (1996).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3913a1310">
+            <label>207</label>
+            <p>
+               <mixed-citation id="d414e3920" publication-type="other">
+Schuster &amp; Propen, supra note 86, at 89</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3927a1310">
+            <label>208</label>
+            <p>
+               <mixed-citation id="d414e3934" publication-type="other">
+Randy Cohen, When Med Students Post Patient Pictures , N.Y. Times Mag., Feb. 13,
+2011, at 21.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3944a1310">
+            <label>209</label>
+            <p>
+               <mixed-citation id="d414e3951" publication-type="other">
+Nat'l Center for State Courts, http://www.ncsc.org (last visited
+Sept. 16, 2011);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3960" publication-type="other">
+Fed. Jud. Center, http://www.fjc.gov (last visited Sept. 16, 2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3967a1310">
+            <label>210</label>
+            <p>
+               <mixed-citation id="d414e3974" publication-type="other">
+Jason M. Satterfield &amp; Ellen Hughes, Emotional Skills Training for
+Medical Students: A Systematic Review, 41 Med. Educ. 935 (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e3983" publication-type="other">
+Daisy Grewal &amp; Heather A. Davidson, Emotional
+Intelligence and Graduate Medical Education , 300 J. Am. Med. Ass'n 1200, 1200-02 (2008)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e3994a1310">
+            <label>211</label>
+            <p>
+               <mixed-citation id="d414e4001" publication-type="other">
+Smith &amp; Kleinman, supra note 195, at 56, 66</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4008a1310">
+            <label>212</label>
+            <p>
+               <mixed-citation id="d414e4015" publication-type="other">
+id. at 63</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4022a1310">
+            <label>213</label>
+            <p>
+               <mixed-citation id="d414e4029" publication-type="other">
+Grewal &amp; Davidson, supra note 210, at 1201;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4035" publication-type="other">
+Satterfield &amp; Hughes, supra note
+210, at 936;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4044" publication-type="other">
+Myrle Croasdale, Students Lose Empathy for Patients During Medical School , Am. Med.
+News (Mar. 24/31, 2008), http://www.ama-assn.org/amednews/2008/03/24/prsb0324.htm</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4054" publication-type="other">
+Smith &amp; Kleinman, supra note 195, at 57</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4061a1310">
+            <label>214</label>
+            <p>
+               <mixed-citation id="d414e4068" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 612;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4074" publication-type="other">
+POSNER, HOW JUDGES THINK, supra note
+67, at 119</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4083" publication-type="other">
+Gross &amp; Thompson, supra note 26, at 9</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4090a1310">
+            <label>215</label>
+            <p>
+               <mixed-citation id="d414e4097" publication-type="other">
+Grewal &amp; Davidson, supra note 210, at 1200-02;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4103" publication-type="other">
+Kant Patel, Physicians for the 21st
+Century: Challenges Facing Medical Education in the United States , 22 EVALUATION &amp; HEALTH
+PROFS. 379 (1999);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4115" publication-type="other">
+Satterfield &amp; Hughes, supra note 210, at 935-41;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4122" publication-type="other">
+Anemona Hartocollis, Getting
+into Med School Without Hard Sciences , N.Y. TIMES, July 30, 2010, at Al;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4131" publication-type="other">
+Stacey Teicher Khadaroo,
+Medical School Reinvented: Adding Lessons in Compassion , CHRISTIAN SCI. MONITOR, Sept. 15,
+2009, at 2;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4143" publication-type="other">
+Felice Aull, Mission Statement , MED. HUMAN., http://medhum.med.nyu.edu (last visited
+Sept. 16, 2011);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4152" publication-type="other">
+The New Pathway MD Program , HARV. MED. SCH., http://hms.harvard.edu/pme/
+newpathways.asp (last visited Sept. 16, 2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4162a1310">
+            <label>216</label>
+            <p>
+               <mixed-citation id="d414e4169" publication-type="other">
+Smith &amp; Kleinman, supra note 195, at 56.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4177a1310">
+            <label>217</label>
+            <p>
+               <mixed-citation id="d414e4184" publication-type="other">
+HOCHSCHILD, supra note 43, at 53.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4190" publication-type="other">
+Id.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4196" publication-type="other">
+Id. at 5.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4203a1310">
+            <label>218</label>
+            <p>
+               <mixed-citation id="d414e4210" publication-type="other">
+Grewal &amp; Davidson, supra note 210, at 1201</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4216" publication-type="other">
+Satterfield &amp; Hughes, supra note 210, at 936</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4223a1310">
+            <label>219</label>
+            <p>
+               <mixed-citation id="d414e4230" publication-type="other">
+Grewal &amp; Davidson, supra note 210, at1201</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4236" publication-type="other">
+Satterfield &amp; Hughes, supra note 210, at 935, 939</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4242" publication-type="other">
+Randy Cohen, When Med Students Post Patient Pictures , N.Y. TIMES MAG., Feb. 13,
+2011 , at 21.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4252" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4259a1310">
+            <label>220</label>
+            <p>
+               <mixed-citation id="d414e4266" publication-type="other">
+Heilman et al, supra note 35, at 26 1 .</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4273a1310">
+            <label>221</label>
+            <p>
+               <mixed-citation id="d414e4280" publication-type="other">
+infra Section IV.B.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4287a1310">
+            <label>222</label>
+            <p>
+               <mixed-citation id="d414e4294" publication-type="other">
+Inge Schweiger Gallo et al., Strategie Automation oj Emotional Regulation ,
+96 J. Personality &amp; Soc. Psychol. 11 (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4305a1310">
+            <label>223</label>
+            <p>
+               <mixed-citation id="d414e4312" publication-type="other">
+Heilman et al., supra note 35, at 259-60 &amp; tbl.l</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4319a1310">
+            <label>224</label>
+            <p>
+               <mixed-citation id="d414e4326" publication-type="other">
+Sheppes &amp; Meiran, supra note 132, at 873</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4332" publication-type="other">
+Loewenstein, supra note 126, at
+188</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4342a1310">
+            <label>225</label>
+            <p>
+               <mixed-citation id="d414e4349" publication-type="other">
+HOCHSCHILD, supra note 43, at 25</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4356a1310">
+            <label>226</label>
+            <p>
+               <mixed-citation id="d414e4363" publication-type="other">
+Loewenstein, supra note 126, at 189</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4370a1310">
+            <label>227</label>
+            <p>
+               <mixed-citation id="d414e4377" publication-type="other">
+Smith &amp; Kleinman, supra note 195, at 60.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4384a1310">
+            <label>228</label>
+            <p>
+               <mixed-citation id="d414e4391" publication-type="other">
+Wranik et al., supra note 104, at 400</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4399a1310">
+            <label>229</label>
+            <p>
+               <mixed-citation id="d414e4406" publication-type="other">
+Sheppes &amp; Meiran, supra note 132, at 871.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4413a1310">
+            <label>230</label>
+            <p>
+               <mixed-citation id="d414e4420" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4427a1310">
+            <label>231</label>
+            <p>
+               <mixed-citation id="d414e4434" publication-type="other">
+Id.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4440" publication-type="other">
+infra Part IV.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4447a1310">
+            <label>232</label>
+            <p>
+               <mixed-citation id="d414e4454" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 170 (citing T. Kramer et al., Effects of
+Stress on Recall , 5 APPLIED COGNITIVE PSYCHOL. 483 (1991)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4464a1310">
+            <label>233</label>
+            <p>
+               <mixed-citation id="d414e4471" publication-type="other">
+Laura Campbell-Sills &amp; David H. Barlow, Incorporating Emotion Regulation into
+Conceptualizations and Treatments of Anxiety Disorders , in HANDBOOK OF EMOTION REGULATION,
+supra note 24, at 550</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4484a1310">
+            <label>234</label>
+            <p>
+               <mixed-citation id="d414e4491" publication-type="other">
+Smith &amp; Kleinman, supra note 195, at 61.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4499a1310">
+            <label>235</label>
+            <p>
+               <mixed-citation id="d414e4506" publication-type="other">
+Bargh &amp; Williams, supra note 105, at 436.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4513a1310">
+            <label>236</label>
+            <p>
+               <mixed-citation id="d414e4520" publication-type="other">
+infra Section IV. A</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4527a1310">
+            <label>237</label>
+            <p>
+               <mixed-citation id="d414e4534" publication-type="other">
+Gross, supra note 31.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4541a1310">
+            <label>238</label>
+            <p>
+               <mixed-citation id="d414e4548" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4555a1310">
+            <label>239</label>
+            <p>
+               <mixed-citation id="d414e4562" publication-type="other">
+Koole, supra note 24, at 25</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4568" publication-type="other">
+infra note 295</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4575a1310">
+            <label>240</label>
+            <p>
+               <mixed-citation id="d414e4582" publication-type="other">
+WEGNER, supra note 118, at 64-65</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4588" publication-type="other">
+Loewenstein, supra note 126, at
+197.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4599a1310">
+            <label>241</label>
+            <p>
+               <mixed-citation id="d414e4606" publication-type="other">
+Loewenstein, supra note 126, at 186-87.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4613a1310">
+            <label>242</label>
+            <p>
+               <mixed-citation id="d414e4620" publication-type="other">
+Pierre Philippot, Aurore Neumann et al., Emotion Information Processing and Affect
+Regulation : Specificity Matters! , in REGULATING EMOTIONS, supra note 25, at 202.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4630a1310">
+            <label>243</label>
+            <p>
+               <mixed-citation id="d414e4637" publication-type="other">
+Koole, supra note 24, at 27-28</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4644a1310">
+            <label>244</label>
+            <p>
+               <mixed-citation id="d414e4651" publication-type="other">
+Cisler et al., supra note 125, at 68.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4658a1310">
+            <label>245</label>
+            <p>
+               <mixed-citation id="d414e4665" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 184</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4672a1310">
+            <label>246</label>
+            <p>
+               <mixed-citation id="d414e4679" publication-type="other">
+id. at 183.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4687a1310">
+            <label>247</label>
+            <p>
+               <mixed-citation id="d414e4694" publication-type="other">
+Malcom, supra note 2.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4701a1310">
+            <label>248</label>
+            <p>
+               <mixed-citation id="d414e4708" publication-type="other">
+Kozinski Interview, supra note 71.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4715a1310">
+            <label>249</label>
+            <p>
+               <mixed-citation id="d414e4722" publication-type="other">
+United States v. Kojayan, 8 F.3d 1315 (9th Cir. 1993).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4729a1310">
+            <label>251</label>
+            <p>
+               <mixed-citation id="d414e4736" publication-type="other">
+Paoul Poder, The Political Regulation of Anger in Organizations , in REGULATING
+EMOTIONS, supra note 25, at 291-309, 292</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4745" publication-type="other">
+Phillip R. Shaver et al., Adult Attachment Theory, Emotion Regulation,
+and Prosocial Behavior , in REGULATING EMOTIONS, supra note 25, at 121, 128</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4755a1310">
+            <label>252</label>
+            <p>
+               <mixed-citation id="d414e4762" publication-type="other">
+James W. Pennebaker , U. TEX., http://homepage.psy.utexas.edu/
+HomePage/Faculty/Pennebaker/Home2000/JWPhome.htm (last visited Sept. 14, 2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4772a1310">
+            <label>253</label>
+            <p>
+               <mixed-citation id="d414e4779" publication-type="other">
+Psychology of Emotion, supra note 29, at 185-87.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4787a1310">
+            <label>254</label>
+            <p>
+               <mixed-citation id="d414e4794" publication-type="other">
+Rimé, supra note 1 50, at 470.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4801a1310">
+            <label>255</label>
+            <p>
+               <mixed-citation id="d414e4808" publication-type="other">
+Koole, supra note 24, at 27.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4815a1310">
+            <label>256</label>
+            <p>
+               <mixed-citation id="d414e4822" publication-type="other">
+Rimé, supra note 1 50, at 474 &amp; tbl. 23.1.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4829a1310">
+            <label>257</label>
+            <p>
+               <mixed-citation id="d414e4836" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4843a1310">
+            <label>258</label>
+            <p>
+               <mixed-citation id="d414e4850" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 189</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4857a1310">
+            <label>259</label>
+            <p>
+               <mixed-citation id="d414e4864" publication-type="other">
+PSYCHOLOGY OF
+EMOTION, supra note 29, at 185</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4873" publication-type="other">
+Koole, supra note 24, at 27</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4881a1310">
+            <label>260</label>
+            <p>
+               <mixed-citation id="d414e4888" publication-type="other">
+Kozinski Interview, supra note 71.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4895a1310">
+            <label>261</label>
+            <p>
+               <mixed-citation id="d414e4902" publication-type="other">
+Kozinski, supra note 73, at 1217.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4909a1310">
+            <label>262</label>
+            <p>
+               <mixed-citation id="d414e4916" publication-type="other">
+Kozinski Interview, supra note 71.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4923a1310">
+            <label>263</label>
+            <p>
+               <mixed-citation id="d414e4930" publication-type="other">
+Id.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4936" publication-type="other">
+Richard Erlich to Terry A. Maroney (May 17, 2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4943a1310">
+            <label>264</label>
+            <p>
+               <mixed-citation id="d414e4950" publication-type="other">
+Posner, Role of the Judge , supra note 2 1 , at 1065</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e4956" publication-type="other">
+James Taranto, The "Empathy" Paradox :
+Sotomayor Rejects Obama's Judicial Philosophy , WALL ST. J. (July 15, 2009),
+http://online.wsj.com/article/SB124767724285246273.html</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4969a1310">
+            <label>265</label>
+            <p>
+               <mixed-citation id="d414e4976" publication-type="other">
+Kozinski Interview, supra note 71</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4984a1310">
+            <label>266</label>
+            <p>
+               <mixed-citation id="d414e4991" publication-type="other">
+Maroney, supra note 11</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e4998a1310">
+            <label>267</label>
+            <p>
+               <mixed-citation id="d414e5005" publication-type="other">
+Jeffrey Rosen, Sentimental Journey : The Emotional Jurisprudence of Harry
+Blackmun , NEW REPUBLIC (May 2, 1994, 12:00 AM), http://www.tnr.com/article/politics/sentimental-
+joumey.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5018a1310">
+            <label>268</label>
+            <p>
+               <mixed-citation id="d414e5025" publication-type="other">
+Philippot et al., supra note 242, at 206</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5032a1310">
+            <label>269</label>
+            <p>
+               <mixed-citation id="d414e5039" publication-type="other">
+Shaver et al., supra note 251 , at 125.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5046a1310">
+            <label>270</label>
+            <p>
+               <mixed-citation id="d414e5053" publication-type="other">
+Smith &amp; Kleinman, supra note 195, at 60</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5060a1310">
+            <label>271</label>
+            <p>
+               <mixed-citation id="d414e5067" publication-type="other">
+id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5075a1310">
+            <label>272</label>
+            <p>
+               <mixed-citation id="d414e5082" publication-type="other">
+Carina G. Biggs, M.D., Assistant Professor of Surgery, Director of
+Trauma Education, Division of Trauma and Surgical Critical Care, S.U.N. Y. Downstate Medical
+Center (Oct. 15, 2010 &amp; Jan. 21, 2011).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5094" publication-type="other">
+Laurel E. Fletcher &amp; Harvey M.
+Weinstein, When Students Lose Perspective: Clinical Supervision and the Management of Empathy , 9
+CLINICAL L. Rev. 135 (2002);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5106" publication-type="other">
+Ann Juergens, Practicing What We Teach: The Importance of Emotion
+and Community Connection in Law Work and Law Teaching , 11 CLINICAL L. REV. 413 (2005);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5116" publication-type="other">
+Maijorie A. Silver, Emotional Intelligence and Legal Education , 5 PSYCHOL. PUB. POL'Y &amp; L. 1173
+(1999);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5125" publication-type="other">
+Maijorie A. Silver, Love, Hate, and Other Emotional Interference in the Lawyer/Client
+Relationship , 6 CLINICAL L. REV. 259 (1999).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5134" publication-type="other">
+Grant H. Morris, Teaching
+with Emotion: Enriching the Educational Experience of First-Year Law Students , 47 SAN DIEGO L.
+REV. 465 (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5147a1310">
+            <label>273</label>
+            <p>
+               <mixed-citation id="d414e5156" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 193</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5163a1310">
+            <label>274</label>
+            <p>
+               <mixed-citation id="d414e5170" publication-type="other">
+supra Section H.A.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5177a1310">
+            <label>275</label>
+            <p>
+               <mixed-citation id="d414e5184" publication-type="other">
+supra Part I.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5191a1310">
+            <label>276</label>
+            <p>
+               <mixed-citation id="d414e5198" publication-type="other">
+Maryland v. Craig, 497 U.S. 836 (1990);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5204" publication-type="other">
+Coy v. Iowa, 487 U.S. 1012 (1988).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5211a1310">
+            <label>277</label>
+            <p>
+               <mixed-citation id="d414e5218" publication-type="other">
+FED. R. E VID. 403 (1999).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5226a1310">
+            <label>278</label>
+            <p>
+               <mixed-citation id="d414e5233" publication-type="other">
+Schuster &amp; Propen, supra note 86, at 89.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5240a1310">
+            <label>279</label>
+            <p>
+               <mixed-citation id="d414e5247" publication-type="other">
+Carey v. Musladin, 549 U.S. 70, 76 (2006).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5254a1310">
+            <label>280</label>
+            <p>
+               <mixed-citation id="d414e5261" publication-type="other">
+Grandey, supra note 52, at 98</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5268a1310">
+            <label>281</label>
+            <p>
+               <mixed-citation id="d414e5275" publication-type="other">
+infra note 287</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5282a1310">
+            <label>282</label>
+            <p>
+               <mixed-citation id="d414e5289" publication-type="other">
+Deck v. Missouri, 544 U.S. 622 (2005).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5296a1310">
+            <label>283</label>
+            <p>
+               <mixed-citation id="d414e5303" publication-type="other">
+Sheppes &amp; Meiran, supra note 132, at 871</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5311a1310">
+            <label>284</label>
+            <p>
+               <mixed-citation id="d414e5318" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 604 (discussing findings in ROGER DOUGLAS &amp; KATHY
+Laster, Reforming the People's Court: Victorian Magistrates' Reactions to Change 20
+(1992)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5331a1310">
+            <label>285</label>
+            <p>
+               <mixed-citation id="d414e5338" publication-type="other">
+Peggy Fulton Hora et al., Therapeutic Jurisprudence and the Drug
+Treatment Court Movement , 74 NOTRE DAME L. REV. 439, 469 (1999);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5347" publication-type="other">
+DONALD J. Farole, Jr. &amp;
+Amanda B. Cissner, Ctr. for Court Innovation, Seeing Eye to Eye: Participant and Staff
+Perspectives on Drug Courts 5 (2005).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5360a1310">
+            <label>286</label>
+            <p>
+               <mixed-citation id="d414e5367" publication-type="other">
+Smith &amp;
+Kleinman, supra note 195, at 64-65</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5377a1310">
+            <label>287</label>
+            <p>
+               <mixed-citation id="d414e5384" publication-type="other">
+Karen Allen &amp; Jim Blascovich, Effects of Music on Cardiovascular Reactivity Among
+Surgeons , 272 J. AM. MED. Ass'N 1172 (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5393" publication-type="other">
+Erlich, supra note 263.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5400a1310">
+            <label>288</label>
+            <p>
+               <mixed-citation id="d414e5407" publication-type="other">
+Chambers et al., supra note 152, at 562</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5413" publication-type="other">
+Cisler et al., supra note 125, at 70</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5419" publication-type="other">
+Dunn et al., supra note
+133, at 761</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5429a1310">
+            <label>289</label>
+            <p>
+               <mixed-citation id="d414e5436" publication-type="other">
+Chambers et al., supra note 152, at 567-68.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5442" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5450a1310">
+            <label>290</label>
+            <p>
+               <mixed-citation id="d414e5457" publication-type="other">
+Id. at. 567-68 &amp; n.4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5464a1310">
+            <label>291</label>
+            <p>
+               <mixed-citation id="d414e5471" publication-type="other">
+Haruki Murakami, What I Talk About When I Talk About Running, at
+vii (2008).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5481a1310">
+            <label>292</label>
+            <p>
+               <mixed-citation id="d414e5488" publication-type="other">
+Cnty. of Sacramento v. Lewis, 523 U.S. 833 (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5494" publication-type="other">
+Rochin v. California, 342 U.S. 165, 172 (1952)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5501a1310">
+            <label>293</label>
+            <p>
+               <mixed-citation id="d414e5508" publication-type="other">
+A.G. Sulzberger, 3 U.S. Judges Testify in a Death Threat Case , N.Y. TIMES, Mar. 2,
+2010, at A28</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5518a1310">
+            <label>294</label>
+            <p>
+               <mixed-citation id="d414e5525" publication-type="other">
+Evan R. Seamone, Judicial Mindfulness , 70 U. CIN. L. REV. 1023 (2002).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5532a1310">
+            <label>295</label>
+            <p>
+               <mixed-citation id="d414e5541" publication-type="other">
+Satterfield &amp; Hughes, supra note 210, at 937 fig.l</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5549a1310">
+            <label>296</label>
+            <p>
+               <mixed-citation id="d414e5556" publication-type="other">
+Maroney, supra note 11.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5563a1310">
+            <label>297</label>
+            <p>
+               <mixed-citation id="d414e5570" publication-type="other">
+Vanda L. Zammuner, Men s and Women 's Lay Theories of Emotion , in GENDER AND
+EMOTION 48 (Agneta H. Fischer ed., 2000).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5580a1310">
+            <label>298</label>
+            <p>
+               <mixed-citation id="d414e5587" publication-type="other">
+Maroney, supra note 11, at 643-51.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5594a1310">
+            <label>299</label>
+            <p>
+               <mixed-citation id="d414e5601" publication-type="other">
+Abrams, supra note 103, at 1602.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5608a1310">
+            <label>300</label>
+            <p>
+               <mixed-citation id="d414e5615" publication-type="other">
+supra Subection II.B.3.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5621" publication-type="other">
+PSYCHOLOGY OF EMOTION, supra note 29, at 157</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5628a1310">
+            <label>301</label>
+            <p>
+               <mixed-citation id="d414e5635" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 599</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5643a1310">
+            <label>302</label>
+            <p>
+               <mixed-citation id="d414e5650" publication-type="other">
+Smith &amp; Kleinman, supra note 195, at 57.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5657a1310">
+            <label>303</label>
+            <p>
+               <mixed-citation id="d414e5664" publication-type="other">
+Id. at 68.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5671a1310">
+            <label>304</label>
+            <p>
+               <mixed-citation id="d414e5678" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5685a1310">
+            <label>305</label>
+            <p>
+               <mixed-citation id="d414e5692" publication-type="other">
+supra Part I.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5699a1310">
+            <label>306</label>
+            <p>
+               <mixed-citation id="d414e5706" publication-type="other">
+People v. Carter, No. C053369, 2009 WL 626113 (Cal. Ct. App. Mar. 12, 2009).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5713a1310">
+            <label>307</label>
+            <p>
+               <mixed-citation id="d414e5720" publication-type="other">
+Schuster &amp; Propen, supra note 86, at 89</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5728a1310">
+            <label>308</label>
+            <p>
+               <mixed-citation id="d414e5735" publication-type="other">
+Loewenstein, supra note 126, at 200 n.7</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5742a1310">
+            <label>309</label>
+            <p>
+               <mixed-citation id="d414e5749" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 172 (citing Roy F. Baumeister et al., Ego
+Depletion: Is the Active Self a Limited Resource ?, 74 J. PERSONALITY &amp; SOC. PSYCHOL. 1252
+(1998)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5762a1310">
+            <label>310</label>
+            <p>
+               <mixed-citation id="d414e5769" publication-type="other">
+Id. (citing Mark Muraven et al, Self-Control as a Limited Resource: Regulatory
+Depletion Patterns , 74 J. PERSONALITY &amp; SOC. PSYCHOL. 774 (1998));</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5778" publication-type="other">
+Kappas, supra note 100, at 26</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5785a1310">
+            <label>311</label>
+            <p>
+               <mixed-citation id="d414e5792" publication-type="other">
+Dunn et al., supra note 133, at 762</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5798" publication-type="other">
+Richards, supra note 187, at 131</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5805a1310">
+            <label>312</label>
+            <p>
+               <mixed-citation id="d414e5812" publication-type="other">
+Jane M. Richards &amp; James J. Gross, Personality and Emotional Memory: How
+Regulating Emotion Impairs Memory for Emotional Events , 40 J. RES. PERSONALITY 63 1 (2006);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5821" publication-type="other">
+Richards, supra note 187, at 13 1 ;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5827" publication-type="other">
+Richards &amp; Gross, supra note 182, at 410</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5834a1310">
+            <label>313</label>
+            <p>
+               <mixed-citation id="d414e5841" publication-type="other">
+PSYCHOLOGY of Emotion, supra note 29, at 171 (discussing Richards &amp; Gross, supra
+note 182,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5850" publication-type="other">
+Jane M. Richards &amp; James J. Gross, Composure at Any Cost? The Cognitive
+Consequences of Emotion Suppression , 25 PERSONALITY &amp; SOC. PSYCHOL. BULL. 1033 (1999)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5861a1310">
+            <label>314</label>
+            <p>
+               <mixed-citation id="d414e5868" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 171 (discussing Jane M. Richards et al.,
+Emotion Regulation in Romantic Relationships : The Cognitive Consequences of Concealing Feelings ,
+20 J. Social &amp; Personal Relationships 599 (2003))</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5881a1310">
+            <label>315</label>
+            <p>
+               <mixed-citation id="d414e5888" publication-type="other">
+Richards &amp; Gross, supra note 3 1 2, at 63 1 ;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5894" publication-type="other">
+Chambers et al., supra note 1 52, at 565.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5901a1310">
+            <label>316</label>
+            <p>
+               <mixed-citation id="d414e5908" publication-type="other">
+Conversation with James J. Gross (Mar. 5, 2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5915a1310">
+            <label>317</label>
+            <p>
+               <mixed-citation id="d414e5922" publication-type="other">
+Heilman et al., supra note 35, at 261-62</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5929a1310">
+            <label>318</label>
+            <p>
+               <mixed-citation id="d414e5936" publication-type="other">
+Psychology of Emotion, supra note 29, at 171 (discussing Richards &amp; Gross, supra
+note 1 82, and Richards &amp; Gross, supra note 313).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5946a1310">
+            <label>319</label>
+            <p>
+               <mixed-citation id="d414e5953" publication-type="other">
+Psychology of Emotion, supra note 29, at 175</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5959" publication-type="other">
+Chambers et al., supra note 1 52, at 565</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5965" publication-type="other">
+Cisler et al., supra note 125, at 71</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e5972" publication-type="other">
+Kappas, supra note 100, at 26</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5980a1310">
+            <label>320</label>
+            <p>
+               <mixed-citation id="d414e5987" publication-type="other">
+Psychology of Emotion, supra note 29, at 165.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e5994a1310">
+            <label>321</label>
+            <p>
+               <mixed-citation id="d414e6001" publication-type="other">
+Id.',</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6007" publication-type="other">
+Chambers
+et al., supra note 152, at 565.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6017a1310">
+            <label>322</label>
+            <p>
+               <mixed-citation id="d414e6024" publication-type="other">
+Psychology of Emotion, supra note 29, at 166-67.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6031a1310">
+            <label>323</label>
+            <p>
+               <mixed-citation id="d414e6038" publication-type="other">
+Craig A. Smith et al., Emotion-Eliciting Appraisals of Social Situations , in AFFECT IN
+Social Thinking and Behavior 85, 85 (Joseph P. Forgas ed., 2006);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6047" publication-type="other">
+Tom Johnstone &amp; Klaus R.
+Scherer, Vocal Communication of Emotion, in HANDBOOK OF EMOTIONS, supra note 95, at 220, 223.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6057a1310">
+            <label>324</label>
+            <p>
+               <mixed-citation id="d414e6064" publication-type="other">
+Hochschild, supra note 43, at 110-14.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6071a1310">
+            <label>325</label>
+            <p>
+               <mixed-citation id="d414e6078" publication-type="other">
+Anleu &amp; Mack, supra note 52, at 603, 607-11</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6086a1310">
+            <label>326</label>
+            <p>
+               <mixed-citation id="d414e6093" publication-type="other">
+Elizabeth F. Emens, The Sympathetic Discriminator: Mental Illness, Hedonic Costs, and
+the ADA , 94 GEO. L.J. 399 (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6103a1310">
+            <label>327</label>
+            <p>
+               <mixed-citation id="d414e6110" publication-type="other">
+ROBERT C.
+Solomon, The Passions: Emotions and the Meaning of Life (1993);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6119" publication-type="other">
+Cendri Hutcherson, The
+Moral Emotions: A Social-Functionalist Account of Anger, Disgust, and Contempt 7-11 (May 2008)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6129a1310">
+            <label>328</label>
+            <p>
+               <mixed-citation id="d414e6136" publication-type="other">
+Paul Ekman &amp; Karl G. Heider, The Universality of a Contempt Expression: A
+Replication , 12 MOTIVATION &amp; EMOTION 303 (1988).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6146a1310">
+            <label>329</label>
+            <p>
+               <mixed-citation id="d414e6153" publication-type="other">
+Psychology of Emotion, supra note 29, at 166.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6159" publication-type="other">
+Butler et al., Emotion Regulation and Culture: Are the Consequences of Emotion Suppression Culture-
+Specific ?, 7 EMOTION 30 (2007);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6168" publication-type="other">
+Gross &amp; Oliver, supra note 149.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6175a1310">
+            <label>330</label>
+            <p>
+               <mixed-citation id="d414e6182" publication-type="other">
+Schuster &amp; Propen, supra note 86, at 93.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6189a1310">
+            <label>331</label>
+            <p>
+               <mixed-citation id="d414e6196" publication-type="other">
+Paul Ekman, Cutting Edge Behavioral Science for Real World Applications , DR. PAUL EKMAN,
+http://www.paulekman.com (last visited Sept. 17, 2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6207a1310">
+            <label>332</label>
+            <p>
+               <mixed-citation id="d414e6214" publication-type="other">
+Matthew J. Hertenstein &amp; Dacher Keltner, Gender and the Communication of Emotion
+via Touch , 64 SEX ROLES 70 (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6224a1310">
+            <label>333</label>
+            <p>
+               <mixed-citation id="d414e6231" publication-type="other">
+Chambers et al., supra note 152, at 566;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6237" publication-type="other">
+Koole, supra note 24, at 6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6243" publication-type="other">
+Loewenstein, supra note 126, at 186</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6250a1310">
+            <label>334</label>
+            <p>
+               <mixed-citation id="d414e6257" publication-type="other">
+Loewenstein, supra note 126, at 186-88;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6263" publication-type="other">
+Jeremy A. Blumenthal, Law and the
+Emotions: The Problems of Affective Forecasting, 80 IND. L.J. 155 (2005).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6273a1310">
+            <label>335</label>
+            <p>
+               <mixed-citation id="d414e6280" publication-type="other">
+Loewenstein, supra note 126, at 187;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6286" publication-type="other">
+Blumenthal, supra note 334, at 167-70;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6292" publication-type="other">
+John
+Bronsteen et al., Hedonic Adaptation and the Settlement of Civil Lawsuits , 108 COLUM. L. REV. 1516
+(2008);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6305" publication-type="other">
+John Bronsteen et al., Welfare as Happiness , 98 Geo. L.J. 1583 (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6312a1310">
+            <label>336</label>
+            <p>
+               <mixed-citation id="d414e6319" publication-type="other">
+Blumenthal, supra note 334, at 167, 172-75.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6326a1310">
+            <label>337</label>
+            <p>
+               <mixed-citation id="d414e6333" publication-type="other">
+Loewenstein, supra note 126, at 187.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6341a1310">
+            <label>338</label>
+            <p>
+               <mixed-citation id="d414e6348" publication-type="other">
+Id. at 187-88.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6355a1310">
+            <label>339</label>
+            <p>
+               <mixed-citation id="d414e6362" publication-type="other">
+supra notes 28-29</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6369a1310">
+            <label>340</label>
+            <p>
+               <mixed-citation id="d414e6376" publication-type="other">
+People v. Carter, No. C053369, 2009 WL 626113 (Cal. Ct. App. Mar. 12, 2009).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6382" publication-type="other">
+POSNER, HOW JUDGES THINK, supra note 67, at 1 19 ("the hand of little employment hath
+the daintier sense") (quoting WILLIAM SHAKESPEARE, HAMLET act 5, sc. 1).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6392a1310">
+            <label>341</label>
+            <p>
+               <mixed-citation id="d414e6399" publication-type="other">
+supra note 335.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6406a1310">
+            <label>342</label>
+            <p>
+               <mixed-citation id="d414e6413" publication-type="other">
+Loewenstein, supra note 126, at 197.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6420a1310">
+            <label>343</label>
+            <p>
+               <mixed-citation id="d414e6427" publication-type="other">
+Spruill v. Nat'l R.R. Passenger Corp., Civ. A. No. 93-4706, 1995 WL 534273
+(E.D. Pa. Sept. 5, 1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6436" publication-type="other">
+Skyler M. v. Brice H., No. B190498, 2007 WL 2109797 (Cal. Ct. App. July 24,
+2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6445" publication-type="other">
+Caldwell v. Lucas, 13 P.3d 560, 563 (Or. Ct. App. 2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6452" publication-type="other">
+Denise Grady &amp; Jennifer Medina, From Bloody Scene to E.R., Life-Saving Choices , N.Y. TIMES, Jan.
+15, 201 1, at Al</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6463a1310">
+            <label>344</label>
+            <p>
+               <mixed-citation id="d414e6470" publication-type="other">
+Chambers et al., supra note 152, at 566.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6477a1310">
+            <label>345</label>
+            <p>
+               <mixed-citation id="d414e6484" publication-type="other">
+Drew Westen &amp; Pavel S. В lago v, A
+Clinical-Empirical Model of Emotion Regulation: From Defense and Motivated Reasoning to
+Emotional Constraint Satisfaction , in HANDBOOK OF EMOTION REGULATION, supra note 24, at 373,
+377</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6500a1310">
+            <label>346</label>
+            <p>
+               <mixed-citation id="d414e6507" publication-type="other">
+Westen &amp; Blagov, supra note 345, at 377.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6514a1310">
+            <label>347</label>
+            <p>
+               <mixed-citation id="d414e6521" publication-type="other">
+Daniel T. Gilbert et al., Of Thoughts Unspoken: Social Inference and the
+Self-Regulation of Behavior , 55 J. PERSONALITY &amp; SOC. PSYCHOL. 685 (1987);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6530" publication-type="other">
+Daniel T.
+Gilbert, Thinking Lightly About Others: Automatic Components of the Social Inference Process , in
+Unintended Thought: The Limits of Awareness, Intention, and Control 189 (James S.
+Uleman &amp; John A. Bargh eds., 1989).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6545" publication-type="other">
+WEGNER, supra
+note 118, at 81-82.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6555a1310">
+            <label>348</label>
+            <p>
+               <mixed-citation id="d414e6562" publication-type="other">
+Dunn et al., supra note 133, at 761</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6569a1310">
+            <label>349</label>
+            <p>
+               <mixed-citation id="d414e6576" publication-type="other">
+Chris R. Brewin &amp; Laura Smart, Working Memory Capacity and Suppression of Intrusive
+Thoughts , 36 J. Behav. Therapy &amp; Experimental Psychiatry 61 (2005).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6585" publication-type="other">
+A DICTIONARY OF PSYCHOLOGY 822 (Andrew
+M. Coleman ed., Oxford 3d ed. 2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6596a1310">
+            <label>350</label>
+            <p>
+               <mixed-citation id="d414e6603" publication-type="other">
+Matthew S. Shane &amp; Jordan B. Peterson, Self-Induced Memory Distortions and the
+Allocation of Processing Resources at Encoding and Retrieval , 18 COGNITION &amp; EMOTION 534 (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6613a1310">
+            <label>351</label>
+            <p>
+               <mixed-citation id="d414e6620" publication-type="other">
+WEGNER, supra note 118,at 81-82;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6626" publication-type="other">
+Mauss et al, supra note 25, at 4 1 , 47-48.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6632" publication-type="other">
+Sheppes &amp; Meiran, supra note 132, at 871</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6639a1310">
+            <label>352</label>
+            <p>
+               <mixed-citation id="d414e6646" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 176</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6652" publication-type="other">
+Andrew J. Wistrich et
+al., Can Judges Ignore Inadmissible Information? The Difficulty of Deliberately Disregarding, 153 U.
+Pa. L. Rev. 1251 (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6665a1310">
+            <label>353</label>
+            <p>
+               <mixed-citation id="d414e6672" publication-type="other">
+Loewenstein, supra note 126, at 190-91</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6679a1310">
+            <label>354</label>
+            <p>
+               <mixed-citation id="d414e6686" publication-type="other">
+WEGNER. suora note 118.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6693a1310">
+            <label>355</label>
+            <p>
+               <mixed-citation id="d414e6700" publication-type="other">
+Id. at 4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6708a1310">
+            <label>356</label>
+            <p>
+               <mixed-citation id="d414e6715" publication-type="other">
+ERIC RASSIN, THOUGHT SUPPRESSION (2005).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6722a1310">
+            <label>357</label>
+            <p>
+               <mixed-citation id="d414e6729" publication-type="other">
+Daniel M. Wegner, How to Think, Say, or Do Precisely the Worst Thing for Any
+Occasion , SCIENCE, July 3, 2009, at 48-50.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6738" publication-type="other">
+Edgar Allen Poe called these actions "the imp of the
+perverse." Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6748a1310">
+            <label>358</label>
+            <p>
+               <mixed-citation id="d414e6755" publication-type="other">
+Sigmund Freud, A Case of Successful Treatment by Hypnotism , in 1 THE STANDARD
+Edition of the Complete Psychological Works of Sigmund Freud 117-28 (James Strachey
+ed., 1953).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6767" publication-type="other">
+id. at 127</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6773" publication-type="other">
+WEGNER, supra note 118, at 22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6780" publication-type="other">
+Id. at 26-37.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6787a1310">
+            <label>359</label>
+            <p>
+               <mixed-citation id="d414e6794" publication-type="other">
+Id. at xii</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6801a1310">
+            <label>360</label>
+            <p>
+               <mixed-citation id="d414e6808" publication-type="other">
+Wegner, supra note 357, at 49;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6814" publication-type="other">
+Michael C. Anderson &amp; Benjamin J. Levy,
+Suppressing Unwanted Memories, 18 CURRENT DIRECTIONS PSYCHOL. SCI. 189 (2009).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6824a1310">
+            <label>361</label>
+            <p>
+               <mixed-citation id="d414e6831" publication-type="other">
+Wegner, supra note 357, at 48-50;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6837" publication-type="other">
+Elke Geraerts et al., Long Term
+Consequences of Suppression of Intrusive Anxious Thoughts and Repressive Coping , 44 BEHAV. RES.
+&amp; Therapy 1451 (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6849" publication-type="other">
+Loewenstein, supra note 126, at 182</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6857a1310">
+            <label>362</label>
+            <p>
+               <mixed-citation id="d414e6864" publication-type="other">
+Wegner, supra note 357, at 49</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6870" publication-type="other">
+Id.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6877a1310">
+            <label>363</label>
+            <p>
+               <mixed-citation id="d414e6884" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 178 (describing Daniel M. Wegner et al.,
+Ironic Processes in the Mental Control of Mood and Mood-Related Thoughts , 65 J. PERSONALITY &amp;
+SOC. Pyschol. 1093 (1993)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6897a1310">
+            <label>364</label>
+            <p>
+               <mixed-citation id="d414e6904" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 179-81 (discussing, inter alia , Peter Muris
+et al, Suppression of Emotional and Neutral Material , 30 BEHAV. RES. &amp; THERAPY 639 (1992)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6914a1310">
+            <label>365</label>
+            <p>
+               <mixed-citation id="d414e6921" publication-type="other">
+Brewin &amp; Smart, supra note 349, at 66.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6928a1310">
+            <label>366</label>
+            <p>
+               <mixed-citation id="d414e6935" publication-type="other">
+Nature of Emotion, supra note 101, at 235-62</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6942a1310">
+            <label>367</label>
+            <p>
+               <mixed-citation id="d414e6949" publication-type="other">
+Wegner, supra note 357, at 49.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6957a1310">
+            <label>368</label>
+            <p>
+               <mixed-citation id="d414e6964" publication-type="other">
+WEGNER, supra note 118, at 149</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6970" publication-type="other">
+(citing to Asher Koriat et al., The Self-Control of Emotional Reactions to a Stressful Film ,
+40 J. Personality 601 (1972));</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6979" publication-type="other">
+Psychology of Emotion, supra note 29, at 182</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e6986" publication-type="other">
+Cisler et al., supra note 125, at 72.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e6993a1310">
+            <label>369</label>
+            <p>
+               <mixed-citation id="d414e7002" publication-type="other">
+PSYCHOLOGY OF Emotion, supra note 29, at 181.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7008" publication-type="other">
+Cisler et al., supra note 125, at 70-71 (citing to M.T. Feldner et al.,
+Emotional Avoidance: An Experimental Test of Individual Differences and Response Suppression
+Using Biological Challenge , 41 BEHAV. Res. &amp; THERAPY 403 (2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7021" publication-type="other">
+Matthew T. Feldner et al.,
+Anxiety Sensitivity -Physical Concerns as a Moderator of the Emotional Consequences of Emotion
+Suppression During Biological Challenge , 44 BEHAV. RES. &amp; THERAPY 249 (2006)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7034a1310">
+            <label>370</label>
+            <p>
+               <mixed-citation id="d414e7041" publication-type="other">
+Heilman et al., supra note 35, at 259</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7048a1310">
+            <label>371</label>
+            <p>
+               <mixed-citation id="d414e7055" publication-type="other">
+Chambers et al., supra note 152, at 565</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7062a1310">
+            <label>372</label>
+            <p>
+               <mixed-citation id="d414e7069" publication-type="other">
+Oxford Companion to Emotion and the Affective Sciences, supra note 99, at 1-2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7076a1310">
+            <label>373</label>
+            <p>
+               <mixed-citation id="d414e7083" publication-type="other">
+NATURE OF EMOTION, supra note 101, at 235-62</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7089" publication-type="other">
+WEGNER, supra note 118, at 146-48
+(discussing classic model of Stanley Schachter &amp; Jerome E. Singer, Cognitive, Social and
+Physiological Determinants of Emotional State , 69 PSYCHOL. Rev. 379 (1962));</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7101" publication-type="other">
+A.S.R
+Manstead, A Role-Playing Replication of Schachter and Singer's (1962) Study of the Cognitive and
+Physiological Determinants of Emotional State , 3 MOTIVATION &amp; EMOTION 251 (1979);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7114" publication-type="other">
+Donald G.
+Dutton &amp; Arthur P. Aron, Some Evidence for Heightened Sexual Attraction Under Conditions of High
+Anxiety , 30 J. PERSONALITY &amp; SOC. PSYCHOL. 510 (1974).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7128a1310">
+            <label>374</label>
+            <p>
+               <mixed-citation id="d414e7135" publication-type="other">
+Whac-A-Mole , http://www.bobsspaceracers.com/whac-a-mole/html-index.htm.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7142a1310">
+            <label>375</label>
+            <p>
+               <mixed-citation id="d414e7149" publication-type="other">
+Heilman et al., supra note 35, at 258</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7155" publication-type="other">
+Karen Pezza Leith &amp; Roy F. Baumeister,
+Why Do Bad Moods Increase Self-Defeating Behavior? Emotion, Risk Taking, and Self Regulation, 71
+J. PERSONALITY &amp; SOC. PSYCHOL. 1250 (1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7168a1310">
+            <label>376</label>
+            <p>
+               <mixed-citation id="d414e7175" publication-type="other">
+Wistrich et al, supra note 352, at 1251.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7182a1310">
+            <label>377</label>
+            <p>
+               <mixed-citation id="d414e7189" publication-type="other">
+Maroney, supra note 11.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7196a1310">
+            <label>378</label>
+            <p>
+               <mixed-citation id="d414e7203" publication-type="other">
+Bargh &amp; Williams, supra note 105, at 437.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7209" publication-type="other">
+Id. at 438</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7216a1310">
+            <label>384</label>
+            <p>
+               <mixed-citation id="d414e7223" publication-type="other">
+Koole, supra note 24, at 20;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7229" publication-type="other">
+Shaver et al., supra note 25 1 , at 1 36-37</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7237a1310">
+            <label>385</label>
+            <p>
+               <mixed-citation id="d414e7244" publication-type="other">
+In re Sloop, 946 So.2d 1046 (Fla. 2007) (per curiam).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7250" publication-type="other">
+Id. at 1051;</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7257a1310">
+            <label>386</label>
+            <p>
+               <mixed-citation id="d414e7264" publication-type="other">
+Id. at 1052.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7271a1310">
+            <label>387</label>
+            <p>
+               <mixed-citation id="d414e7278" publication-type="other">
+Id. at 1053.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7285a1310">
+            <label>388</label>
+            <p>
+               <mixed-citation id="d414e7292" publication-type="other">
+Id. at 1053, 1057.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7299a1310">
+            <label>389</label>
+            <p>
+               <mixed-citation id="d414e7308" publication-type="other">
+WEGNER, supra note 118, at 15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7314" publication-type="other">
+Stuart Oskamp, Overconfidence in Case-Study
+Judgments , in JUDGMENT UNDER UNCERTAINTY: HEURISTICS AND BIASES 287, 292 (Daniel
+Kahneman et al. eds., 1982) (stating that overconfidence can manifest in certainty that is "entirely out
+of proportion to . . . actual correctness").</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7330a1310">
+            <label>390</label>
+            <p>
+               <mixed-citation id="d414e7337" publication-type="other">
+Lazarus, supra note 140, at 164 &amp; tbl.l</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7343" publication-type="other">
+supra noie 330 (showing that judge felt
+conflicted, or "bad-good," for being unable to control himself as he thought he was supposed to);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7352" publication-type="other">
+supra note 295 (suggesting that a metacognitive approach might be appropriate for such emotions
+about emotions if they cannot otherwise be regulated through engagement).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7363a1310">
+            <label>391</label>
+            <p>
+               <mixed-citation id="d414e7370" publication-type="other">
+Bargh &amp; Williams, supra note 105, at 433 ("emotion regulation . . . should not be just a
+blanket, unconditional affair of suppressing or attenuating one's emotional reactions").</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7380a1310">
+            <label>392</label>
+            <p>
+               <mixed-citation id="d414e7387" publication-type="other">
+Cisler et al, supra note 125, at 79;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7393" publication-type="other">
+Grandey, supra note 52, at 107.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7400a1310">
+            <label>393</label>
+            <p>
+               <mixed-citation id="d414e7407" publication-type="other">
+Mauss et al., supra note 25, at 52 ("positive consequences such as lower levels of burnout
+and greater job satisfaction"). Concrete "burnout" costs, such as "less empathy and connection with
+citizens," have been shown in police officers. Grandey, supra note 52, at 104-07.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7420a1310">
+            <label>394</label>
+            <p>
+               <mixed-citation id="d414e7427" publication-type="other">
+Maroney, supra note 11.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7434a1310">
+            <label>395</label>
+            <p>
+               <mixed-citation id="d414e7441" publication-type="other">
+John &amp; Gross, supra note 149, at 351;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7447" publication-type="other">
+Магу K. Rothbart &amp; Brad E. Sheese,
+Temperament and Emotion Regulation , in HANDBOOK OF EMOTION REGULATION, supra note 24, at
+331.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7460a1310">
+            <label>396</label>
+            <p>
+               <mixed-citation id="d414e7467" publication-type="other">
+Wranik et al., supra note 104, at 403</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7475a1310">
+            <label>397</label>
+            <p>
+               <mixed-citation id="d414e7482" publication-type="other">
+Susan Turk Charles &amp; Laura L. Carstensen, Emotion Regulation and Aging , in
+Handbook of Emotion Regulation, supra note 24, at 307.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7492a1310">
+            <label>398</label>
+            <p>
+               <mixed-citation id="d414e7499" publication-type="other">
+Grandey, supra note 52, at 106;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7505" publication-type="other">
+Koole, supra note 24, at 19;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d414e7511" publication-type="other">
+Shaver et al., supra note
+251, at 125</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d414e7521a1310">
+            <label>399</label>
+            <p>
+               <mixed-citation id="d414e7528" publication-type="other">
+Wegner, supra note 357, at 50.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

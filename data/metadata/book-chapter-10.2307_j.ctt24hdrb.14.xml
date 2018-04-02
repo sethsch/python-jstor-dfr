@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt24hdrb</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Australia</subject>
+         <subj-group>
+            <subject content-type="lcsh">Foreign public opinion, Asian</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Asia</subject>
+         <subj-group>
+            <subject content-type="lcsh">Foreign relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">Australia</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Australia</subject>
+         <subj-group>
+            <subject content-type="lcsh">Foreign relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">Asia</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Double Vision</book-title>
+         <subtitle>Asian Accounts of Australia</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Broinowski</surname>
+               <given-names>Alison</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>05</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9781921862267</isbn>
+      <isbn content-type="epub">9781921862274</isbn>
+      <publisher>
+         <publisher-name>ANU E Press</publisher-name>
+         <publisher-loc>Canberra</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>ANU E Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt24hdrb"/>
+      <abstract abstract-type="short">
+         <p>Do Australians care about what their Asian neighbours think of them — and does it matter if they don't? This collection of essays reveals that admiration for Australia is not widespread, particularly among Japanese and Chinese commentators. And how our Asian neighbours perceive Australia is important: perceptions have a powerful effect on the way different societies respond to one another. As part of the Asian Accounts of Australia project, this volume addresses a much-neglected issue and presents the views of pre-eminent scholars on how Australia is perceived among Chinese and Japanese and what this means for our future. Can Australia make the most of its opportunities to be well regarded and influential in China and Japan or will we be dismissed as a derivative culture, ignorant about our region?</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Broinowski</surname>
+                           <given-names>Alison</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Milner</surname>
+                           <given-names>Anthony</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Chinese, Japanese and Australians have shared an intense curiosity about each other throughout our recorded histories. As is well known, settlers from Europe brought with them to Australia preconceptions about China and Japan, some fanciful, some factual. Some convicts, believing they had been transported almost to China itself, hoped that by escaping from the penal settlements on the east coast of Australia and walking north they would reach China. Others set out in boats and some got to Batavia, while others reached the coast of Japan. What is less widely known is that their curiosity was matched by early investigations</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.4</book-part-id>
+                  <title-group>
+                     <title>EAST ASIAN PERCEPTIONS OF AUSTRALIA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rudd</surname>
+                           <given-names>Kevin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract abstract-type="extract">
+                     <p>My experience of Asia has been shaped largely by the experience of studying Chinese and working as a diplomat in China. There I was struck by the importance of mutual perceptions between China and Australia, and China and the West.</p>
+                     <p>The Chinese devote much effort to understanding the Western — or, most commonly, the American — mind and how it works in business. But I was also impressed with the widespread reverence among Chinese for antiquity and continuity, something they see Australia as lacking.</p>
+                     <p>For decades, scholars in Asian studies in Australia have been working to get other Australians to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.5</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>WHO CARES<italic>WHAT</italic>THEY THINK?</title>
+                     <subtitle>JOHN WINSTON HOWARD, WILLIAM MORRIS HUGHES AND THE PRAGMATIC VISION OF AUSTRALIAN NATIONAL SOVEREIGNTY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fitzgerald</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract abstract-type="extract">
+                     <p>What others think about Australia matters to Australians. Their sensitivity on this point is often playfully mocked in stories about journalists accosting visiting celebrities as they step off the plane and asking what they think about the country. But there is nothing playful about the response of Australians when they don’t like what they hear. Musician Bob Dylan was asked what he thought of Australia as soon as he alighted at Sydney airport in April 1966, and was asked the same question again a week later when he flew into Melbourne. His blunt critique and trademark ironies were not well</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.6</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>‘BEFORE WE CAME TO THIS COUNTRY, WE HEARD THAT ENGLISH LAWS WERE GOOD AND KIND TO EVERYBODY’:</title>
+                     <subtitle>CHINESE IMMIGRANTS’ VIEWS OF COLONIAL AUSTRALIA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Macgregor</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract abstract-type="extract">
+                     <p>When asked to present a paper based on the material gathered for the Asian Accounts of Australia Project, I noted that there was nothing in Chinese about Australia noted from the National Library of Australia collection that dates from the 19th century. I wondered if there was some connection between this and the multilingual accomplishments of Lowe Kong Meng, who was perhaps the pre-eminent Chinese merchant and community leader in Australia from 1853 until his death in 1888.</p>
+                     <p>I reflected on what documents I knew of that otherwise exist in Australia’s public record from this period. My immediate reaction was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.7</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>AUSTRALIAN LOVERS:</title>
+                     <subtitle>CHINGCHONG CHINAMAN, CHINESE IDENTITY AND HYBRID CONFUSION</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Louie</surname>
+                           <given-names>Kam</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Since 1960 I have been fascinated by this topic — ‘as others see us’ — as a result of a bizarre childhood experience in the streets of central Sydney. I was about 10 and to this day I remember clearly the following incident: as I was walking home after school, a little boy, about six or seven, followed me for several blocks, and he kept making faces at me and calling me ‘Chingchong Chinaman’. That by itself was not so unusual: I was used to such childish taunts. What shocked me then, even at such a young age, was that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.8</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>HAIGUI:</title>
+                     <subtitle>A KEYWORD FOR 2003</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yu</surname>
+                           <given-names>Ouyang</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Doing a keyword search for <italic>haigui</italic> (海归) at sina.com.cn, there are 3,830 entries and if you do a related keyword search for <italic>haiguipai</italic> (海归派) (<italic>haigui</italic>, group of people) at yahoo.com.cn, you’ll find 3,844 entries.</p>
+                     <p>
+                        <italic>Hai</italic> for ‘sea’ and <italic>gui</italic> for ‘return’, <italic>haigui</italic> is a new Chinese word combination that means a return to China from overseas. Specifically, it is a <italic>liuxingyu</italic> (pop term) that refers to the recent trend in which tens of thousands of Western-educated Chinese intellectuals return to China to contribute to the Motherland.</p>
+                     <p>In recent Chinese history, there have been three waves of <italic>haigui</italic>; the first in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.9</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>MURAKAMI HARUKI’S<italic>SYDNEY DIARY</italic>
+                     </title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Morton</surname>
+                           <given-names>Leith</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>93</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This paper will focus on a single volume by acclaimed Japanese author Murakami Haruki (for the purposes of this paper, I will adopt Japanese name order, with surname first) and his <italic>Shidonii!</italic> (<italic>Sydney!</italic>), published in January 2001 by the Bungei Shunjû company in Tokyo. Three-quarters of this 409-page book consists of Murakami’s <italic>Shidonii Nisshi</italic> (<italic>Sydney Diary</italic>), which records in 23 daily entries the minutiae of his life in Sydney and his observations of the Sydney Olympics. The book also contains many reflections on Australia and its life and culture.</p>
+                     <p>Murakami is the most popular writer of serious fiction in Japan,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.10</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>
+                        <italic>TAMPA</italic>IN JAPAN:</title>
+                     <subtitle>EAST ASIAN RESPONSES TO AUSTRALIA’S REFUGEE POLICY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Morris-Suzuki</surname>
+                           <given-names>Tessa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the past few years Australia has experienced the slow death of a long-cherished myth: the myth that the vicissitudes of domestic political debate have little impact on Australia’s image in the Asian region and the wider world. When the debate about Hansonism was at its height, we were repeatedly reassured by political leaders that Pauline Hanson’s unfortunate public statements created no more than passing ripples in the calm seas of our relations with Asia. More recently, government ministers have insisted that Australia’s firm line on asylum-seekers is doing no lasting harm to the country’s international reputation. Indeed, Philip Ruddock</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.11</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>‘JAPANESE’ ACCOUNTS OF AUSTRALIA:</title>
+                     <subtitle>A PLAYER’S VIEW</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sugimoto</surname>
+                           <given-names>Yoshio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract abstract-type="extract">
+                     <p>It is awkward and uncomfortable to be the subject and the object of research at the same time. I have published two popular Japanese books on Australia, one of which (Sugimoto, 1991) went into 10 printings and is probably the best-selling book about Australian society on the Japanese market in the past few decades. I also contribute a regular column to the <italic>Asahi Shimbun</italic>, with a nation-wide circulation of eight million copies a day, and, for the past six years, have appeared fortnightly on a nation-wide radio program, <italic>Rajio shinya-bin</italic> (<italic>Late Night Live</italic>), on Japan’s NHK Radio One, with a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.12</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>READING JAPANESE REFLECTIONS OF AUSTRALIA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tada</surname>
+                           <given-names>Masayo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>131</fpage>
+                  <abstract abstract-type="extract">
+                     <p>What interests me in reading Japanese accounts of Australia is the comparative perspectives that generate them. When Japanese authors express their impressions of Australia, these impressions are inevitably based on their comparisons of Australia and Japan. In other words, these authors’ reflections of Australia, in fact, also reflect what they identified as Japaneseness.</p>
+                     <p>Considering comparative perspectives in these accounts, I would like to suggest that Japanese accounts of Australia can be important sources for an understanding of Japanese and Australian societies and for the examination of various transnational issues. I will elaborate on this by introducing some Japanese authors’ reflections</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.13</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>ASIAN AUSTRALIAN STUDIES IN ASIA:</title>
+                     <subtitle>CHINA AND JAPAN</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carter</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>139</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This essay rests on two assumptions. First, that ‘cultural diplomacy’ is a good thing. Second, that ‘Australian studies’ have a significant role to play in cultural diplomacy. Both points, of course, need elaboration and qualification. In providing this I want to talk about the situation of Australian studies in China and Japan, their strengths but also weaknesses in having any significant influence on ‘how others see us’.</p>
+                     <p>By cultural diplomacy, I mean the process of deliberately — that is, as a matter of policy and supported by government money and infrastructure — ‘re-purposing’ Australian cultural products, whether books, art, dance,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.14</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>AUSTRALIA AS MODEL OR MORAL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Broinowski</surname>
+                           <given-names>Alison</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Far from Australia being regarded as ‘a model and a place for education’, as one of the research areas in this project described it, the texts we have examined show that admiration for Australia is not as widespread as we might suppose among Chinese or Japanese commentators, even those who have sought to live or study here. Few of them unreservedly advocate that China or Japan should emulate Australia. Rather, they are often frustrated by Australians’ ignorance about Asia, and the failure of Australians to appreciate or even to care about what to these writers is obvious: the inherent superiority</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hdrb.15</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>163</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt2tt7sw</book-id>
+      <subj-group>
+         <subject content-type="call-number">DS777.533.A86D38 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Sino-Japanese War, 1937–1945</subject>
+         <subj-group>
+            <subject content-type="lcsh">Atrocities</subject>
+            <subj-group>
+               <subject content-type="lcsh">Psychological aspects</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Sino-Japanese War, 1937–1945</subject>
+         <subj-group>
+            <subject content-type="lcsh">Personal narratives, Japanese</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">War criminals</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">Interviews</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">War criminals</subject>
+         <subj-group>
+            <subject content-type="lcsh">Psychology</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">War crimes</subject>
+         <subj-group>
+            <subject content-type="lcsh">Psychological aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Political Science</subject>
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Evil Men</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Dawes</surname>
+               <given-names>James</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>06</day>
+         <month>05</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780674072657</isbn>
+      <isbn content-type="epub">9780674073975</isbn>
+      <publisher>
+         <publisher-name>Harvard University Press</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts; London, England</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>the President and Fellows of Harvard College</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt2tt7sw"/>
+      <abstract abstract-type="short">
+         <p>A searching meditation on our all-too-human capacity for inhumanity, Evil Men confronts atrocity head-on-how it looks and feels, what motivates it, how it can be stopped. James Dawes's unflinchingly honest account, drawing on firsthand interviews, is not just about the things Japanese war criminals did, but about what it means to befriend them.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tt7sw.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tt7sw.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tt7sw.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tt7sw.4</book-part-id>
+                  <title-group>
+                     <title>Evil Men</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Do you miss your old war buddies—the people you were with until the end of the war?</p>
+                     <p>
+                        <italic>Oh, yeah. I miss them. Most of them were, you know, like brothers. Really. They were really like your family.</italic>
+                     </p>
+                     <p>I’d imagine so . . .</p>
+                     <p>
+                        <italic>Yeah, we’ve been through life-or-death struggles together. You know? It’s more than what you’ve been through with your own brothers. I do miss those guys, of course.</italic>
+                     </p>
+                     <p>Each time, I hand the interviewee a small sachet of wild rice from Minnesota. Each time, I begin with awkward, repetitive half-bows, and the same joke about how I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tt7sw.5</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tt7sw.6</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>255</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tt7sw.7</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

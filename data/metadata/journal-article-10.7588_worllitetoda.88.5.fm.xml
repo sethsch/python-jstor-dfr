@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="research-article" dtd-version="1.0" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="doi">10.7588</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">worllitetoda</journal-id>
+         <journal-title-group>
+            <journal-title content-type="full">World Literature Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oklahoma</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01963570</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19458134</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">worllitetoda.88.5.fm</article-id>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.7588/worllitetoda.88.5.fm</article-id>
+         <title-group>
+            <article-title>Table of Contents, Masthead, and Editor's Note</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Daniel Simon</string-name>
+            </contrib>
+            <bio>
+               <p>
+                  <bold>Daniel Simon</bold>is the Assistant Director and Editor in Chief of WLT.</p>
+            </bio>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>2014</year>
+            <string-date>September/October 2014</string-date>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink">88</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">worllitetoda.88.issue-5</issue-id>
+         <fpage>1</fpage>
+         <lpage>4</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2014 World Literature Today and the Board of Regents of the University of Oklahoma</copyright-statement>
+            <copyright-year>2014</copyright-year>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/10.7588/worllitetoda.88.5.fm"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

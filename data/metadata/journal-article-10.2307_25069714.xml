@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="misc">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">theatrej</journal-id>
+         <journal-id journal-id-type="jstor">j100575</journal-id>
+         <journal-title-group>
+            <journal-title>Theatre Journal</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Johns Hopkins University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">01922882</issn>
+         <issn pub-type="epub">1086332X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">25069714</article-id>
+         <title-group>
+            <article-title>Volume Information</article-title>
+         </title-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>2005</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">57</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i25069713</issue-id>
+         <permissions>
+            <copyright-statement>Copyright 2005 The Johns Hopkins University Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/25069714"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

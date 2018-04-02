@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1q1xqfm</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.3998/mpub.9306347</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>My Life as a Filmmaker</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Satsuo</surname>
+               <given-names>Yamamoto</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <role>TRANSLATED, ANNOTATED, AND WITH AN INTRODUCTION BY</role>
+            <string-name>
+               <surname>Chang</surname>
+               <given-names>Chia-ning</given-names>
+            </string-name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>03</day>
+         <month>01</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9780472073337</isbn>
+      <isbn content-type="epub">9780472122493</isbn>
+      <publisher>
+         <publisher-name>University of Michigan Press</publisher-name>
+         <publisher-loc>Ann Arbor</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Yamamoto Satsuo</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.3998/mpub.9306347"/>
+      <abstract abstract-type="short">
+         <p>In his posthumous autobiography,<italic>Watakushi no eiga jinsei</italic>(1984), Yamamoto reflects on his career and legacy: beginning in the prewar days as an assistant director in a well-established film company under the master Naruse Mikio, to his wide-ranging experiences as a filmmaker, including his participation in the tumultuous Toho Labor Upheaval soon after Japan's defeat in World War II and his struggles as an independent filmmaker in the 1950s and 1960s before returning to work within the mainstream industry. In the process, he established himself as one of the most prominent and socially engaged film artists in postwar Japan. Imbued with vibrant social realism and astute political commentary, his filmic genres ranged widely from melodramas, period films from the Tokugawa era, samurai action jidaigeki, social satires, and antiwar films. Providing serious insights into and trenchant critique of the moral corruption in Japanese politics, academe, industry, and society, Yamamoto at the same time produced highly successful films that offered drama and entertainment for Japanese and international moviegoers. His considerable artistic distinction, strong social and political consciousness, and filmic versatility have earned him a unique and distinguished position among Japan's world-class film directors.In addition to detailed annotations of the autobiography, translator Chia-ning Chang offers a comprehensive introduction to the career and the significance of Yamamoto and his works in the context of Japanese film history. It contextualizes Yamamoto's life and works in the historical and cultural zeitgeist of prewar, wartime, and postwar Japan before scrutinizing the unique qualities of his narrative voice and social conscience as a film artist.</p>
+      </abstract>
+      <counts>
+         <page-count count="294"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.3</book-part-id>
+                  <title-group>
+                     <title>TRANSLATOR’S PREFACE</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.4</book-part-id>
+                  <title-group>
+                     <title>CHRONOLOGY</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.5</book-part-id>
+                  <title-group>
+                     <title>FILMOGRAPHY, AWARDS, AND RECOGNITIONS</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.6</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Yamamoto Satsuo and Modern Japanese Cinema</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>On August 12, 1983, the “Obituaries” section of the<italic>New York Times</italic>announced the death from pancreatic cancer in a Tokyo hospital of Yamamoto Satsuo at the age of seventy-three. The article described him as a “noted movie director,” a maker of “antiwar films in Japan,” and an activist “in left-wing movements from his days at Waseda University.”¹ Two very brief paragraphs followed, the first describing him as the codirector of<italic>War and Peace</italic>(<italic>Sensō to heiwa</italic>, 1947), identified as “the first Japanese antiwar movie after 1945,”² and the second, one-sentence paragraph highlighting his exposé of wartime “Japanese military brutality,”³</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.7</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>I am a film director, not a writer. Through film, I have expressed my views on life and society, as well as on the sorrows, sufferings, and hopes of my fellow human beings. As to how my efforts have been received and what impact they may have, I am not quite sure. Of course my work has generated its share of appraisals, and, from time to time, remarks of this kind did reach my ears. To that extent, I gathered that there were apparently a large number of people who were good enough to support my films. On the other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER ONE</label>
+                     <title>My Boyhood</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>My father was born into the family of a village headman in the district of Imai in the suburbs of Komatsu City in Ishikawa Prefecture. What one might call his love for learning was perhaps what later drove him to leave his hometown with nothing more than a wicker suitcase on his back, as the old saying goes.¹ After reaching Kanazawa, he apparently studied in an establishment resembling a<italic>terakoya</italic>or temple school. On many occasions, he told me that Izumi Kyōka was one of his schoolmates.² His story was that Kyōka was always carrying a foreign-language book under his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER TWO</label>
+                     <title>My Student Years</title>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>By the time I entered First Waseda Higher School, my interests had decidedly shifted from film to theater. To be sure, there were organizations such as film study societies at the school, but they concerned themselves not with filmmaking but with film criticism. Even when I took part in their activities, I was utterly bored. I suppose students today can easily make their own films using 8mm or 16mm cameras, but in my day a 16mm was too expensive an item for students to acquire. Watching plays, on the other hand, did not require as much money. As long as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER THREE</label>
+                     <title>My Years as an Assistant Director</title>
+                  </title-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>Upon entering Shōchiku, every new employee was assigned to work under a director. My other new colleagues came to be associated with Nomura Hōtei and Sasaki Keisuke and I with Naruse Mikio.¹</p>
+                     <p>At the end of the day after these arrangements were made, the three of us went to a tearoom in Kamata. As we were chatting, it became apparent how uninformed I was about Japanese films compared to my new colleagues. Among Shōchiku’s directors, I knew of big names such as Shimazu Yasujirō, Nomura Hōtei, and Ozu Yasujirō but no one else. As for Naruse Mikio, I had never</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.11</book-part-id>
+                  <title-group>
+                     <title>Illustrations</title>
+                  </title-group>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FOUR</label>
+                     <title>Before Conscription</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>Immediately after my collaboration with Murayama, an order came in 1937 for me to direct a new film. The project I was given was based on Yoshiya Nobuko’s original work<italic>Young Lady</italic>(<italic>Ojōsan</italic>).¹ The story deals with the experiences of an exceptionally strong-willed, middle-class Tokyo “<italic>ojōsan</italic>” who comes to teach in a middle school in the countryside, a plot akin to the adventures of a female botchan.² That film, trifling as it was, marked my debut as a film director.</p>
+                     <p>
+                        <italic>Young Lady</italic>’s film editor had worked for a long time on Naruse’s films. Upon inspecting my film negatives, I remember</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FIVE</label>
+                     <title>Private Second Class Yamamoto</title>
+                  </title-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>I took my first physical examination for conscriptive service in 1934 at the age of twenty-four. Generally speaking, an examination of this kind had to be performed at twenty-one; only students were allowed an extension until graduation. If I had graduated without a hitch, I could have taken the examination in 1936. But since I had been expelled from my university in 1933, I had to take it in 1934.</p>
+                     <p>Physical fitness was classified into four levels, A, B, C, and D. Level A was deemed physically fit for immediate military service. Level B was subdivided into first and second</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER SIX</label>
+                     <title>The Tōhō Labor Strikes</title>
+                  </title-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>We were interned for about ten days at a Shanghai prisoner-of-war camp before our repatriation to Japan by LST.¹ I remember that while I was onboard the vessel, the captain told me about the death of Shimazu Yasujirō.² The news made me feel that the world of dramatic film was once again knocking on my door; the thought that I was a soldier had already evaporated within me. Reminding myself that the Japanese army had already been disbanded, I took the private second class badge from my army uniform and tossed it as far as I could into the sea.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER SEVEN</label>
+                     <title>Independent Filmmaking and Its Struggles</title>
+                  </title-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>The success of<italic>Town of Violence</italic>after its release in February 1950 gave us both confidence and hope. Even before that time, we had been exploring ways to make public-interest films by working primarily with the Societies for the Preservation of Culture, which had been created all over the country in the aftermath of the Tōhō strikes. With regard to film distribution, our deliberations favored future collaboration with the North Star Trading Company (Hokusei Shōji), founded in 1947. While small, it had already earned the distinction of being the exclusive distributor of close to ten films from the Soviet Union.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER EIGHT</label>
+                     <title>Work within the Mainstream Industry</title>
+                  </title-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>In the early 1960s, the Japanese film industry as a whole was beginning to slide into a slow decline. Already in January 1956, various Japanese film companies had together decided to release two films per week, thereby plunging themselves into a production race. In 1961 Shin-Tōhō dropped out of the competition by cutting its annual production by 30 percent, from 530 films to 370. Releasing two films per week meant that each studio would need to come up with 8 to 10 films per month, a development that naturally resulted in a decline in their overall quality.</p>
+                     <p>While it was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.17</book-part-id>
+                  <title-group>
+                     <title>IN PLACE OF AN AFTERWORD</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yoshie</surname>
+                           <given-names>Yamamoto</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>This is the only book my husband Yamamoto Satsuo wrote during his lifetime. Apart from participating in causes such as peace movements, he devoted himself exclusively to his work as a film director, a man without the slightest desire to be a writer. The motivation for him to overcome this disinclination and pick up a pen is explained in the book’s preface.</p>
+                     <p>Yamamoto passed away in the early morning of August 11 last year, that is, 1983. While the event was not entirely unanticipated, I was still astounded at how quickly his death came after his hospitalization.</p>
+                     <p>After he died,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.9306347.18</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>249</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt5vj69s</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">fisk18236</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL248.P34 Z69 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Pamuk, Orhan, 1952</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Orhan Pamuk and the Good of World Literature</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Fisk</surname>
+               <given-names>Gloria</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="series-editor" id="contrib2">
+            <name name-style="western">
+               <surname>Hart</surname>
+               <given-names>Matthew</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib3">
+            <name name-style="western">
+               <surname>James</surname>
+               <given-names>David</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib4">
+            <name name-style="western">
+               <surname>Walkowitz</surname>
+               <given-names>Rebecca L.</given-names>
+            </name>
+         </contrib>
+         <role content-type="series-editor">Series Editors</role>
+      </contrib-group>
+      <pub-date>
+         <day>13</day>
+         <month>02</month>
+         <year>2018</year>
+      </pub-date>
+      <isbn content-type="ppub">9780231183260</isbn>
+      <isbn content-type="epub">9780231544825</isbn>
+      <isbn content-type="epub">0231544820</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2018</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/fisk18236"/>
+      <abstract abstract-type="short">
+         <p>When Orhan Pamuk won the Nobel Prize for Literature in 2006, he was honored as a builder of bridges across a dangerous chasm. By rendering his Turkish characters and settings familiar where they would otherwise seem troublingly foreign, and by speaking freely against his authoritarian state, he demonstrated a variety of literary greatness that testified also to the good literature can do in the world.Gloria Fisk challenges this standard for canonization as "world literature" by showing how poorly it applies to Pamuk. Reading the Turkish novelist as a case study in the ways Western readers expand their reach, Fisk traces the terms of his engagement with a literary market dominated by the tastes of its Anglophone publics, who received him as a balm for their anxieties about Islamic terrorism and the stratifications of global capitalism. Fisk reads Pamuk's post-9/11 novels as they circulated through this audience, as rich in cultural capital as it is far-flung, in the American English that is global capital's<italic>lingua franca</italic>. She launches a polemic against Anglophone readers' instrumental use of literature as a source of crosscultural understanding, contending that this pervasive way of reading across all manner of borders limits the globality it announces, because it serves the interests of the Western cultural and educational institutions that produce it.<italic>Orhan Pamuk and the Good of World Literature</italic>proposes a new way to think about the uneven processes of translation, circulation, and judgment that carry contemporary literature to its readers, wherever they live.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>Slippery Words: Orhan Pamuk, Good, and World Literature</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The Turkish novelist Orhan Pamuk engages a public that is as rich in cultural capital as it is far-flung. His most notable novels—<italic>The Black Book</italic>(1994;<italic>Kara Kitap</italic>, 1990), for example, and<italic>Snow</italic>(2004;<italic>Kar</italic>, 2002)—circulate widely around the world, traveling through the small fractions of people who buy the equally small fractions of books that are marketed and sold as literature. This transnational reading class¹ coheres through the same technologies as the business culture that subtends it, with global English as its<italic>lingua franca</italic>and global capital as the engine that makes it go.² Orhan Pamuk is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.5</book-part-id>
+                  <title-group>
+                     <label>Chapter One</label>
+                     <title>A NOVEL CAN TEACH YOU ABOUT OTHER PEOPLE</title>
+                  </title-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>In his Norton Lectures in 2010, Orhan Pamuk makes big claims for the political good that the novel can do. Echoing the logic his readers use to read him as a “bridge between East and West,” he credits his genre with the ability to build cross-cultural understanding among strangers, and, in turn, to foster progress toward world peace where there could be war. This case for the geopolitical utility of the novel relies on assumptions about literature’s purchase on realities that are historically specific to the contemporary moment, and they often go unstated, but Pamuk lays them out plainly: “If</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.6</book-part-id>
+                  <title-group>
+                     <label>Chapter Two</label>
+                     <title>A NOVEL CAN TEACH YOU ABOUT OTHER PEOPLE’S HISTORY</title>
+                  </title-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>This chapter builds on the previous one, which began to describe how Orhan Pamuk adapts the form of the realist novel to<italic>illuminate, satisfy</italic>, and quite subtly<italic>protest</italic>the great expectations Western readers bring to world literature—which is also to say, to him. As the preceding chapter showed how and why Pamuk toys with the generic conventions that foster readers’ identification with fictional protagonists, this chapter traces the ways Pamuk speaks to contemporary readers who place the literature that travels from farthest away in a paradoxical relation to historical truth. Throughout his oeuvre, Pamuk convinces his Anglophone readers of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.7</book-part-id>
+                  <title-group>
+                     <label>Chapter Three</label>
+                     <title>ORHAN PAMUK AS POLITICAL GADFLY:</title>
+                     <subtitle>“The Armenian Issue”</subtitle>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>In the preceding chapters I described how Orhan Pamuk’s novels circulate through their Anglophone publics: on the strength of their perceived ability to illuminate the humanistic truths that surround the geopolitical news of the day. As I observed that critical consensus, I asked how Pamuk achieves it, and I argued that his novels put new pressure on the granular details that have historically been their genre’s stock-in-trade. Recuperating for contemporary readers the mimetic promise to illuminate nonfictional realities in fictional form, Pamuk’s novels speak meaningfully across the national, cultural, and linguistic differences that structure the literary world at the turn</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.8</book-part-id>
+                  <title-group>
+                     <label>Chapter Four</label>
+                     <title>ORHAN PAMUK AS EXILE:</title>
+                     <subtitle>Pamuk and Auerbach in Istanbul</subtitle>
+                  </title-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>Orhan Pamuk has taken pains to say that he has never lived abroad in exile,¹ and that is true in a manner of speaking. Neither his state nor its citizens have ever forced him irretrievably away—as Erich Auerbach was forced from Germany, for example, and Edward Said from Palestine—but his ability to live safely in Turkey has not always been certain, either. He was threatened with assassination by nationalist extremists in 2006, and the threat was sufficiently credible to prompt him to flee his native city and country with the help of a security detail. When a prestigious</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.9</book-part-id>
+                  <title-group>
+                     <label>Chapter Five</label>
+                     <title>ORHAN PAMUK WINS THE NOBEL PRIZE:</title>
+                     <subtitle>The Cases of Orhan Pamuk and Mo Yan</subtitle>
+                  </title-group>
+                  <fpage>128</fpage>
+                  <abstract>
+                     <p>The Nobel Prize for Literature speaks for a critical consensus that claims to belong at once to Sweden, to Europe, and to the world. Clad in formal dress, it recommends one writer annually as necessary reading, and it circulates that recommendation widely through a transnational literary elite. The strength of its authority ensures that the new laureate’s oeuvre circulates, too, in translations that appear with the Nobel stamp on the cover, and a global canon expands to include them. The inevitability of that expansion makes the Nobel Prize interesting as an index of something larger than itself: of the ways</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.10</book-part-id>
+                  <title-group>
+                     <label>Chapter Six</label>
+                     <title>WORLD LITERATURE AS AN ARTIFACT OF THE UNIVERSITY IN THE UNITED STATES:</title>
+                     <subtitle>The Part About the Critics</subtitle>
+                  </title-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>How do Western institutions convey non-Western writers to their Anglophone publics—under what pressures, by what logics, with what effects that are intended and not? I took up those questions in the preceding chapter by looking critically at the high honors that Orhan Pamuk wins in the West, including the Nobel Prize, while I also affirmed his worthiness to win those honors more fairly by better criteria. In this chapter, I further that line of critique by turning from the cultural institutions that have historically housed a “world republic of letters” in Europe¹ to universities in the United States, where</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.11</book-part-id>
+                  <title-group>
+                     <title>CODA:</title>
+                     <subtitle>Now, What?</subtitle>
+                  </title-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>There must be a better way. And if it has yet to appear at U.S.-based universities,¹ that is not because nobody has looked there, nor is it merely because the search is hard. Faculty in English and comparative literature have convened at regular intervals on college campuses from the Northeast to the Southwest to weigh the tools at our disposal for reading on a more global scale. We have argued for and against Marxist theory, for example, postcolonial theory, translation theory, and world-systems theory. And as we have weighed their relative merits with stated intentions that are good, we have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.12</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.13</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">fisk18236.14</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>251</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

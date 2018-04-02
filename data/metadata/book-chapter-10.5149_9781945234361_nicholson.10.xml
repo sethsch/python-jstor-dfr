@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1wx93r5</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">9781945234361_nicholson</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Generation of '72</book-title>
+         <subtitle>Latin America's Forced Global Citizens</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Nicholson</surname>
+               <given-names>Brantley</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>McClennen</surname>
+               <given-names>Sophia A.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>03</month>
+         <year>2018</year>
+      </pub-date>
+      <isbn content-type="ppub">9780985371548</isbn>
+      <isbn content-type="epub">9781945234361</isbn>
+      <isbn content-type="epub">1945234369</isbn>
+      <publisher>
+         <publisher-name>Editorial A Contracorriente</publisher-name>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Brantley Nicholson</copyright-holder>
+         <copyright-holder>Sophia A. McClennen</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.5149/9781945234361_nicholson"/>
+      <abstract abstract-type="short">
+         <p>Caught between the well-worn grooves the Boom and the Gen-X have left on the Latin American literary canon, the writing intellectuals that comprise what the Generation of '72 have not enjoyed the same editorial acclaim or philological framing as the literary cohorts that bookend them. In sociopolitical terms, they neither fed into the Cold War-inflected literary prizes that sustained the Boom nor the surge in cultural capital in Latin American cities from which the writers associated with the Crack and McOndo have tended to write. This book seeks to approach the Generation of '72 from the perspective of cosmopolitanism and global citizenship, a theoretical framework that lends a fresh and critical architecture to the unique experiences and formal responses of a group of intellectuals that wrote alongside globalization's first wave.</p>
+      </abstract>
+      <counts>
+         <page-count count="292"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.3</book-part-id>
+                  <title-group>
+                     <title>The Generation of ’72:</title>
+                     <subtitle>Latin America’s Forced Global Citizens</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nicholson</surname>
+                           <given-names>Brantley</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McClennen</surname>
+                           <given-names>Sophia A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>A very poignant moment stands out in Cristina Peri Rossi’s “La in fl uencia de Edgar A. Poe en la poesía de Raimundo Arenas.” In a confrontation between the child narrator and her exiled father, the voice of the child-narrator breaks with the impersonal third person account and delivers an unexpectedly pithy knockout line: “Estoy segura de que lo que piensas acerca de nuestra generación es completamente falso” (52). The idea of generational rupture is certainly not a new feature of literary transformation, but there is something in the bold and decisive way that this line is delivered, something in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.4</book-part-id>
+                  <title-group>
+                     <title>Literary Futures:</title>
+                     <subtitle>Crime Fiction, Global Capitalism and the History of the Present in Ricardo Piglia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dove</surname>
+                           <given-names>Patrick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>Through his novels (<italic>Respiración arti ficial</italic>, 1980;<italic>La ciudad ausente</italic>, 1992;<italic>Plata quemada</italic>, 1997;<italic>Blanco nocturno</italic>, 2010), short story collections (<italic>La invasión /Jaulario</italic>, 1967;<italic>Nombre falso</italic>, 1975;<italic>Prisión perpetua</italic>, 1988;<italic>Cuentos morales</italic>, 1995) and essays (<italic>Crítica y ficción</italic>, 1986;<italic>La Argentina en pedazos</italic>, 1993;<italic>El laboratorio del escritor</italic>, 1994;<italic>Formas breves</italic>, 1999;<italic>Diccionario de la novela de Macedonio Fernández</italic>, 2000;<italic>El último lector</italic>, 2005), as well as his academic presence in Argentine and North American universities such as Universidad de Buenos Aires, UC-Davis, Harvard and Princeton, the Argentine writer Ricardo Piglia (Adrogué, 1941-) has made his mark as one of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.5</book-part-id>
+                  <title-group>
+                     <title>Itinerant Citizens:</title>
+                     <subtitle>Imagining Global Citizenship in the Works of Osvaldo Soriano</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lehnen</surname>
+                           <given-names>Leila</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>Traditionally citizenship has been conceived as a contractual relationship between a nation-state and its citizens. Derek Heater (2004) de fines citizenship as a “form of socio-political identity” (1) among several other models. This contract dictates a covenant of rights and obligations: the citizen pays his/her taxes, obeys the laws and, in exchange, receives services such as security, certain infrastructural amenities and, in some instances, social services, as for example access to health care, public education, social security. Heater postulates that “[g]ood citizens are those who feel an alliance to the state and have a sense of responsibility discharging their duties”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.6</book-part-id>
+                  <title-group>
+                     <title>Connecting September 11’s:</title>
+                     <subtitle>Hemispheric Historical Ambiguityin Ariel Dorfman’s Americanos: Los pasos de murieta</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Riofrio</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>In 2005 Andrés Neuman, the celebrated Argentine author and winner of the 2011 Alfaguara prize for best novel, published a beautiful book of aphorisms entitled,<italic>El equilibrista</italic>. In it, among many similar gems, he writes: “La postmodernidad es onanista”¹ (73). It is a short but scathing condemnation of postmodernism² as an endless series of intellectual games and queries meant for the private pleasure of the knowing few. That Neuman’s assertion has teeth is due, no doubt, to the fact that the charge holds, to a degree. Like all good aphorisms, however, its strength as polemic lies its overgeneralization. Like many</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.7</book-part-id>
+                  <title-group>
+                     <title>The Psychosomatic Text:</title>
+                     <subtitle>Re-reading Psychoanalysis and Semiotics in Como en la guerra, or, The Sister(s) of Oedipus</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kantaris</surname>
+                           <given-names>Geoffrey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>Luisa Valenzuela’s novel<italic>Como en la guerra</italic>(1977), which appeared improbably amidst the maelstrom of the newly installed military regime in Argentina, has received far less critical attention than her other novels, eclipsed in part due to its problematic publication history, to its extraordinary complexity, and to the brilliance of her posterior and more readily available writings. But<italic>Como en la guerra</italic>is an equally brilliant text, raising complex questions about the relationship between identity, language, sexuality and politics, questions that lie at the core of much of Valenzuela’s subsequent writing. I would thus like to give a triple sense</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.8</book-part-id>
+                  <title-group>
+                     <title>El legado del exilio de Cristina Peri Rossi:</title>
+                     <subtitle>UN MAPA PARA GÉNEROS E IDENTIDADES</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Olivera-Williams</surname>
+                           <given-names>María Rosa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>119</fpage>
+                  <abstract>
+                     <p>Cuando en 1984 Cristina Peri Rossi (1941-) publicó, en la editorial Seix Barral de Barcelona,<italic>La nave de los locos</italic>, la crítica reconoció casi de inmediato en esta novela la madurez narrativa de su autora. La precoz uruguaya, había sido galardonada desde temprano con importantes premios nacionales, que legitimaban la originalidad revolucionaria de su voz. En 1963 publicó la colección de cuentos<italic>Viviendo</italic>; en 1968,<italic>Los museos abandonados</italic>, libro de relatos reconocido con el Premio de los Jóvenes de Arca; en 1969, la novela<italic>El libro de mis primos</italic>, que recibe el Premio de Novela Biblioteca de Marcha, siendo la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.9</book-part-id>
+                  <title-group>
+                     <title>Radiografía de un pueblo enfermo:</title>
+                     <subtitle>la narrativa de Diamela eltit</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>B.</surname>
+                           <given-names>J. Agustín Pastén</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>Este artículo sobre la obra de la novelista y crítica¹ chilena Diamela Eltit, la más lúcida e inteligente voz en el panorama literario de los últimos treinta años en Chile, consiste de cuatro apartados.En el primero, a fin de situar su producción literaria dentro de los parámetros de la violencia, el trauma, la política, y la poética—cuatro de los posibles parámetros alrededor de los cuales gira la novelística de los miembros de la “Generación del ‘72”—, se ofrece un repaso parcial pero necesario de la crítica especializada en su obra. En el segundo y tercer apartados se efectúa</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.10</book-part-id>
+                  <title-group>
+                     <title>Antonio Skármeta’s Uniqueness</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pope</surname>
+                           <given-names>Randolph D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>What makes a writer unique? Why should we care about Antonio Skármeta (b. 1940) and wonder about his international success? So much is shared among writers—language, historical circumstances, methods of production and distribution, gender, a similar bone structure—that one can easily lift away from the particular and get a bird’s eye view of a general framework that includes Skármeta as well as thousands of other writers. And yet there is a resilience that prevents his exchange for another male Chilean writer who participated in the political events that branded so many in his generation: Allende’s election, Pinochet’s coup,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.11</book-part-id>
+                  <title-group>
+                     <title>Gazing Backwards in Fernando Vallejo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aristizábal</surname>
+                           <given-names>Juanita Cristina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>Fernando Vallejo is one of Latin America’s most acclaimed writers, and also one of its most polemical. Vallejo, who was born in Medellín and has been living and writing in Mexico since the 1970’s, has become an important presence in Latin American fiction. In addition to 11 novels, he has also written three biographies, numerous eccentric essays on topics ranging from religion to physics, edited several volumes of poetry and correspondence, and published a treatise on what he calls literature’s grammar.¹ He has also become a popular speaker, appearing at literary conferences and book fairs—often accompanied by a pack</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.12</book-part-id>
+                  <title-group>
+                     <title>The King’s Toilet:</title>
+                     <subtitle>Cruising Literary History in Reinaldo Arenas’ Before Night Falls</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lima</surname>
+                           <given-names>Lázaro</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>Reinaldo Arenas (1943-1990) opens his last major work in search of sex in a cruisy toilet.¹ In his posthumously published autobiography<italic>Antes que anochezca</italic>(1992;<italic>Before Night Falls</italic>, 1993),² Arenas—known as “Rey” or “El Rey” to his friends (“the King” in Spanish)—Writes that months before taking his life he had entered a public restroom in search of sex only to find that no one was interested in cruising him much less engaging in any sort of sex.³ Arenas simply finds himself unwanted by the cruisy queens in the loo who carry on as if he did not even</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.13</book-part-id>
+                  <title-group>
+                     <title>Apuntes sobre el espacio en las novelas de Diamela Eltit</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>B.</surname>
+                           <given-names>J. Agustín Pastén</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>259</fpage>
+                  <abstract>
+                     <p>Sin lugar a dudas, la representación del espacio resulta tan variada como la vida misma. Desde las descripciones del espacio en apariencia reales en textos tales como<italic>Naufragios</italic>, de Álvar Núñez Cabeza de Vaca e<italic>Historia verdadera de la conquista de México</italic>, de Bernal Díaz del Castillo,² hasta las representaciones más imaginarias del espacio en obras tales como<italic>Cartas marruecas</italic>, de José Cadalso,<italic>Voyage au bout de la nuit</italic>, de Céline, y<italic>Los pasos perdidos</italic>, de Alejo Carpentier, o incluso los retratos de naturaleza literaria y etnosociológica tales como<italic>El lazarillo de ciegos caminantes</italic>, de Alonso Carrió de la Vandera,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.14</book-part-id>
+                  <title-group>
+                     <title>Cristina Peri Rossi bajo la lente de la Generación del 72</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Olivera-Williams</surname>
+                           <given-names>María Rosa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>273</fpage>
+                  <abstract>
+                     <p>La obra de Cristina Peri Rossi, desde su temprano comienzo en Montevideo, fue acogida y premiada por la crítica. El poder de sus imágenes y la rica textura de su lenguaje marcaban la originalidad de la precoz escritora. Peri Rossi ofrecía un puente alegórico para un mundo que se transformaba por la violencia económica y política que impulsó las revoluciones de la izquierda de la década del 60 y promovió la brutal represión de las dictaduras militares de los 70 en el Cono Sur, manifestaciones regionales de la llegada de la globalización y el neoliberalismo a América Latina. Su obra</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.15</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>285</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781945234361_nicholson.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>293</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

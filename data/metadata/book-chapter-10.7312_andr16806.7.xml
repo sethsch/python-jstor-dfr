@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/andr16806</book-id>
+      <subj-group>
+         <subject content-type="call-number">PQ8098.12.O38Z55 2014</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Bolaño, Roberto, 1953–2003</subject>
+         <subj-group>
+            <subject content-type="lcsh">Fictional works</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Roberto Bolaño's Fiction</book-title>
+         <subtitle>An Expanding Universe</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>ANDREWS</surname>
+               <given-names>CHRIS</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>29</day>
+         <month>07</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="epub">9780231537537</isbn>
+      <isbn content-type="epub">0231537530</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/andr16806"/>
+      <abstract abstract-type="short">
+         <p>Since the publication of<italic>The Savage Detectives</italic>in 2007, the work of Roberto Bolaño (1953--2003) has achieved an acclaim rarely enjoyed in contemporary fiction. Chris Andrews, a leading translator of Bolaño's work into English, explores the singular achievements of the author's oeuvre, engaging with its distinct style and key thematic concerns, incorporating his novels and stories into the larger history of Latin American and global literary fiction.</p>
+         <p>Andrews provides new readings and interpretations of Bolaño's novels, including<italic>2666</italic>,<italic>The Savage Detectives</italic>, and<italic>By Night in Chile</italic>while at the same time examining the ideas and narrative strategies that unify his work. He begins with a consideration of the reception of Bolaño's fiction in English translation, examining the reasons behind its popularity. Subsequent chapters explore aspects of Bolaño's fictional universe and the political, ethical, and aesthetic values that shape it. Bolaño emerges as the inventor of a prodigiously effective "fiction-making system," a subtle handler of suspense, a chronicler of aimlessness, a celebrator of courage, an anatomist of evil, and a proponent of youthful openness. Written in a clear and engaging style,<italic>Roberto's Bolano's Fiction</italic>offers an invaluable understanding of one of the most important authors of the last thirty years.</p>
+      </abstract>
+      <counts>
+         <page-count count="304"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+                  <abstract>
+                     <p>This is a book of literary criticism. Although I have had the lucky privilege of being one of Roberto Bolaño’s translators, translation will not be my main concern in the following pages. And although Bolaño responded to my queries in the last year and a half of his life, I have no biographical revelations to offer. These opening disclaimers made, I would like to comment briefly on the ways the critical approach adopted here is related—indirectly—to the work of translation and to the life of the author studied.</p>
+                     <p>A translator is, by necessity, a slow reader and a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.5</book-part-id>
+                  <title-group>
+                     <title>List of Abbreviations</title>
+                  </title-group>
+                  <fpage>xix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.6</book-part-id>
+                  <title-group>
+                     <title>NOTE ON TRANSLATIONS</title>
+                  </title-group>
+                  <fpage>xxi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>THE ANOMALOUS CASE OF ROBERTO BOLAÑO</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The reception of Roberto Bolaño’s work in English began in an unremarkable way. When Christopher Maclehose, publisher at the Harvill Press in England, bought UK rights for<italic>Nocturno de Chile</italic>(<italic>By Night in Chile</italic>) in 2001, Bolaño was already a well-established author in the Spanish-speaking world. In 1998 his first long novel,<italic>Los detectives salvajes</italic>(<italic>The Savage Detectives</italic>), had won the Premio Herralde de Novela and the Premio Rómulo Gallegos. The second of these prizes, in particular, is a mark of consecration in the Hispanic literary field, and it had been won, before Bolaño, by Mario Vargas Llosa, Gabriel García</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>BOLAÑO’S FICTION-MAKING SYSTEM</title>
+                  </title-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>The bulk of Bolaño’s massive oeuvre in prose was written in the last ten years of his life. Javier Cercas has remarked: “it is nothing short of astonishing that he wrote what he wrote between 1996, the year of<italic>Distant Star</italic>, and 2003, the year of his death.”¹ The astonishing thing is not the sheer volume of his production, which is matched by many authors of commercial fiction, but the combination of high productivity and genuine inventiveness. Commenting on this aspect of the Bolaño anomaly, Nora Catelli has written:</p>
+                     <p>The work of Roberto Bolaño gives a clear and almost unquestionable</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>SOMETHING IS GOING TO HAPPEN:</title>
+                     <subtitle>Narrative Tension</subtitle>
+                  </title-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>Many modern novelists, at one time or another, have felt that storytelling is a tedious obligation, a regrettable concession to popular taste. Writing to Louise Colet in 1852, Flaubert reflected wistfully, “What seems beautiful to me, what I should like to write, is a book about nothing, a book dependent on nothing external, which would be held together by the internal strength of its style.”¹ In the first of his Clark lectures, given in 1927, E. M. Forster imagined three voices answering the question, “What does a novel do?” The third voice, his own, says regretfully, “Yes, oh dear yes,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>AIMLESSNESS</title>
+                  </title-group>
+                  <fpage>94</fpage>
+                  <abstract>
+                     <p>The drifting of Bolaño’s stories, discussed at the end of the previous chapter, is not a purely formal feature of his writing. If his stories often drift, it is partly because many of his characters are drifters by choice, by nature, or by force of circumstance. When the narrator in “Sensini” says that the eponymous writer’s stories are peopled by “brave and aimless characters” (LEE 5), he could be referring to the fiction of Bolaño. The characteristics of bravery and aimlessness are preeminently combined by Cesárea Tinajero in<italic>The Savage Detectives.</italic>In the final section of the next chapter I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>DUELS AND BRAWLS:</title>
+                     <subtitle>Borges and Bolaño</subtitle>
+                  </title-group>
+                  <fpage>124</fpage>
+                  <abstract>
+                     <p>Among the authors he admired, Roberto Bolaño reserved a special place for Jorge Luis Borges. “Borges,” he wrote, “is or should be at the center of our canon” (BP 337). Perhaps surprisingly for readers in the English-speaking world, what Bolaño particularly valued was not the conceptual brilliance of the thought experiments that made Borges famous in Europe and North America from the early 1960s on, but the Argentine writer’s humor and courage. In an interview, Bolaño described his tutelary elder as “possibly the best humorist we’ve had” (B 77), alluding to a comic vein that is evident in Borges’s erudite</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>EVIL AGENCIES</title>
+                  </title-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>It would be hyperbolic to use the category of evil in discussing much contemporary fiction, but not in Bolaño’s case. His fictional universe accommodates ethical extremes: it is not full of heroes and villains, but as I argued in the previous chapter, it is home to at least one exemplar of heroism (Cesárea Tinajero). In this chapter I will be substantiating the unsurprising claim that it is also inhabited and haunted by a small number of genuinely villainous characters, intent not just on dominating the lives of others but also on destroying them. If we adopt Claudia Card’s definition of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>A SENSE OF WHAT MATTERS</title>
+                  </title-group>
+                  <fpage>172</fpage>
+                  <abstract>
+                     <p>One of the reasons Bolaño’s fiction matters to so many readers is that it is underpinned by a strong, distinctive, and relatively simple sense of what matters in life. His characters live in ethically and politically oriented worlds. This does not go without saying. Since Western literatures began strongly to affirm and defend their autonomy with respect to political and religious institutions in the mid-nineteenth century, many critics and writers have campaigned to purge literature of didacticism, and some have gone further and argued that literature should be ethically and politically neutral. It is worth distinguishing these two objectives, because</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.14</book-part-id>
+                  <title-group>
+                     <title>APPENDIX:</title>
+                     <subtitle>Victims in “The Part About the Crimes” (2666) and Huesos en el desierto</subtitle>
+                  </title-group>
+                  <fpage>205</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.15</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>231</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.16</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>253</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">andr16806.17</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>267</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

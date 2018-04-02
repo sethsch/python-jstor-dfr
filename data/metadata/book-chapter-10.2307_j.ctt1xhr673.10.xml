@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1xhr673</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Language &amp; Literature</subject>
+         <subject>Political Science</subject>
+         <subject>Art &amp; Art History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Possibility of a World</book-title>
+         <subtitle>Conversations with Pierre-Philippe Jandin</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>NANCY</surname>
+               <given-names>JEAN-LUC</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="translator">Translated by</role>
+         <contrib contrib-type="translator" id="contrib2">
+            <name name-style="western">
+               <surname>Holloway</surname>
+               <given-names>Travis</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib3">
+            <name name-style="western">
+               <surname>Méchain</surname>
+               <given-names>Flor</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>08</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823275410</isbn>
+      <isbn content-type="epub">9780823275434</isbn>
+      <isbn content-type="epub">0823275434</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1xhr673"/>
+      <abstract abstract-type="short">
+         <p>In this series of interviews, Jean-Luc Nancy reviews his life's work. But like Schlegel's historian-"a prophet facing backwards"-Nancy takes this opportunity to rummage through the history of art, philosophy, religion, and politics in search of new possibilities that remain to be thought.</p>
+         <p>This journey through Nancy's thought is interspersed with accounts of places and events and deeply personal details. The result is at once unpretentious and encyclopedic: Concepts are described with remarkable nuance and specificity, but in a language that comes close to that of everyday life.</p>
+         <p>As Nancy surveys his work, he thinks anew about democracy, community, jouissance, love, Christianity, and the arts. In the end, this is a book about the possibility of a world-a world that must be greeted because it is, as Nancy says, already here.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.3</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Formative Years</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Pierre-Philippe Jandin: Knowing your taste for pastiche and parody, I’m almost tempted to introduce our discussion like Heidegger when he offers a biography of Aristotle: “Jean-Luc Nancy was born, he worked, and he’s still working.” Because it’s very true that you demonstrate constant attention to the world—to our world, which has almost dis appeared, and to the coming world. In any case, to understand your approach, and without mistaking “thinker” and “philosopher” for synonyms today, the academic question that presents itself is: How did you become a philosopher? Especially since you gave a lecture in 2002 at the Centre</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.4</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The World</title>
+                  </title-group>
+                  <fpage>28</fpage>
+                  <abstract>
+                     <p>P.-P.J.: It seems completely natural, then, that we ask ourselves now about the “possibility of a world,” first by taking into account what you say in<italic>Corpus</italic>. Our world is no longer simply a<italic>cosmos</italic>, a<italic>mundus, partes extra partes</italic>(an extension of distinct places), but the world of the human crowd, the non-place of a proliferating population, “[an] endless, generalized,<italic>departure</italic>.”¹ I’d like to ask you, then, about the role you give to the idea of the numerous or plurality within your entire approach, whether it concerns politics, the thought of community, or, in another register, the plurality of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.5</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Community</title>
+                  </title-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>P.-P.J.: We’ve been focusing on the question of world and number. Simultaneously, we’re confronted with the question of community and number, which demands the same insistent interrogation: Do we have the necessary concepts to think this proliferation or do we have to invent a new ontology? I’d like to invite you to first clarify this notion of community by differentiating it from related notions, such as, for example, crowds, which inspired Baudelaire and sparked Benjamin’s thought, or masses, classes, and the multitude.</p>
+                     <p>J.-L.N.: It’s interesting to take up a series of terms as you’re doing because it almost spells out</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.6</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>People and Democracy</title>
+                  </title-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>J.-L.N.: I once gave a talk at a conference in Cerisy that was dedicated to Jacques Derrida and entitled “Democracy to Come”¹—I’d written a text on the notion of “people.” After I’d finished my paper, Derrida said to me: “I would’ve said every thing you said, but not with the word “people”; I replied, “Okay then, but give me another word.” He answered, “I don’t know, but not ‘people.’” This small anecdote is interesting because it shows that Derrida has the same hesitation with this term as he does with “community” (“too Jewish”) or “fraternity” (“too Christian”). But actually,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.7</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Political Affects</title>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>P.-P.J.: The people, which is an expression of force that bears witness to this resistance, is also the place where affects manifest themselves. We’ve mentioned it already; the multitude is also a reservoir of desire or<italic>libido</italic>; all of our thought is permeated by a question of trying to reactivate affect or the passionate. Think of<italic>Libidinal Energy</italic>¹ by Jean-François Lyotard, or<italic>Anti-Oedipus</italic>² and<italic>A Thousand Plateaus</italic>³ by Gilles Deleuze and Félix Guattari. Negri inherited something from this. And even though I expressed some reservations earlier, I also want to underscore the importance of this aspect.</p>
+                     <p>In fact, the question</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.8</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Politics and Religion</title>
+                  </title-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>P.-P.J.: Since the beginning of this interview, we’ve acknowledged and reviewed two areas of thought: On the one hand, the original co-belonging of the philosophical and the political, to use the expression of Jacques Derrida that you and Philippe Lacoue-Labarthe picked up in the ’80s, and on the other hand, concerning the notion of community, the co-belonging of the political and the religious. What remains to be looked at is how the philosophical, the religious, and the political interconnect. If one considers like you do that Christianity took charge of the conduct of the world for several centuries, what happens</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.9</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Quest for “Art”</title>
+                  </title-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>P.-P.J.: In<italic>The Truth of Democracy</italic>,¹ you indicate that one has to have the expectation that political power knows how to limit itself, that it no longer assumes that the community is a totality, and that it creates spheres in which the heterogeneity of singulars can unfold. You name these spheres: “thought,” “desire,” “art,” and so on. I’d like to ask you a question about the situation of art today, in which “today” designates, in your own words, “a time in which the notion of art is no longer interconnected with the notion of cosmos or the notion of polis.”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.10</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Present, Presence</title>
+                  </title-group>
+                  <fpage>118</fpage>
+                  <abstract>
+                     <p>P.-P.J.: There are two notions we should touch upon now based on your work<italic>After Fukushima: The Equivalence of Catastrophes</italic>:¹ the present and presence. In the analysis of what is mistakenly called a “news clip”—a testimony to a world that has become what you call “struction” in your most recent book,<italic>What’s These Worlds Coming To?</italic>²— we’re encouraged to depart from a thought of crisis and planning, that is, from a certain vision of temporality and history. This change might lead us to distinguish between two senses of the present: the present as it’s been criticized in the “metaphysics</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xhr673.11</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Nihilism or Joy</title>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>P.-P.J.: Our—final?—question is about nihilism and joy. Can one hear in “the possibility of a world,” the expression that seals our interview, an interrogation into the hope of exiting out of nihilism, which would mean being done with this world that’s ending and which has an affective tone of, in the words of Günther Anders, both hopelessness and the desire for revolution?¹ Could one consider a world of joy—I’m aware of the Christian connotation of this expression—in the sense in which you write that “there is not much joy in the human of humanism”? Must the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

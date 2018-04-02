@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt18pkdtd</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Ethical and legal debates in Irish healthcare</book-title>
+         <subtitle>Confronting complexities</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Donnelly</surname>
+               <given-names>Mary</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Murray</surname>
+               <given-names>Claire</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>02</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9780719099465</isbn>
+      <isbn content-type="epub">9781784997205</isbn>
+      <publisher>
+         <publisher-name>Manchester University Press</publisher-name>
+         <publisher-loc>Manchester</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Manchester University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt18pkdtd"/>
+      <abstract abstract-type="short">
+         <p>The Irish health system is confronted by a range of challenges, both emerging and recurring. This collection provides a foundation for ongoing engagement with selected issues in contemporary Irish health contexts. It includes contributions from scholars and practitioners across a range of disciplines. The essays are theoretically informed and are grounded in the realities of the Irish health system, by drawing on contributors’ contextual knowledge. The focus of the collection is interdisciplinary and the essays are situated at the intersection between ethics, law, medicine and policy. It draws out the interlinking themes of context and care, rights and responsibilities, regulating research and oversight of decision-making. This book makes an informed and balanced contribution to academic and broader public discourse. It will be of interest to academics and postgraduate students in ethics, law and health and those outside the academic sphere who must engage critically with the issues addressed.</p>
+      </abstract>
+      <counts>
+         <page-count count="288"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.3</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.4</book-part-id>
+                  <title-group>
+                     <title>Series editor’s foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kitchin</surname>
+                           <given-names>Rob</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>x</fpage>
+                  <abstract>
+                     <p>Over the past twenty years Ireland has undergone enormous social, cultural and economic change. From a poor, peripheral country on the edge of Europe with a conservative culture dominated by tradition and Church, Ireland transformed into a global, cosmopolitan country with a dynamic economy. At the heart of the processes of change was a new kind of political economic model of development that ushered in the so-called Celtic Tiger years, accompanied by renewed optimism in the wake of the ceasefires in Northern Ireland and the peace dividend of the Good Friday Agreement. As Ireland emerged from decades of economic stagnation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Donnelly</surname>
+                           <given-names>Mary</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murray</surname>
+                           <given-names>Claire</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>At the heart of the Irish health system, there is an interplay between ethics, law and medicine. Every day in Irish hospitals and clinics, decisions are made which have profound effects on individual lives, and deaths. More broadly, these decisions and the manner in which we make them are the building blocks for the kind of healthcare system we operate, which in turn reflects the kind of society we have constructed. Yet, beyond the ‘headline’ issues, our understanding of how decisions in healthcare are made is partial, at best, and the normative foundations for decisions remain largely unexplored.</p>
+                     <p>The stifling</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Reproductive justice in Ireland:</title>
+                     <subtitle>a feminist analysis of the Neary and Halappanavar cases</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McCarthy</surname>
+                           <given-names>Joan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>This chapter analyses two Irish case studies concerning reproductive justice and maternal health that raise serious ethical and legal concerns. These are, first, unnecessary hysterectomies that were carried out at Our Lady of Lourdes Hospital, Drogheda; and second, the case of Savita Halappanavar whose 17-week pregnancy ended in miscarriage and her death in University College Hospital Galway (UCHG) on the 28 October 2012. Even though these cases are very different from one another in many respects, they also share important similarities. They provide evidence of not only a profound unease with women’s reproductive capacity but also the influence of Catholic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Conscientious objection, harm reduction and abortion care</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fletcher</surname>
+                           <given-names>Ruth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>24</fpage>
+                  <abstract>
+                     <p>The scope of any legal right to refuse to provide abortion care merits particular consideration following the introduction of the Protection of Life During Pregnancy Act 2013 (PLDPA). Irish health scholarship and practice may benefit from an account of conscientious objection (CO) that clarifies when CO is legitimately engaged by a refusal to provide care and whether CO is limited given its potential effect as a barrier to women’s lawful access to abortion. This chapter responds to these concerns by arguing for a harm reduction approach to conscientious objection. Those who wish to refuse provision of healthcare in spite of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Why care about carers?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murray</surname>
+                           <given-names>Claire</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>Rights are increasingly important in health law, both from a theoretical and a practical perspective. Respecting the autonomy and dignity rights of individuals should ultimately lead to more positive outcomes for people who engage with the health services because recognising them as rights subjects requires that they are treated with respect and their voices are listened to. Many of the chapters in this book are concerned with rights: identifying areas where rights have not been respected; teasing out how rights could best be protected; considering how to balance competing rights. The understanding of rights we are most familiar with is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The limits of autonomy:</title>
+                     <subtitle>an exploration of the role of autonomy in the debate about assisted suicide</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Campbell</surname>
+                           <given-names>Louise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>Several important issues must be considered in any discussion of the permissibility of assisted death,¹ including the obligation to relieve suffering, the need to protect vulnerable persons, the effectiveness of safeguards against coercion and abuse, the quality of end-of-life care and the values of medicine as a profession. Arguments which rely on the concept of autonomy also play a prominent role in this debate, but what is meant by the term<italic>autonomy</italic>in the context of requesting a hastened death is rarely examined in any depth. While autonomy is more commonly associated with arguments which defend the permissibility of assistance</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>If they can consent, why can’t they refuse?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Walker</surname>
+                           <given-names>Tom</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>Medical ethics and medical law both hold that where the patient is a competent adult (in Ireland that is a competent person over 18) it would always be wrong to give them medical treatment that they have refused. In contrast while section 23 of the Non-Fatal Offences Against the Person Act 1997 stipulates that young people in Ireland who are 16 or over can consent to medical treatment, it does not specifically include an entitlement to refuse treatment. As such, it would appear that in Ireland 16 and 17 year olds can consent to medical treatment but it is not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Patient autonomy and responsibilities within the patient–doctor partnership:</title>
+                     <subtitle>two sides of the same unequal coin?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sheikh</surname>
+                           <given-names>Asim A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>84</fpage>
+                  <abstract>
+                     <p>The autonomous patient has the ability to engage with a healthcare provider in relation to his or her health on a wide range of issues. This ability and control are central to a patient’s autonomy and self-determination. This chapter will consider whether this ability confers both rights and responsibilities upon patients. It asks whether the language and idea of the healthcare provider and healthcare receiver (‘doctor–patient’)<italic>partnership</italic>, which embraces the notion of patient autonomy, is one which also places responsibilities on patients as well as on healthcare providers.</p>
+                     <p>In turn, what precisely does this mean, and more importantly for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Older people, human rights, law and policy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Keys</surname>
+                           <given-names>Mary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>There is general recognition that the population of the world is ageing faster than at any other time in history and those over 60 are the fastest growing population worldwide. Almost 700 million people are now over 60. In 2050, that figure will be over 2 billion and for the first time in human history, there will be more people over 60 than children in the world – more than one in five of the world’s population will be aged 60 or older (UN DESA, 2012). Gender is an issue in the midst of these figures, as there are twice as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Legal and ethical considerations in involuntary admissions to long-term care</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Keeffe</surname>
+                           <given-names>Shaun T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>One of the greatest fears of older people is leaving their home and spending the end of their life in a nursing home. In a study of older Irish people living in the community, 87% wanted to remain in their own homes and half said they would not accept nursing home care even if they could no longer live independently (Garavan et al., 2001). Nevertheless, at any time about 5% of those over 70 years reside in a nursing home; overall, about a quarter of men and a half of women will reside in a nursing home prior to death</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Retention and use of human biological samples:</title>
+                     <subtitle>the Guthrie card example</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Madden</surname>
+                           <given-names>Deirdre</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>The retention and use of human biological samples raises interesting and challenging ethical and legal issues including compliance with principles of autonomy and privacy as well as the provisions of data protection law. However, in addition, there are wider competing public interests in this context due to the potential value of such samples for diagnostic purposes, clinical research and innovation and public health and epidemiology. This chapter will explore these issues through the lens of one specific example of the use of biological samples, namely the acquisition, retention and use of newborn screening cards, also known as Guthrie cards.</p>
+                     <p>In</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>A moral gap?</title>
+                     <subtitle>Examining Ireland’s failure to regulate embryonic stem cell research</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Staunton</surname>
+                           <given-names>Ciara</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>150</fpage>
+                  <abstract>
+                     <p>Developments in human biotechnology have created new ethical concerns. Just as the early years of organ transplant technology brought about a change in our concept of death, developments in embryology are challenging our concept of what constitutes life. Progress in medical science has now made it possible not only to create an embryo in a laboratory, but to destroy that same embryo in the course of medical research. While there is great potential for advancement in regenerative medicine, the fact that the embryo must be destroyed has resulted in embryonic stem cell research (ESCR) being described as the most contentious</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Children in clinical trials in Ireland:</title>
+                     <subtitle>addressing the gaps in the legal framework</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wade</surname>
+                           <given-names>Katherine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>Clinical trials are an important facet of clinical research as they lead to the development of new drugs, devices and treatments for human illness and disease. In order to develop suitable medicines and treatments for children, it is often essential to carry out clinical trials with them. Since children differ physiologically and developmentally from adults, results of research with adults cannot always be used effectively in paediatric care. In addition, certain diseases and conditions, such as the complications associated with prematurity, affect only children, thereby necessitating research with them. However, the conduct of clinical trials with children raises ethical concerns.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Governance failures and organisational ethics:</title>
+                     <subtitle>perspectives from the Neary and Halappanavar cases</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Felzmann</surname>
+                           <given-names>Heike</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>While the majority of the professional healthcare ethics literature and in particular professional guidance documents focus primarily on individual accountability and responsibilities of healthcare professionals towards patients, colleagues and the public, the significance of the organisational context for ethical behaviour is considered much less frequently. Yet, in official reports on high profile Irish cases, such as the Lourdes Hospital Inquiry on the Neary case (Harding Clark, 2006) or the Health Information and Quality Authority (HIQA) report on University Hospital Galway (UHG) and the care of Savita Halappanavar (HIQA, 2013), the significance of the organisational context for individual professional decision-making and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Psychiatric admission in Ireland:</title>
+                     <subtitle>the role of country of origin</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kelly</surname>
+                           <given-names>Brendan D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>194</fpage>
+                  <abstract>
+                     <p>Mental disorder has a lengthy relationship with national law in most jurisdictions (Shorter, 1997; Scull, 2005), including Ireland (Robins, 1986; Kelly, 2008). This relationship has always been conflicted and contested: in 1684, Nathaniel Lee, an exuberant Restoration playwright, was diagnosed with mental disorder and involuntarily detained at Bethlem psychiatric hospital, just north of London. Lee disagreed violently with his committal, but found himself in a minority: ‘They called me mad, I called them mad, and damn them, they outvoted me’ (Porter, 2002: 88).</p>
+                     <p>Involuntary detention and treatment for mental disorder have been a feature of most societies throughout the course</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Protecting rights in mental health law:</title>
+                     <subtitle>the relationship between the courts and mental health tribunals</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Whelan</surname>
+                           <given-names>Darius</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>208</fpage>
+                  <abstract>
+                     <p>Mental health law, and in particular the law concerning involuntary detention, has been a subject of protracted debate in Irish society. The European Court of Human Rights (ECtHR) held in<italic>Winterwerp</italic>v.<italic>The Netherlands</italic>(1979–80) 2 EHRR 387 that, except in emergency cases, the decision to detain a ‘person of unsound mind’ must be supported by objective medical expertise, the mental disorder must be serious enough to warrant compulsory confinement, and the validity of confinement must be based on the persistence of the disorder (at para. 39). Article 5(4) of the European Convention on Human Rights (ECHR) does not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Patient-centred dying:</title>
+                     <subtitle>the role of law</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Donnelly</surname>
+                           <given-names>Mary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>The way we die is a fundamental part of our life story. Yet, most of us dedicate little time to thinking about how we want to die (McCarthy et al., 2010). It seems inevitable in contemporary Ireland that the law will play an increased role in decisions about the end of life. There are several reasons for this. Ongoing technological development and increased medical knowledge, including the emergence of the diagnosis of a ‘minimally conscious state’¹ (MCS) in the 1990s, are making end-of-life choices more complex. Frequently, too, these choices are made in an impersonal hospital environment (see Lyons, Chapter</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.21</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Improving end-of-life care in intensive care units</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lyons</surname>
+                           <given-names>Barry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>236</fpage>
+                  <abstract>
+                     <p>International figures indicate that 95% of critically ill patients (in intensive care units (ICUs))¹ lack capacity (Cohen et al., 2005), and in Ireland generally have not completed an advance healthcare directive (AHD). The mean mortality rate in adult ICUs varies from 10–29% (Society of Critical Care Medicine, 2012) with a European average calculated as 13.5% using data from participating units in 17 countries (Sprung et al., 2003). In Irish ICUs, death follows the withdrawal of non-beneficial artificial life-sustaining interventions in approximately 35% of cases (with an equal number dying after limits have been placed on their treatment). The withholding</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18pkdtd.22</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>251</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

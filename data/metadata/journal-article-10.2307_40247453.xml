@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">complitstudies</journal-id>
+         <journal-id journal-id-type="jstor">j50000531</journal-id>
+         <journal-title-group>
+            <journal-title>Comparative Literature Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Pennsylvania State University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00104132</issn>
+         <issn pub-type="epub">15284212</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">40247453</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Katarzyna</given-names>
+                  <surname>Marciniak</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>2004</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">41</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i40009551</issue-id>
+         <fpage>605</fpage>
+         <lpage>608</lpage>
+         <product>
+            <source>Postmodernity and Cross-Culturalism</source>
+            <string-name>
+               <given-names>Yoshinobu</given-names>
+               <surname>Hakutani</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 2004 The Pennsylvania State University</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40247453"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

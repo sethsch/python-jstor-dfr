@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">scienceteacher</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50014344</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Science Teacher</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>National Science Teachers Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00368555</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19434871</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43557729</article-id>
+         <title-group>
+            <article-title>Science 2.0: The ABCs of E-books</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Eric</given-names>
+                  <surname>Brunsell</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Martin</given-names>
+                  <surname>Horejsi</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>11</month>
+            <year>2012</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">79</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">8</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40141450</issue-id>
+         <fpage>8</fpage>
+         <lpage>8</lpage>
+         <permissions>
+            <copyright-statement>© 2012 National Science Teachers Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43557729"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>On the web</title>
+         <ref id="d407e122a1310">
+            <mixed-citation id="d407e126" publication-type="other">
+Adobe Digital Editions:www.adobe.com/products/digitaleditions/</mixed-citation>
+         </ref>
+         <ref id="d407e133a1310">
+            <mixed-citation id="d407e137" publication-type="other">
+Calibre:http://calibre-ebook.com</mixed-citation>
+         </ref>
+         <ref id="d407e144a1310">
+            <mixed-citation id="d407e148" publication-type="other">
+iBooks Author: www.apple.com/ibooks-author/</mixed-citation>
+         </ref>
+         <ref id="d407e155a1310">
+            <mixed-citation id="d407e159" publication-type="other">
+Teacher's Guide to Making iBooks: www.educatorstechnology.
+coml2012l06lsimple-guide-for-teachers-to-create.html</mixed-citation>
+         </ref>
+         <ref id="d407e170a1310">
+            <mixed-citation id="d407e174" publication-type="other">
+SketchUp Trimble 3D Warehouse: http://sketchup.google.
+com13dwarehouse/</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

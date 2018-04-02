@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt19qggn7</book-id>
+      <subj-group>
+         <subject content-type="call-number">P92.J3R67 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Mass media</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Mass media</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Space and time in mass media</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+         <subject>Art &amp; Art History</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Ambient Media</book-title>
+         <subtitle>Japanese Atmospheres of Self</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>ROQUET</surname>
+               <given-names>PAUL</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>02</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9780816692460</isbn>
+      <isbn content-type="epub">9781452945460</isbn>
+      <isbn content-type="epub">1452945462</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>Minneapolis; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>the Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.5749/j.ctt19qggn7"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Ambient Media</italic>examines music, video art, film, and literature as tools of atmospheric design in contemporary Japan, and what it means to use media as a resource for personal mood regulation. Paul Roquet traces the emergence of ambient styles from the environmental music and Erik Satie boom of the 1960s and 1970s to the more recent therapeutic emphasis on healing and relaxation.</p>
+         <p>Focusing on how an atmosphere works to reshape those dwelling within it, Roquet shows how ambient aesthetics can provide affordances for reflective drift, rhythmic attunement, embodied security, and urban coexistence. Musicians, video artists, filmmakers, and novelists in Japan have expanded on Brian Eno's notion of the ambient as a style generating "calm, and a space to think," exploring what it means to cultivate an ambivalent tranquility set against the uncertain horizons of an ever-shifting social landscape. Offering a new way of understanding the emphasis on "reading the air" in Japanese culture,<italic>Ambient Media</italic>documents both the adaptive and the alarming sides of the increasing deployment of mediated moods.</p>
+         <p>Arguing against critiques of mood regulation that see it primarily as a form of social pacification, Roquet makes a case for understanding ambient media as a neoliberal response to older modes of collective attunement-one that enables the indirect shaping of social behavior while also allowing individuals to feel like they are the ones ultimately in control.</p>
+      </abstract>
+      <counts>
+         <page-count count="248"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                     <subtitle>READING THE AIR</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Jellyfish drift through Tokyo. I had been spending the summer evening watching hundreds of them float down the Sumida River on their way back out to sea. Returning home to my apartment on the other side of the city, I put on an ambient jellyfish DVD I discovered recently in the background video section of a nearby record store. The screen glows blue, and slowly the semitransparent creatures drift into view. They are all breath, floating like disembodied lungs as they quietly push backward across the television.</p>
+                     <p>The jellies’ translucent skins begin to glow. Some appear in close-up, some from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>BACKGROUND MUSIC OF THE AVANT-GARDE</title>
+                     <subtitle>THE QUIET BOOM OF ERIK SATIE</subtitle>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>Just as neoliberalism sought to make social discipline palatable by couching it in the context of freely chosen forms of self-care, ambient music sought to personalize the explicitly instrumental emotions of earlier background music in order to position mood regulation not as an imposition from the outside but as a freely chosen technique of the self. Ironically, in seeking out atmospheres more amenable to personal use, the emerging ambient style would draw heavily from an artistic lineage positioning itself against the earlier forms of communal mood regulation: the environmental avant-garde of the 1960s. Ambient music emerges out of this strange</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>THE SOUND OF EMBODIED SECURITY</title>
+                     <subtitle>IMAGINARY LANDSCAPES OF AMBIENT MUSIC</subtitle>
+                  </title-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>While writing this book, I was living close to Shuto Route 3, one of the elevated highways crisscrossing Tokyo. Route 3 begins in Shibuya and runs to the southwest through Setagaya Ward, forming the first leg of the road to Nagoya. The highway was built around the time of the 1964 Tokyo Olympics to bring traffic quickly in and out of the city.¹ The location was convenient, but walking on the street underneath the raised highway was far from pleasant. Despite the noise-dampening sidewalls, the sounds of heavy traffic above readily bounced off the tall buildings on either side of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>MOVING WITH THE RHYTHMS OF THE CITY</title>
+                     <subtitle>AMBIENT VIDEO ATTUNEMENTS</subtitle>
+                  </title-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>Alongside establishing an absolute background, the attunement patterns of ambient media also serve as an interface between the rhythms of the body and the pulse of the surrounding city. This chapter moves into a closer analysis of the rhythmic aspects of ambient entrainment. Before examining how ambient media filter the rhythms of the everyday, I first consider how complex the patterning of urban life has become by tracking the rhythms accompanying a trip to Nakano, a neighborhood in western Tokyo a few stops outside Shinjuku. I then turn to the work of Henri Lefebvre for a model of different ways</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>SOFT FASCINATIONS IN SHALLOW DEPTH</title>
+                     <subtitle>COMPOSITING AMBIENT SPACE</subtitle>
+                  </title-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>Imagine stepping off the streets of Tokyo into a dark and quiet gallery space. In the far corner is a five-meter-wide panoramic image, glowing in high-definition, four times wider than it is tall. The upper and lower edges of the frame are blurred, softening the border between the projected light of the image and the darkness hugging it from above and below.</p>
+                     <p>Fade from black to a series of lush floral compositions in soft tones. The white petals of a lotus flower fill the entire frame as everything in the image slides slowly to the right. This partially dissolves into</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>SUBTRACTIVISM</title>
+                     <subtitle>LOW-AFFECT LIVING WITH AMBIENT CINEMA</subtitle>
+                  </title-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>While both music and video provide powerful aesthetic affordances for ambient subjectivation on the somatic level, they also come up against the more intractable domains of intersubjective life: personal attachments, familial ties, and the realm of stronger emotions not so easily swayed. The final two chapters expand this book’s focus to consider not only how media can serve as technologies of ambient self-care but also what this means for the ethics of care, interpersonal relationships, and social life more broadly. To accomplish this, I look at how ambience functions in feature films and novels, media able to both cultivate powerful</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>HEALING STYLE</title>
+                     <subtitle>AMBIENT LITERATURE AND THE AESTHETICS OF CALM</subtitle>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>Near the middle of Kurita Yuki’s (1972–) novella<italic>Hamizabesu</italic>(Hamisabeth, 2002), a young woman becomes annoyed when a former coworker calls and pesters her for a date:</p>
+                     <p>I hung up the phone.</p>
+                     <p>I pulled out the plug.</p>
+                     <p>Angry, I went to take a shower. While wandering around the room naked, my whole body started to tingle. It seems that because I was upset my circulation had improved. (66)</p>
+                     <p>In Kurita’s later novel<italic>Oteru moru</italic>(Hôtel Mole, 2005), a woman asks her boss why she was picked for the job of hotel receptionist. The boss replies:</p>
+                     <p>Your features. I knew</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.10</book-part-id>
+                  <title-group>
+                     <title>CONCLUSION</title>
+                  </title-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>This book has sought to map out “both sides” of ambient subjectivation, attending to both the real mobility and healing on offer and the potentially dubious aspects of mediated mood regulation and therapy culture. Nikolas Rose notes this doubled-edged quality as something inherent to neoliberal techniques of self:</p>
+                     <p>On the one hand, in freeing many questions concerning the proper conduct of life from the authoritative prescriptions and proscriptions of political, religious, and social authorities, [neoliberalism] pluralizes the answers that can be provided, opening up a field of diversity within which each subject is obliged to locate themselves. On the other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.11</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>185</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.12</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>187</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.13</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>219</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.14</book-part-id>
+                  <title-group>
+                     <title>FILM AND VIDEOGRAPHY</title>
+                  </title-group>
+                  <fpage>235</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.15</book-part-id>
+                  <title-group>
+                     <title>DISCOGRAPHY</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.16</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qggn7.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>246</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

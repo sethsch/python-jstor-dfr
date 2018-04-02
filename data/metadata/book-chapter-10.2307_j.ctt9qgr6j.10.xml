@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qgr6j</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The politics of civil society (Second edition)</book-title>
+         <subtitle>Big society and small government</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Powell</surname>
+               <given-names>Fred</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>24</day>
+         <month>04</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9781447307150</isbn>
+      <isbn content-type="epub">9781447307167</isbn>
+      <publisher>
+         <publisher-name>Policy Press</publisher-name>
+         <publisher-loc>Bristol</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>The Policy Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt9qgr6j"/>
+      <abstract abstract-type="short">
+         <p>2011 shook the world politically. The Occupy Movement, Los Indignados and the Greek Aganaktismenoi (outraged) reacted to zombie capitalism in the West, while the Arab Spring challenged political tyrannies in the Maghreb-Mashreq region.Democracy became the meta-question of the moment. New communicative technologies unleashed a tidal wave of civic protest that spread across the globe, bringing new political actors on to the street. But what does this protest movement mean? Are we on the threshold of a transformation in global political consciousness? Is civil society the necessary counter-power that is democratising democracy from within? Or are we living through an apocalyptic terminal phase of civilisation? In the second, revised edition of this indispensable book, the author looks behind the mirror of power and differentiates the real from the fake in policy and politics. It offers an original and compelling history of the present and will have wide appeal to a broad cross-disciplinary audience.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Three recent events captured the essence of our times. First, the Arab Spring, which, like a tidal wave of liberty, displaced large numbers of tyrants in the Maghreb–Mashreq region and introduced a new politics of hope. Second, the Occupy movement, which began in Wall Street, New York City on 17 September 2011 and spread across the world. The message of the Occupy movement is a simple one. It opposes the austerity measures imposed on ordinary people around the world, the 99% who, it argues, have been expropriated by the wealthiest 1% of the population. Third, the much-anticipated Haruki Murakami</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.5</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Doublethink:</title>
+                     <subtitle>the ‘Big Society, Small Government’ debate</subtitle>
+                  </title-group>
+                  <fpage>7</fpage>
+                  <abstract>
+                     <p>Zygmunt Bauman likens the contemporary idea of civil society to the ancient Greek concept of<italic>agora</italic>as a site for political assembly, or town square, an interface between the public and private spheres of social life that created the idea of a political community or republic based upon active citizenship (Bauman, 1998, pp 86–7). He argues that in modern society the<italic>agora</italic>has come under sustained attack. While its enemy during the 20th century was totalitarianism, as we enter the 21st century, some argue that it has become neoliberalism as a global capitalist hegemony (Davis, M., 2006; de Sousa Santos,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.6</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>The renaissance of civil society</title>
+                  </title-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>Bourdieu’s observation describes the complexity of the time we live in and the challenges involved in unravelling its political meaning. Civil society has enjoyed a renaissance in our ‘postmodern’ world as the symbol of a new phase in democratic development. It conveys the image of a free and vibrant public sphere, where tyranny has finally been laid to rest. But as modernity recedes into historical memory, real concerns have been raised about a loss of hope in the possibility of social progress. The metanarrative of modernity based upon human progress and social justice has been eclipsed by a global narrative</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.7</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Modernity, civil society and civic virtue</title>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>While the origins of civil society are in antiquity, civil society emerged in its modern form during the 18th century as a highly contested right to associate as free men and women. The connection with the realisation of citizenship as a basic political right, through the French and American revolutions at the end of the 18th century, is a close one. Civil society is by definition political. It is about men and women’s struggles to become free and liberate themselves from oppression. Nowadays we talk about the role of civil society as a force against oppression in relation to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.8</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>Radical civil society, early social movements and the socialisation of the state</title>
+                  </title-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>The politics of radical civil society is the product of modernist utopian aspirations to create a more virtuous state. It is also the product of the capacity of citizens to employ their new-found political influence over the polity in an emerging democratic order. Democracy is the product of modernity: a belief in society’s capacity to transform itself into a more just, egalitarian and caring form. This involved a rupture with the previous minimalist, ‘nightwatchmen’ state. What we are witnessing in modernity is the fusion of the state and civil society, through the process of social and political evolution that ultimately</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.9</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>Nietzsche’s revenge:</title>
+                     <subtitle>totalitarian big society</subtitle>
+                  </title-group>
+                  <fpage>119</fpage>
+                  <abstract>
+                     <p>The legacy of Friedrich Nietzsche (1844–1900) is most often associated with the cult of violence and racial domination that convulsed Europe during the first half of the 20th century. A brilliant – if unstable – scholar, he held a chair in Greek at the University of Basle before turning to freelance writing, in a life characterised by a deep loathing of humanism as the secular expression of the Judaeo–Christian traditions. He despised democracy as a fool’s errand. Nietzsche championed the strong and scorned the weak and vulnerable. His views resonated with those who opposed the cause of democracy and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.10</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>Rights talk, new social movements and civic revolts</title>
+                  </title-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>The term ‘rights talk’ has been invoked by distinguished commentators to describe the post-war world (Judt, 2005, p 567; Harvey, 2007, p177). But what does it mean? What is its connection to democracy, if any? Does it simply represent a retreat from democracy into jurisprudence? Is it possible to construct a universal concept of human rights? Are we addressing individualised rights of oppressed people, and if so do we do this individually or collectively? Are human rights the modern expression of humanism in the face of a bureaucratic state with the capacity to behave with totalitarian characteristics? Or is ‘rights</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.11</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>American exceptionalism, multicultural civil society and Plato’s noble lie</title>
+                  </title-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>The American essayist Gore Vidal (1925–2012), while parodying the United States as a quintessential reactionary society, dismissed external critics, ‘ these people, these foreigners. They wander in, read one issue of<italic>Rolling Stone</italic>and they think they know everything about it [America]’ (<italic>Observer</italic>, 9 August 2012). It is a powerful rebuke to the would-be foreign writer to be respectful of American exceptionalism. The 9/11 terrorist attacks on the US reminded the world that we live in an era where we are witnessing what Tariq Ali (2002) has called<italic>The Clash of Fundementalisms</italic>. Fanatical Islamic anger towards the West was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.12</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>Global civil society:</title>
+                     <subtitle>myth or reality?</subtitle>
+                  </title-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>The eclipse of the socialist imaginary has undermined the principal modernist narrative of change. Its passing has left a political and moral vacuum at the heart of society. Decades of virtuous achievement in terms of struggles for social justice have been swept away in a society that has exchanged state-centred social politics for individualised consumer choice. But, arguably, the individual choices of consumer society would not have been possible without the social struggles of the past. Globalisation brought a change in the direction of civil society, altering the focus from past preoccupations. Campfens (1997, p 4) notes: ‘Relations have since</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.13</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>215</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.14</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>229</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgr6j.15</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt183gx2w</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt183p30z</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Anthropology's World</book-title>
+         <subtitle>Life in a Twenty-first-century Discipline</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Hannerz</surname>
+               <given-names>Ulf</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>20</day>
+         <month>11</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780745330471</isbn>
+      <isbn content-type="epub">9781849645652</isbn>
+      <publisher>
+         <publisher-name>Pluto Press</publisher-name>
+         <publisher-loc>London; New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Ulf Hannerz</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt183p30z"/>
+      <abstract abstract-type="short">
+         <p>In this masterly, state of the art work, Ulf Hannerz maps the contemporary social world of anthropologists and its relation to the wider world in which they carry out their work. Raising fundamental questions such as 'What is anthropology really about?', 'How does the public understand, or misunderstand, anthropology?' and 'What and where do anthropologists study now, and for whom do they write?' Hannerz invites anthropologists to think again about where their discipline is going. Full of insights and practical advice from Hannerz's long experience at the top of the discipline, this book is essential for all anthropologists who want their craft to survive and develop in a volatile world, and contribute to new understandings of its ever-changing diversity and interconnections.</p>
+      </abstract>
+      <funding-group>
+         <award-group>
+            <funding-source>Knowledge Unlatched</funding-source>
+         </award-group>
+      </funding-group>
+      <counts>
+         <page-count count="216"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hannerz</surname>
+                           <given-names>Ulf</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.4</book-part-id>
+                  <title-group>
+                     <title>Series Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Amit</surname>
+                           <given-names>Vered</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mitchell</surname>
+                           <given-names>Jon P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction:</title>
+                     <subtitle>In the World, and a World in Itself</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Anthropology’s World</italic>, as in the title of this book, can mean at least two things. On the one hand it is anthropology as a social world in itself—the community of a discipline, with its internal social relationships, its ideas and practices. On the other hand, anthropology’s world is the wider outside world to which the discipline must relate in various ways. For anthropology, which more than any other discipline may have a constant ambition to be global in its scope, this involves humanity everywhere, and the attempt to understand its variety of ways of life and thought and its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Editing Anthropology:</title>
+                     <subtitle>Two Experiences in Space and Time</subtitle>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>Writing—writing anthropology, writing culture—has drawn a fair amount of attention and comment among anthropologists for some time now.¹ While otherwise the travails and the heroism of field work have been the obvious focus, it is true that only through writing (or some comparable communicative technology) does the anthropologist contribute to a shared body of scholarship and knowledge. Until, or unless, he or she “writes up,” the field worker is not really an ethnographer, only someone indulging in a kind of deep tourism. In writing, the anthropologist takes on a complicated task, trying to do justice to the people</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Diversity Is Our Business</title>
+                  </title-group>
+                  <fpage>38</fpage>
+                  <abstract>
+                     <p>Almost since the beginnings of anthropology as an organized endeavor, its practitioners—some of them at least—seem to have had a morbid tendency to dwell on the likelihood of its impending demise. In<italic>Argonauts of the Western Pacific</italic>(1922), perhaps the earliest field-based ethnography still reasonably widely read, Bronislaw Malinowski started his foreword by proposing that his discipline was “in the sadly ludicrous, not to say tragic, position, that at the very moment when it begins to put its workshop in order, to forge its proper tools, to start ready for work on its appointed task, the material of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Field Worries:</title>
+                     <subtitle>Studying Down, Up, Sideways, Through, Backward, Forward, Early or Later, Away and at Home</subtitle>
+                  </title-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>Perhaps anthropologists always worried about “the field”—it is central to their way of knowing. In the past, however, when elders tended to be secretive or at least vague about the field experience, and when first field work was thus indeed like a rite of passage into professional maturity, they may have worried in a more private way. That field was also usually a rather fixed entity to worry about, a “tribe,” a village, some place you could get to know by covering it on foot and engaging with its people face to face. And it was self-evidently a matter</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Making the World Transparent</title>
+                  </title-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>Let me first introduce a nineteenth-century compatriot of mine.¹ Fredrika Bremer is known in Sweden primarily as a pioneer of Swedish feminism, and as a novelist and essayist. But she was also a traveler and travel writer, journeying widely in Europe, as well as in the New World and the Middle East, and reaching a fairly sizeable audience among the educated Swedish public with her reporting.² Around the New Year’s holiday in 1851 she was in New Orleans, and witnessed a slave auction, and the ethnic diversity of the French market, and a very lively African-American religious service. She went</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Flat World and the Tower of Babel:</title>
+                     <subtitle>Linguistic Practices in a Global Discipline</subtitle>
+                  </title-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>You who are native English-speakers, living and working in a largely English-language environment, may want to skip this chapter—but then if you do not, you may find some food for thought about how the international scholarly community functions (or malfunctions), and some of you may get a sense of what you are missing.¹</p>
+                     <p>Here and there in these pages, I have found a point of departure, seriously or a little mockingly, among what I think of as the “global scenario writers”—those academics and journalists who have appeared especially since the end of the Cold War to pronounce on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Before and After:</title>
+                     <subtitle>Exploring the Usable Past</subtitle>
+                  </title-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>Max who? Marcel who? Melville who? (No, not that Marcel—his<italic>The Gift</italic>will probably still be remembered.)</p>
+                     <p>Anthropology at present has an uneven, and largely rather forgetful, relationship to its past.¹ Opinions are divided, of course, on what disciplines should do with their histories. In the view of some, one should honor the accumulation of knowledge and insights through time, and venerate the ancestors—latecomers reach higher only by climbing on the shoulders of giants. Others argue that disciplines will only progress by learning to ignore the forerunners.</p>
+                     <p>But what actually happens may not be entirely the result of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>And Next, Briefly:</title>
+                     <subtitle>Toward 2050</subtitle>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>Well, enough. Someone tells me, however, that there should be a conclusion. I accept this hesitantly, as I often find conclusions rather dull and repetitive. But let me try to make it brief, and forward-looking …</p>
+                     <p>Again, my own dwelling in anthropology’s world has extended over close to 50 years, since the early 1960s. Given that an active life of learning and practicing in a scholarly field may extend from someone’s early twenties to the age of retirement (whatever that may turn out to be), and possibly beyond, I would hope that some of you who have read this book</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>167</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.14</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>184</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt183p30z.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

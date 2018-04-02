@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt125wpd</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/cali13620</book-id>
+      <subj-group>
+         <subject content-type="call-number">DS822.5.C656 2005</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">Civilization</subject>
+            <subj-group>
+               <subject content-type="lcsh">1945–</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Contemporary Japanese Thought</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Calichman</surname>
+               <given-names>Richard F.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>14</day>
+         <month>09</month>
+         <year>2005</year>
+      </pub-date>
+      <isbn content-type="epub">9780231509886</isbn>
+      <isbn content-type="epub">023150988X</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2005</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/cali13620"/>
+      <abstract abstract-type="short">
+         <p>Appearing for the first time in English, the writings in this collection reflect some of the most innovative and influential work by Japanese intellectuals in recent years. The volume offers a rare and much-needed window into the crucial ideas and positions currently shaping Japanese thought (<italic>shiso</italic>).</p>
+         <p>In addressing the political, historical, and cultural issues that have dominated Japanese society, these essays cross a range of disciplines, including literary theory, philosophy, history, gender studies, and cultural studies. Contributors examine Japan's imperialist and nationalist past as well as representations and remembrances of this history. They also critique recent efforts in Japanese right-wing circles to erase or obscure the more troubling aspects of Japan's colonial enterprise in East Asia. Other essays explore how Japan has viewed itself in regard to the West and the complex influence of Western thought on Japanese intellectual and political life.</p>
+         <p>The volume's groundbreaking essays on issues of gender and the contested place of feminist thought in Japan discuss the similarities between the emotional bullying of women who do not accept traditional gender roles and teasing in schools; how the Japanese have adopted elements of Western orientalism to discredit feminism; and historical constructions of Japanese motherhood.</p>
+      </abstract>
+      <counts>
+         <page-count count="320"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Calichman</surname>
+                           <given-names>Richard F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>A book on contemporary Japanese thought might at first glance appear surprising, given that “thought”—or “theory,” as it is often called—has in the modern era generally been linked with the West as its proper provenance. One readily speaks, for example, of French theory or German theory, and these references are more or less directly understood without raising much question. Despite the presence of numerous theoretical writings by so-called non-Western thinkers in non-Western languages, these texts have hitherto done little to drive a wedge between the notions of “West” and “thought,” thereby provoking discussion as to the meaning of </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.5</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>THE POLITICS OF TEASING</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yumiko</surname>
+                           <given-names>Ehara</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Ever since the women’s liberation movement first appeared in Japan in the early 1970s, its treatment by the mass media has been characterized by “teasing” and “ridicule.” “Viragoes’ Sexual Sensibilities Revealed in the Journal <italic>Woman-Eros</italic>,” “The Frightful Contents of the Lib Calendar,” “Women on Top in Preventing Rape and Pregnancy, Proclaims this Brainy Women’s Libber,” “Four Days at a Women’s Lib Retreat: ‘Men are Better After All,’ ” “The ‘Adorable Aspects’ of Amazons Assembled for the Jamboree”—these are some representative titles of articles dealing with “women’s lib” in weekly magazines.¹ Of course there were articles that presented the movement</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>THE IMAGINARY GEOGRAPHY OF A NATION AND DENATIONALIZED NARRATIVE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sangjung</surname>
+                           <given-names>Kang</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Since when have retrogressive “masturbatory views of history,” as represented by the “liberal view of history,” come to dominate bookstore shelves? They became noticeable around the time of the Gulf War. In fact, Fujioka Nobukatsu, the leading proponent of this “liberal history,” begins both his <italic>Kingendaishi kyōiku no kaikaku</italic> [Reforming modern history education] (1996) and <italic>Ojoku no kingendaishi</italic> [A modern history of shame] (1996), with prologues describing the impact of this war.</p>
+                     <p>For example: “Many Japanese, relying on the idealism of the Constitution’s Article Nine, were able to steep themselves completely in sentimental pacifism.” Or again: “The Gulf War was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>OVERCOMING MODERNITY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kōjin</surname>
+                           <given-names>Karatani</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Today I will speak of the famous “Overcoming Modernity” symposium, which was held in 1942 (Shōwa 17), following the outbreak of hostilities between Japan and the United States. While a careful study of this symposium could not possibly be undertaken in such a short lecture as this, I in fact plan to spend the next year on this topic in the course of a university seminar. Today I can speak of only one aspect of the symposium.</p>
+                     <p>A diverse group of people participated in the “Overcoming Modernity” symposium (which includes here the presented papers). The symposium basically consisted of three</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>THE WONDERLAND OF “IMMORTALITY”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Osamu</surname>
+                           <given-names>Nishitani</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>131</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Understood as the greatest violence or disaster that can befall us, death has long been man’s greatest source of anxiety and fear. We implicitly resign ourselves to death as an absurd yet unavoidable fate, and precisely because this deprivation or extinguishing of existence is our inevitable lot, we seek to assuage our anxiety through belief in the immortality of the soul. Often we envision an eternal afterlife that offers salvation from the misery of a life tormented by anxiety. In regarding such an afterlife as truly immortal life, we turn the pain of death into a condition for salvation. Alternatively,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>TWO NEGATIONS:</title>
+                     <subtitle>THE FEAR OF BEING EXCLUDED AND THE LOGIC OF SELF-ESTEEM</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sakai</surname>
+                           <given-names>Naoki</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>159</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Another season of the concentration camp seems to be descending upon us.</p>
+                     <p>Now one is all the more conscious of one’s own vulnerability as a secondclass citizen of the United States who could potentially be deprived of United States’ nationality or the right to legal residence by official decree. What is expediently promoted in American politics and mass media today is an anxiety that America, as the last superpower of an imperial nature, has turned into the symbolic target of anticolonial vengeance.¹ This assessment, in turn, justifies the federal administration’s insatiable search across the globe for signs attesting to imminent</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>JAPANESE NEO-NATIONALISM:</title>
+                     <subtitle>A CRITIQUE OF KATŌ NORIHIRO’S “AFTER THE DEFEAT” DISCOURSE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="editor" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tetsuya</surname>
+                           <given-names>Takahashi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Here I take as my theme the discourse of Katō Norihiro. Although Katō is a literary critic and not a historian, the publication of his <italic>Haisengo ron</italic> [After the defeat] (Kōdansha, 1997) nevertheless established him as one of the central figures of the “historian’s debate” in Japan. This book had its beginnings in an essay of the same name published in the January 1995 issue of the literary arts journal <italic>Gunzō</italic> [Arts group] that was written at the end of 1994—in other words, on the eve of the fiftieth anniversary of the end of World War II. I immediately</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>IN THE FEMININE GUISE:</title>
+                     <subtitle>A TRAP OF REVERSE ORIENTALISM</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="editor" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chizuko</surname>
+                           <given-names>Ueno</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In <italic>Orientalism</italic>, Edward Said argues that Europe has continuously feminized the Orient:</p>
+                     <p>Orientalism itself, furthermore, was an exclusively male province. Like so many guilds during the modern period, it viewed itself and its subject matter with sexist blinders. This is especially evident in the writings of travelers and novelists: women are usually the creatures of a male powerfantasy. They express unlimited sensuality, they are more or less stupid, and above all they are willing.¹</p>
+                     <p>Accordingly, the Orient is related to “the separateness, its eccentricity, its backwardness, its silent indifference, its feminine penetrability, its supine malleability,”² all of which are also</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>COLONIALISM AND MODERNITY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="editor" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Satoshi</surname>
+                           <given-names>Ukai</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract abstract-type="extract">
+                     <p>What happened? What is happening? When did <italic>it</italic> begin? When did <italic>it</italic> end? Or has <italic>it</italic> yet to end?</p>
+                     <p>When we substitute the two words “colonialism” and “modernity” for the word “it” in each of these sentences, what kind of feelings arise in our hearts and what kind of thoughts come to mind?</p>
+                     <p>Furthermore, in each of these cases, how do the feelings that arise in our hearts and the thoughts that come to mind overlap, and how do they diverge?</p>
+                     <p>But who is this “we” that is referred to here? Is it not the case that who “we” are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.13</book-part-id>
+                  <title-group>
+                     <title>GLOSSARY</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.14</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>303</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cali13620.15</book-part-id>
+                  <title-group>
+                     <title>INDEX OF NAMES</title>
+                  </title-group>
+                  <fpage>305</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

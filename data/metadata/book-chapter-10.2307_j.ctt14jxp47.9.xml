@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt14btjgn</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt14jxp47</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Japón</subject>
+         <subj-group>
+            <subject content-type="lcsh">Historia</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Historia mínima de Japón</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Kerber</surname>
+               <given-names>Víctor</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Legorreta</surname>
+               <given-names>Omar Martínez</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Lozoya</surname>
+               <given-names>Jorge Alberto</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib4">
+            <name name-style="western">
+               <surname>Tanaka</surname>
+               <given-names>Michiko</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">(coordinadora)</role>
+      </contrib-group>
+      <pub-date>
+         <day>12</day>
+         <month>07</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9786074623208</isbn>
+      <isbn content-type="epub">9786074624403</isbn>
+      <publisher>
+         <publisher-name>El Colegio de México</publisher-name>
+         <publisher-loc>México, D.F.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>El Colegio de México, A.C.</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt14jxp47"/>
+      <abstract abstract-type="short">
+         <p>Este libro presenta, a grandes rasgos, el extraordindario desarrollo político, económico, social y cultural de Japón desde sus orígenes hasta nuestros días. Se trata, también, de una caracterización de los cambios y las permanencias durante el proceso de conformación de lo japonés, en contraste e interacción constante con as experiencias de otro pueblos.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.3</book-part-id>
+                  <title-group>
+                     <title>PREFACIO</title>
+                  </title-group>
+                  <fpage>11</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCCIÓN</title>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>El objetivo principal de esta<italic>Historia mínima de Japón</italic>es presentar a grandes rasgos el extraordinario desarrollo político, económico, social y cultural de Japón, desde sus orígenes, hasta nuestros días. Se trata, también, de caracterizar cambios y permanencias durante el proceso de conformación de lo japonés, en contraste e interacción con las experiencias de otros pueblos.</p>
+                     <p>A cargo de Michiko Tanaka, los tres capítulos iniciales abarcan, desde los orígenes de la nación japonesa, hasta el triunfo de la Renovación Meiji en 1868. Dan a conocer los cimientos del Japón moderno y explican cómo ciertos valores sociales e instituciones públicas que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.5</book-part-id>
+                  <title-group>
+                     <title>LOS ORÍGENES Y LA ÉPOCA ANTIGUA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tanaka</surname>
+                           <given-names>Michiko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>En la era de los glaciales, durante el Pleistoceno, las actuales islas de Japón estaban conectadas entre sí y con el continente euroasiático; el norte de Hokkaido se unía con la isla de Sajalín, y el norte de Kyūshū con la península de Corea. También las distancias entre las islas de Japón y de Ryūkyū y el continente eran más cortas. Esto permitía, durante el invierno, el arribo de manadas de animales como elefantes Nauman, arces y mamuts, tras los cuales estaban los hombres paleolíticos. En el mapa 3 podemos ver el contorno de la tierra de entonces y algunos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.6</book-part-id>
+                  <title-group>
+                     <title>ÉPOCA MEDIEVAL DESCENTRALIZACIÓN DEL PODER Y DIFUSIÓN CULTURAL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tanaka</surname>
+                           <given-names>Michiko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Una vez obtenido el triunfo en la guerra, Yoritomo trató de consolidar su poder. En 1185 consiguió el permiso del<italic>tennō</italic>para nombrar a sus jefes guerreros más importantes como jefes militares de las provincias (<italic>shugo</italic>), y a los vasallos menores como jefes guerreros locales (<italic>jitō</italic>), en todo el territorio occidental del país, donde aún no tenía control pleno. Este sistema de control policiaco-militar se mantuvo en todo el país aun después de la pacificación total, luego de la destrucción del poder de los Fujiwara en Hiraizumi en 1189. En 1192, Yoritomo logró obtener el nombramiento del Gran General para</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.7</book-part-id>
+                  <title-group>
+                     <title>ÉPOCA MODERNA TEMPRANA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tanaka</surname>
+                           <given-names>Michiko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Hacia mediados del siglo XVI se destacaron varios señores de la guerra, quienes pretendían controlar el poder central mediante la ocupación de Kioto, que seguía gozando del estatus de capital (véase mapa 13). El vencedor en esta lucha no fue ninguno de los viejos señores que habían consolidado su dominio feudal hereditario, sino Oda Nobunaga, hijo de un señor menor de la provincia de Owari. El hecho de que la región se caracterizara entonces por una alta productividad de la tierra, lo que aseguraba una base económica firme para las operaciones militares, quizá explique no sólo el triunfo de Nobunaga</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.8</book-part-id>
+                  <title-group>
+                     <title>DE LA MODERNIZACIÓN A LA GUERRA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Legorreta</surname>
+                           <given-names>Omar Martínez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>Japón, a finales de la época Tokugawa, constituía una sociedad en proceso de cambio. Todos los esfuerzos políticos y de control social realizados por los<italic>shōgun</italic>Tokugawa para mantenerse en el poder fueron cada vez menos efectivos, principalmente porque no pudieron entender que la sociedad no había permanecido estática durante todo el tiempo que duró su gobierno. El shogunato no había sido capaz de encontrar una solución a agobiantes problemas económicos que no entendía, como tampoco de controlar cambios sociales que no aprobaba. La política de aislar a Japón de todo contacto con el extranjero había tenido éxito en evitar</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.9</book-part-id>
+                  <title-group>
+                     <title>JAPÓN CONTEMPORÁNEO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lozoya</surname>
+                           <given-names>Jorge Alberto</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Palma</surname>
+                           <given-names>Víctor Kerber</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>287</fpage>
+                  <abstract>
+                     <p>El 6 de agosto de 1945, un artefacto de potencia descomunal fue arrojado sobre la ciudad japonesa de Hiroshima, causando la muerte de aproximadamente 200 000 personas. Tres días después, una acción similar en Nagasaki habría de cobrar muchas miles de víctimas más. Los grandes hongos generados por las bombas atómicas representan el cenit de la destructividad y, paradójicamente, a la vez simbolizan el mayor adelanto científico y tecnológico de la humanidad.</p>
+                     <p>Setecientos años atrás, el encrespado oleaje del Mar de China y los vientos divinos<italic>kamikaze</italic>(神風) salvaron a las islas japonesas de las invasiones mongolas provenientes de territorio</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.10</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAFÍA</title>
+                  </title-group>
+                  <fpage>349</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.11</book-part-id>
+                  <title-group>
+                     <title>COLABORADORES</title>
+                  </title-group>
+                  <fpage>353</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.12</book-part-id>
+                  <title-group>
+                     <title>ÍNDICE ANALÍTICO</title>
+                  </title-group>
+                  <fpage>355</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14jxp47.13</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>376</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

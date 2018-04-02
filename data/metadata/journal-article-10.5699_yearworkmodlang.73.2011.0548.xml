@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="research-article" dtd-version="1.0" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="doi">10.5699</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">yearworkmodlang</journal-id>
+         <journal-title-group>
+            <journal-title content-type="full">The Year's Work in Modern Language Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Modern Humanities Research Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00844152</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">22224297</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">yearworkmodlang.73.2011.0548</article-id>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.5699/yearworkmodlang.73.2011.0548</article-id>
+         <title-group>
+            <article-title>Index</article-title>
+         </title-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>2011</year>
+            <string-date>2011</string-date>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink">73</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">yearworkmodlang.73.issue-2011</issue-id>
+         <fpage>548</fpage>
+         <lpage>609</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2013 Modern Humanities Research Association</copyright-statement>
+            <copyright-year>2013</copyright-year>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/10.5699/yearworkmodlang.73.2011.0548"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

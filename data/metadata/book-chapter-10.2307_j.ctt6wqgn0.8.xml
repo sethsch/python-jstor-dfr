@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqgn0</book-id>
+      <subj-group>
+         <subject content-type="call-number">KNX2472.027 1996</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Freedom of religion</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Church and state</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Separation of powers</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">Constitutional history</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>To Dream of Dreams</book-title>
+         <subtitle>Religious Freedom and Constitutional Politics in Postwar Japan</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>O’BRIEN</surname>
+               <given-names>DAVID M.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <role>with</role>
+            <name name-style="western">
+               <surname>Ohkoshi</surname>
+               <given-names>Yasuo</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>04</month>
+         <year>1996</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824817572</isbn>
+      <isbn content-type="epub">9780824865191</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1996</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqgn0"/>
+      <abstract abstract-type="short">
+         <p>Prior to World War II, State Shinto, which was centered on the worship of the emperor and Yasukuni Shrine's cult of war dead, was established in support of the government and militarism. Since the end of the Occupation, Japanese conservatives have sought to restore State Shinto's institutions even as expanded military budgets have placed Japan among the top five countries in defense spending. This timely book focuses on the struggles against government attempts to revive "the emperor system" and Japan's prewar military presence. Organized around case studies and based on extensive interviews, To Dream treats the operations of the Japanese court system thoroughly and uncovers important cases regarding religious liberty that remain little known even among specialists on modern Japanese history and society. It shows that litigation has been brought by pacifists, liberals, and others fiercely opposed to renewed militarism and to governmental support for the symbolism and institutions of State Shinto. Throughout, the author offers important information on the composition of courts involved and the attitudes of specific judges and provides translated texts of significant judicial decisions, in the process dispelling the stereotype of the Japanese as "reluctant litigants."</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>The Nail That Sticks Up</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Ordinary in so many ways and yet extraordinary, Satoshi Kamisaka and his wife, Reiko,¹ represented a certain segment of the generation that survived World War II. Disillusioned by the massive destruction that ended the war, they later benefited from the economic prosperity that followed in the 1970s and 1980s. They lived quietly in Minoo city. Once a village in the mountains, Minoo gradually became a city, part of the postwar suburban sprawl a 40-minute train ride from Osaka, Japan’s third-largest city. Yet the Kamisakas were destined to become “nails that stick up.” Drawn into a major controversy over religious freedom,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Paradoxes of (Dis)Establishment</title>
+                  </title-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>Shinto’s status and separation from the state remain problematic because of its complex history and role in supporting militarism during and after the Meiji Restoration. That is also why the Kamisakas and their neighbors were so determined to push for an official acknowledgment of the Constitution’s mandate for the strict separation of the state from religion. They recalled being indoctrinated into the emperor system in the 1930s and 1940s: how the great national myths of the divine origins and superiority of the emperor and Japan were rigorously inculcated in school; how students recited daily prayers to the emperor and were</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Manipulating Law’s Social Reality</title>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>The Kamisakas sued Minoo city officials in 1976, amid resurging nationalism and a movement to revive state support for Yasukuni and the symbolism of the emperor system. Led by conservative politicans in the Liberal Democractic Party (LDP), the Japan Association of War Bereaved Families (JAWBF), and other veterans’ groups, the movement for greater accommodation of Shinto by the state had built up gradually over the course of two decades. In the 1950s, Shinto leaders and conservative politicians looked for a Shinto revival, but economic recovery took priority. There were a few signs of continuity amid great change, such as Crown</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Past Remembering</title>
+                  </title-group>
+                  <fpage>98</fpage>
+                  <abstract>
+                     <p>For Satoshi and Reiko Kamisaka, the political was personal. Their lawsuits were a continuation of life’s struggles. Their dispute pitted them and a few supporters against others of their generation in the Japan Association of War Bereaved Families, against local Liberal Democratic Party loyalists, and against younger conservatives. Some of their friends tried to persuade them not to sue because the JAWBF generally enjoyed the support of the people. In addition, the association was headed by former high-ranking officers or their family members and received subsidies from the local and national government.</p>
+                     <p>Reiko Kamisaka, though, recalls her husband frequently saying,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Enshrinements for Tomorrowland</title>
+                  </title-group>
+                  <fpage>142</fpage>
+                  <abstract>
+                     <p>The sudden death of her husband, Takafumi Nakaya, left Mrs. Yasuko Nakaya a widow. After nine years of marriage, she faced finding employment and raising her 6-year-old son, Takaharu, alone. As if her husband’s death in 1968 did not cause enough grief, four years later Mrs. Nakaya learned that his soul would be enshrined as a national guardian deity at the<italic>gokoku</italic>(country-protecting) shrine in Yamaguchi prefecture. The enshrinement and apotheosis would take place over her repeated objections</p>
+                     <p>When the Yamaguchi<italic>gokoku</italic>shrine notified Mrs. Nakaya of the enshrinement and that a Shinto service would be held annually to honor</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Cool Minds, Warm Hearts</title>
+                  </title-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>When mrs. Nakaya filed her suit against the Self Defence Forces’ Friendship Association and the government on January 3, 1973, she had no idea the trial would drag on for five years and eight months. The Yamaguchi District Court’s decision would not come down until March 22, 1979. In the interim, there were twenty-two separate court sessions. Each lasted a day, except for the twentieth session, which ran two days because testimony from expert witnesses was heard in Tokyo. In 1988, fifteen years after Mrs. Nakaya initially filed her suit, the Supreme Court finally handed down its landmark ruling in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.11</book-part-id>
+                  <title-group>
+                     <title>Appendix A:</title>
+                     <subtitle>Caseloads of Courts in Japan</subtitle>
+                  </title-group>
+                  <fpage>210</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.12</book-part-id>
+                  <title-group>
+                     <title>Appendix B:</title>
+                     <subtitle>Individual Opinion Writing on the Supreme Court of Japan, 1981–1993</subtitle>
+                  </title-group>
+                  <fpage>212</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>215</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.14</book-part-id>
+                  <title-group>
+                     <title>Select Bibliography</title>
+                  </title-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.15</book-part-id>
+                  <title-group>
+                     <title>Name and Subject Index</title>
+                  </title-group>
+                  <fpage>259</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.16</book-part-id>
+                  <title-group>
+                     <title>Case Index</title>
+                  </title-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqgn0.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>272</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

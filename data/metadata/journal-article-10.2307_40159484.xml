@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">worllitetoda</journal-id>
+         <journal-id journal-id-type="jstor">j50000047</journal-id>
+         <journal-title-group>
+            <journal-title>World Literature Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oklahoma</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">01963570</issn>
+         <issn pub-type="epub">19458134</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">40159484</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>World Literature in Review</subject>
+               <subj-group>
+                  <subject>Featured Review</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Armando</given-names>
+                  <surname>Celayo</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>2007</year>
+         
+            <day>1</day>
+            <month>8</month>
+            <year>2007</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">81</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i40003999</issue-id>
+         <fpage>58</fpage>
+         <lpage>58</lpage>
+         <product>
+            <source>Glacial Period</source>
+            <string-name>
+               <given-names>Nicolas</given-names>
+               <surname>De Crécy</surname>
+            </string-name>
+            <string-name>
+               <given-names>Joe</given-names>
+               <surname>Johnson</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 2007 World Literature Today</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40159484"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

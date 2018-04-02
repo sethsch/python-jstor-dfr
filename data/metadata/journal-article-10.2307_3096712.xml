@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">monunipp</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100290</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Monumenta Nipponica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Sophia University, Tokyo</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00270741</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">18801390</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">3096712</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Review Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title> Shugendō: The State of the Field </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Gaynor</given-names>
+                  <surname>Sekimori</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>7</month>
+            <year>2002</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">57</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i355738</issue-id>
+         <fpage>207</fpage>
+         <lpage>227</lpage>
+         <page-range>207-227</page-range>
+         <product>
+            <source> Shugendō: Essays on the Structure of Japanese Folk Religion </source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Miyake</given-names>
+               <surname>Hitoshi</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 2002 Monumenta Nipponica</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/3096712"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

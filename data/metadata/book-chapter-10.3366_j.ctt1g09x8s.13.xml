@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1g09x8s</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Handbook of Creative Writing</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Earnshaw</surname>
+               <given-names>Steven</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>14</day>
+         <month>04</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748689392</isbn>
+      <isbn content-type="epub">9780748689774</isbn>
+      <isbn content-type="epub">074868977X</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>EDINBURGH</publisher-loc>
+      </publisher>
+      <edition>NED - New edition, 2</edition>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Steven Earnshaw</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.3366/j.ctt1g09x8s"/>
+      <abstract abstract-type="short">
+         <p>An inspirational resource for tutors, students and other creative writing professionals. Covers the 3 key areas of: theories of creativity; the craft of writing; and creative writing the business. Fully updated and including 6 new chapters such as ‘indie publishing’, ‘social media’ and ‘flash fiction’. Full of practical advice on getting published.</p>
+      </abstract>
+      <counts>
+         <page-count count="560"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.4</book-part-id>
+                  <title-group>
+                     <title>Preface to Second Edition</title>
+                  </title-group>
+                  <fpage>x</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Earnshaw</surname>
+                           <given-names>Steven</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>As a handbook this guide is intended not just to help and inform, but also to provoke and inspire. The contributors are professionals within their fields of expertise and apart from being asked to cover the necessary topic have been free to deal with their subject how they see fit – there has been no attempt to produce regulation and uniform chapters. The book is aimed primarily at the student embarking on a creative writing programme in Higher Education, with many of the writers here also teaching on creative writing MAs or MFAs, and to that end many of the chapters</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Theories of Creativity and Creative Writing Pedagogy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leahy</surname>
+                           <given-names>Anna</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cantrell</surname>
+                           <given-names>Mary</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Swander</surname>
+                           <given-names>Mary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>Creative writing as a distinct academic field – one with dedicated courses and programmes, with professors whose scholarship is entirely or primarily original creative work, and with professional journals and books devoted to reflections upon the field – is relatively new but has been rapidly expanding in the US, the UK, and elsewhere. As such, we are just beginning to amass articulated theories about the creative process and how we might best teach creative writing as an academic discipline. Joseph Moxley (1989), Wendy Bishop and Hans Ostrom (1994), and D. G. Meyers (1996) documented the emergence of creative writing as an academic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Evaluation of Creative Writing at MA Level (UK)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Newman</surname>
+                           <given-names>Jenny</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>24</fpage>
+                  <abstract>
+                     <p>
+                        <italic>When the first creative writing</italic>MAs in the UK were founded in the late 1960s and early 70s, many traditional scholars and academics argued that no one could teach the mysterious and fascinating process of literary creativity, and that such courses had no place in a university. Their objections have been overturned, partly, it must be said, because of student demand for accredited creative writing courses from under-funded and money-hungry universities. A few literature dons, however, still follow the critic John Carey in maintaining that the evaluation of works of art is purely subjective and thus cannot be codified (Carey</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Creative Writing MFA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vanderslice</surname>
+                           <given-names>Stephanie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>The Creative Writing Master’s of Fine Arts or MFA is an American phenomenon that originated at the University of Iowa in the 1930s, in part as an answer to the problem of geographic isolation that confronted writers working in the US, especially those without access to large cities. Still one of the country’s most august graduate writing programs, the Iowa MFA has graduated a long list of luminary writers, including Flannery O’Connor, Philip Roth, Jane Smiley, and Richard Bausch, to name a few. Not surprisingly, many of these graduates fanned out across the country and formed their own programs in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Creative Writing and Critical Theory</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ramey</surname>
+                           <given-names>Lauri</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>Slightly more than one hundred years ago, it was arguable that there was such a field as literary study. Language was a proper field of study, but some late nineteenth-century figures including James Russell Lowell, Thomas H. Hunt and Calvin Thomas began to argue that if philology were to be made practical, it could be applied usefully to literature. The most frequent rationales for the academic study of literature were that poems, novels, essays and plays often showed the greatest skill in the use of language; their mastery was a valuable intellectual and moral exercise in putting one’s knowledge of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Literary Genres</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rain</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>54</fpage>
+                  <abstract>
+                     <p>There’s an anecdote about a board meeting at Desilu Studios in Hollywood, circa 1964, where Lucille Ball presided over the TV production empire she had set up with one-time husband Desi Arnaz. According to Desilu vice-president Herbert F. Solow, Lucy seldom said much during meetings. But one day, as Solow was about to update the board on series in development, network deals and the like, Lucy said suddenly: ‘Herb, what’s happening with that South Seas series?’ Solow was perplexed. There was no South Seas series. Lucy said, ‘You know, Herb, that South Seas series you mentioned last time’. Solow, Lucy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Writer as Artist</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Earnshaw</surname>
+                           <given-names>Steven</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>It’s 1940 and Gomez is visiting the Museum of Modern Art in New York. His life as a revolutionary in the Spanish Civil War has been overtaken by global events, and his wife and daughter remain in France, fleeing a Paris that is now ablaze. Gomez is given a job as an art critic and his first assignment is to write a piece on Mondrian, who is all the rage. But Gomez can see no point to Abstract Expressionism – it does not ask ‘awkward questions’, the kind of questions that a Europe coping with the rise of Fascism has to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Future of Creative Writing</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dawson</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>78</fpage>
+                  <abstract>
+                     <p>Originating in American universities in the early part of the twentieth century, Creative Writing has undergone an international expansion since the 1990s. Creative Writing programmes continue to grow in popularity despite perennial scepticism about their pedagogical value and their academic rigour, and despite their seemingly anomalous position within the modern research university. Perhaps an inevitable corollary of this expansion is the fact that Creative Writing has now become an object of scholarly enquiry, emerging in the new millennium as a distinct field of academic research.</p>
+                     <p>It is no longer possible for Creative Writing to maintain its romantic ideal of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Reading, Writing and Teaching the Short Story</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Markham</surname>
+                           <given-names>E. A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Of the couple of dozen names of writers you might be expected to encounter during the exploration of the short story, special attention should be given to the following: Anton Chekhov (1860–1904, Russia); James Joyce (1882–1941, Ireland); Guy de Maupassant (1850–93, France); Katherine Mansfield (1888–1923, New Zealand); Jorge Luis Borges (1899–1986, Argentina); Ernest Hemingway (1889–1961, USA); Jean Rhys (1894–1979, West Indies); J. D. Salinger (b. 1919, USA); Alice Munro (b. 1931, Canada); Donald Barthelme (1931–89); Raymond Carver (1938–88); Angela Carter (1940–92, Britain); T. Coreghassen Boyle (b. 1948, USA); Haruki Murakami</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Writing the Memoir</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Barrington</surname>
+                           <given-names>Judith</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>This chapter is about literary memoir. If that sounds a little pretentious, I use the word ‘literary’ because, although all memoirs recount life experiences, the kind of book I’m describing here aspires to affect its readers through the quality of its writing rather than through the scandalous or gossipy nature of its subject. In order to write this kind of memoir, you don’t have to be famous but, rather, to want to turn your life experiences into well-honed sentences and paragraphs.</p>
+                     <p>The literary memoir has recently surged in popularity, but it has been around for a long time. In 1920,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Introduction to the Novel</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rogers</surname>
+                           <given-names>Jane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>116</fpage>
+                  <abstract>
+                     <p>‘How do you begin to write a novel?’ There are two answers to this question, and the first is, ‘I don’t know’. I’ve written seven and I still don’t really know. Ask a number of novelists where their novels begin and you will get some of the following replies: they begin with an idea, a feeling, an image, a mood, a face, a place, a plot, a dream, an autobiographical experience, an item in the news, a story from history, family, friends, Shakespeare, the bible, myth or fairytale; or more probably, a mixture of several of these. What this adds</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Crime Fiction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dale</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>126</fpage>
+                  <abstract>
+                     <p>Over the past twenty years as a writer and teacher of creative writing I have read more than a hundred writing guidebooks and found that less than a third of these were of any value. Usually if a developing writer receives one solid piece of advice from a writing book then he or she is doing well. The worst how-to-write books eschew the practical in favour of the abstract, their authors speak in generalities and say things such as, ‘We read fiction to know what it is like to be human’. Well no, what attracts me above all else to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Writing Science Fiction and Fantasy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kilian</surname>
+                           <given-names>Crawford</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>134</fpage>
+                  <abstract>
+                     <p>Science fiction and fantasy seem unlikely partners. SF, after all, is about what could happen, given what we currently know about the universe. Fantasy is about what could never happen, because science has shown it to be impossible.</p>
+                     <p>But science itself uses fantasy to make its points, and fantasy tries to work out its own implications in a consistent manner. Science imagines elevators that fall forever, and spaceships that display clocks running slower and slower as the ships near the speed of light. Fantasy imagines the logical consequences of a spell, and the ecological niche of dragons. These are all</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>How Language Lives Us:</title>
+                     <subtitle>Reading and Writing Historical Fiction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kiteley</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>146</fpage>
+                  <abstract>
+                     <p>Oscar Wilde said, ‘The one duty we owe to history is to rewrite it’. Writers of contemporary historical fiction seem to say the one duty we owe to history is to reread it. The main character Omar Khayyam Shakil, in Salman Rushdie’s<italic>Shame</italic>, says his namesake, Omar Khayyam, the twelfth-century poet and astronomer,</p>
+                     <p>was never very popular in his native Persia; and he exists in the West in a translation that is really a complete reworking of his verses, in many cases very different from the spirit (to say nothing of the content) of the original. I, too, am a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Writing Humorous Fiction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hubbard</surname>
+                           <given-names>Susan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>154</fpage>
+                  <abstract>
+                     <p>The best humorous writing, like the best magic act, appears to be almost effortless. The audience becomes so engrossed in the story unfolding that no one notices the sleights of hand until the unexpected happens, provoking the magic of laughter. Paradoxically, it’s the effort, or craft, behind the writing that produces the illusion and the laughter.</p>
+                     <p>Humour results from incongruous juxtapositions (Paulos 1977: 113). We read or listen to humour in expectation that we will be entertained in surprising ways. The simplest form of humour – the joke – aims to elicit laughter through an unexpected punch line; literary short stories and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Writing for Children</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brown</surname>
+                           <given-names>Alan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>162</fpage>
+                  <abstract>
+                     <p>I believe that writing for children is the most important writing of all. It helps establish reading (or non-reading) patterns that last for life. It helps children grow intellectually and emotionally by giving them vicarious experience. But children’s literature is never pretentious. It is always entertainment, always fun.</p>
+                     <p>In this short chapter, I intend to focus on what I see as particular about writing prose fiction for children (hereafter called WFC). I will leave aside writing for teenagers which is the subject of another chapter, along with non-fiction, drama and poetry in their specialist aspects.</p>
+                     <p>Much of what has been</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.21</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Writing for Teenagers</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Newbery</surname>
+                           <given-names>Linda</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>Teenage fiction, young adult fiction, ‘crossover’ books – these terms seem to be used interchangeably, and therefore confusingly. In bookshops and libraries, the shelves labelled ‘teenage fiction’ often display books aimed at readers who are two or three years short of their teenage years; the term ‘crossover’ is used sometimes to indicate suitability for older teenagers and adults, but elsewhere to mean a book written primarily for children, and with child characters but also adult appeal, such as Philip Pullman’s<italic>Northern Lights</italic>(1995) or Lewis Carroll’s<italic>Alice’s Adventures in Wonderland</italic>(1865). Young adult fiction is more clearly defined in the US</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.22</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>The ‘Everything You Ever Wanted to Know About Creative Nonfiction, But Were Too Naïve or Uninformed to Ask’ Workshop Simulation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gutkind</surname>
+                           <given-names>Lee</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>176</fpage>
+                  <abstract>
+                     <p>I usually begin this workshop by telling students I am not going to define creative nonfiction for them. No one asks a poet to define poetry or a novelist to provide a meaning of fiction, because art defines itself. Rules and regulations are for journalists and government officials – not writers.</p>
+                     <p>Creative nonfiction demands what the name implies: that a writer find an interesting and compelling way – a creative approach – to communicating information and teaching readers something they don’t necessarily want or need to know.</p>
+                     <p>It is easy to write for an audience geared to a particular subject; for example, animal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.23</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>Introduction to Poetry</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Brien</surname>
+                           <given-names>Sean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>In order to gain the greatest benefit from writing and studying poetry on a postgraduate creative writing course, there are number of matters to be borne in mind and acted on. Some of them are perfectly obvious; some may be completely new to you; and some of them have a significance which may not be immediately apparent. They are discussed under various headings below, but what they have in common is the aim of helping you to see your poems not simply in isolation but in relation to the art of poetry as a whole, its practices, history and traditions.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.24</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>What is Form?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Herbert</surname>
+                           <given-names>W. N.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>Iambic pentameter. There now, I’ve said it. Please form an orderly queue to flee from this chapter. What other two words in the poetry world excite such intimidation, boredom, cantankerousness and, yes, passion? (Though ‘reluctantly rejecting’ or ‘talentless guff’ may come close.) ‘Iambic pentameter’ gives off the musty scent of the academy, with perhaps a topnote of formaldehyde – it’s Greek, for God’s sake, though apparently not in the way ‘ouzo meze parakalo’ is Greek. And it functions as shorthand for a host of terrors: metre, stress, stanza, and above all, form. Form consists of all the structural conventions within which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.25</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>New Poetries</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kunin</surname>
+                           <given-names>Aaron</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>Two reasons for studying new poetry are suggested by Arthur Rimbaud in<italic>A Season in Hell</italic>where he writes that ‘one must be absolutely modern’ (Rimbaud 1945: 87). The mood of this sentence is ambiguous. ‘Must’ could be a wish, implying that modernisation is a duty (poets should work hard to become as modern as possible); or, alternately, ‘must’ could be grimly deterministic, implying a historical necessity (poets are modern because they live in the modern period).</p>
+                     <p>Consider the wish-reading. You must always be completely modern because novelty and originality are the primary criteria of value, as in the motto</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.26</book-part-id>
+                  <title-group>
+                     <label>21</label>
+                     <title>The Poet in the Theatre:</title>
+                     <subtitle>Verse Drama</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Brien</surname>
+                           <given-names>Sean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>In 2005 the BBC broadcast on its most popular television channel, BBC 1, a series of ‘modernised’ Shakespeare plays, that is, plays appearing under Shakespeare’s name but not containing his language. This is not the first such effort, on either side of the Atlantic. In 2001 there was a television version of<italic>Othello</italic>, set in the present-day London Metropolitan Police, written by Andrew Davies, a leading literary adaptor for television. Anthony Hecht recalls a 1975 parallel text of<italic>King Lear</italic>‘with the folio text on the left hand side, and facing it, a version intended to appeal to modern readers’</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.27</book-part-id>
+                  <title-group>
+                     <label>22</label>
+                     <title>The Sequence and the Long Poem</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Szirtes</surname>
+                           <given-names>George</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>236</fpage>
+                  <abstract>
+                     <p>Can poems be long at all? Good question.</p>
+                     <p>‘Epic, lyrical or dramatic?’ asked the Victorian poet, Robert Browning, when told that his excellency the Japanese ambassador, wrote poetry. ‘His excellency’s verse’, replied the interpreter, ‘is chiefly enigmatic’.</p>
+                     <p>A lot of confusion can arise if we apply too rigid a framework to anything, but Browning’s courteous question wasn’t nonsense. The three likely categories for the ambassador’s poetic activities were appropriate to most European poetry, epic being concerned with narrative, lyrical with states, incidents and moments, and dramatic with verse as spoken, sung or chanted in plays as part of a dialogue.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.28</book-part-id>
+                  <title-group>
+                     <label>23</label>
+                     <title>Introduction to Scriptwriting</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harris</surname>
+                           <given-names>Mike</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>Beckett, Tarantino, Churchill, Shakespeare, Ponte, Buñuel, Wagner and the writers of The Archers all have something essential in common: if they want an audience to understand what they say, they have to keep us in our seats till they’ve finished saying it. The poet doesn’t have to do that, and although the novelist needs the reader to keep turning pages, her task doesn’t have to be completed in one sitting. Only the scriptwriter has to deal with the problem of passing time in this immediate and visceral way.</p>
+                     <p>Scriptwriters create the interest and attention of an audience mainly through narrative.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.29</book-part-id>
+                  <title-group>
+                     <label>24</label>
+                     <title>Writing for the Stage:</title>
+                     <subtitle>A blueprint, a suggestive text, a thrown gauntlet for aspiring, stalled, and practising playwrights</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mullins</surname>
+                           <given-names>Brighde</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract>
+                     <p>The word playwright is in the same etymological family as that of a shipwright, a cartwright, a wheelwright. The words shipwright, cartwright, wheelwright are descriptive: they summon up a craftsperson making a useful object – a ship, a cart, a wheel. A playwright is the maker of a script for the stage, a useful text. The second half of the word play-wright, then, emphasises the craft aspect of writing for the stage. Not that there isn’t a good deal of artfulness, and a wealth of aesthetic complexity involved in playwrighting. But these elements are yoked to the psyche of the maker,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.30</book-part-id>
+                  <title-group>
+                     <label>25</label>
+                     <title>Writing for Radio</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harris</surname>
+                           <given-names>Mike</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>273</fpage>
+                  <abstract>
+                     <p>Radio drama is a hybrid. Like theatre, words are crucial. Like film, scenes can cut rapidly from any place or time to another. Like prose fiction, we consume the product alone, hearing, ‘with our minds’, completing the physical images of people and places in our imagination from the merest suggestions.</p>
+                     <p>Radio plays that sound like theatre generally confine themselves to a few locations and try to tell the story entirely in dialogue. But sets, costumes and facial expressions are of course not visible on radio and non-verbal sub-text correspondingly hard to do. As a result the dialogue has more information</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.31</book-part-id>
+                  <title-group>
+                     <label>26</label>
+                     <title>Writing for Television</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Duncan</surname>
+                           <given-names>Stephen V.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>282</fpage>
+                  <abstract>
+                     <p>In the highly competitive industry of television programming, weekly series come and go. Most experts agree, whether drama or comedy, the primary reason a series fails is the lack of excellent writing. For this reason, high-quality TV writers are in constant demand.</p>
+                     <p>The Writers Guild of America¹ suggests series executives assign several freelance scripts each season, however, the Members Basic Agreement doesn’t require this.² Essentially, freelancers compete for assignments against writing staffs. Therefore, in order to join the ranks of those sought-after writers, you must demonstrate the knowledge and talent to write for television. To this end, this chapter presents</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.32</book-part-id>
+                  <title-group>
+                     <label>27</label>
+                     <title>Writing for Television – UK Differences</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Milne</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+                  <abstract>
+                     <p>I’m sure you could not be better prepared for writing for American television than by reading and understanding Stephen V. Duncan’s chapter. But at the risk of stating the obvious, American television is not British television. Put brutally, American television was developed to fill the spaces between adverts. Though the situation has since become more complex, the basic rationale persists. American television exists to make money for the people who make it, and the source of the money is usually advertising. The primary purpose, therefore, of American television is to stop people switching either over to another channel or switching</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.33</book-part-id>
+                  <title-group>
+                     <label>28</label>
+                     <title>Writing for Film</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Neill</surname>
+                           <given-names>Bonnie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>In my mind, there’s no writing form that requires a higher degree of discipline than writing a feature-length screenplay. The purpose of this chapter is to take the mystery out of the filmwriting process by giving writers a method to create within this art form. Once you have mastered the process of screenwriting, it is my experience that writing in all facets of your life will improve dramatically.</p>
+                     <p>First, let’s clear up the often-confusing filmwriting/screenwriting/scriptwriting terminology. I consider filmwriting/screenwriting as writing for the ‘big screen’. Today, however, that doesn’t necessarily mean your screenplay will be shot on film. We have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.34</book-part-id>
+                  <title-group>
+                     <label>29</label>
+                     <title>Song Lyrics and Poetry</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pattison</surname>
+                           <given-names>Pat</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+                  <abstract>
+                     <p>‘Her lyrics are pure poetry’. Really? Why does a statement like this create such diverse reactions: knee-jerk agreement or knee-jerk disavowal? Either ‘Of course’, or ‘You’ve got to be kidding’?</p>
+                     <p>I have been teaching both lyric writing and writing poetry at Berklee College of Music for nearly forty years, and have gained a bit of perspective in the process. I would like to make a few observations.</p>
+                     <p>Since the invention of the printing press, poetry, once spoken and performed, has been delivered mainly to the eye. Lyrics are delivered mainly to the ear. Many consequences follow from this simple fact.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.35</book-part-id>
+                  <title-group>
+                     <label>30</label>
+                     <title>Flash Fiction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Williams</surname>
+                           <given-names>Tony</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>315</fpage>
+                  <abstract>
+                     <p>Flash fiction has established itself as a significant global genre. Many short-story writers had previously written very short stories on occasion, but the last decades of the twentieth century saw the increasing emergence of writers specialising in stories of that length and of magazines, anthologies and competitions dedicated to it. There was also an increasing critical and editorial apparatus that recognised that these were not simply shorter stories than usual, but constituted a distinct genre in its own right.</p>
+                     <p>The reasons for the rise of flash fiction are unclear. There are various arguments about changing lifestyles and attention spans, desire</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.36</book-part-id>
+                  <title-group>
+                     <label>31</label>
+                     <title>Writing as Experimental Practice</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Field</surname>
+                           <given-names>Thalia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>324</fpage>
+                  <abstract>
+                     <p>My husband and I make ‘experimental dinners’: we open the cabinets and create something from whatever we find. We never know what’s going to come of it and often we don’t even know what to call the results other than ‘tasty’ or ‘barely edible’. It doesn’t hurt that we have experience with traditional cooking, we know what to expect with foods or how to take a shortcut when needed. But when it comes down to it we enjoy the challenge and surprise of meeting the kitchen head-on. When I was asked to think about experimental writing, this is what immediately</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.37</book-part-id>
+                  <title-group>
+                     <label>32</label>
+                     <title>Creative–Critical Hybrids</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Hazel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>Critical writing and creative writing are often considered to be separate and contrasting activities. The distinction between the two, which this chapter will unpick, rests on the assumption that creative writing is an imaginative and subjective activity, while critical writing is an interpretive, discursive and more objective activity. Historically, authors tended to identify primarily either as critics or creative writers. Even when they were both, they usually produced texts that were designed, in each case, to be either critical or creative in direction.</p>
+                     <p>Creative–critical hybrids collapse this polarisation of the critical and creative, and meld the two together in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.38</book-part-id>
+                  <title-group>
+                     <label>33</label>
+                     <title>Writing as ‘Therapy’</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sampson</surname>
+                           <given-names>Fiona</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>341</fpage>
+                  <abstract>
+                     <p>Over the last two decades, creative writing in British health and social care has developed as a publicly-funded practice. It’s one which, though studied and imitated elsewhere in the world, has its roots in the particular British context of arts access thinking and policy since the 1970s (European projects on the British model include poetry-reading groups in a hospice in Lund, Sweden and writing projects with children in integrated day centres across Macedonia [Sampson 2004]). Teasing out the strands of this thinking a little can allow us to see exactly what’s going on when, for example, a poet leads a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.39</book-part-id>
+                  <title-group>
+                     <label>34</label>
+                     <title>Writing in the Community</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sargent</surname>
+                           <given-names>Linda</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>349</fpage>
+                  <abstract>
+                     <p>We seem to be primed to tell stories wherever we are. You have only got to sit on a train, stand at a bus stop, listen in on other people’s lives and it’s there, this push to share, to say we matter, we have a place and that, more often than not, want to tell people about it. Those of us who write usually crave readers; just as a storyteller craves listeners, just as I am sure those early cave painters who left their handprints and other pictures of life as they saw it, were making a vivid and enduring</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.40</book-part-id>
+                  <title-group>
+                     <label>35</label>
+                     <title>Writing for the Web</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sheard</surname>
+                           <given-names>James</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>356</fpage>
+                  <abstract>
+                     <p>The web appears to offer a great deal to the writer. Some writers are attracted by the apparent ease of publication and distribution it seems to offer; others by specific web technologies which offer alternatives to, or enhancements of, the text. The enthusiasm of creative writers for the Internet resulted in an explosion of individual and group websites throughout the 1990s – webzines, showcase sites, individual and group web pages, forums for feedback and critique and attempts to exploit the possibilities of sound, image, animation and text effects in poetry and prose. This explosion has shown little sign of diminishing in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.41</book-part-id>
+                  <title-group>
+                     <label>36</label>
+                     <title>The Role of the Critical Essay</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McCracken</surname>
+                           <given-names>Scott</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>361</fpage>
+                  <abstract>
+                     <p>The relationship between writers and critics has never been an easy one. Despite the fact that most writing programmes are housed in English departments, where the main activity is literary criticism, many writing students are reluctant to engage in criticism and some can be downright hostile to literary theory. The complaint that the student came on the course to learn how to write, not to ‘theorise’, is not uncommon. For many the ‘isms’ (Marxism, feminism, poststructuralism, postmodernism) distract from the practical activity of writing. Ideas such as the ‘death of the author’, which can seem fresh and exciting in a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.42</book-part-id>
+                  <title-group>
+                     <label>37</label>
+                     <title>Translation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bassnett</surname>
+                           <given-names>Susan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>367</fpage>
+                  <abstract>
+                     <p>The relationship between translation and creative writing is a vexed one: many writers translate, though often their translations have received less critical attention than the rest of their work, since translation does not enjoy the same status as what is termed creative writing, particularly in the English-speaking world. Translation is often despised as some kind of secondary activity. Robert Frost announced that poetry was what got lost in translation, while Nabokov, in his ‘On Translating Eugene Onegin’ wrote:</p>
+                     <p>What is translation? On a platter</p>
+                     <p>A poet’s pale and glaring head,</p>
+                     <p>A parrot’s screech, a monkey’s chatter,</p>
+                     <p>And profanation of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.43</book-part-id>
+                  <title-group>
+                     <label>38</label>
+                     <title>Collaboration in the Theatre</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Braun</surname>
+                           <given-names>Timothy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>374</fpage>
+                  <abstract>
+                     <p>Art takes a team of people to find problems, but not to solve them. If this makes complete and total sense to you, then you might want to move on to the next chapter in this book. Art, to me, is nothing more than finding problems, discussing these problems, exploring these problems, and doing these things over and over again until it is time for a sandwiches. Just look at the history of the arts, specifically theatre. It is important to think about and analyse the past to know where we have been. (I was once working with a young</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.44</book-part-id>
+                  <title-group>
+                     <label>39</label>
+                     <title>Creative Writing Doctorates</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harper</surname>
+                           <given-names>Graeme</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>383</fpage>
+                  <abstract>
+                     <p>Doctorates in creative writing: dubious academic ‘intrusion’, or a legitimate higher education activity? It is fair to say this question has not yet been answered to everyone’s satisfaction. There are those who believe that Doctoral work in creative writing is still worthy of a modicum of scepticism despite – or perhaps even ‘because of’ – a now well-established history of these degrees in Britain and Australia, a history twice as long in North America, and a developing history of them elsewhere.</p>
+                     <p>To a large extent, such scepticism revolves around notions of how creative writing might best be taught, or even whether it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.45</book-part-id>
+                  <title-group>
+                     <label>40</label>
+                     <title>How to Start a Literary Magazine</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wolff</surname>
+                           <given-names>Rebecca</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>391</fpage>
+                  <abstract>
+                     <p>In 1998, I founded a literary journal called<italic>Fence</italic>, which has been in continuous, regular publication ever since, and which has gone on to be quite successful and respected. In this chapter I will tell you, or at least imply to you, how I did this. For the purposes of this discussion, let’s establish the premise that you, yourself, have decided to start a literary journal. I am going to put before you some of the questions that I, in the bright light of hindsight, would have liked to be asked at the beginning of my process.</p>
+                     <p>But first, let’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.46</book-part-id>
+                  <title-group>
+                     <label>41</label>
+                     <title>How to be a Writer</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Milne</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>401</fpage>
+                  <abstract>
+                     <p>‘How to be a writer’ is a title worthy of a Cicero or an Orwell, and I am aware I’m a poor substitute. However, I have made my living exclusively as a writer for well over twenty years. Though this might surprise and even console my old schoolmasters, were they still alive, it is some sort of qualification.</p>
+                     <p>My main writing experience has been in fiction; specifically in the fields of novel and scriptwriting. Therefore the nominal writer to whom this article is addressed is a writer of fiction. Though some of the things I write may be useful to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.47</book-part-id>
+                  <title-group>
+                     <label>42</label>
+                     <title>How to Present Yourself as a Writer</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Baverstock</surname>
+                           <given-names>Alison</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>407</fpage>
+                  <abstract>
+                     <p>This chapter is based on a single assumption: that you want to achieve a wider audience for your work, most usually through publication and dissemination.</p>
+                     <p>Not every writer aspires to do this. You may be happy writing a family history for your relations to enjoy in the future, and these days it is possible to assemble a range of task-specific resources from publishing services companies, often the very same ones who work for professional publishers, and to turn your material into a worthwhile and lasting publication. Writing about how you feel is an excellent way of coming to terms with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.48</book-part-id>
+                  <title-group>
+                     <label>43</label>
+                     <title>Meet Your Public:</title>
+                     <subtitle>Creative Writing and Social Media</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Treleaven</surname>
+                           <given-names>Lou</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>414</fpage>
+                  <abstract>
+                     <p>Social media offers the creative writer multiple opportunities to engage with readers, other writers and the world in general. Whether you are published or trying to get published or self-published, a creative use of social networking can turn the general public into your public.</p>
+                     <p>Social media is the name given to Internet websites which combine a high amount of user-generated content with the opportunity to make connections with other users. (The term social networking is sometimes used in place of social media, but more accurately it describes websites that typically involve having your own page within the site while visiting,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.49</book-part-id>
+                  <title-group>
+                     <label>44</label>
+                     <title>Publishing Fiction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mount</surname>
+                           <given-names>Mary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>424</fpage>
+                  <abstract>
+                     <p>There are very few rules in literary publishing. Editors turn down novels that win Booker prizes; one literary novelist might get reviewed everywhere, win prizes, sell hundreds of thousands of copies, while another, equally brilliant will sell five hundred copies, live in penury and be reviewed in one local newspaper. Edith Wharton showed Henry James a motor car and said this is what her latest bestseller had earned her; Henry James pointed to his wheelbarrow and said that was what he had got out of his latest book. Some writers receive the best reviews in the world and sell nothing,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.50</book-part-id>
+                  <title-group>
+                     <label>45</label>
+                     <title>American PoBiz</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Twichell</surname>
+                           <given-names>Chase</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>432</fpage>
+                  <abstract>
+                     <p>There was a time, not so long ago, when independent small presses were the refuge of ‘alternative voices’ (poets likely to be rude, naughty, or overly ironic, or poets whose work had ‘literary merit’ but was unlikely to sell well enough to make any money for anyone). But since it is now possible to produce well-made books for a reasonable sum, and to publish, distribute and promote them through the Internet and elsewhere to a potentially huge audience, the entire economy of the publishing industry is undergoing seismic quakes. A small press – even a single individual – can reach national and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.51</book-part-id>
+                  <title-group>
+                     <label>46</label>
+                     <title>Publishing Poetry in Britain</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Brien</surname>
+                           <given-names>Sean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>439</fpage>
+                  <abstract>
+                     <p>Poetry, it is said, is in crisis in Britain. Book sales are down, and despite the success of one or two anthologies, many readers never make the crossing from browsing among the work of many to purchasing and reading in detail the work of, say, five or six. Were they to do so, the figure would please the Poetry Book Society, the book club dedicated to poetry. The PBS also administers the T. S. Eliot Prize, which along with the Forward Prize, is the major award for poetry in Britain. These awards were instituted in order to draw attention to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.52</book-part-id>
+                  <title-group>
+                     <label>47</label>
+                     <title>The Literary Agent (Novel)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>446</fpage>
+                  <abstract>
+                     <p>‘Agents make books expensive’.</p>
+                     <p>So I was once told by a senior editor from one of the major London publishing houses. I was fortunate enough to be her guest for lunch at the time, so I suppose she felt that any protest I might make would be restrained by a sense of courtesy and obligation. On the whole this was the case – but I did point out to her that agents cannot force publishers to buy books they don’t want. The argument could have rumbled on for hours, so we agreed to differ.</p>
+                     <p>But this exchange illustrates something significant about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.53</book-part-id>
+                  <title-group>
+                     <label>48</label>
+                     <title>The Film Agent</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Friedmann</surname>
+                           <given-names>Julian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>453</fpage>
+                  <abstract>
+                     <p>The chapters on television, radio and theatre agents, and on literary agents (novel), cover many aspects of being a writers’ agent, whatever format a writer chooses. Most film agents also handle television, radio and theatre (in Britain there are not enough films made for most writers to earn a sufficient living writing only feature film scripts).</p>
+                     <p>There are, however, significant differences between agenting writers in the film business from the others, notably the unpredictability and unreliability of the film business compared especially with television. Where television needs thousands of scripts a year (and produces thousands of episodes of drama, comedy,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.54</book-part-id>
+                  <title-group>
+                     <label>49</label>
+                     <title>The Literary Agent:</title>
+                     <subtitle>Television, Radio and Theatre</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brodie</surname>
+                           <given-names>Alan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>460</fpage>
+                  <abstract>
+                     <p>As William Goldman so eloquently puts it in his brilliant book,<italic>Adventures In The Screen Trade</italic>, agents are the catch-22 of the entertainment business in that everyone starting out desperately needs one and nobody starting out can possibly get one. He is commenting on artists working in Hollywood but that line, together with the perception of the heartless agent as a parasite always out to make a fast buck on the back of creative talent seems to be a common perception. I hope this chapter will show that this need not be true and that without agents, the industry would</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.55</book-part-id>
+                  <title-group>
+                     <label>50</label>
+                     <title>Copyright</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Humphrey</surname>
+                           <given-names>Shay</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Penhaligan</surname>
+                           <given-names>Lee</given-names>
+                        </name>
+                     </contrib>
+                     <role content-type="author">with</role>
+                  </contrib-group>
+                  <fpage>470</fpage>
+                  <abstract>
+                     <p>The 1709 Statute of Anne in England was the first law giving writers control over originally-authored works for a renewable fourteen-year period (UK Intellectual Property Office 2009). The first US copyright law was enacted in 1790, three years after its governing Constitution was adopted, which envisaged laws to ‘promote the Progress of Science and the Useful Arts, by securing for limited Times to Authors and Inventors the exclusive right to their respective Writings and Discoveries’ (Patry 2000). Registration, deposit and notice were central to all early copyright laws in the UK and the US.</p>
+                     <p>Under the 1790 US Copyright Act,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.56</book-part-id>
+                  <title-group>
+                     <label>51</label>
+                     <title>Self-Publishing and the Rise of the Indie Author</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rowland</surname>
+                           <given-names>Jane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>486</fpage>
+                  <abstract>
+                     <p>As a writer it is likely that you have become increasingly aware of the concept of self-publishing and, even if you are not planning on taking this route yourself at the moment, it is still worth having a full understanding of how it works. Self-publishing is beginning to feel like a buzzword for writers. The term describes the process of an author electing to publish their book themselves, often paying to have their book published (as opposed to being signed up to a ‘traditional’ or ‘mainstream’ publishing deal, where the publishing firm takes the risk on bringing the book to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.57</book-part-id>
+                  <title-group>
+                     <label>52</label>
+                     <title>Literary Life:</title>
+                     <subtitle>Prizes, Anthologies, Festivals, Reviewing, Grants</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Shapcott</surname>
+                           <given-names>Thomas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>494</fpage>
+                  <abstract>
+                     <p>In the world of contemporary literary culture there are many baits and inducements still, even though book culture is, as it always was, threatened by economic and other challenges. There are, for instance, the proliferation of literary prizes which range from the world-acclaimed (and profitable) Booker Prize, the Whitbread Prize, to the Pulitzer Prize (in the US), the Governor General’s Prize (Canada) and the Miles Franklin Award (Australia) as well as a veritable host of other prizes and awards.</p>
+                     <p>These represent pinnacles, and even runners-up in the very grand awards can proudly announce the fact on their next dust-jacket, or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.58</book-part-id>
+                  <title-group>
+                     <label>53</label>
+                     <title>The Writer as Teacher</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Creer</surname>
+                           <given-names>Gareth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>503</fpage>
+                  <abstract>
+                     <p>OK, you’re a writer and you have probably been taught how to make yourself a better writer, be it at university, as part of a Writer’s Group, or simply by buying this book. You want to be a writer, not a teacher, but you’re reading this chapter. Why?</p>
+                     <p>Amis is at full throttle, spitting at his critics after our literary guardians have been giving him another battering. The great man is fighting back: ‘Nobody sticks their hand up at the back of class when the teacher asks what they want to do when they grow up and says “Sir! Sir,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.59</book-part-id>
+                  <title-group>
+                     <label>54</label>
+                     <title>Making a Living as a Writer</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Michael</surname>
+                           <given-names>Livi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>510</fpage>
+                  <abstract>
+                     <p>In recent years there has been a significant growth in the number of people attempting to publish their writing. A massive expansion in creative-writing courses, the well-publicised large advances paid for certain books, and the ease with which writers can now publish their own work electronically, means that a greater proportion of people are hoping to write for a living. This applies more to the writing of fiction and drama than poetry, a field in which it is notoriously difficult to earn a living. The good news is that the number of books published is also increasing; data from Nielsen</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.60</book-part-id>
+                  <title-group>
+                     <title>Glossary</title>
+                  </title-group>
+                  <fpage>518</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.61</book-part-id>
+                  <title-group>
+                     <title>Useful Websites</title>
+                  </title-group>
+                  <fpage>525</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.62</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>527</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09x8s.63</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>535</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

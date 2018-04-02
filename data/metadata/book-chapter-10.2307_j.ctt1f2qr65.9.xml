@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt2jcxb5</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1f2qr65</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+         <subject>Population Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Japan after 3/11</book-title>
+         <subtitle>Global Perspectives on the Earthquake, Tsunami, and Fukushima Meltdown</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Karan</surname>
+               <given-names>Pradyumna P.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Suganuma</surname>
+               <given-names>Unryu</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="illustrator" id="contrib3">
+            <role>Cartography by</role>
+            <name name-style="western">
+               <surname>Gilbreath</surname>
+               <given-names>Richard</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>12</day>
+         <month>09</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="epub">9780813167329</isbn>
+      <isbn content-type="epub">0813167329</isbn>
+      <publisher>
+         <publisher-name>The University Press of Kentucky</publisher-name>
+         <publisher-loc>Lexington, Kentucky</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>The University Press of Kentucky</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1f2qr65"/>
+      <abstract abstract-type="short">
+         <p>On March 11, 2011, an underwater earthquake off the Pacific coast of Tohoku, Japan, triggered one of the most devastating tsunamis of a generation. The aftermath was overwhelming: communities were reduced to rubble, thousands of people were missing or dead, and relief organizations struggled to reach affected areas to provide aid for survivors and victims of radiation from compromised nuclear reactors.</p>
+         <p>In<italic>Japan after 3/11</italic>, editors Pradyumna P. Karan and Unryu Suganuma assemble geographers, economists, humanists, and scientists to consider the complex economic, physical, and social impacts of this heartbreaking disaster. Historical geographers place the events of March 2011 in context, while other contributors assess the damage and recommend strategies for the long process of reclamation and rebuilding. The book also includes interviews with victims that explore the social implications of radioactive contamination and invite comparisons to the discrimination faced by survivors of the Hiroshima and Nagasaki bombings. Balancing the natural and social sciences, this timely volume offers not only a model of interdisciplinary research for scholars but also an invaluable guide to the planning and implementation of reconstruction.</p>
+      </abstract>
+      <counts>
+         <page-count count="528"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.3</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.4</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.5</book-part-id>
+                  <title-group>
+                     <title>Remarks by the Honorable Itsunori Onodera, Member of the Japanese House of Representatives from Kesennuma, Miyagi Prefecture</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="translator" id="contrib1" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Inamori</surname>
+                           <given-names>Mihoko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.6</book-part-id>
+                  <title-group>
+                     <title>Introduction.</title>
+                     <subtitle>After the Triple Disaster: Landscape of Devastation, Despair, Hope, and Resilience</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Karan</surname>
+                           <given-names>Pradyumna P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Extreme events in nature attract special interest because of their dramatic violence and the human suffering they often inflict. The Japanese live in one of earth’s vulnerable seismic zones and have developed towns and villages on the coast. They have sited factories and industries next to the coast. Then, with a clap, a boom, and a roar, the earth shakes, followed by a platoon of giant waves so loaded with energy it has its own name—tsunami. The water cuts a swath along the coast of Tohoku. So it went on March 11, 2011 (3/11—the Japanese use that label</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Historical Geography of the Japanese Tsunami</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Suganuma</surname>
+                           <given-names>Unryu</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>Japan, one of the most advanced nations in the world and especially known for its high technology, has one of the best tsunami warning systems on earth (Oki and Koketsu 2011). The nation is famous worldwide for its ability to prepare against, train for, and mitigate damage from natural disasters. Nevertheless, Japan was not able to save lives during the ongoing triple disaster of earthquakes, tsunami, and nuclear radiation caused by the Sanriku Coast tsunami earthquake (named the Great East Japan Earthquake by the Japanese government) that took place on March 11, 2011. Some media and so-called experts in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Facing the 3/11 Waves</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Oikawa</surname>
+                           <given-names>Junko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>74</fpage>
+                  <abstract>
+                     <p>How can I possibly put that disaster into words? The terror of the earthquake and tsunami, the grief of losing family and homes, the pain, the helplessness, the undirected anger. . . . Even as I write them, I know that common, overused words like these cannot begin to express it. What words can I use to convey what I think and feel after the disaster?</p>
+                     <p>On that day, as I was working at my home in Kanagawa, there was a massive tremor. Luckily the house was built to withstand earthquakes, and the books that bury my walls didn’t come</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Tsunamis and Earthquakes in Japanese Literature</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dejima</surname>
+                           <given-names>Yukiko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>Donald Keene, a noted scholar of Japanese literature, made a comment that although earthquakes and tsunamis have been recorded from ancient times, they do not appear in works of Japanese literature except for<italic>Hojoki</italic>and a few other works. “Japanese people probably thought they should not write about fearful events,” says Keene, who gained Japanese citizenship after he was inspired by the 2011 Sanriku Coast tsunami earthquake (<italic>Nihon Keizai Shimbun,</italic>March 11, 2012;<italic>Daily Yomiuri,</italic>april 24, 2011). Japanese literature is good at depicting the beauties of nature and subtle everyday feelings, such as is seen in traditional tanka and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Tsunami Flow and Geo-Environment of the Pacific Coastal Region of Tohoku</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Umitsu</surname>
+                           <given-names>Masatomo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>104</fpage>
+                  <abstract>
+                     <p>A giant earthquake occurred on March 11, 2011, in the northeastern Pacific Ocean off the Tohoku region of Japan, and caused the 2011 Sanriku tsunami. The magnitude of the earthquake was 9.0, and the epicenter was located at N38°06.2' E142°51.6' at a depth of about twenty-four kilometers. The huge tsunami generated by the earthquake hit the Pacific coast of Japan from Hokkaido to Okinawa, and caused great damage along Japanese coastal regions. Especially the coasts of the Tohoku region, including Aomori, Iwate, Miyagi, and Fukushima Prefectures in the northeastern part of Honshu Island were severely damaged by the tsunami (see</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Tsunami Damage and the Road to Recovery in Onagawa Town</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Takano</surname>
+                           <given-names>Takehiko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>Onagawa is one of the places most severely damaged by the mega-quake and tsunami on March 11, 2011. In this chapter, the author will report the damages from the tsunami, Onagawa’s economic activities before March 11, and the restoration programs of infrastructure and industries. And finally, some ideas on the difficulties and breakthroughs needed to accomplish the programs will be discussed.</p>
+                     <p>Onagawa’s population in 2010 was 10,051. It is located in the southern part of the Sanriku Coast (see figure 5.1). Onagawa lies on the saw-shaped ria coastal line. Because of its morphology, the flat land is very limited and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Earthquake and Tsunami in Taro Town</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stradford</surname>
+                           <given-names>H. Todd</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>138</fpage>
+                  <abstract>
+                     <p>The former town of Taro, Japan, now part of Miyako City, was world famous for its tsunami precautions and protection. In March 2011 the town was hit by some of the highest waves of the Sanriku earthquake and tsunami. Its protective seawalls were topped, and the town was totally destroyed. Given the resources devoted to tsunami preparedness, how effective were the town’s efforts? Because of an ongoing education program to keep its citizens aware of both the dangers of tsunamis and what actions to take when there was a major earthquake, many lives were saved. It remains a question as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Cases of Two Tsunami Storytellers Who Experienced Tsunami Disasters Twice in Their Lifetimes</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yamazaki</surname>
+                           <given-names>Tomoko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>160</fpage>
+                  <abstract>
+                     <p>The Sanriku Coast in Japan’s Iwate prefecture has been hit by tsunamis many times. It has a long history of surviving and “fighting” against tsunamis. Taro,¹ in Iwate Prefecture’s Miyako City, is a town that has fully devoted itself to tsunami disaster prevention. In fact, it claimed itself to be “A Town for Tsunami Disaster Prevention” in 1989. In this article, the author discusses what a disaster means ethnographically to citizens through an analysis of how two female citizens who were born and brought up in Taro have continued to talk about and share their tsunami experiences.</p>
+                     <p>In September 2010,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Agricultural Damage in the Sendai Plain and the Road to Recovery</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sekine</surname>
+                           <given-names>Ryohei</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>The videos of the 3/11 tsunami and the explosions at the fukushima Daiichi nuclear power plant that were televised all over the world in real time gave people a shock. However, people of Sendai City, including the author, only learned of the tsunami later, because of the power blackout. The waves of black water destroyed houses and agricultural land, and caused a fire. In the Sendai Plain, the tsunami barrier was not high enough, and the tsunami flooded the plain, unlike the northern coastal area of Miyagi Prefecture.</p>
+                     <p>The Sendai plain was used for agricultural production, in particular for rice</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Ramifications of the Fukushima Nuclear Disaster:</title>
+                     <subtitle>Toward the End of the “Peaceful Atom”?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Taylor</surname>
+                           <given-names>Jonathan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>One year after the Fukushima nuclear disaster it seemed that Japan’s long love affair with “the peaceful atom” had come to an inglorious end. At the time of this writing, all of Japan’s fifty-five nuclear power plants are offline, a net loss of 47,000 megawatts of generating power—almost 30 percent of the country’s electricity. In July 2012 Kansai Electric resumed operations at two reactors at their Oi plant, but they were shut down two months later and no other restarts were planned until a new nuclear regulatory agency designed new regulations. The nuclear power industry, fearful that Japan’s citizens</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>TEPCO and Nuclear Energy Politics:</title>
+                     <subtitle>An Analysis of the “Japanese Pentagon”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Suganuma</surname>
+                           <given-names>Unryu</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>204</fpage>
+                  <abstract>
+                     <p>After the 2011 Sanriku tsunami struck Japan on March 11, people often heard the word<italic>soteigai,</italic>“beyond expectations,” from the governmental officials, bureaucrats, the nuclear power industry spokesmen, television announcers, newspaper reporters, nuclear scholars or<italic>Goyogakusha</italic>(scholars beholden to the government or selfserving academic scholars), and television commentators. When Masataka Shimizu, president of the Tokyo Electric Power Company (TEPCO), held a press conference, he called the tsunami and nuclear disaster a marvel of “nature that we have never experienced before” (<italic>Gazette,</italic>March 30, 2011). In Japanese language,<italic>soteigai</italic>in the case of the 2011 Sanriku tsunami indicates two meanings: one</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Characteristics of the Evacuation Area and the Spatial Distribution of Radioactive Pollution in Fukushima Prefecture</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hatsuzawa</surname>
+                           <given-names>Toshio</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Takano</surname>
+                           <given-names>Takehiko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>Fukushima Daiichi Nuclear Power Station is located on the Pacific coast about two hundred kilometers north of Tokyo, and about one hundred kilometers south of Sendai (see figure 11.1). Three nuclear reactors among six in total were working when the mega-quake occurred at 2:46 p.m. on March 11, 2011. The emergency shutdown system started at once, and the three reactors stopped safely. But a huge tsunami, with a height of thirteen to fifteen meters, struck the whole plant about forty minutes later, stopping all of the emergency power supplies, resulting in loss of the cooling facilities for all of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.18</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>The Social Structures of Victimization of Fukushima Residents Due to Radioactive Contamination from the 2011 Nuclear Disaster</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yotsumoto</surname>
+                           <given-names>Yukio</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Takekawa</surname>
+                           <given-names>Shunichi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>The 2011 Sanriku earthquake and tsunami were huge disasters, causing 15,890 deaths, 2,590 missing, and 6,152 injured people as of February 10, 2015 (National Police Agency 2015). The large number of victims and the devastation of the coastal region of Tohoku shocked the Japanese, but another disaster, the meltdowns of nuclear reactors at the Fukushima Daiichi nuclear power plant, followed by leaks of radioactive substances, created serious and more complex issues for Japan, despite the fact that no one has been directly killed by the radioactive contamination. The complex nature of victimization of the people in Fukushima Prefecture as well</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.19</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Internet-Age Parents and Children after the 2011 Earthquake and Tsunami</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dejima</surname>
+                           <given-names>Yukiko</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ikeda-Ohtsubo</surname>
+                           <given-names>Wakako</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>269</fpage>
+                  <abstract>
+                     <p>In the early afternoon of March 11, 2011, we were at our parents’ home in Aoba-ku, Sendai. The babies were taking naps, and a three-year-old girl was playing in the living room. Then we felt the quake. We immediately cuddled our children and waited out the shake. The shake was persistent and violent. All we could do was pray for our children’s safety. When the floor became stable at last, we were relieved to find our family safe, though we also found that the electricity and gas were cut off. We spent the rest of the afternoon preparing for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.20</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Crisis Mapping Project and Counter-Mapping by Neo-Geographers</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Seto</surname>
+                           <given-names>Toshikazu</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nishimura</surname>
+                           <given-names>Yuichiro</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>288</fpage>
+                  <abstract>
+                     <p>The Sanriku tsunami on March 11, 2011, brought catastrophic damage to a wide area of Japan. Traffic and communication interruption occurred over a huge region, including the tokyo metropolitan area. Most public transportation stopped and people could not return home immediately. Although people wanted to share safety information with their families, voice calls could not be connected because of the congestion of phone traffic. Short Message Services (SMS) by mobile phone carriers were also delayed because the huge traffic level exceeded the capacity of the message servers. On the other hand, Social Networking Services (SNS), such as twitter and facebook,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.21</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>The Impact of the 2011 Tsunami and Earthquake on Distribution Systems in the Tohoku Region</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tsuchiya</surname>
+                           <given-names>Jun</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>307</fpage>
+                  <abstract>
+                     <p>The objective of this chapter is to understand the impact of the 2011 Sanriku Coast tsunami earthquake on the distribution system in the Tohoku region. The region spreads about six hundred kilometers from north to south and about two hundred kilometers from east to west. Sendai, located in the center of the Tohoku region, has a population of about 1 million and is the regional economic center. Most of Tohoku is rural areas with low population density. In addition, there are widespread remote areas, such as the Sanriku Coast region, in which depopulation is remarkable.</p>
+                     <p>On March 11, 2011, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.22</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>The Impact of the Earthquake, Tsunami, and Nuclear Radiation on the Manufacturing Industry in the Tohoku Region</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hino</surname>
+                           <given-names>Masateru</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>317</fpage>
+                  <abstract>
+                     <p>The 2011 earthquake, tsunami, and radiation stopped the operation of many Japanese automobile assembly factories in tohoku for over a month. Affected companies included Toyota, Honda, and Nissan. The shortage of parts supplies had a worldwide impact. Each car consists of twenty thousand to thirty thousand parts (Miyagawa 1977; takeuchi 1996). The earthquake damaged both parts production factories and infrastructure such as roads and electricity in Tohoku. This occurrence made people realize that Tohoku was an important base for auto parts manufacturing.</p>
+                     <p>Through this incident Japanese mass media began to introduce Tohoku as a center of manufacturing in Japan without</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.23</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>Disaster Prevention Culture:</title>
+                     <subtitle>Role of Schools in Saving Tsunami Victims</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yamazaki</surname>
+                           <given-names>Kenji</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>Destructive natural forces can immediately expose local weaknesses in infrastructure or problems in social systems. The weakest people suffer the most damage from a disaster. The Sanriku tsunami that occurred on March 11, 2011, damaged a vast area of tohoku. tohoku has supported the development of Japan’s metropolises, including tokyo, as a source of food, energy, and labor. Tohoku’s productivity has been relatively low compared with other areas due to depopulation, aging, and the weak competitiveness of its primary industries. The damage from the earthquake may further deteriorate tohoku’s productivity, expanding the economic gap between tohoku and other areas.</p>
+                     <p>The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.24</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>The Role of Volunteering in Post-Tsunami Town Recovery:</title>
+                     <subtitle>The Experience of All Hands in Ofunato City, Iwate</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hall</surname>
+                           <given-names>James M.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Suzuki</surname>
+                           <given-names>Moto</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>364</fpage>
+                  <abstract>
+                     <p>After the 2011 Sanriku tsunami destroyed approximately eight hundred kilometers of communities and search-and-rescue operations had ended, these communities had the enormous task of not only cleaning up the unfathomable tons of debris blanketing areas where cities and towns once stood, but also rebuilding these areas and the lives of those who lost their homes, livelihoods, friends, and families. The magnitude of the effort necessary to begin the long process of recovery prompted scores of people to offer their help, and mass media reported a flood of volunteer applicants soon after the tsunami. However, volunteering was not as simple as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.25</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>Distribution of Non-Japanese Residents and Support Activities for Them in the 2011 Earthquake and Tsunami Disaster–Stricken Areas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Okamoto</surname>
+                           <given-names>Kohei</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sato</surname>
+                           <given-names>Kumi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>379</fpage>
+                  <abstract>
+                     <p>At the time of the Great Hanshin-Awaji Earthquake in 1995, non-Japanese people who did not understand the disaster information issued in Japanese were placed in a difficult situation. Since then, progress has been made in the measures to support non-Japanese speakers in times of disaster, some of which were utilized during the Sanriku tsunami in 2011, in the Tohoku region, in the northeastern part of Japan. However, a new issue emerged. The support measures for non-Japanese people prepared after the 1995 earthquake were presumed to be utilized in foreigner-concentrated areas. Those measures turned out to be less effective than expected</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.26</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>Coordinating Policy Toward Fiscal Preparedness for Natural Disasters:</title>
+                     <subtitle>A Post-2011 Earthquake and Tsunami Perspective</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hou</surname>
+                           <given-names>Yilin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Suganuma</surname>
+                           <given-names>Unryu</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>398</fpage>
+                  <abstract>
+                     <p>In the broadest sense, the disciplines of public administration, public management, and public policy are to study the public sector, more specifically government: What is government supposed to do? (In other words, what are its functions?) How does government perform its functions, and with what features and under what models? and how can the outcome and performance of government be measured? (Has government obtained its goals and targets as set forth by the citizenry or by itself?) Among the existing literature on the functions and performance of government, there are generic theories and models for study that serve as the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.27</book-part-id>
+                  <title-group>
+                     <label>21</label>
+                     <title>Experiencing Disasters in Two Places:</title>
+                     <subtitle>China’s 1976 Tangshan Earthquake and Japan’s 2011 Earthquake, Tsunami, and Nuclear Radiation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Li</surname>
+                           <given-names>Lisa Yinghong</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>417</fpage>
+                  <abstract>
+                     <p>On July 28, 1976, at 3:42 A.M. local time, a magnitude 7.8 earthquake hit Tangshan, an industrial city of more than a million people in Hebei Province, China. Often referred to as the “second deadliest earthquake of all time,” the quake flattened the city of Tangshan in less than thirty seconds. According to official announcements of the Chinese government, about 240,000 people perished. The effect was felt strongly in a large area of northern China, including Beijing, roughly 180 kilometers away. On March 11, 2011, at 2:46 P.M. local time a 9.0 earthquake erupted roughly 130 kilometers off the coast</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.28</book-part-id>
+                  <title-group>
+                     <label>22</label>
+                     <title>Liquefaction in the 2011 Earthquake in Japan and the Christchurch, New Zealand, Earthquake:</title>
+                     <subtitle>Responses and Challenges to Reconstruction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wilby</surname>
+                           <given-names>Christine Mary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>432</fpage>
+                  <abstract>
+                     <p>Christchurch, New Zealand (NZ), was hit by a series of four major earthquake events, the first in 2010, then three more in 2011, each appearing some four to six months apart. The northeastern coastline of Honshu, Japan, was hit by one large event of a massive earthquake triggering a mega-tsunami, followed by severe immediate aftershocks, and irrevocable damage to a nuclear power plant. Both countries lie on the western rim of the famed pacific “ring of fire”—earth’s highly volatile tectonic plate system (see figure 22.1). Both countries are prone to earthquakes, register thousands of small quakes yearly, and have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.29</book-part-id>
+                  <title-group>
+                     <label>23</label>
+                     <title>Tamil Nadu and Tohoku:</title>
+                     <subtitle>The Two Tsunamis</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Karan</surname>
+                           <given-names>Pradyumna P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>447</fpage>
+                  <abstract>
+                     <p>For me the two tsunamis were personal. On December 26, 2004, a massive tsunami blasted across the Indian Ocean, cutting a swath of destruction through several countries and claiming a staggering 230,000 lives. Located in the southeast of India along the Bay of Bengal and the Indian Ocean, the tamil nadu coast was devastated. Several of my friends in tamil nadu suffered. a colleague on the faculty of Galle University in Sri Lanka and his family were washed away.</p>
+                     <p>During my stay in Japan and travels in tohoku while collecting materials for the book<italic>Japan in the 21st Century,</italic>I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.30</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>463</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.31</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>465</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.32</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>471</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f2qr65.33</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>479</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

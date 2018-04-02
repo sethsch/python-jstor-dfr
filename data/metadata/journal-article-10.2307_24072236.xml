@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">perspectiveschin</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50016407</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Perspectives Chinoises</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Centre d'Etudes Francais sur la Chine contemporaine</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">10219013</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19964609</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">24072236</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>comptes-rendus de lecture</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>GWENNAËL</given-names>
+                  <surname>GAFFRIC</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2012</year>
+         </pub-date>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2 (119)</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i24072218</issue-id>
+         <fpage>102</fpage>
+         <lpage>103</lpage>
+         <product>
+            <source>La littérature taïwanaise. État des recherches et réception à l'étranger</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Chan</given-names>
+               <surname>Hing-ho</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Joyce Liu</given-names>
+               <surname>Chi-hui</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Peng</given-names>
+               <surname>Hsiao-yen</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Angel</given-names>
+               <surname>Pino</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Isabelle</given-names>
+               <surname>Rabut</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright © 2012 – Perspectives chinoises</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/24072236"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>fre</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

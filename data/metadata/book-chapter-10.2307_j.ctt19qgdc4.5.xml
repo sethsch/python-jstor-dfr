@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt46p0bp</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt19qgdc4</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN1993.5.C4B58 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Motion pictures</subject>
+         <subj-group>
+            <subject content-type="lcsh">China</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Motion pictures</subject>
+         <subj-group>
+            <subject content-type="lcsh">Taiwan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Coproduction (Motion pictures, television, etc.)</subject>
+         <subj-group>
+            <subject content-type="lcsh">China</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Coproduction (Motion pictures, television, etc.)</subject>
+         <subj-group>
+            <subject content-type="lcsh">Taiwan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Coproduction (Motion pictures, television, etc.)</subject>
+         <subj-group>
+            <subject content-type="lcsh">France</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Film Studies</subject>
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Contemporary Sino-French Cinemas</book-title>
+         <subtitle>Absent Fathers, Banned Books, and Red Balloons</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Bloom</surname>
+               <given-names>Michelle E.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>02</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824851583</isbn>
+      <isbn content-type="epub">9780824857455</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt19qgdc4"/>
+      <abstract abstract-type="short">
+         <p>Transnational cinemas are eclipsing national cinemas in the contemporary world, and Sino-French films exemplify this phenomenon through the cinematic coupling of the Sinophone and the Francophone, linking France not just with the Chinese mainland but also with the rest of the Chinese-speaking world. Sinophone directors most often reach out to French cinema by referencing and adapting it. They set their films in Paris and metropolitan France, cast French actors, and sometimes use French dialogue, even when the directors themselves don't understand it. They tend to view France as mysterious, sexy, and sophisticated, just as the French see China and Taiwan as exotic. As Michelle E. Bloom makes clear, many films move past a simplistic opposition between East and West and beyond Orientalist and Occidentalist cross-cultural interplay. Bloom focuses on films that have appeared since 2000 such as Tsai Ming-liang's What Time Is It There? , Hou Hsiao-hsien's Flight of the Red Balloon, and Dai Sijie's Balzac and the Little Chinese Seamstress. She views the work of these well-known directors through a Sino-French optic, applying the tropes of métissage (or biraciality), intertextuality, adaptation and remake, translation, and imitation to shed new light on their work. She also calls attention to important, lesser studied films: Taiwanese director Cheng Yu-chieh's Yang Yang, which depicts the up-and-coming Taiwanese star Sandrine Pinna as a mixed race beauty; and Emily Tang Xiaobai's debut film Conjugation, which contrasts Paris and post-Tiananmen Square Beijing, the one an incarnation of liberty, the other a place of entrapment. Bloom's insightful analysis also probes what such films reveal about their Taiwanese and Chinese creators. Scholars have long studied Sino-French literature, but this inaugural full-length work on Sino-French cinema maps uncharted territory, offering a paradigm for understanding other cross-cultural interminglings and tools to study transnational cinema and world cinema. The Sino-French, rich and multifaceted, linguistically, culturally, and ethnically, constitutes an important part of film studies, Francophone studies, Sinophone studies and myriad other fields. This is a must-read for students, scholars, and lovers of film. 35 black &amp; white illustrations</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.4</book-part-id>
+                  <title-group>
+                     <title>Introduction to Contemporary Sino-French Cinemas</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The Sino-French Co-Production Treaty of 2010 follows up officially on a decade of fruitful cinematic interactions between China and France.<italic>Nightingale,</italic>a 2013 Sino-French film inspired by French director Philippe Muyl’s movie<italic>Butterfly (Papillon, 2002)</italic>, is the second production under the agreement. Shot in Beijing, Guangxi,¹ and Paris, Nightingale reflects the reciprocal nature of the treaty, with the French filming in China in addition to the more frequent occurrence of the Chinese shooting in France.² A French-directed Chinese remake of a French film with a Chinese cast,³<italic>Nightingale</italic>points toward myriad configurations of the Sino-French in the future. Possibilities include</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>The Sino-French as Métissage:</title>
+                     <subtitle>Cheng Yu-chieh’s Yang Yang</subtitle>
+                  </title-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>In<italic>Shanghai: The Rise and Fall of a Decadent City 1842–1949</italic>, Stella Dong follows her colorful description, quoted here, about Shanghai as an “ugly daughter” with the no less lively personification of the city as a “mongrel princess” who is the “strange fruit of a forced union.”² Dong’s description of Shanghai epitomizes the negative connotations of mixed parentage. This characterization also reflects that mixing, hybridity, or what the French call<italic>métissage</italic>may apply to spaces and, we might add, to texts, sometimes even maintaining similarly negative connotations. However, the counterpoint to these negative conceptions of racial mixing lies in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Intertextuality as Métissage in Tsai Ming-liang’s Sino French Films:</title>
+                     <subtitle>What Time Is It There? and Face</subtitle>
+                  </title-group>
+                  <fpage>72</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Métissage</italic>might seem to characterize people only, whereas the word<italic>intertextuality</italic>may appear to describe texts exclusively. However, the examination of<italic>Yang Yang</italic>revealed that<italic>métissage</italic>may be textual as well as racial or ethnic. Aesthetic<italic>métissage</italic>provides a semantic alternative to textual<italic>métissage,</italic>with both terms describing hybrid texts. Although<italic>intertextuality</italic>indeed allows for connections between texts, it also provides a means of portraying characters, for instance, when a director depicts a character in relation to a character in another film or literary work or other text. Thus, both<italic>métissage</italic>and<italic>intertextuality</italic>may describe texts and characters alike. As</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Hou Hsiao-hsien’s Flight of the Red Balloon as a Sino-French Make over</title>
+                  </title-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>Building on chapter 2’s examination of intertextuality in Tsai Ming-liang’s two Sino-French films,<italic>What Time Is It There?</italic>and<italic>Face,</italic>the current chapter continues to consider intertextuality’s contributions to the construction of Sino-French cinema. In short, a film reaching out to another film provides the opportunity for the Sinophone to mingle with the Francophone, as one among many types of intertextual connection. Whereas Tsai makes myriad intertextual references to French cinema in<italic>What Time Is It There?</italic>and Face, Taiwanese auteur Hou Hsiaohsien’s one and thus far only Sino-French film,<italic>Flight of the Red Balloon (Le voyage du ballon rouge</italic>)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Translations of Dai Sijie’s Balzac and the Little Chinese Seamstress</title>
+                  </title-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>As the title of Hou’s<italic>Flight of the Red Balloon embodies a prior film, Dai Sijie’s Balzac and the Little Chinese Seamstress (Balzac et la Petite Tailleuse chinoise/Xiao caifeng, 2001)</italic>inscribes French literature in the nineteenth-century author’s name. These connections reflect accurately the medium of the text that inspires both films. Dai’s adaptation reworks his own eponymous novel, whereas Hou’s make over pays homage to Lamorisse’s short,<italic>Le ballon rouge.</italic>In addition to the difference in medium of Dai’s two works (he directed and authored both film and novel), their relationship is closer than that between Hou’s<italic>Flight</italic>and Lamorisse’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Imitating Frenchness in Emily Tang Xiaobai’s Conjugation and Jia Zhangke’s The World</title>
+                  </title-group>
+                  <fpage>160</fpage>
+                  <abstract>
+                     <p>The make over, a loose type of remake (as we saw in chapter 3), may be viewed as a type of intertextuality. Similarly, adaptation might be considered a form of translation (as we noted in chapter 4). Imitation, the focus of the current chapter, also qualifies as a kind of translation. Like translation, imitation entails variation on an original. Both the concept of translation and that of imitation provide the opportunity for the Sinophone and the Francophone to intermingle, thus playing a significant role in the Sino-French. Straightforward movement from one text or object to another does not always happen,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.10</book-part-id>
+                  <title-group>
+                     <title>CONCLUSIONS</title>
+                     <subtitle>Mixing It Up: The Hybridity of the Sino-French</subtitle>
+                  </title-group>
+                  <fpage>188</fpage>
+                  <abstract>
+                     <p>The Sino-French films of this book have invited us to consider the connections between China and Taiwan, on the one hand, and between China and France, on the other, in light of co-productions, repre sen ta tions of France, directors’ transnational mobility, and the global distribution of their films. These films have also encouraged us to look at these nations multidimensionally rather than in the binary fashion dictated by long-standing, commonly accepted East/West dichotomies. China and Taiwan, at opposite ends of the spectrum in terms of both geography and population, are themselves each highly diverse, for instance, linguistically and ethnically.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.11</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.12</book-part-id>
+                  <title-group>
+                     <title>Filmography</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.13</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.14</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>259</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgdc4.15</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>273</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

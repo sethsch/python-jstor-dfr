@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqk1n</book-id>
+      <subj-group>
+         <subject content-type="call-number">ML3502.C5.M65 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Popular music</subject>
+         <subj-group>
+            <subject content-type="lcsh">China</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Popular music</subject>
+         <subj-group>
+            <subject content-type="lcsh">Taiwan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Music</subject>
+         <subj-group>
+            <subject content-type="lcsh">Social aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">China</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Cries of Joy, Songs of Sorrow</book-title>
+         <subtitle>Chinese Pop Music and Its Cultural Connotations</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Moskowitz</surname>
+               <given-names>Marc L.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>01</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824833695</isbn>
+      <isbn content-type="epub">9780824837655</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqk1n"/>
+      <abstract abstract-type="short">
+         <p>Since the mid-1990s, Taiwan's unique brand of Mandopop (Mandarin Chinese-language pop music) has dictated the musical tastes of the mainland and the rest of Chinese-speaking Asia.<italic>Cries of Joy, Songs of Sorrow</italic>explores Mandopop's surprisingly complex cultural implications in Taiwan and the PRC, where it has established new gender roles, created a vocabulary to express individualism, and introduced transnational culture to a country that had closed its doors to the world for twenty years.</p>
+         <p>In his early chapters, Marc L. Moskowitz provides the historical background necessary to understand the contemporary Mandopop scene, beginning with the birth of Chinese popular music in the East Asian jazz Mecca of 1920s Shanghai. A brief overview of alternative musical genres in the PRC such as Beijing rock and revolutionary opera is included. The section concludes with a look at the manner in which Taiwan's musical ethos has influenced the mainland's music industry and how Mandopop has brought Western music and cultural values to the PRC. This leads to a discussion of Taiwan pop's exceptional hybridity, beginning with foreign influences during the colonial period under the Dutch and Japanese and continuing with the country's political, cultural, and economic alliance with the U.S. Moskowitz addresses the resulting wealth of transnational musical influences from the rest of East Asia and the U.S. and Taiwan pop's appeal to audiences in both the PRC and Taiwan. In doing so, he explores how Mandopop's "songs of sorrow," with their ubiquitous themes of loneliness and isolation, engage a range of emotional expression that resonates strongly in the PRC.</p>
+         <p>Later chapters examine the construction of male and female identities in Mandopop and look at the widespread condemnation of the genre by critics. Drawing on analyses and data from earlier chapters (including interviews with dozens of performers, song writers, and lay people in Taipei and Shanghai), Moskowitz attempts to answer the question: Why, if the music is as bad as some assert, is it so central to the lives of the largest population in the world? To answer, he highlights Mandopop's important contribution as a poetic lament that simultaneously embraces and protests modern life.</p>
+         <p>
+            <italic>Cries of Joy, Songs of Sorrow</italic>is a highly readable introduction to an important but understudied East Asian phenomenon. It will find a ready audience among scholars and students of Chinese and Taiwanese popular culture as well as musicologists studying transnational music flows and non-Western popular music.</p>
+         <p>13 illus.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>The Tail Wags the Dog:</title>
+                     <subtitle>Taiwan’s Musical Counter-Invasion of China</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>For the most part, Americans who are familiar with Mandopop (Mandarin Chinese–language pop music) condemn it as vapid, uninspired, and somewhat painful to listen to. Yet by and large, people making these judgments either lack the linguistic skills to understand the sophisticated poetics of the lyrics or have not taken the time to do so. Mandopop has surprisingly complex cultural implications for such a seemingly superficial genre. It has introduced new gender roles to China, created a vocabulary to express individualism in direct contrast to state and Confucian prioritization of the group, and has introduced transnational culture to a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>China’s Mandopop Roots and Taiwan’s Gendered Counter-Invasion of the PRC</title>
+                  </title-group>
+                  <fpage>16</fpage>
+                  <abstract>
+                     <p>This chapter will trace China’s musical history, beginning with Shanghai’s jazz era in the first half of the twentieth century to contemporary PRC music. I will also examine the effects of Gang-Tai pop (Hong Kong and Taiwan pop) on the PRC’s musical and cultural ethos, concluding with an exploration of the gendered identities that this music has exported to the PRC.</p>
+                     <p>Western music accompanied Christian missionaries’ arrival in China beginning in 1601, when Matteo Ricci brought a harpsichord to China and trained eunuchs to perform Chinese songs to please the imperial court.¹ This expanded in the early 1800s, when American</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Hybridity and Its Discontents:</title>
+                     <subtitle>Popular Music in Taiwan</subtitle>
+                  </title-group>
+                  <fpage>30</fpage>
+                  <abstract>
+                     <p>On September 9, 2003, I was in Taipei, Taiwan, at Eslite,¹ an upscale twenty-four-hour coffee shop and bookstore, taking a break from the trials and tribulations of fieldwork. As a diversion, I purchased the Chinese translation of<italic>Memoirs of a Geisha</italic>²—a fictional autobiography of a Japanese geisha written by a Caucasian male from the United States. On the way home, I walked along Zhong Xiao East Road, one of the most fashionable shopping districts in Taiwan, and then through some back alleys behind the Japanese department store Sogo. My fellow pedestrians included affluent Chinese youth flaunting the latest fashions,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Message in a Bottle:</title>
+                     <subtitle>Lyrical Laments and Emotional Expression in Mandopop</subtitle>
+                  </title-group>
+                  <fpage>52</fpage>
+                  <abstract>
+                     <p>In spite of the dramatic political liberalization of PRC and Taiwan, their economic growth, and the unprecedented freedom that youth enjoy, there seems to be an increasing sense of loneliness and anomie in both the PRC and Taiwan. Yet emotions such as loneliness, sorrow, and heartbreak are difficult to express in Chinese and Taiwanese cultures, which idealize stoic endurance and emphasize indirectness as a means to maintaining social harmony. In the following pages I will present interviews that demonstrate the ways in which Mandopop songs become a conduit through which people in China and Taiwan can come to understandings of,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Men Writing Songs for Women Who Complain about Men:</title>
+                     <subtitle>Mandopop’s Gender Construction in Taiwan and the PRC</subtitle>
+                  </title-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>As we saw in the previous chapter, both Mandopop lyrics and the people I interviewed demonstrate that the expression of loneliness and isolation in urban China and Taiwan is in many ways a highly gendered experience. In this chapter I shift the focus from Mandopop’s articulation of women’s lives to the ways in which female identities are constructed.</p>
+                     <p>Mandopop is usually a cooperative venture with one person composing the melody, another writing the lyrics, and a third singing the songs. Men also frequently write songs for other male performers, yet though many of the most popular performers are women, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>A Man for All Occasions:</title>
+                     <subtitle>Charisma and Differing Masculinity in Mandopop</subtitle>
+                  </title-group>
+                  <fpage>88</fpage>
+                  <abstract>
+                     <p>An essential component of the Mandopop industry’s bid for success is the degree to which it can create viable images of ideal women and men with love songs that audiences can relate to. The previous chapter addressed constructions of women’s identities in such songs and the ways in which Taiwan’s pop has helped to redefine femininity as paradoxically both more traditional in its personality schema and more modern in its transnationalism. As I noted in chapter 2, though women’s roles are shifting toward the Taiwan model, masculine identities have become a far more contested domain in the PRC. In part</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Mandopop Under Siege:</title>
+                     <subtitle>Culturally Bound Criticisms of Taiwan’s Pop Music</subtitle>
+                  </title-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>In the following pages I will examine the cultural biases embedded in critiques of Mandopop. In the 1980s and early 1990s, Taiwan’s popular music swept across China. Many in the PRC government reacted to the values embedded in Taiwan’s lyrics with mistrust and disdain, expressing a fear that Taiwan and Hong Kong’s cultural incursion would result in the PRC’s loss of national identity. On the other side of the strait, people in Taiwan complained of Mandopop’s fast pace and changing nature and linked this to similar trends in Taiwan’s society. More recently, several of Taiwan’s scholars have critiqued Mandopop for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.12</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>117</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.13</book-part-id>
+                  <title-group>
+                     <title>Glossary</title>
+                  </title-group>
+                  <fpage>137</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.14</book-part-id>
+                  <title-group>
+                     <title>Discography</title>
+                  </title-group>
+                  <fpage>139</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.15</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>141</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>157</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqk1n.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>167</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

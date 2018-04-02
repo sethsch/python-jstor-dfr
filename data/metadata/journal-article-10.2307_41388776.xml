@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">marvelstales</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50003552</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Marvels &amp; Tales</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Wayne State University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">15214281</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15361802</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41388776</article-id>
+         <title-group>
+            <article-title>This Rapturous Form</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Kate</given-names>
+                  <surname>Bernheimer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2006</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">20</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40067473</issue-id>
+         <fpage>67</fpage>
+         <lpage>83</lpage>
+         <permissions>
+            <copyright-statement>COPYRIGHT © 2006 WAYNE STATE UNIVERSITY PRESS</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41388776"/>
+         <abstract>
+            <p>In conjunction with the retrospective exhibit "Kiki Smith: Prints, Books, Things," New York's Museum of Modern Art hosted a panel on 24 February 2004 at the Gramercy Theatre dedicated to addressing the fairy-tale themes in Smith's work. Originally presented as a talk at that event, this illustrated essay by editor and novelist Kate Bernheimer reflects on feminist writers who have been influenced by fairy tales and how their writing, and fairy tales, have influenced her own novels.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

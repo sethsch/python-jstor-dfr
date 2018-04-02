@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">teorreviintefilo</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50014442</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Teorema: Revista Internacional de Filosofía</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>KRK Ediciones</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">02101602</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44077412</article-id>
+         <title-group>
+            <article-title>Learning from Fiction and Theories of Fictional Content</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Kathleen</given-names>
+                  <surname>Stock</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2016</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">35</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40170152</issue-id>
+         <fpage>69</fpage>
+         <lpage>85</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/44077412"/>
+         <abstract>
+            <p>En este artículo presento una objeción a la teoría del contenido ficcional conocida como 'intencionalismo hipotético'. Se centra en el hecho de que ciertas oraciones que aparecen en contextos de fictión pueden implicar verdades ficcionales y, a la vez, transmitir testimonios para que sean creídos por el lector. Defiendo que el intencionalismo hipotético no puede fácilmente dar sentido este hecho, mientras que sí puede hacerlo un rival suyo, el intencionalismo del autor. In this paper I present an objection to the theory of fictional content known as 'hypothetical intentionalism'. It centres around the fact that certain sentences in fictions can both imply fictional truths and convey testimony, to be believed by the reader. I argue that hypothetical intentionalism cannot easily make sense of this fact; whereas actual author intentionalism (a rival to hypothetical intentionalism) can.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Notes</title>
+         <ref id="d925e107a1310">
+            <label>1</label>
+            <mixed-citation id="d925e114" publication-type="other">
+Stock, forthcoming (2017).</mixed-citation>
+         </ref>
+         <ref id="d925e121a1310">
+            <label>2</label>
+            <mixed-citation id="d925e128" publication-type="other">
+Stock, forthcoming (2017).</mixed-citation>
+         </ref>
+         <ref id="d925e135a1310">
+            <label>4</label>
+            <mixed-citation id="d925e142" publication-type="other">
+Moran (2006).</mixed-citation>
+         </ref>
+         <ref id="d925e149a1310">
+            <label>5</label>
+            <mixed-citation id="d925e156" publication-type="other">
+Fricker
+(1995), p. 394</mixed-citation>
+         </ref>
+         <ref id="d925e167a1310">
+            <label>6</label>
+            <mixed-citation id="d925e174" publication-type="other">
+Stock (2011).</mixed-citation>
+         </ref>
+         <ref id="d925e181a1310">
+            <label>7</label>
+            <mixed-citation id="d925e188" publication-type="other">
+Unknown (2006)</mixed-citation>
+         </ref>
+         <ref id="d925e195a1310">
+            <label>8</label>
+            <mixed-citation id="d925e202" publication-type="other">
+Recanati (2003)</mixed-citation>
+            <mixed-citation id="d925e208" publication-type="other">
+Grice himself (1957).</mixed-citation>
+         </ref>
+         <ref id="d925e215a1310">
+            <label>9</label>
+            <mixed-citation id="d925e222" publication-type="other">
+Stock, forthcoming (2017).</mixed-citation>
+         </ref>
+         <ref id="d925e229a1310">
+            <label>10</label>
+            <mixed-citation id="d925e236" publication-type="other">
+Thackeray (2003), p. 176.</mixed-citation>
+         </ref>
+      </ref-list>
+      <ref-list>
+         <title>References</title>
+         <ref id="d925e252a1310">
+            <mixed-citation id="d925e256" publication-type="other">
+Burge, T. (1993), "Content Preservation"; Philosophical Review, 102, pp. 457-488.</mixed-citation>
+         </ref>
+         <ref id="d925e263a1310">
+            <mixed-citation id="d925e267" publication-type="other">
+Byrne, A. (1993), "Truth in Fiction: the Story Continued"; Australasian Journal of
+Philosophy. 71 (1), pp. 24-35.</mixed-citation>
+         </ref>
+         <ref id="d925e277a1310">
+            <mixed-citation id="d925e281" publication-type="other">
+Carroll, N. (2000), "Intentionalism and Interpretation: the Debate between Ac-
+tual and Hypothetical Intentionalism"; Metaphilosophy 31(1/2), pp. 75-95.</mixed-citation>
+         </ref>
+         <ref id="d925e291a1310">
+            <mixed-citation id="d925e295" publication-type="other">
+Coady, C.J. (1995), Testimony: A Philosophical Fiction; Oxford, Clarendon.</mixed-citation>
+         </ref>
+         <ref id="d925e303a1310">
+            <mixed-citation id="d925e307" publication-type="other">
+Currie, G. (1990), The Nature of Fiction; Cambridge, Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d925e314a1310">
+            <mixed-citation id="d925e318" publication-type="other">
+Davies, D. (2007), Aesthetics and Literature. Continuum.</mixed-citation>
+         </ref>
+         <ref id="d925e325a1310">
+            <mixed-citation id="d925e329" publication-type="other">
+Eagleton, T. (1998), Myths of Power: A Marxist Study of the Brontës, London,
+Macmillan.</mixed-citation>
+         </ref>
+         <ref id="d925e339a1310">
+            <mixed-citation id="d925e343" publication-type="other">
+Eliot, G. (1986) [1876], Daniel Deronda, Penguin.</mixed-citation>
+         </ref>
+         <ref id="d925e350a1310">
+            <mixed-citation id="d925e354" publication-type="other">
+Faulkner, P. (2007), "On Telling and Trusting"; Mind 116 (464), pp. 875-902.</mixed-citation>
+         </ref>
+         <ref id="d925e361a1310">
+            <mixed-citation id="d925e365" publication-type="other">
+Pricker, E. (1995), "Telling and Tusting: Reductionism and Aanti-Reductionism
+in the Epistemology of Testimony"; Mind 104: p. 414 (393-411).</mixed-citation>
+         </ref>
+         <ref id="d925e376a1310">
+            <mixed-citation id="d925e380" publication-type="other">
+Green, M. (2010), "How and What we Can Learn from Fiction"; In Garry
+Hagberg &amp; Walter Jost (eds.), A Companion to the Philosophy of Uterature.
+Wiley-Blackwell.</mixed-citation>
+         </ref>
+         <ref id="d925e393a1310">
+            <mixed-citation id="d925e397" publication-type="other">
+Fowler, K. J. (2013 ), We Are All Completely Beside Ourselves; Serpent's Tail.</mixed-citation>
+         </ref>
+         <ref id="d925e404a1310">
+            <mixed-citation id="d925e408" publication-type="other">
+Grice, H.P. (1957), "Meaning"; The Philosophical Review, 66:3, pp. 377-388.</mixed-citation>
+         </ref>
+         <ref id="d925e415a1310">
+            <mixed-citation id="d925e419" publication-type="other">
+Hanley, R. (2004), "As Good As It Gets: Lewis on Truth in Fiction"; Australa-
+sian Journal of Philosophy 82(1), pp. 112-128.</mixed-citation>
+         </ref>
+         <ref id="d925e429a1310">
+            <mixed-citation id="d925e433" publication-type="other">
+Korta, K. and Perry, J. (2015), "Pragmatics", The Stanford Encyclopedia of Philoso-
+phy (Summer 2015 Edition), Edward N. Zalta (ed.), forthcoming URL =
+&lt;http://plato.stanford.edu/archives/sum2015/entries/pragmatics/&gt;.</mixed-citation>
+         </ref>
+         <ref id="d925e446a1310">
+            <mixed-citation id="d925e450" publication-type="other">
+Lamarque, P. and Olsen, S. H. (1994), Truth, Fiction and Uterature, Oxford
+University Press.</mixed-citation>
+         </ref>
+         <ref id="d925e461a1310">
+            <mixed-citation id="d925e465" publication-type="other">
+Levinson, J. (1992), "Intention and Interpretation: A Last Look; In Gary Ise-
+minger (ed.), Intention and Interpretation, Temple University Press, pp. 221-56.</mixed-citation>
+         </ref>
+         <ref id="d925e475a1310">
+            <mixed-citation id="d925e479" publication-type="other">
+--- (2006), "Hypothetical Intentionalism: Statement, Objections, and Replies", in
+his Contemplating Art, Oxford, Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d925e489a1310">
+            <mixed-citation id="d925e493" publication-type="other">
+Lewis, D. (1983), Truth in Fiction'; reprinted in his Philosophical Papers. Vol. 1.
+Oxford University Press, pp. 261-80.</mixed-citation>
+         </ref>
+         <ref id="d925e503a1310">
+            <mixed-citation id="d925e507" publication-type="other">
+Matravers, D. (2014), Fiction and Narrative; Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d925e514a1310">
+            <mixed-citation id="d925e518" publication-type="other">
+Moran, R. (2005), "Getting Told and Being Believed" Philosophers' Imprint 5(5).</mixed-citation>
+         </ref>
+         <ref id="d925e525a1310">
+            <mixed-citation id="d925e529" publication-type="other">
+Murakami, H. (2003) [1992], South of the Border; West of the Sun; Vintage.</mixed-citation>
+         </ref>
+         <ref id="d925e537a1310">
+            <mixed-citation id="d925e541" publication-type="other">
+Pritchard, D. (2004), "The Epistemology of Testimony"; Philosophical Issues,
+14, pp. 326-348.</mixed-citation>
+         </ref>
+         <ref id="d925e551a1310">
+            <mixed-citation id="d925e555" publication-type="other">
+Recanati, F. (2003), IJteral Meaning, Cambridge, Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d925e562a1310">
+            <mixed-citation id="d925e566" publication-type="other">
+Spark, M. (1965), The Prime of Miss Jean Brodie; Penguin.</mixed-citation>
+         </ref>
+         <ref id="d925e573a1310">
+            <mixed-citation id="d925e577" publication-type="other">
+Stock, K. (2011), "Fictive Utterance and Imagining"; Proceedings of the Aristotelian
+Society, Supp. Vol. 85(1), pp. 145-161.</mixed-citation>
+         </ref>
+         <ref id="d925e587a1310">
+            <mixed-citation id="d925e591" publication-type="other">
+--- (forthcoming, 2017), Only Imagine: Fiction, Interpretation and Imagination; Oxford
+University Press.</mixed-citation>
+         </ref>
+         <ref id="d925e601a1310">
+            <mixed-citation id="d925e605" publication-type="other">
+Thackeray, W. M. (2003) [18471, Vanity Fair, Spark Educational Publishing.</mixed-citation>
+         </ref>
+         <ref id="d925e613a1310">
+            <mixed-citation id="d925e617" publication-type="other">
+Tolstoy, L. (1995) [1873] Anna Karenina; Oxford World Classics.</mixed-citation>
+         </ref>
+         <ref id="d925e624a1310">
+            <mixed-citation id="d925e628" publication-type="other">
+Unknown (2006), "Offensive against Da Vinci"; New York Times &lt;http://www.
+nytimes.com/2006/04/28/world/europe/28iht-rome.html&gt;, accessed 7th
+January 2015.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

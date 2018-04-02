@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">worllitetoda</journal-id>
+         <journal-id journal-id-type="jstor">j50000047</journal-id>
+         <journal-title-group>
+            <journal-title>World Literature Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oklahoma</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">01963570</issn>
+         <issn pub-type="epub">19458134</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/40157005</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Essays</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Self in Recoil: Radical Innocence in "Ōe's Seventeen and Nip the Buds, Shoot the Kids"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Celeste</given-names>
+                  <surname>Loughman</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>2002</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">76</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i40003977</issue-id>
+         <fpage>37</fpage>
+         <lpage>42</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2002 World Literature Today</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40157005"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Works Cited</title>
+         <ref id="d1002e144a1310">
+            <mixed-citation id="d1002e148" publication-type="other">
+Barrett, William. Irrational Man. Garden City, NY. Doubleday-
+Anchor. 1962.</mixed-citation>
+         </ref>
+         <ref id="d1002e158a1310">
+            <mixed-citation id="d1002e162" publication-type="other">
+Bowra, C. W. The Romantic Imagination. New York. Oxford-
+Galaxy. 1961.</mixed-citation>
+         </ref>
+         <ref id="d1002e172a1310">
+            <mixed-citation id="d1002e176" publication-type="other">
+Hassan, Ihab. Radical Innocence: Studies in the Contemporary
+American Novel. Princeton, N.J. Princeton University Press.
+1961.</mixed-citation>
+         </ref>
+         <ref id="d1002e189a1310">
+            <mixed-citation id="d1002e193" publication-type="other">
+Oe, Kenzaburō. "Japan, the Ambiguous, and Myself." Poets and
+Writers Magazine, July-August 1995, pp. 24-33. ["Japan"]</mixed-citation>
+         </ref>
+         <ref id="d1002e204a1310">
+            <mixed-citation id="d1002e208" publication-type="other">
+---. Nip the Buds, Shoot the Kids. Paul St. John Mackintosh
+and Maki Sugiyama, trs. New York. Marion Boyars. 1995.</mixed-citation>
+         </ref>
+         <ref id="d1002e218a1310">
+            <mixed-citation id="d1002e222" publication-type="other">
+---. Seventeen. J. Luk Van Haute, tr. New York. Blue Moon.
+1996.</mixed-citation>
+         </ref>
+         <ref id="d1002e232a1310">
+            <mixed-citation id="d1002e236" publication-type="other">
+Sartre, Jean-Paul. "Existentialism Is a Humanism." In Existen-
+tialism from Dostoevsky to Sartre. Walter Kaufmann, ed. New
+York. Meridian. 1956.</mixed-citation>
+         </ref>
+         <ref id="d1002e249a1310">
+            <mixed-citation id="d1002e253" publication-type="other">
+Wilson, Michiko. The Marginal World of Oe Kenzaburo. Armonk,
+N.Y. Sharpe. 1986.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

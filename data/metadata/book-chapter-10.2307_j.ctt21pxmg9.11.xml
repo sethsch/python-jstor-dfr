@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt21pxmg9</book-id>
+      <subj-group>
+         <subject content-type="call-number">PS3620.A6865Z46 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Tannenbaum, Judith</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Poets, American</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">Biography</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Jackson, Spoon</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Prisoners</subject>
+         <subj-group>
+            <subject content-type="lcsh">United States</subject>
+            <subj-group>
+               <subject content-type="lcsh">Biography</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>By Heart</book-title>
+         <subtitle>Poetry, Prison, and Two Lives</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Tannenbaum</surname>
+               <given-names>Judith</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Jackson</surname>
+               <given-names>Spoon</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>04</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9781613320655</isbn>
+      <isbn content-type="epub">9781613320662</isbn>
+      <isbn content-type="epub">1613320663</isbn>
+      <publisher>
+         <publisher-name>New Village Press</publisher-name>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Judith Tannenbaum</copyright-holder>
+         <copyright-holder>Spoon Jackson</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt21pxmg9"/>
+      <abstract abstract-type="short">
+         <p>"A boy with no one to listen becomes a man in prison for life and discovers his mind can be free. A woman enters prison to teach and becomes his first listener. And so begins a twenty-five year friendship between two gifted writers and poets. The result is By Heart ? a book that will anger you, give you hope, and break your heart." - Gloria Steinem Judith Tannenbaum and Spoon Jackson met at San Quentin State Prison in 1985. For over two decades they have conferred, corresponded and sometimes collaborated, producing very different bodies of work resting on the same understanding: that human beings have one foot in darkness, the other in light. In this beautifully crafted exploration _ part memoir, part essay _ Tannenbaum and Jackson consider art, education, prison, possibility, and which children our world nurtures and which it shuns. At the book's core are two stories that speak for human imagination, spirit, and expression. Judith Tannenbaum is a nationally respected educator, speaker, and author. Among her books are the memoir, Disguised as a Poem: My Years Teaching Poetry at San Quentin; two books for teachers _ Teeth, Wiggly as Earthquakes: Writing Poetry in the Primary Grades and (with Valerie Chow Bush) Jump Write In! Creative Writing Exercises for Diverse Communities, Grades 6-12; and six poetry collections. She currently serves as training coordinator with WritersCorps in San Francisco. Born into a family of fifteen boys in Barstow, California, Spoon Jackson was sentenced to Life Without Possibility of Parole when he was twenty years old. Spoon discovered himself as a writer at San Quentin; played Pozzo in the prison's 1988 production of Waiting for Godot; and has written, published, and received awards for plays, poetry, novels, fairy tales, short stories, essays, and memoir during the more than thirty years he has been behind bars. His poems are collected in Longer Ago.</p>
+      </abstract>
+      <counts>
+         <page-count count="198"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>Judith</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>This Near-Stranger’s Words</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>“Ninety degrees hotter, I’d be warm,” Spoon Jackson tells me. Spoon sits near the bottom of a circular metal staircase in front of San Quentin’s education building. I stand, nervous as usual. Nervous not because this is prison, but because I’m always nervous. Nervous system nervous, nervous inside my skin. Skin now wet with the day’s unusual heat. Spoon and I wait for the officer to arrive, to unlock the door with a key from his belt, and to let us inside.</p>
+                     <p>Us: a tall, black man in his late twenties; a short, white woman ten years older.</p>
+                     <p>“I’m from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>In Silence</title>
+                  </title-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>Indian summer at San Quentin and the sweet sun brings back the times I ran the dry river with the greyhound dogs and lay under the heavy black railroad bridge as the trains rumbled across, shaking the soft sands. In those times, I watched the shadows of the railcars dart by, and when night fell on a hot day, played kick-the-can in pure desert darkness. There were no streetlights on Crooks Street when I was a boy.</p>
+                     <p>My skin feels warm and alive this San Quentin September, as though I am a lizard sunning on a big rock. Instead I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Mirrors</title>
+                  </title-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>In my family, September was apples and honey, the start of the new year. Rosh Hashanah, followed ten days later by Yom Kippur. Holy days which I remember mostly as walking the blocks from my grandparents’ house to the synagogue on Fairfax. Los Angeles was hot, red at the edges, windy and dry. I walked home with my mother and aunts. The men were still<italic>davening</italic>at<italic>shul</italic>; the women left early to get food onto the table by sundown. My aunts talked: Aunt Nora was learning to drive, there would soon be a sale at Bullocks. The sound of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Nowhere but Barstow and Prison</title>
+                  </title-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>My mom and dad tried fifteen times to have a girl baby, but ended up with fifteen boys. We lived in a back house, just off Crooks Street, close to the dry river. A colorless, gray, two small-roomed, square, cement shack. One tiny bathroom and closet and another closet-sized impression of a kitchen. We bathed in an old round tin tub in bath water that had been boiled.</p>
+                     <p>My dad worked for the Santa Fe Railroad. He and my mom came from Texarkana, Texas and Texarkana, Arkansas. My dad left the South first, after he got into a conflict with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>By Heart</title>
+                  </title-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>On a table at the back of the classroom, I wrote the opening of what would become my first real story. I had just turned eleven, and this classroom was not in Los Angeles, but in Turin, Italy where my father had come to teach during his sabbatical year and where we lived for six months. Three teachers rotated among the fourth- through eighth-graders at Scuola Svizzera. Mrs. Rodoti taught us history, geography, science, and Italian. Miss Lutz taught us arithmetic. Or she did so when she wasn’t crying. Miss Lutz cried often, running from the classroom to sob on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Diving</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>By the time of my talks with Judith, I’d already done some deep diving into myself. I’d spent time with books and subjects I never even dreamed I would study, subjects and books I never knew I could grasp.</p>
+                     <p>This diving started when I first arrived in prison. I told prison staff who interviewed me that I just wanted to do my time, go to school, and be left alone. But I said, if I had to, I would defend myself. I enrolled in the high school and college programs. I took any class the education department had to offer.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Artistic Imperialism</title>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>Are you scared? most people asked when they learned I taught at San Quentin. No, not really. There wasn’t much cause to be scared. First of all, the prison was full of guards, and besides, prisoners didn’t often jeopardize the classes or visits they valued. The main reason I wasn’t frightened, though, wasn’t due to these logical facts but was because Coties, Elmo, Spoon, and the others made me feel welcome, not scared.</p>
+                     <p>Which doesn’t mean that I wasn’t sometimes uncomfortable as a woman in this intensely male—and sexually charged—environment. Nor does it mean I didn’t fret. I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Poet</title>
+                  </title-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>Early morning and I cut down on at least one cigarette a day. I felt Grandfather’s warmth even though he had not made it over the mountains yet. Looking out the barred window, how green the hills and valleys appeared after late rains. In a world of madness, sudden death, and love, the blue skies still seemed placid and unencumbered. I found that, in silence, my head settled down and thoughts were not all over the place but progressed in a unified manner, still twisting, turning, and creating like a stream, but in one flow.</p>
+                     <p>On the prison yard I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Way Out in the Bay</title>
+                  </title-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>As a teenager I longed to be part of Gertrude Stein’s Saturday evening salons at 27 Rue de Fleurus or the gathering of painters and poets at the Cedar Tavern in 1950s New York. The Judith in my imagination didn’t sit in corners observing, didn’t drop food from her cocktail napkin, or trip over her own words. This Judith moved her body like a silky dress hanging on the line in a warm evening breeze, like a dress—as I once read in someone’s description of sexy—one could slink around in. Her mind, too, was loose and agile. I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Godot</title>
+                  </title-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>My senses were on full alert as I felt someone watching me. A thin, blond, white man had his eyes on me. But my instincts told me his gaze was foreign, one of curiosity and not of a negative nature. Judith and Jim told me that the skinny guy was Jan Jonson, a trained actor and director from Sweden. He had come to America to do some stage play called<italic>Waiting for Godot</italic>, written by some Nobel Prize winning playwright, writer, and director named Samuel Beckett.</p>
+                     <p>Jan, with Samuel Beckett’s support and blessings, had done<italic>Waiting for Godot</italic>at Kumla</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Cure for Cancer</title>
+                  </title-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Jan Jonson, director of the San Quentin production of<italic>Waiting for Godot</italic>, seemed a Cedar Tavern type: brilliant and intense, a phenomenal storyteller who had an “economical with the truth” approach to the facts. In Jan’s stories, for example, silent Spoon became a mute man who had not uttered a word for years until the play’s inspiration made him willing, as Pozzo, to roar. Jan told us stories about directing<italic>Godot</italic>at Kumla, Sweden’s maximum security prison. He gave life to each person mentioned including Kumla’s warden, dressed as a Swedish Sinatra, singing “I’ll Do it My Way” to his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Banished</title>
+                  </title-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>I had been banished from San Quentin, the art world Mecca of California prisons with its classes in acting, juggling, visual arts, book binding, animation, music, drumming, and film making, along with the outside artists who came in to teach, grow, share, and learn. Banished from one of the few California prisons that still had a college program; from a data processing training that had been featured on CBS News; from religious programs that brought people from the free world together with prisoners and welcomed me, a sometimes pagan; and from my new friends and family in the Bay Area.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.17</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Write Reckless</title>
+                  </title-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>September, 1988 and rumor had it that San Quentin would soon change from a maximum to a medium security prison. We’d heard these rumors before, but now rumor quickly became fact: men walking the yard one day vanished the next. Spoon—who’d had the courage to go against prison instinct and call attention to himself in<italic>Godot</italic>—was one of the first to be transferred. He sensed he’d be gone shortly after the play was over, and then overnight, he was. No Spoon in class, no Spoon in the spiral staircase, no Spoon at the office door wanting to talk.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.18</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Annotation</title>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>I had hoped to get a letter from Saga in Sweden telling me she was pregnant. We tried on our final overnight visit to make a baby, but it didn’t happen. About a year after she was back home in Sweden, Saga wrote and told me she’d had a baby by a jazz player. I was happy for her, but sad we didn’t create the baby we had longed for.</p>
+                     <p>I dived deeper into playwriting to channel the heavy blows life had been giving my heart and spirit. I read somewhere that to write your best you must read the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.19</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Power or Prison</title>
+                  </title-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>Elmo read<italic>Disguised as a Poem</italic>chapter by chapter as I worked on the book; Spoon and Coties read the manuscript’s penultimate version. I sent the material to everyone else mentioned in the text when I knew the book would be published. I asked each man whether he’d prefer I use his real name or a pseudonym, for permission to use his poems, and to see if he wanted a copy of the book when it appeared. The letters my former students wrote back had a consistent message, one that went something like this: “Thank you for showing us as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.20</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>The Circle</title>
+                  </title-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>The mad, black captain back on B-Yard, Pleasant Valley State Prison, had tried to transfer me to Salinas Valley, a level four prison where there was violence and wasn’t programming. Instead I was sent back to New Folsom—California State Prison-Sacramento.</p>
+                     <p>At New Folsom I sat in an empty cell by myself, which was cool. Jim Carlson, now artist facilitator here, brought some books and paper by. I had not seen Jim in over sixteen years, since<italic>Waiting for Godot</italic>days. We had one of our longest conversations ever. We were both grayer, thinner, and perhaps even wiser. I did</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.21</book-part-id>
+                  <title-group>
+                     <title>Resources</title>
+                  </title-group>
+                  <fpage>193</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.22</book-part-id>
+                  <title-group>
+                     <title>About the Authors</title>
+                  </title-group>
+                  <fpage>197</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt21pxmg9.23</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

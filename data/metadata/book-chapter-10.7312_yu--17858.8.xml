@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt125vwv</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/yu--17858</book-id>
+      <subj-group>
+         <subject content-type="call-number">DS736 .Y867 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">China</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">China</subject>
+         <subj-group>
+            <subject content-type="lcsh">Civilization</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Philosophy</subject>
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Chinese History and Culture</book-title>
+         <subtitle>Sixth Century B.C.E. to Seventeenth Century</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Yü</surname>
+               <given-names>Ying-shih</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="editor">With the editorial assistance of</role>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Chiu-Duke</surname>
+               <given-names>Josephine</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Duke</surname>
+               <given-names>Michael S.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>20</day>
+         <month>09</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="epub">9780231542012</isbn>
+      <isbn content-type="epub">0231542011</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/yu--17858"/>
+      <abstract abstract-type="short">
+         <p>The recipient of the Kluge Prize for lifetime achievement in the humanities and the Tang Prize for "revolutionary research" in Sinology, Ying-shih Yü is a premier scholar of Chinese studies.<italic>Chinese History and Culture</italic>volumes 1 and 2 bring his extraordinary oeuvre to English-speaking readers. Spanning two thousand years of social, intellectual, and political change, the essays in these volumes investigate two central questions through all aspects of Chinese life: what core values sustained this ancient civilization through centuries of upheaval, and in what ways did these values survive in modern times?</p>
+         <p>From Yü Ying-shih's perspective, the Dao, or the Way, constitutes the inner core of Chinese civilization. His work explores the unique dynamics between Chinese intellectuals' discourse on the<italic>Dao</italic>, or moral principles for a symbolized ideal world order, and their criticism of contemporary reality throughout Chinese history. Volume 1 of<italic>Chinese History and Culture</italic>explores how the<italic>Dao</italic>was reformulated, expanded, defended, and preserved by Chinese intellectuals up to the seventeenth century, guiding them through history's darkest turns. Essays incorporate the evolving conception of the soul and the afterlife in pre- and post-Buddhist China, the significance of eating practices and social etiquette, the move toward greater individualism, the rise of the Neo-Daoist movement, the spread of Confucian ethics, and the growth of merchant culture and capitalism. A true panorama of Chinese culture's continuities and transition, Yü Ying-shih's two-volume Chinese History and Culture gives readers of all backgrounds a unique education in the meaning of Chinese civilization.</p>
+      </abstract>
+      <counts>
+         <page-count count="432"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.3</book-part-id>
+                  <title-group>
+                     <title>AUTHOR’S PREFACE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yü</surname>
+                           <given-names>Ying-shih</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.4</book-part-id>
+                  <title-group>
+                     <title>EDITORIAL NOTE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chiu-Duke</surname>
+                           <given-names>Josephine</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Duke</surname>
+                           <given-names>Michael S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.5</book-part-id>
+                  <title-group>
+                     <title>LIST OF ABBREVIATIONS</title>
+                  </title-group>
+                  <fpage>xxi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.6</book-part-id>
+                  <title-group>
+                     <title>CHRONOLOGY OF DYNASTIES</title>
+                  </title-group>
+                  <fpage>xxiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.7</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Between the Heavenly and the Human</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The idea of the “unity of Heaven and man” (<italic>tian ren heyi</italic>天人合一) has been generally regarded as a feature uniquely characteristic of Chinese religious and philosophical imagination. The<italic>tian-ren</italic>polarity as a category of thinking was already essential to Chinese philosophical analy sis in classical antiquity. Thus, in the<italic>Zhuangzi</italic>, the question of where the fine line is to be drawn between “the heavenly” and “the human” is often asked. Zhuangzi’s emphasis on the notion of<italic>tian</italic>was later sharply criticized by Xunzi (ca. 312–230 B.C.E.) as being blinded by the heavenly and insensitive to the human. For</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.8</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Life and Immortality in the Mind of Han China</title>
+                  </title-group>
+                  <fpage>20</fpage>
+                  <abstract>
+                     <p>Confucius once said, “While you do not know life, how can you know about death?”¹ Life and death are among the basic problems with which the traditional Chinese mind has been grappling unceasingly ever since the time of Confucius, and to which various kinds of answers have been given. Especially during the Han Period, these two problems were discussed with even greater enthusiasm, not only because of scholars’ intellectual interest but also because of the existential necessity of the common people.</p>
+                     <p>As the above familiar saying of Confucius suggests, however, in Chinese intellectual history, the emphasis seems to have been</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.9</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>“O Soul, Come Back!”:</title>
+                     <subtitle>A Study in the Changing Conceptions of the Soul and Afterlife in Pre-Buddhist China</subtitle>
+                  </title-group>
+                  <fpage>58</fpage>
+                  <abstract>
+                     <p>In this study, I propose to investigate indigenous Chinese conceptions of the afterlife in the period before the arrival of Buddhism in China. I shall take the ritual of<italic>fu</italic>復, “Summons” or “Recall,” as the point of departure, for in my judgment, this ritual embodied the crystallization of a variety of ideas about human survival after death that had developed in China since high antiquity. After a reconstruction of the ritual of<italic>fu</italic>, I shall proceed to inquire into the origin and development of the notions of<italic>hun</italic>魂 and<italic>po</italic>魄, two pivotal concepts that have been,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.10</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>New Evidence on the Early Chinese Conception of Afterlife</title>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>The spectacular discovery of the three Han tombs at Mawangdui in Changsha, Hunan, in 1972–1974 was indeed an event of singular importance in the history of Han studies. Of the three tombs, 1 and 3 in particular aroused worldwide attention. Tomb 3 is known for its preservation of a large quantity of silk manuscripts, some of which were long assumed lost. Tomb 1 made headline news at the time of its excavation, primarily for the well-preserved body of its occupant, the wife of the Marquis of Dai 噡, who prob ably died around the 168 B.C.E. When the full report</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.11</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>Food in Chinese Culture:</title>
+                     <subtitle>The Han Period (206 B.C.E.–220 C.E.)</subtitle>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>In 558 B.C.E., a nobleman of the Rong people told a Chinese statesman, “Our drink, our food, and our clothes are all different from those of the Chinese states” (<italic>Zuozhuan</italic>[Zuo Commentary to the Spring and Autumn Annals], fourteenth year of Duke Xiang). Thus, in one simple sentence, this Rong nobleman of the Spring and Autumn Period (771–481 B.C.E.) aptly distinguished the Chinese from the non-Chinese. Culture may sometimes be defined as a way of life. If so, can we think of anything more fundamental to a culture than eating and drinking? It is on this assumption that I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.12</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>The Seating Order at the Hong Men Banquet</title>
+                  </title-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>In “Xiang Yu benji” (The Basic Annals of Xiang Yu) in the<italic>Shiji</italic>(Rec ords of the Grand Historian), Sima Qian writes:</p>
+                     <p>Xiang Yu on the same day asked the Lord of Pei [Liu Bang] to stay and join in feasting. Xiang Yu and Xiang Bo sat facing east. Uncle sat facing south. Uncle was Fan Zeng, whom Xiang Yu treated as if he were a younger brother of his father. The Lord of Pei sat facing north, with Zhang Liang in attendance facing west. Fan Zeng several times eyed Xiang Yu, and thrice lifted the jade girdle that he</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.13</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>Individualism and the Neo-Daoist Movement in Wei-Jin China</title>
+                  </title-group>
+                  <fpage>134</fpage>
+                  <abstract>
+                     <p>Both “individualism” and “holism” are Western concepts whose introduction into Chinese intellectual discourse is a matter of only recent historical development.¹ This does not mean, however, that as categories of analy sis these two concepts are totally inapplicable to the study of early Chinese thought. As a matter of fact, we find in the long history of Chinese political and social thought a wide range of views that can be legitimately characterized as either holistic or individualistic. In this study, the Neo-Daoist movement since the end of the Han dynasty will be explored as an example of one type of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.14</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>Intellectual Breakthroughs in the Tang-Song Transition</title>
+                  </title-group>
+                  <fpage>166</fpage>
+                  <abstract>
+                     <p>Viewed from inside and understood in its own terms, the long intellectual tradition of China can be discerned to have three major breakthroughs. The earliest breakthrough took place in classical antiquity around the time of Confucius (551–479 B.C.E.), when vari ous philosophical visions such as the Confucian, the Mohist, and the Daoist began to emerge out of the primeval cultural tradition that the author of the last chapter of the<italic>Zhuangzi</italic>identifies as “the original unity of Heaven and Earth” or, simply, the original<italic>Dao</italic>道. The same author is also the first historian of Chinese thought to introduce the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.15</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>Morality and Knowledge in Zhu Xi’s Philosophical System</title>
+                  </title-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>In a letter to Xiang Anshi 項安世 (Xiang Pingfu 項平父, 1153–1208), Zhu Xi (1130–1200) wrote:</p>
+                     <p>Generally speaking, since the time of Zisi 子思“honoring the moral nature” (<italic>zun dexing</italic>尊德性) and “following the path of inquiry and study” (<italic>dao wenxue</italic>道問學) have been the two basic methods of instruction according to which people are taught to exert themselves.¹ Now, what Zijing 子靜 [Lu Xiangshan 陸象山, 1139–1193] talks about are matters pertaining exclusively to “honoring the moral nature,” whereas in my daily discussions I have placed a greater emphasis on “inquiry and study.” . . . From now on, I ought to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.16</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>Confucian Ethics and Capitalism</title>
+                  </title-group>
+                  <fpage>208</fpage>
+                  <abstract>
+                     <p>Since the publication of<italic>The Protestant Ethic and the Spirit of Capitalism</italic>in 1905 and later in an expanded form in 1920, studies of Max Weber’s thesis have grown into a heavy industry.¹ The main controversy, of course, centers around the “link” between a “Protestant ethic” and the “spirit of capitalism.” By linking the two together, does Weber mean to say there is a definite causal relationship between them? If so, in what sense? Does it mean that Weber is so extreme in his idealistic interpretation of history that he believes “Protestant ethic” to be the necessary and sufficient cause</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.17</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>Business Culture and Chinese Traditions:</title>
+                     <subtitle>Toward a Study of the Evolution of Merchant Culture in Chinese History</subtitle>
+                  </title-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>As indicated by the title, this chapter will relate “business culture” to “Chinese traditions.” To begin with, let me explain briefly what sort of things will be discussed. In the first place, business culture must be distinguished from business itself. The former may be understood as a way of life grown out of the ever-evolving business world that involves ideas, beliefs, values, ethical code, behavior patterns, etc. It is mainly to these cultural aspects, not the business world itself, that I shall address myself. In the second place, from the very beginning, business culture has been an integral part of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.18</book-part-id>
+                  <title-group>
+                     <label>12.</label>
+                     <title>Reorientation of Confucian Social Thought in the Age of Wang Yangming</title>
+                  </title-group>
+                  <fpage>273</fpage>
+                  <abstract>
+                     <p>Wang Yangming (1472–1529) was the center of attention in the Chinese intellectual world from the sixteenth century to the early de cades of the eigh teenth before the rise of Qing philology. During this long period of two and a half centuries, Confucian scholars either argued against him or with him, but rarely without him. I therefore propose to call this period the age of Wang Yangming.</p>
+                     <p>My topic today, however, does not deal primarily with Wang Yangming and his philosophical views, which have been amply and thoroughly examined by other scholars. The task that I set for myself</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.19</book-part-id>
+                  <title-group>
+                     <label>13.</label>
+                     <title>The Intellectual World of Jiao Hong Revisited</title>
+                  </title-group>
+                  <fpage>321</fpage>
+                  <abstract>
+                     <p>Jiao Hong 焦竑 (1540–1620) was an important figure in late Ming intellectual history. In his own day, he was praised for his accomplishments in prose writing as much as for his active interest in Neo-Confucian and Buddhist metaphysics. Since the eighteenth century, however, he has been remembered as a bibliophile and as a pioneer of “evidential research” (<italic>kaozheng</italic>考證). He lived in an age of transition that witnessed many new developments in Chinese society, religion, and in elite as well as popular culture, but he was by no means merely a passive product of this transition. On the contrary, through</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.20</book-part-id>
+                  <title-group>
+                     <label>14.</label>
+                     <title>Toward an Interpretation of the Intellectual Transition in Seventeenth-Century China</title>
+                  </title-group>
+                  <fpage>355</fpage>
+                  <abstract>
+                     <p>This is a review article of<italic>The Unfolding of Neo-Confucianism</italic>(New York: Columbia University Press, 1975), edited by William Theodore de Bary and the Conference on Seventeenth-Century Chinese Thought.</p>
+                     <p>
+                        <italic>The Unfolding of Neo-Confucianism</italic>(hereafter<italic>Unfolding</italic>) is a product of a conference held at the Villa Serbelloni, Bellagio, Italy, in September 1970. This book consists of thirteen essays, as follows: Araki Kengo, “Confucianism and Buddhism in the Late Ming”; Pei-yi Wu, “The Spiritual Autobiography of Tech’ing (Deqing)”; Kristin Yü Greenblatt, “Chu-hung (Zhuhong) and Lay Buddhism in the Late Ming”; Wm. Theodore de Bary, “Neo-Confucian Cultivation and the Seventeenth-Century ‘Enlightenment’”; Richard John</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.21</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>375</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.22</book-part-id>
+                  <title-group>
+                     <title>APPENDIX:</title>
+                     <subtitle>ADDRESS OF PROFESSOR YING- SHIH YÜ ON THE OCCASION OF RECEIVING THE JOHN W. KLUGE PRIZE AT THE LIBRARY OF CONGRESS AND AC CEP TANCE SPEECH ON THE OCCASION OF RECEIVING THE TANG PRIZE FOR SINOLOGY</subtitle>
+                  </title-group>
+                  <fpage>377</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">yu--17858.23</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>383</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

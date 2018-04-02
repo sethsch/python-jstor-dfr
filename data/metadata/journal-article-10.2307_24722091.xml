@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revuhistlittfran</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000682</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Revue d'Histoire littéraire de la France</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Société d'Histoire littéraire de la France</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00352411</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">21052689</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">24722091</article-id>
+         <title-group>
+            <article-title>BIBLIOGRAPHIE DE LA LITTÉRATURE FRANÇAISE (XVI<sup>e</sup>-XXI<sup>e</sup>SIÈCLES). Année 2013</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Marie</given-names>
+                  <surname>GALVEZ</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2014</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">114</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i24722088</issue-id>
+         <fpage>11</fpage>
+         <lpage>761</lpage>
+         <page-range>11-709, 711-761</page-range>
+         <permissions>
+            <copyright-statement>© Presses Universitaires de France 2014</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/24722091"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>fre</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

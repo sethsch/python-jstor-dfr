@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1xcs2b</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Melancholy Drift</book-title>
+         <subtitle>Marking Time in Chinese Cinema</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Ma</surname>
+               <given-names>Jean</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>06</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9789888028054</isbn>
+      <isbn content-type="epub">9789882205789</isbn>
+      <publisher>
+         <publisher-name>Hong Kong University Press, HKU</publisher-name>
+         <publisher-loc>Aberdeen, Hong Kong</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Hong Kong University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1xcs2b"/>
+      <abstract abstract-type="short">
+         <p>Ma offers an innovative study of three provocative Chinese directors: Wong Kar-wai, Hou Hsiao-hsien, and Tsai Ming-liang. Focusing on the highly stylized and nonlinear configurations of time in each director's films, she argues that these directors have brought new global respect for Chinese cinema in amplifying motifs of loss, nostalgia, haunting, absence and ephemeral poetics. Hou, Tsai, and Wong all insist on the significance of being out of time, not merely out of place, as a condition of global modernity. Ma argues that their films collectively foreground the central place of contemporary Chinese films in a transnational culture of memory, characterized by a distinctive melancholy that highlights the difficulty of binding together past and present into a meaningful narrative.</p>
+      </abstract>
+      <counts>
+         <page-count count="212"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>An encounter between a man in a crowd and a mysterious woman takes place in the elliptical opening sequence of a Wong Kar-wai film. The sequence unfolds in a crowded bazaar, amid a seemingly endless blur of shops and restaurants joined by labyrinthine walkways. Tracking through the crush of bodies, the camera lingers on a woman garbed in the noirish trappings of a blonde wig, sunglasses, and trench coat and, in another section of the marketplace, a young man with an intent expression on his face. Accompanying these images is a voiceover remarking, “Every day we rub shoulders with other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Time without Measure, Sadness without Cure</title>
+                  </title-group>
+                  <fpage>19</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In an interview conducted shortly after the 1998 release of <italic>Flowers of Shanghai</italic> (<italic>Haishang hua</italic>), set in the aristocratic milieu of the brothels of the late Qing era, Hou Hsiao-hsien responds with amusement to his interlocutor’s invocation of the denizens of the film’s fictive world as figures for the viewer, lulled into a semiconscious state not unlike that of the opiated characters by the hypnotic rhythms of the narrative. “Frankly, my intention was not to hypnotize the audience,” the director says, but concedes that the film does indeed “resemble a dream from which one has just awakened. I think that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Photography’s Absent Times</title>
+                  </title-group>
+                  <fpage>51</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>A City of Sadness</italic> marks the end of a cycle of biographically inflected films directed by Hou Hsiao-hsien in the mid-1980s, with which he established his reputation as a leading figure of the Taiwanese New Cinema.¹ The themes of adolescence, generational conflict and alienation, and urbanization explored in this cycle are drawn from the life experiences of the director himself as well as his collaborators, screenwriters Wu Nien-jen and Chu T’ien-wen. Hou identifies <italic>A City of Sadness</italic> with a new stage in his filmmaking, one characterized by an expansion of the historical concerns latent in the interwoven biographies of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Post-Classical Art Film</title>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The rise of contemporary Chinese cinema as a novel art cinema appears in many respects a self-evident fact. That is, the most notable and widely recognized films of what have been called the New Chinese Cinemas circulate through the well-worn channels of distribution and reception carved out by the first wave of art cinema of the 1950s and 1960s, embodied in the Nouvelle Vague, Italian neorealism, and Young German Cinema, among other national movements. Paralleling these earlier movements, the identity of the New Chinese Cinemas depends upon a global circuit of film festivals and arthouse theaters functioning both as an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Haunted Movie Theater</title>
+                  </title-group>
+                  <fpage>95</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Tsai Ming-liang defies easy categorization as a filmmaker. In the course of his career, he has developed a highly distinctive minimalist narrative approach distinguished by its rigorous use of the long take, often used to frame scenes that are nearly devoid of movement, dialogue, and expression. Yet at the same time, other prominent components of his authorial style seem to clash with this pareddown aesthetic — for instance, the colorful song-and-dance numbers interspersed throughout <italic>The Hole</italic> and lip-synched by Lee Kang-sheng and Yang Kuei-mei, jarringly set against its otherwise austere and apocalyptic narrative. A similar sense of dissonance is produced by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Chance Encounters and Compulsive Returns</title>
+                  </title-group>
+                  <fpage>123</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The split-second encounter between the police officer and the blonde-wigged woman in the opening scene of <italic>Chungking Express</italic> condenses many of the motifs and stylistic gestures that distinguish the authorial signature of Hong Kong director Wong Kar-wai. The unpredictable flash of intimacy that surges forth amid the anonymous passage of bodies within a crowded cityscape, the manipulation of profilmic duration by eliminating and reprinting frames, the layering of multiple temporalities and subjective-objective perspectives in the counterpoint of image and sound, the voiceover that reflects, recalls, anticipates — such elements recur across Wong’s corpus, eliciting a critical consensus on the director’s standing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.10</book-part-id>
+                  <title-group>
+                     <title>Coda</title>
+                  </title-group>
+                  <fpage>147</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The expansiveness of Wong Kar-wai’s approach to intertextuality, citation, and borrowing, along with the dense cross-cultural, cross-medial matrix in which his films are situated suggest another angle on the director’s position within the tradition of art cinema. If Wong’s films signal the endpoint of the modernist project aligned with this tradition, the destruction of the idea of the auteur imbedded within it, as Sam Rohdie maintains, if they indeed indicate that “in the present conjuncture something new is happening,” then what is this something new?¹ Rohdie delineates this displacement chiefly in terms of what is left behind; insofar as Wong’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.11</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>151</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.12</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>175</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcs2b.13</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>193</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

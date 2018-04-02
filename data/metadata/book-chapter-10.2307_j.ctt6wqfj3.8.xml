@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqfj3</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN6790.J3 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Comic books, strips, etc.</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Comic books, strips, etc.</subject>
+         <subj-group>
+            <subject content-type="lcsh">Religious aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Animated films</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Animated films</subject>
+         <subj-group>
+            <subject content-type="lcsh">Religious aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">Religion</subject>
+            <subj-group>
+               <subject content-type="lcsh">21st century</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Drawing on Tradition</book-title>
+         <subtitle>Manga, Anime, and Religion in Contemporary Japan</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Thomas</surname>
+               <given-names>Jolyon Baraka</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>08</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824835897</isbn>
+      <isbn content-type="epub">9780824865863</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqfj3"/>
+      <abstract abstract-type="short">
+         <p>Manga and anime (illustrated serial novels and animated films) are highly influential Japanese entertainment media that boast tremendous domestic consumption as well as worldwide distribution and an international audience.<italic>Drawing on Tradition</italic>examines religious aspects of the culture of manga and anime production and consumption through a methodological synthesis of narrative and visual analysis, history, and ethnography. Rather than merely describing the incidence of religions such as Buddhism or Shinto in these media, Jolyon BarakaThomas shows that authors and audiences create and re-create "religious frames of mind" through their imaginative and ritualized interactions with illustrated worlds. Manga and anime therefore not only contribute to familiarity with traditional religious doctrines and imagery, but also allow authors, directors, and audiences to modify and elaborate upon such traditional tropes, sometimes creating hitherto unforeseen religious ideas and practices.The book takes play seriously by highlighting these recursive relationships between recreation and religion, emphasizing throughout the double sense of play as entertainment and play as adulteration (i.e., the whimsical or parodic representation of religious figures, doctrines, and imagery). Building on recent developments in academic studies of manga and anime-as well as on recent advances in the study of religion as related to art and film-Thomas demonstrates that the specific aesthetic qualities and industrial dispositions of manga and anime invite practices of rendition and reception that can and do influence the ways that religious institutions and lay authors have attempted to captivate new audiences.<italic>Drawing on Tradition</italic>will appeal to both the dilettante and the specialist: Fans and self-professed otaku will find an engaging academic perspective on often overlooked facets of the media and culture of manga and anime, while scholars and students of religion will discover a fresh approach to the complicated relationships between religion and visual media, religion and quotidian practice, and the putative differences between "traditional" and "new" religions.9 illus.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.4</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.5</book-part-id>
+                  <title-group>
+                     <title>CONVENTIONS</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.6</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                     <subtitle>Religious Frames of Mind</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The 20 March 1995 poisonous gas attack on the Tokyo subway system perpetrated by the religious group Aum Shinrikyō irrevocably changed the Japanese religious landscape. Armed with plastic bags of liquid sarin (a deadly nerve agent) wrapped in newspaper, members of the group’s inner elite boarded multiple trains that were converging on Kasumigaseki Station in central Tokyo. In the midst of the rapidly crowding trains, the Aum members punctured the bags with sharpened umbrellas, quickly debarked, and hastened to their rendezvous destination. The liquid evaporated and spread through the train cars, killing twelve, injuring hundreds, and mildly affecting thousands. Already</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Visualizing Religion</title>
+                  </title-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>Just as a<italic>mangaka</italic>juxtaposes a series of discrete panels to create a comprehensive story, in the first half of this chapter I juxtapose several brief sketches of notable technological innovations in Japanese illustrated media to narrate the history of some stylistic, topical, and industrial tendencies that have come to characterize contemporary manga and anime culture. While I resist the presentist urge to equate earlier illustrated narrative media like premodern<italic>emaki</italic>and early modern illustrated novels (<italic>kibyoshi</italic>) with modern manga and anime, I argue that there are important similarities in the ways in which contemporary producers and premodern proselytizers and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Recreating Religion</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>When I traveled back to Japan on a research trip in 2009 after two years away, two manga were prominently displayed in bookstores around Tokyo and Kyoto. One of these was the third volume of<italic>Saint Young Men</italic>(<italic>Seinto oniisan</italic>), a comical depiction of Jesus and Śākyamuni (the historical Buddha) living as roommates in Tachikawa, a suburb west of Tokyo.¹ The other was<italic>On the Emperor</italic>(<italic>Tennoron</italic>) by Kobayashi Yoshinori, the cover of which featured the prominent statement: “Even today, the emperor is praying for your sake.”² Both manga were clearly selling many copies. There were diminishing stacks conveniently located</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Entertaining Religious Ideas</title>
+                  </title-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>In this chapter I perform a detailed case study of several anime by an influential director, showing ways in which audience interpretations—including academic interpretations—of certain films as products deriving from directors’ religious motivations or as media for imparting religious messages can be fruitfully juxtaposed with directors’ reflexive statements about their own work. I focus on the oeuvre of director Miyazaki Hayao because of its domestic and international box office success and critical acclaim. Miyazaki’s work has also attracted a great deal of scholarly attention, allowing me to conduct a critical appraisal of some prevailing tendencies in foregoing academic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Depicting Religions on the Margins</title>
+                  </title-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>It is difficult to discuss religion in contemporary Japan without addressing the influence of Aum Shinrikyō, the infamous group responsible for the sarin gas attack on the Tokyo subway system in March of 1995. In the aftermath of the attack, religions—particularly religions of recent provenance—came to be popularly associated with violence, brainwashing, and fraud.¹ While attitudes towards religions were not overwhelmingly positive in Japan prior to March 1995, Aum has undoubtedly contributed to the perpetuation of negative images of religions since.²</p>
+                     <p>This chapter examines some manga and anime that influenced Aum doctrine during the expansion of the group</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.11</book-part-id>
+                  <title-group>
+                     <title>CLOSURE</title>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Manga and anime reflect the protean—and often conflicting—interests of the people who produce and consume them. Although they are often simply sources of profit for producers and diversion for audiences, they sometimes feature moving pictures and stories that may animate audiences, prompting the creation or perpetuation of religious frames of mind. The religious aspects of manga and anime culture are visible in the ways in which people visualize religious worlds, entertain religious ideas, and appropriate religious sites and concepts for novel purposes.</p>
+                     <p>Creators of popular illustrated fiction re-create religion by depicting apparently religious themes—characters, settings, plots—in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.12</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>157</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.13</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>175</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.14</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>189</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqfj3.15</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

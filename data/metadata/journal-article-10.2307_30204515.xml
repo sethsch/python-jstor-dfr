@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">comphuma</journal-id>
+         <journal-id journal-id-type="jstor">j50000341</journal-id>
+         <journal-title-group>
+            <journal-title>Computers and the Humanities</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Kluwer Academic Publishers</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00104817</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">30204515</article-id>
+         <title-group>
+            <article-title>The Not-So-Simple Art of Imitation: Pastiche, Literary Style, and Raymond Chandler</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Lee</given-names>
+                  <surname>Sigelman</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>William</given-names>
+                  <surname>Jacoby</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1996</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">30</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i30204512</issue-id>
+         <fpage>11</fpage>
+         <lpage>28</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1996 Kluwer Academic Publishers</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/30204515"/>
+         <abstract>
+            <p>This analysis extends the tools of statistical analysis to the challenging task of distinguishing between genuine works by an author, the preeminent American writer of mysteries, Raymond Chandler, and deliberate attempts by others to mimic the author's style. Rendering the task all the more challenging, the analysis focuses exclusively on the main elements of Chandler's style rather than on his minor but telling stylistic idiosyncrasies. Statistical analysis establishes that indicators of these stylistic elements can successfully detect the pastiches.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>statistical analysis</kwd>
+            <kwd>stylistic analysis</kwd>
+            <kwd>style</kwd>
+            <kwd>Raymond Chandler</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Notes</title>
+         <ref id="d8e187a1310">
+            <label>1</label>
+            <mixed-citation id="d8e194" publication-type="other">
+Mosteller and Wallace (1984)</mixed-citation>
+         </ref>
+         <ref id="d8e201a1310">
+            <label>2</label>
+            <mixed-citation id="d8e210" publication-type="other">
+Gross (1978)</mixed-citation>
+            <mixed-citation id="d8e216" publication-type="other">
+MacShane (1976, 1981)</mixed-citation>
+            <mixed-citation id="d8e223" publication-type="other">
+Speir
+(1981)</mixed-citation>
+         </ref>
+         <ref id="d8e233a1310">
+            <label>3</label>
+            <mixed-citation id="d8e240" publication-type="other">
+Forexample, Durham (1963)</mixed-citation>
+            <mixed-citation id="d8e246" publication-type="other">
+Ten
+Percent of Life, by the Uruguayan novelist Hiber Conteris (1987)</mixed-citation>
+            <mixed-citation id="d8e255" publication-type="other">
+Hard-Boiled Wonderland and the End of the World by the Japanese
+writer Haruki Murakami (1991)</mixed-citation>
+         </ref>
+         <ref id="d8e265a1310">
+            <label>5</label>
+            <mixed-citation id="d8e272" publication-type="other">
+Apostolou, 1984</mixed-citation>
+            <mixed-citation id="d8e278" publication-type="other">
+Mills, 1990</mixed-citation>
+         </ref>
+         <ref id="d8e286a1310">
+            <label>7</label>
+            <mixed-citation id="d8e295" publication-type="other">
+100 Cooper Court, Los Gatos, CA 95030</mixed-citation>
+            <mixed-citation id="d8e301" publication-type="other">
+P.O. Box 5786, Bellevue, WA 98006</mixed-citation>
+            <mixed-citation id="d8e308" publication-type="other">
+L. Crew
+(P.O. Box 64839, Chicago, IL 60664)</mixed-citation>
+         </ref>
+         <ref id="d8e318a1310">
+            <label>8</label>
+            <mixed-citation id="d8e325" publication-type="other">
+Cawelti (1976)</mixed-citation>
+            <mixed-citation id="d8e331" publication-type="other">
+Madden (1968)</mixed-citation>
+            <mixed-citation id="d8e337" publication-type="other">
+Marling (1986)</mixed-citation>
+            <mixed-citation id="d8e344" publication-type="other">
+Newlin (1985)</mixed-citation>
+            <mixed-citation id="d8e350" publication-type="other">
+Wolfe (1985)</mixed-citation>
+         </ref>
+         <ref id="d8e357a1310">
+            <label>11</label>
+            <mixed-citation id="d8e364" publication-type="other">
+Takane,
+Young, and DeLeeuw, 1977</mixed-citation>
+            <mixed-citation id="d8e373" publication-type="other">
+Young, Takane, and Lewyckyj, 1979</mixed-citation>
+         </ref>
+      </ref-list>
+      <ref-list>
+         <title>References</title>
+         <ref id="d8e389a1310">
+            <mixed-citation id="d8e393" publication-type="other">
+Amis, Martin. "Sin Has Come a Long Way Since 1939 [Review of
+Robert B. Parker, Perchance to Dream]". New York Times Book
+Review (January 27, 1991), 9.</mixed-citation>
+         </ref>
+         <ref id="d8e406a1310">
+            <mixed-citation id="d8e410" publication-type="other">
+Antosch, Friederike. "The Diagnosis of Literary Style with the
+Verb-adjective Ratio". In Statistics and Stylistics. Eds. Lubomir
+Dolezel and Richard W. Bailey. New York: American Elsevier,
+1969, pp. 57-65.</mixed-citation>
+         </ref>
+         <ref id="d8e426a1310">
+            <mixed-citation id="d8e430" publication-type="other">
+Apostolou, John L. A.K.A. Philip Marlowe. The Armchair Detective
+(Spring 1984), 201-202.</mixed-citation>
+         </ref>
+         <ref id="d8e440a1310">
+            <mixed-citation id="d8e444" publication-type="other">
+Arden, Leon. "A Knock at the Backdoor of Art: The Entrance of
+Raymond Chandler". In Art in Crime Writing: Essays on Detec-
+tive Fiction. Ed. Bernard Benstock. New York: St. Martin's, 1983.
+pp.73-96.</mixed-citation>
+         </ref>
+         <ref id="d8e461a1310">
+            <mixed-citation id="d8e465" publication-type="other">
+Baker, Robert A. and Michael T. Nietzel. Private Eyes:One Hundred
+and One Knights - A Survey of American Detective Fiction
+1922-1984. Bowling Green, OH: Bowling Green State Univer-
+sity Popular Press, 1985.</mixed-citation>
+         </ref>
+         <ref id="d8e481a1310">
+            <mixed-citation id="d8e485" publication-type="other">
+Barzun, Jacques. "The Aesthetics of the Criminous". American
+Scholar, 53 (Spring, 1984), 239-241.</mixed-citation>
+         </ref>
+         <ref id="d8e495a1310">
+            <mixed-citation id="d8e499" publication-type="other">
+Boder, David P. "The Adjective-verb Quotient: A Contribution to
+the Psychology of Language". Psychological Record, 3 (1940),
+310-43.</mixed-citation>
+         </ref>
+         <ref id="d8e512a1310">
+            <mixed-citation id="d8e516" publication-type="other">
+Breen, Jon L. Hair of the Sleuthhound: Parodies of Mystery Fiction.
+Metuchen, NJ: Scarecrow Press, 1982.</mixed-citation>
+         </ref>
+         <ref id="d8e526a1310">
+            <mixed-citation id="d8e530" publication-type="other">
+Brett, Simon. "Stardust Kill". In Raymond Chandler's Philip
+Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf, 1988,
+pp. 194-205.</mixed-citation>
+         </ref>
+         <ref id="d8e543a1310">
+            <mixed-citation id="d8e547" publication-type="other">
+Bridgman, Richard. The Colloquial Style in America. New York:
+Oxford University Press, 1966.</mixed-citation>
+         </ref>
+         <ref id="d8e558a1310">
+            <mixed-citation id="d8e562" publication-type="other">
+Busemann, A. Die Sprache der Jugend als Ausdruck der Entwick-
+lungsrhythmik. Jena: Fischer, 1925.</mixed-citation>
+         </ref>
+         <ref id="d8e572a1310">
+            <mixed-citation id="d8e576" publication-type="other">
+Cameron, Paul. "Frequency and Kinds of Words in Various Social
+Settings, or What the Hell's Going On?" Pacific Sociological
+Review, 12 (Fall, 1969), 101-104.</mixed-citation>
+         </ref>
+         <ref id="d8e589a1310">
+            <mixed-citation id="d8e593" publication-type="other">
+Campbell, Robert. "Mice". In Raymond Chandler's Philip Marlowe.
+Ed. Byron Preiss. New York: Alfred A. Knopf, 1988, pp. 328-39.</mixed-citation>
+         </ref>
+         <ref id="d8e603a1310">
+            <mixed-citation id="d8e607" publication-type="other">
+Carper, Steve, ed. The Defective Detective: Mystery Parodies by the
+Great Humorists. New York: Citadel Press, 1992.</mixed-citation>
+         </ref>
+         <ref id="d8e617a1310">
+            <mixed-citation id="d8e621" publication-type="other">
+Cawelti, John G. Adventure, Mystery, and Romance: Formula
+Stories as Art and Popular Culturee. Chicago: University of
+Chicago Press, 1976.</mixed-citation>
+         </ref>
+         <ref id="d8e634a1310">
+            <mixed-citation id="d8e638" publication-type="other">
+Champlin, Charles. "Bloody Sunday [Review of Raymond Chandler
+and Robert B. Parker, Poodle Springs]".Los Angeles Times Book
+Review (October 8, 1989), 10.</mixed-citation>
+         </ref>
+         <ref id="d8e652a1310">
+            <mixed-citation id="d8e656" publication-type="other">
+Chandler, Raymond. "Finger Man". BlackMask, 17 (October, 1934),
+8-38.</mixed-citation>
+         </ref>
+         <ref id="d8e666a1310">
+            <mixed-citation id="d8e670" publication-type="other">
+Chandler, Raymond. "Goldfish". Black Mask, 19 (June, 1936), 10-
+35.</mixed-citation>
+         </ref>
+         <ref id="d8e680a1310">
+            <mixed-citation id="d8e684" publication-type="other">
+Chandler, Raymond. "Red Wind". Dime Detective, 26 (January,
+1938), 40-70.</mixed-citation>
+         </ref>
+         <ref id="d8e694a1310">
+            <mixed-citation id="d8e698" publication-type="other">
+Chandler, Raymond. The Big Sleep. New York: Alfred A. Knopf,
+1939.</mixed-citation>
+         </ref>
+         <ref id="d8e708a1310">
+            <mixed-citation id="d8e712" publication-type="other">
+Chandler, Raymond. "Trouble is My Business". Dime Detective, 31
+(August, 1939), 42-76.</mixed-citation>
+         </ref>
+         <ref id="d8e722a1310">
+            <mixed-citation id="d8e726" publication-type="other">
+Chandler, Raymond. Farewell, My Lovely. New York: Alfred A.
+Knopf, 1940.</mixed-citation>
+         </ref>
+         <ref id="d8e737a1310">
+            <mixed-citation id="d8e741" publication-type="other">
+Chandler, Raymond. The High Window. New York: Alfred A. Knopf,
+1942.</mixed-citation>
+         </ref>
+         <ref id="d8e751a1310">
+            <mixed-citation id="d8e755" publication-type="other">
+Chandler, Raymond. The Lady in the Lake. New York: Alfred A.
+Knopf, 1943.</mixed-citation>
+         </ref>
+         <ref id="d8e765a1310">
+            <mixed-citation id="d8e769" publication-type="other">
+Chandler, Raymond. The Little Sister. London: Hamish Hamilton,
+1949.</mixed-citation>
+         </ref>
+         <ref id="d8e779a1310">
+            <mixed-citation id="d8e783" publication-type="other">
+Chandler, Raymond. The Long Goodbye. London: Hamish
+Hamilton, 1953.</mixed-citation>
+         </ref>
+         <ref id="d8e793a1310">
+            <mixed-citation id="d8e797" publication-type="other">
+Chandler, Raymond. Playback. London: Hamish Hamilton, 1958.</mixed-citation>
+         </ref>
+         <ref id="d8e804a1310">
+            <mixed-citation id="d8e808" publication-type="other">
+Chandler, Raymond. 1959. "Marlowe Takes on the Syndicate".
+London Daily Mail (6 April): 4; (7 April): 4; (8 April): 8; (9
+April): 4; (10 April): 4.</mixed-citation>
+         </ref>
+         <ref id="d8e822a1310">
+            <mixed-citation id="d8e826" publication-type="other">
+Chandler, Raymond. "The Poodle Springs Story". In Raymond
+Chandler Speaking.Eds. Dorothy Gardiner and Katherine Sorley
+Walker. Boston: Houghton Mifflin, 1962, pp. 251-264.</mixed-citation>
+         </ref>
+         <ref id="d8e839a1310">
+            <mixed-citation id="d8e843" publication-type="other">
+Chandler, Raymond and Robert B. Parker. Poodle Springs. New
+York: Putnam, 1989.</mixed-citation>
+         </ref>
+         <ref id="d8e853a1310">
+            <mixed-citation id="d8e857" publication-type="other">
+Collins, Max A. "The Perfect Crime". In Raymond Chandler's Philip
+Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf, 1988,
+pp. 2-23.</mixed-citation>
+         </ref>
+         <ref id="d8e870a1310">
+            <mixed-citation id="d8e874" publication-type="other">
+Conrad, Peter. "The Private Dick as Dandy [Review of Miriam
+Gross, ed. The World of Raymond Chandler], and Frank
+McShane, ed. Raymond Chandler: The Notebooks and English
+Summer: A Gothic Romance". Times Literary Supplement
+(January 20, 1978), 60.</mixed-citation>
+         </ref>
+         <ref id="d8e893a1310">
+            <mixed-citation id="d8e897" publication-type="other">
+Conteris, Hiber. Ten Percent of Life. Trans. Debora Bergman. New
+York: Simon &amp; Schuster, 1987.</mixed-citation>
+         </ref>
+         <ref id="d8e907a1310">
+            <mixed-citation id="d8e911" publication-type="other">
+Craig, H. A. L. "The Whiskey of Affliction: On the Pistols and
+Pieties of Raymond Chandler". The Listener, 46 (September 27,
+1951),513, 515.</mixed-citation>
+         </ref>
+         <ref id="d8e925a1310">
+            <mixed-citation id="d8e929" publication-type="other">
+Crais, Robert. "The Man Who Knew Dick Bong". In Raymond
+Chandler's Philip Marlowe. Ed. Byron Preiss. New York: Alfred
+A. Knopf, 1988, pp. 232-51.</mixed-citation>
+         </ref>
+         <ref id="d8e942a1310">
+            <mixed-citation id="d8e948" publication-type="other">
+Dolezel, Lubomir. "A Framework for the Statistical Analysis of
+Style". In Statistics and Stylistics. Eds. Lubomir Dolezel and
+Richard W. Bailey. New York: American Elsevier, 1969, pp. 10-
+25.</mixed-citation>
+         </ref>
+         <ref id="d8e964a1310">
+            <mixed-citation id="d8e968" publication-type="other">
+Dooley, Dennis. Dashiell Hammett. New York: Frederick Ungar,
+1984.</mixed-citation>
+         </ref>
+         <ref id="d8e978a1310">
+            <mixed-citation id="d8e982" publication-type="other">
+Durham, Philip. Down These Mean Streets a Man Must Go: Ray-
+mond Chandler's Knightt. Chapel Hill, NC: University of North
+Carolina Press, 1963.</mixed-citation>
+         </ref>
+         <ref id="d8e995a1310">
+            <mixed-citation id="d8e999" publication-type="other">
+Ellegard, Alvar. A Statistical Method for Determining Authorship:
+The Junius Letters, 1769-1772. Goteborg: Goteborg University,
+1962.</mixed-citation>
+         </ref>
+         <ref id="d8e1012a1310">
+            <mixed-citation id="d8e1016" publication-type="other">
+Estleman, Loren D. 1988. "Gun Music". In Raymond Chandler's
+Philip Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf,
+1988, pp. 36-49.</mixed-citation>
+         </ref>
+         <ref id="d8e1030a1310">
+            <mixed-citation id="d8e1034" publication-type="other">
+Fass, Dan. "*met: A Method for Discriminating Metonymy and
+Metaphor by Computer". Computational Linguistics, 17, (March,
+1991), 49-90.</mixed-citation>
+         </ref>
+         <ref id="d8e1047a1310">
+            <mixed-citation id="d8e1051" publication-type="other">
+Flesch, Rudolf. The Art of Readable Writing. New York: Harper &amp;
+Row, 1974.</mixed-citation>
+         </ref>
+         <ref id="d8e1061a1310">
+            <mixed-citation id="d8e1065" publication-type="other">
+Foote, Russell and Jack Woodward. "A Preliminary Investigation of
+Obscene Language". Journal of Psychology, 83 (March, 1973),
+263-275.</mixed-citation>
+         </ref>
+         <ref id="d8e1078a1310">
+            <mixed-citation id="d8e1082" publication-type="other">
+Francis, W. Nelson and Henry Kucera. Frequency Analysis of
+English Usage: Lexicon and Grammar. Boston: Houghton
+Mifflin, 1982.</mixed-citation>
+         </ref>
+         <ref id="d8e1095a1310">
+            <mixed-citation id="d8e1099" publication-type="other">
+Friedman, Mickey, comp. The Crown Crime Companion: The Top
+100 Mystery Novels of All Time. New York: Crown, 1995.</mixed-citation>
+         </ref>
+         <ref id="d8e1109a1310">
+            <mixed-citation id="d8e1113" publication-type="other">
+Gardiner, Dorothy and Kathrine Sorley Walker. Raymond Chandler
+Speaking. Boston: Houghton Mifflin, 1962.</mixed-citation>
+         </ref>
+         <ref id="d8e1124a1310">
+            <mixed-citation id="d8e1128" publication-type="other">
+Geherin, David. Sons of Sam Spade: The Private Eye Novel in the
+70s. New York: Frederick Ungar, 1980.</mixed-citation>
+         </ref>
+         <ref id="d8e1138a1310">
+            <mixed-citation id="d8e1142" publication-type="other">
+Gorman, Ed. "The Alibi". In Raymond Chandler's Philip Marlowe.
+Ed. Byron Preiss. New York: Alfred A. Knopf, 1988, pp. 286-97.</mixed-citation>
+         </ref>
+         <ref id="d8e1152a1310">
+            <mixed-citation id="d8e1156" publication-type="other">
+Grady, James. "The Devil's Playground". In Raymond Chandler's
+Philip Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf,
+1988, pp. 298-315.</mixed-citation>
+         </ref>
+         <ref id="d8e1169a1310">
+            <mixed-citation id="d8e1173" publication-type="other">
+Gross, Miriam, ed. The World of Raymond Chandler. New York:
+A&amp;W Publishers, 1978.</mixed-citation>
+         </ref>
+         <ref id="d8e1183a1310">
+            <mixed-citation id="d8e1187" publication-type="other">
+Harrington, Joyce. "Saving Grace". In Raymond Chandler's Philip
+Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf, 1988,
+pp. 50-67.</mixed-citation>
+         </ref>
+         <ref id="d8e1200a1310">
+            <mixed-citation id="d8e1204" publication-type="other">
+Hart, Roderick P. Verbal Style and the Presidency: A Computer-
+Based Analysis. New York: Academic Press, 1984.</mixed-citation>
+         </ref>
+         <ref id="d8e1215a1310">
+            <mixed-citation id="d8e1219" publication-type="other">
+Healy, Jeremiah. "In the Line of Duty". In Raymond Chandler's
+Philip Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf,
+1988, pp. 268-84.</mixed-citation>
+         </ref>
+         <ref id="d8e1232a1310">
+            <mixed-citation id="d8e1236" publication-type="other">
+Hoch, Edward D. "Essence d'Orient". In Raymond Chandler's Philip
+Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf, pp. 254-
+66.</mixed-citation>
+         </ref>
+         <ref id="d8e1249a1310">
+            <mixed-citation id="d8e1253" publication-type="other">
+Kaminsky, Stuart M. "Bitter Lemons". In Raymond Chandler's
+Philip Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf,
+1988, pp. 216-30.</mixed-citation>
+         </ref>
+         <ref id="d8e1266a1310">
+            <mixed-citation id="d8e1270" publication-type="other">
+Kimberley, Nick. "Exquisite Corpses: New Crime Fiction [Review
+of Raymond Chandler and Robert B. Parker, Poodle Springs]".
+New Statesman &amp; Society (May 11, 1990), 34-35.</mixed-citation>
+         </ref>
+         <ref id="d8e1283a1310">
+            <mixed-citation id="d8e1287" publication-type="other">
+Knoerle, John. "Hardboiled Lingo".Mystery (November/December,
+1979), 9, 47.</mixed-citation>
+         </ref>
+         <ref id="d8e1297a1310">
+            <mixed-citation id="d8e1301" publication-type="other">
+Kruskal, Joseph B. "Multidimensional Scaling by Optimizing Good-
+ness of Fit to a Nonmetric Hypothesis". Psychometrika, 29
+(1964), 1-28, 115-29.</mixed-citation>
+         </ref>
+         <ref id="d8e1315a1310">
+            <mixed-citation id="d8e1319" publication-type="other">
+Legman, Gavin. Love &amp; Death: A Study in Censorship. New York:
+Hacker Art Books, 1963.</mixed-citation>
+         </ref>
+         <ref id="d8e1329a1310">
+            <mixed-citation id="d8e1333" publication-type="other">
+Lochte, Dick. "Sad-eyed Blonde". In Raymond Chandler's Philip
+Marlowe. Ed. Bryon Preiss. New York: Alfred A. Knopf, 1988,
+86-102.</mixed-citation>
+         </ref>
+         <ref id="d8e1346a1310">
+            <mixed-citation id="d8e1350" publication-type="other">
+Lochte, Dick. "The Big Snooze [Review of Robert B. Parker,
+Perchance to Dream]". Los Angeles Times Book Review (January
+13, 1991), 3.</mixed-citation>
+         </ref>
+         <ref id="d8e1363a1310">
+            <mixed-citation id="d8e1367" publication-type="other">
+Lutz, John. "Star Bright". In Raymond Chandler's Philip Marlowe.
+Ed. Byron Preiss. New York: Alfred A. Knopf, 1988, pp. 178-90.</mixed-citation>
+         </ref>
+         <ref id="d8e1377a1310">
+            <mixed-citation id="d8e1381" publication-type="other">
+Lord, R. D. "Studies in the History of Probability and Statistics.
+VIII. De Morgan and the Statistical Study of Literary Style".
+Biometrika, 45 (1958), 282.</mixed-citation>
+         </ref>
+         <ref id="d8e1394a1310">
+            <mixed-citation id="d8e1398" publication-type="other">
+MacShane, Frank. The Life of Raymond Chandler. New York: E.P.
+Dutton, 1976.</mixed-citation>
+         </ref>
+         <ref id="d8e1409a1310">
+            <mixed-citation id="d8e1413" publication-type="other">
+MacShane, Frank, ed. The Notebooks of Raymond Chandler. New
+York: Ecco Press, 1976.</mixed-citation>
+         </ref>
+         <ref id="d8e1423a1310">
+            <mixed-citation id="d8e1427" publication-type="other">
+MacShane, Frank, ed. Selected Letters of Raymond Chandler. New
+York: Columbia University Press, 1981.</mixed-citation>
+         </ref>
+         <ref id="d8e1437a1310">
+            <mixed-citation id="d8e1441" publication-type="other">
+Madden, David, ed. Tough Guy Writers of the Thirties. Carbondale:
+Southern Illinois University Press, 1968.</mixed-citation>
+         </ref>
+         <ref id="d8e1451a1310">
+            <mixed-citation id="d8e1455" publication-type="other">
+Marling, William. Raymond Chandler. Boston: Twayne, 1986.</mixed-citation>
+         </ref>
+         <ref id="d8e1462a1310">
+            <mixed-citation id="d8e1466" publication-type="other">
+Martindale, Colin. The Clockwork Muse: The Predictability of
+Artistic Change. New York: Basic Books, 1990.</mixed-citation>
+         </ref>
+         <ref id="d8e1476a1310">
+            <mixed-citation id="d8e1480" publication-type="other">
+McBain, Ed. "Philip Marlowe is Back, and in Trouble [Review of
+Raymond Chandler and Robert B. Parker, Poodle Springs]".New
+York Times Book Review (October 15, 1989), 1, 44-45.</mixed-citation>
+         </ref>
+         <ref id="d8e1494a1310">
+            <mixed-citation id="d8e1498" publication-type="other">
+Meador, Roy. "Chandler in the Thirties: Apprenticeship of an Angry
+Man". Book Forum, 6 (1982), 143-53.</mixed-citation>
+         </ref>
+         <ref id="d8e1508a1310">
+            <mixed-citation id="d8e1512" publication-type="other">
+Mills, Maldwyn. "Chandler's Cannibalism". In Watching the Detec-
+tive: Essays on Crime Fiction. Eds.Ian Bell and Graham Daldry.
+New York: St. Martin's, 1990, pp. 117-33.</mixed-citation>
+         </ref>
+         <ref id="d8e1525a1310">
+            <mixed-citation id="d8e1529" publication-type="other">
+Mosteller, Frederick and David L. Wallace. Applied Bayesian and
+Classical Inference: The Case of The Federalist Papers. New
+York: Springer-Verlag, 1984.</mixed-citation>
+         </ref>
+         <ref id="d8e1542a1310">
+            <mixed-citation id="d8e1546" publication-type="other">
+Murakami, Haruki. Hard-Boiled Wonderland and the End of the
+World. Trans. Alfred Birnbaum. New York: Kodansha Intema-
+tional, 1991.</mixed-citation>
+         </ref>
+         <ref id="d8e1559a1310">
+            <mixed-citation id="d8e1563" publication-type="other">
+Nevins, Francis M. "Consultation in the Dark". In Raymond Chan-
+dler's Philip Marlowe. Ed. Byron Preiss. New York: Alfred A.
+Knopf, 1988, pp. 156-68.</mixed-citation>
+         </ref>
+         <ref id="d8e1576a1310">
+            <mixed-citation id="d8e1580" publication-type="other">
+Newlin, Keith. Hardboiled Burlesque: Raymond Chandler's Comic
+Style. San Bemrnardino, CA: Borgo Press, 1985.</mixed-citation>
+         </ref>
+         <ref id="d8e1591a1310">
+            <mixed-citation id="d8e1595" publication-type="other">
+Ogden, C. K. The System of Basic English. New York: Harcourt,
+Brace, 1934.</mixed-citation>
+         </ref>
+         <ref id="d8e1605a1310">
+            <mixed-citation id="d8e1609" publication-type="other">
+Orel, Harold. "Raymond Chandler's Last Novel: Some Observa-
+tions on the Private Eye Tradition". Central Mississippi Valley
+American Studies Association Journal, 2 (Spring, 1961), 59-63.</mixed-citation>
+         </ref>
+         <ref id="d8e1622a1310">
+            <mixed-citation id="d8e1626" publication-type="other">
+Osgood, Charles E. "Some Effects of Motivation on Style of Encod-
+ing". In Style in Language. Ed. Thomas A. Sebeok. Cambridge:
+MIT Press, 1960, pp. 293-306.</mixed-citation>
+         </ref>
+         <ref id="d8e1639a1310">
+            <mixed-citation id="d8e1643" publication-type="other">
+Paisley, William J. "Identifying the Unknown Communicator in
+Painting, Literature and Music: The Significance of Minor Encod-
+ing Habits". Journal of Communication, 14(1964), 219-37.</mixed-citation>
+         </ref>
+         <ref id="d8e1656a1310">
+            <mixed-citation id="d8e1660" publication-type="other">
+Panek, Leroy Lad. An Introduction to the Detective Story. Bowling
+Green, OH: Bowling Green State University Popular Press, 1987.</mixed-citation>
+         </ref>
+         <ref id="d8e1670a1310">
+            <mixed-citation id="d8e1674" publication-type="other">
+Paretsky, Sara. "Dealer's Choice". In Raymond Chandler's Philip
+Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf, 1988,
+pp. 118-32.</mixed-citation>
+         </ref>
+         <ref id="d8e1688a1310">
+            <mixed-citation id="d8e1692" publication-type="other">
+Parker, Robert B. Perchance to Dream. New York: Putnam, 1991.</mixed-citation>
+         </ref>
+         <ref id="d8e1699a1310">
+            <mixed-citation id="d8e1703" publication-type="other">
+Philbrick, W. R. "The Empty Sleeve". In Raymond Chandler's Philip
+Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf, 1988,
+pp. 104-17.</mixed-citation>
+         </ref>
+         <ref id="d8e1716a1310">
+            <mixed-citation id="d8e1720" publication-type="other">
+Preiss, Byron, ed. Raymond Chandler's Philip Marlowe. New York:
+Alfred A. Knopf, 1988.</mixed-citation>
+         </ref>
+         <ref id="d8e1730a1310">
+            <mixed-citation id="d8e1736" publication-type="other">
+Queen, Ellery. "The Detective Short Story: The First Hundred
+Years". In The Art of the Mystery Story: A Collection of Critical
+Essays. Ed. Howard Haycraft. New York: Simon and Schuster,
+1946, pp.476-91.</mixed-citation>
+         </ref>
+         <ref id="d8e1752a1310">
+            <mixed-citation id="d8e1756" publication-type="other">
+Randisi, Robert. "Locker 246". In Raymond Chandler's Philip
+Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf, 1988,
+pp.206-214.</mixed-citation>
+         </ref>
+         <ref id="d8e1769a1310">
+            <mixed-citation id="d8e1773" publication-type="other">
+Rose, Lloyd. "A Literary Hybrid [Review of Raymond Chandler
+and Robert B. Parker, Poodle Springs]". The Atlantic (October,
+1989), 113-15.</mixed-citation>
+         </ref>
+         <ref id="d8e1787a1310">
+            <mixed-citation id="d8e1791" publication-type="other">
+Schutz, Benjamin M. "The Black-eyed Blonde". In Raymond Chan-
+dler's Philip Marlowe. Ed. Byron Preiss. New York: Alfred A.
+Knopf, 1988, pp. 24-35.</mixed-citation>
+         </ref>
+         <ref id="d8e1804a1310">
+            <mixed-citation id="d8e1808" publication-type="other">
+Seidman, Michael and Otto Penzler. "The Armchair Detective
+Readers Survey". The Armchair Detective, 17 (Spring, 1984),
+128-31.</mixed-citation>
+         </ref>
+         <ref id="d8e1821a1310">
+            <mixed-citation id="d8e1825" publication-type="other">
+Sheppard, R. Z. "Capering [Review of Raymond Chandler and
+Robert B. Parker, Poodle Springs]". Time (October 2, 1989),
+88.</mixed-citation>
+         </ref>
+         <ref id="d8e1838a1310">
+            <mixed-citation id="d8e1842" publication-type="other">
+Simon, Roger L. "In the Jungle of Cities". In Raymond Chandler's
+Philip Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf,
+1988, pp. 170-77.</mixed-citation>
+         </ref>
+         <ref id="d8e1855a1310">
+            <mixed-citation id="d8e1859" publication-type="other">
+Smith, Julie. "Red Rock". In Raymond Chandler's Philip Marlowe.
+Ed. Byron Preiss. New York: Alfred A. Knopf, 1988, pp. 134-44.</mixed-citation>
+         </ref>
+         <ref id="d8e1869a1310">
+            <mixed-citation id="d8e1873" publication-type="other">
+Smith, Julie. "Author's Comment". In Raymond Chandler's Philip
+Marlowe. Ed.Byron Preiss. New York: Alfred A. Knopf, 1988,
+pp. 144-45.</mixed-citation>
+         </ref>
+         <ref id="d8e1887a1310">
+            <mixed-citation id="d8e1891" publication-type="other">
+Solomon, Charles. "Review of Raymond Chandler and Robert
+B. Parker, Poodle Springs". Los Angeles Times Book Review,
+(November 11, 1990), 14.</mixed-citation>
+         </ref>
+         <ref id="d8e1904a1310">
+            <mixed-citation id="d8e1908" publication-type="other">
+Speir, Jerry. Raymond Chandler. New York: Frederick Ungar, 1981.</mixed-citation>
+         </ref>
+         <ref id="d8e1915a1310">
+            <mixed-citation id="d8e1919" publication-type="other">
+Stasio, Marilyn. "Review of Byron Preiss, ed., Raymond Chandler's
+Philip Marlowe". New York Times Book Review, (January 1,
+1989), 23.</mixed-citation>
+         </ref>
+         <ref id="d8e1932a1310">
+            <mixed-citation id="d8e1936" publication-type="other">
+Symons, Julian. Bloody Murder - From the Detective Story to the
+Crime Novel: A History. New York: Viking, 1985.</mixed-citation>
+         </ref>
+         <ref id="d8e1946a1310">
+            <mixed-citation id="d8e1950" publication-type="other">
+Taibo, Paco Ignacio, II. "The Deepest South". In Raymond Chan-
+dler's Philip Marlowe. Ed. Byron Preiss. New York: Alfred A.
+Knopf, 1988, pp. 146-54.</mixed-citation>
+         </ref>
+         <ref id="d8e1963a1310">
+            <mixed-citation id="d8e1967" publication-type="other">
+Takane, Y., F. W. Young and J. de Leeuw. "Nonmetric Individual
+Differences Multidimensional Scaling: An Alternating Least
+Squares Method with Optimal Scaling Features". Psychometrika,
+42 (1977), 7-67.</mixed-citation>
+         </ref>
+         <ref id="d8e1984a1310">
+            <mixed-citation id="d8e1988" publication-type="other">
+Valin, Jonathan. "Malibu Tag Team". In Raymond Chandler's Philip
+Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf, 1988,
+70-82.</mixed-citation>
+         </ref>
+         <ref id="d8e2001a1310">
+            <mixed-citation id="d8e2005" publication-type="other">
+Van Lustbader, Eric. "Asia". In Raymond Chandler's Philip
+Marlowe. Ed. Byron Preiss. New York: Alfred A. Knopf, 1988,
+pp.316-26.</mixed-citation>
+         </ref>
+         <ref id="d8e2018a1310">
+            <mixed-citation id="d8e2022" publication-type="other">
+Williams, C.B. "Studies in the History of Probability and Statis-
+tics. IV. ANnote on an Early Statistical Study of Literary Style".
+Biometrika, 43 (December, 1956), 248-56.</mixed-citation>
+         </ref>
+         <ref id="d8e2035a1310">
+            <mixed-citation id="d8e2039" publication-type="other">
+Wolcott, James. "Raymond Chandler's Smoking Gun". New Yorker,
+71 (September 25, 1995), 99-104.</mixed-citation>
+         </ref>
+         <ref id="d8e2049a1310">
+            <mixed-citation id="d8e2053" publication-type="other">
+Wolfe, Peter. Something More Than Night: The Case of Raymond
+Chandler. Bowling Green, OH: Bowling Green State University
+Popular Press, 1985.</mixed-citation>
+         </ref>
+         <ref id="d8e2066a1310">
+            <mixed-citation id="d8e2070" publication-type="other">
+Young, Forrest W., Y. Takane and R. Lewyckyj. "Three Notes on
+ALSCAL". Psychometrika, 43 (1979), 433-35.</mixed-citation>
+         </ref>
+         <ref id="d8e2081a1310">
+            <mixed-citation id="d8e2085" publication-type="other">
+Yule, G. Udny. The Statistical Study of Literary Vocabulary.
+Cambridge: Cambridge University Press, 1944.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

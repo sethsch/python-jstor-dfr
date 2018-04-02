@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.5749/j.ctt1pwt7kj</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN98.E36 M37 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ecocriticism</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ecology in literature</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ecology in motion pictures</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Ecology without Culture</book-title>
+         <subtitle>Aesthetics for a Toxic World</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Marran</surname>
+               <given-names>Christine L.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>12</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9781517901592</isbn>
+      <isbn content-type="epub">9781452955728</isbn>
+      <isbn content-type="epub">1452955727</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>Minneapolis; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.5749/j.ctt1pwt7kj"/>
+      <abstract abstract-type="short">
+         <p>Cultures have long defined themselves through biological elements to prove their strength and longevity, from cherry blossoms in Japan to amber waves of grain in the United States. In Ecology without Culture, Christine L. Marran introduces the concept of biotropes-material and semiotic figures that exist for human perception-to navigate how and why the material world has proven to be such an effective medium for representing culture. A bold and timely reconsideration of ecocriticism, Ecology without Culture insists on decentering questions of culture to highlight the materiality of poetry, film, and prose fiction.</p>
+         <p>Marran argues that ecocriticism can critique ecological realities more effectively from outside the frame of human exceptionalism. Through discussions of primarily non-Anglophone literature, poetry, and cinema about toxic events in contemporary history- from the depiction of slow violence in documentary by Tsuchimoto Noriaki to the powerful poetry of Ishimure Michiko-Marran argues that ecocriticism must find a way to engage culture without making the perpetuation of ethnos and anthropos the endgame of ecopolitics.</p>
+         <p>Using the biological foundations and geological time scales of textual worlds to more deeply critique cultural humanism, Marran ultimately contends that the chief stumbling block to ecological thinking is not the image of nature, but the image of culture.</p>
+      </abstract>
+      <counts>
+         <page-count count="160"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>[i]</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>[v]</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>Ecology without Culture</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In wu ming-yi’s novel<italic>Man with the Compound Eyes</italic>, mythical island boy Atile’i is banished by his village only to find himself stranded on a strange floating island of colorful material that doesn’t rot. He survives by drinking rainwater caught in plastic bags that are familiar to him from his childhood island home and by eating the flesh of dead turtles bloated with plastic polymers and microbeads. He builds a multiroomed hut of the plentiful material on this floating mass and marvels at his handiwork. He is pleased to have built such a sturdy house with these materials that never</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Obligate Storytelling</title>
+                  </title-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>Storytelling needs matter. Matter is the stuff of the world—stones, ficus trees, ocean currents, bacteria. This chapter identifies a mode of storytelling that foregrounds material relations as fundamental to narrative. I call this form of expression “obligate storytelling,” a kind of storytelling that emphasizes the bond, the fetter, the bowline, the<italic>ligare</italic>, of one being to another at the level of care and substance, of thought and matter. Obligate storytelling is important in an ecological context because it produces a deep sense of relation among its diverse subjects. As philosopher Isabelle Stengers writes, “whenever a being raises the problem of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Slow Violence in Film</title>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>Fukushima author Kido Tamiko wrote the following stanza of a poem called “Fairyland” after the nuclear reactor meltdowns on the northeastern seaboard of Honshu:</p>
+                     <p>The sea where I was born no longer exists.</p>
+                     <p>Waves shine, pungent with the smell of the ocean.</p>
+                     <p>Silver fish jump and flash in this calm and deep place.</p>
+                     <p>Fine sand touches my toes.</p>
+                     <p>The sea is still there, however.¹</p>
+                     <p>In a biotrope of the shining surface of an ocean, Kido treats the sea as both utterly the same and utterly different after radioactive fallout in Fukushima. On the one hand, it is the sea of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Res Nullius:</title>
+                     <subtitle>The Domestic Turn in Environmental Literature</subtitle>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>On march 23, 2015, seventy-two-year-old Endō Shōei did what many environmental refugees of Fukushima do nowadays: he looked at his old home from Google’s street view. After the meltdown of the Fukushima Daiichi reactors, his home in Futaba was designated an “area to which it is difficult to return” for the high levels of radiation fallout.¹ The vague appellation makes it hard for the displaced to sue for damages to their land and homes though hundreds have already begun the process. Endō built his family home in 1983 by financing it with wages earned working on engineering projects for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Literature without Us</title>
+                  </title-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>This book began with a comparison of how two authors responded so differently to seismic shifts on the northeastern seaboard of Japan. Murakami Haruki invoked what I have called the biotrope of the cherry blossom. He tied the pale flower to familiar ethnic national history in his speech on Japan’s ability to rebound from nuclear meltdown. This reference to an intertextual tradition was meant to ease concern about how environmental refugees would fare. Recovery efforts would be successful and the Japanese would prevail. In contrast, Ishimure Michiko spoke of heaving tectonic plates that can and will change the planet in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.8</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>143</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.9</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>147</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.10</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>175</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt7kj.11</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>184</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

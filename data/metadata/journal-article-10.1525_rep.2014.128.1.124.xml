@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">representations</journal-id>
+         <journal-title-group>
+            <journal-title>Representations</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of California Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">07346018</issn>
+         <issn pub-type="epub">1533855X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">rep.2014.128.1.124</article-id>
+         <article-id pub-id-type="doi">10.1525/rep.2014.128.1.124</article-id>
+         <title-group>
+            <article-title>A Blue Cat on the Galactic Railroad</article-title>
+            <subtitle>Anime and Cosmic Subjectivity</subtitle>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Roquet</surname>
+                  <given-names>Paul</given-names>
+               </string-name>
+            </contrib>
+            <bio>
+               <p>PAUL ROQUET is an Andrew W. Mellon Fellow in the Humanities at Stanford University. He is currently finishing a book on ambient media, therapy culture, and the aesthetics of atmosphere in neoliberal Japan.</p>
+            </bio>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <month>11</month>
+            <year>2014</year>
+            <string-date>Fall 2014</string-date>
+         </pub-date>
+         <volume>128</volume>
+         <issue>1</issue>
+         <issue-id>rep.2014.128.issue-1</issue-id>
+         <fpage>124</fpage>
+         <lpage>158</lpage>
+         <permissions>
+            <copyright-statement>© 2014 by The Regents of the University of California</copyright-statement>
+            <copyright-year>2014</copyright-year>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1525/rep.2014.128.1.124"/>
+         <abstract>
+            <p>In the 1980s, Japanese animation shifted its focus away from the social self and toward<italic>cosmic subjectivity</italic>, the framing of intensely personal emotions within the larger impersonal expanse of the universe. This essay examines an important moment in this shift:<italic>Night on the Galactic Railroad</italic>, anime studio Group TAC’s 1985 feature based on the classic Japanese children’s tale by Miyazawa Kenji. The film emphasizes the interpenetration of the microcosmic and macrocosmic through a range of experiments with “limited” animation, sound design, and character design that would in turn influence the imaginary worlds of later anime.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

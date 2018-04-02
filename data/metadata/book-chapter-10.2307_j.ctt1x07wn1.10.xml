@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1tfj8m3</collection-id>
+      <volume>319</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1x07wn1</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL845.B4Z57 2009</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Abe, Kobo, 1924–1993</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Literature and science</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Sublime Voices</book-title>
+         <subtitle>The Fictional Science and Scientific Fiction of Abe Kōbō</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Bolton</surname>
+               <given-names>Christopher</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780674032781</isbn>
+      <isbn content-type="epub">9781684174928</isbn>
+      <isbn content-type="epub">1684174929</isbn>
+      <publisher>
+         <publisher-name>Harvard University Asia Center</publisher-name>
+         <publisher-loc>Cambridge (Massachusetts); London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>The President and Fellows of Harvard College</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1x07wn1"/>
+      <abstract abstract-type="short">
+         <p>Since the 1950s, Abe Kōbō (1924–1993) has achieved an international reputation for his surreal or grotesque brand of avant-garde literature. From his early forays into science fiction to his more mature psychological novels and films, and finally the complicated experimental works produced near the end of his career, Abe weaves together a range of “voices": the styles of science and the language of literary forms. In Abe’s oeuvre, this stylistic interplay links questions of language and subjectivity with issues of national identity and technological development in a way that ultimately aspires to become the catalyst for an artistic revolution. While recognizing the disruptions such a revolution might entail, Abe’s texts embrace these disjunctions as a way of realizing radical new possibilities beyond everyday experience and everyday values. By arguing that the crisis of identity and postwar anomie in Abe’s works is inseparable from the need to marshal these different scientific and literary voices, Christopher Bolton explores how this reconciliation of ideas and dialects is for Abe part of the process whereby texts and individuals form themselves—a search for identity that must take place at the level of the self and society at large.</p>
+      </abstract>
+      <counts>
+         <page-count count="360"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.3</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.4</book-part-id>
+                  <title-group>
+                     <title>Note to the Reader</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                     <subtitle>Abe Kōbō’s Dictionary</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Shortly after the death of the Japanese novelist Abe Kōbō in 1993, his writing studio in Hakone was opened to a television film crew making a documentary about the author. As the camera travels through the room in the resulting film, it pauses momentarily at the bookshelf above Abe’s desk and focuses on a large volume: a scientific dictionary.¹ It is fitting that this should become an icon of Abe’s work, because his texts often include elements drawn from the world of science. His fiction incorporates material from disciplines such as biochemistry, geology, mathematics, and computer programming, to name just</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.6</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Transforming Science:</title>
+                     <subtitle>Metamorphosis in Abe’s Life and Work</subtitle>
+                  </title-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>A young man (a university student, an erstwhile scientist) wakes up one morning to find his world changed. The rules of society are transformed; the people around him are speaking a new language, one familiar and yet different; the landscape outside his window has become unrecognizable. And an alien race has come to power. As he struggles to adjust to these new surroundings, the man slowly realizes that he is also beginning to change. …</p>
+                     <p>This could easily be the beginning to one of the stories by Abe discussed in the Introduction, or it could be a scene from the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.7</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Abe’s Essays and Some Historical Distinctions Between Literature and Science</title>
+                  </title-group>
+                  <fpage>44</fpage>
+                  <abstract>
+                     <p>Since this study attempts to read Abe in the context of the distinctions and tensions between science and literature, it is worth examining in some detail how Abe and other theorists have drawn these distinctions and defined these two realms. This chapter lays that groundwork by examining some of Abe’s essays and placing his ideas in the broader context of the history of science, or more specifically, by investigating the distinctions that have been made between science and literature since the emergence of modern science in the Renaissance.</p>
+                     <p>Among these distinctions is the intuitive idea that science deals with truth</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.8</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Whirring Clicking Poetry:</title>
+                     <subtitle>Inter Ice Age 4</subtitle>
+                  </title-group>
+                  <fpage>76</fpage>
+                  <abstract>
+                     <p>The previous chapters introduced the differing and conflicting styles of science and literature that appear in Abe’s work, and laid out the broad historical and theoretical context for these kinds of distinctions, both in Abe’s life and writings and in the history of science at large. We have now reached a point where we can look in more detail at how these styles come together and how they interact in a particular novel, and how this relates to the specifics of that novel’s history and reception. We begin this more detailed reading of Abe’s novels with<italic>Inter Ice Age 4</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.9</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>The Dialogue of Styles, the Dance of Fiction, and The Face of Another</title>
+                  </title-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>In the novels that Abe wrote after<italic>Inter Ice Age 4</italic>, the crises are played out on a smaller stage, but the stakes are no less high. In<italic>Inter Ice Age 4</italic>, Abe portrays the violent changes that technology brings upon society and humanity, and he links these to changes in language. The personal crises faced by Dr. Katsumi, from the transformation of his son to his own death, are ultimately just reflections of the greater perils faced by society and humanity at large; the reader sees these changes in the world through one man’s frightened eyes. But<italic>Inter Ice</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.10</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>The Hope of Technology and the Technology of Hope in The Woman in the Dunes</title>
+                  </title-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Abe’s best-known novel internationally is one that has less overt scientific content than either<italic>Inter Ice Age 4</italic>or<italic>The Face of Another</italic>. It is<italic>The Woman in the Dunes</italic>, a strange fable about an insect collector who takes a holiday trip to a remote part of the Japanese sea coast, where he is kidnapped by the residents of an odd village and imprisoned with a village woman in a house at the bottom of a sand pit. The novel came to the attention of readers around the world partly because of a celebrated film version scripted by Abe and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.11</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>The Parody, Perversity, and Cacophony of Secret Rendezvous</title>
+                  </title-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>If Abe’s work is defined by a tension between two forces—the need to escape the everyday logic of the collective, and the countervailing desire to connect with the other by finding some common belief or language—then for Abe as a writer, this conflict was matched by a corresponding problem of style: the language and construction of Abe’s novels show a tension between the desire to disrupt the conventions of the novel and novelistic language, and the desire to reach readers in a way they could understand. This was a tightrope that some of Abe’s novels walked more successfully</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.12</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>A Technology of Silence:</title>
+                     <subtitle>The Ark Sakura and the Nuclear Threat</subtitle>
+                  </title-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Secret Rendezvous</italic>traced the frantic acceleration of language in an increasingly electronic society, but not long after the work was completed an extended silence descended on Abe’s writing studio. One could say that Abe’s last fifteen years were dominated by silences, including long gaps between publications and also a novel,<italic>The Ark Sakura</italic>, whose prose style seemed to turn on silence itself.<italic>The Ark Sakura</italic>has been widely misunderstood because the significance of that silence is so ambiguous. But in the context of Abe’s interest in dialogue and technology, it can be read as a reversal—a paradoxical attempt to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>277</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.14</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>299</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1x07wn1.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>333</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

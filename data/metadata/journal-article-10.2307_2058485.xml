@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jasianstudies</journal-id>
+         <journal-id journal-id-type="jstor">j100207</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Asian Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Association for Asian Studies, Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00219118</issn>
+         <issn pub-type="epub">17520401</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2058485</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+               <subj-group>
+                  <subject>Japan</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Cecilia Segawa</given-names>
+                  <surname>Seigle</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>2</month>
+            <year>1990</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">49</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i309703</issue-id>
+         <fpage>161</fpage>
+         <lpage>163</lpage>
+         <page-range>161-163</page-range>
+         <product>
+            <source>A Wild Sheep Chase.</source>
+            <string-name>
+               <given-names>Alfred</given-names>
+               <surname>Birnbaum</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1990 The Association for Asian Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2058485"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,89 @@
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <book-meta>
+      <book-id book-id-type="jstor">resrep06323</book-id>
+      <book-title-group>
+         <book-title>AUM SHINRIKYO:</book-title>
+         <subtitle>INSIGHTS INTO HOW TERRORISTS DEVELOP BIOLOGICAL AND CHEMICAL WEAPONS</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name>
+               <surname>Danzig</surname>
+               <given-names>Richard</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name>
+               <surname>Sageman</surname>
+               <given-names>Marc</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib3">
+            <name>
+               <surname>Leighton</surname>
+               <given-names>Terrance</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib4">
+            <name>
+               <surname>Hough</surname>
+               <given-names>Lloyd</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib5">
+            <name>
+               <surname>Yuki</surname>
+               <given-names>Hidemi</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib6">
+            <name>
+               <surname>Kotani</surname>
+               <given-names>Rui</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib7">
+            <name>
+               <surname>Hosford</surname>
+               <given-names>Zachary M.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>1</day>
+         <month>12</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="">978–1–935087–50–2</isbn>
+      <publisher>
+         <publisher-name>Center for a New American Security</publisher-name>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Center for a New American Security</copyright-holder>
+      </permissions>
+      <self-uri xmlns:xlink="https://www.w3.org/1999/xlink"
+                xlink:href="http://www.jstor.org/stable/resrep06323"/>
+      <alternate-form alternate-form-type="pdf" xlink:href="resrep06323.pdf"/>
+      <abstract abstract-type="short">
+         <p>This detailed case study of Aum Shinrikyo (Aum) suggests several lessons for understanding attempts by other terrorist groups to acquire chemical or biological weapons. We provide the basis for these observations in the discussion that follows and return to them at greater length in the conclusion of this report.</p>
+         <p>1. Aum’s biological program was a failure, while its chemical program was even more capable than would have been evident from its successful release of sarin in the Tokyo subway system in 1995. Though the reasons for this disparity are complex, a number of factors suggest that chemical weapons are likely to</p>
+      </abstract>
+      <counts>
+         <page-count count="72"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+</book>

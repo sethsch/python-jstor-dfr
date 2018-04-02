@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="book-review" dtd-version="1.0" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">janimalethics</journal-id>
+         <journal-title-group>
+            <journal-title content-type="full">Journal of Animal Ethics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Illinois Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">21565414</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">21601267</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">janimalethics.2.1.0109</article-id>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.5406/janimalethics.2.1.0109</article-id>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <surname>Simons</surname>
+                  <given-names>John</given-names>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">
+            <day>01</day>
+            <month>04</month>
+            <year>2012</year>
+            <string-date>Spring 2012</string-date>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink">2</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">janimalethics.2.1.issue-1</issue-id>
+         <fpage>109</fpage>
+         <lpage>109</lpage>
+         <product>
+            <source>
+               <bold>Mosaic, A Journal for the Interdisciplinary Study of Literature, “The Animal” [Special Issue], Parts 1 &amp; 2</bold>
+            </source>. By<string-name>Dawne McCance</string-name>(Ed.). (:<publisher-name>University of Manitoba</publisher-name>,<year>2006–2007</year>.<volume>2</volume>volumes:<fpage>218+vi</fpage>pp.,<fpage>213+vi</fpage>pp. Paperback. ISSN 0027-1276.)</product>
+         <permissions>
+            <copyright-statement>Copyright 2012 by the Board of Trustees of the University of Illinois</copyright-statement>
+            <copyright-year>2012</copyright-year>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/10.5406/janimalethics.2.1.0109"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

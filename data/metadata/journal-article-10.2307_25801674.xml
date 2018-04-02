@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">grial</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000861</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Grial</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Editorial Galaxia</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00174181</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">25801674</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Lectura dixital</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Viño e botellas con lectura e libros</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Daniel</given-names>
+                  <surname>Cassany</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>7</month>
+            <year>2010</year>
+      
+            <day>1</day>
+            <month>8</month>
+            <year>2010</year>
+      
+            <day>1</day>
+            <month>9</month>
+            <year>2010</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">48</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">187</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i25801662</issue-id>
+         <fpage>36</fpage>
+         <lpage>43</lpage>
+         <permissions>
+            <copyright-statement>© EDITORIAL GALAXIA, S. A.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/25801674"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>glg</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d687e154a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d687e161" publication-type="other">
+Recercat: http://www.recercat.net/?locale=ca.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d687e168a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d687e175" publication-type="other">
+Vexase I Jornada Profesional del Institute Cervantes y SEDIC: Len-
+guajes y gestion de la information, http://www.cervantes.es/bib-
+liotecas_documentacion_espanol/para_bibliotecarios/jornada_ic_se
+dic/jornada_ic_sedic.htm.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d687e191a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d687e198" publication-type="other">
+Vexase tamen I Jornada Profesional del Institute Cervantes y
+SEDIC: Lenguajes y gestion de la information. Presentation de Luis
+Garcia Reyes, a quen agradezo os exemplos aqui citados.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

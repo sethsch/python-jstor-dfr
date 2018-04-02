@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/emme16272</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL788.4.G43E45 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Murasaki Shikibu, b. 978? Genji monogatari</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Heian period, 794–1185</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Tale of Genji</book-title>
+         <subtitle>Translation, Canonization, and World Literature</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Emmerich</surname>
+               <given-names>Michael</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>10</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="epub">9780231534420</isbn>
+      <isbn content-type="epub">0231534426</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/emme16272"/>
+      <abstract abstract-type="short">
+         <p>Michael Emmerich thoroughly revises the conventional narrative of the early modern and modern history of<italic>The Tale of Genji</italic>. Exploring iterations of the work from the 1830s to the 1950s, he demonstrates how translations and the global circulation of discourse they inspired turned<italic>The Tale of Genji</italic>into a widely read classic, reframing our understanding of its significance and influence and of the processes that have canonized the text.</p>
+         <p>Emmerich begins with an analysis of the lavishly produced best seller<italic>Nise Murasaki inaka Genji</italic>(<italic>A Fraudulent Murasaki's Bumpkin Genji, 1829--1842</italic>), an adaptation of<italic>Genji</italic>written and designed by Ryutei Tanehiko, with pictures by the great print artist Utagawa Kunisada. He argues that this work introduced<italic>Genji</italic>to a popular Japanese audience and created a new mode of reading. He then considers movable-type editions of<italic>Inaka Genji</italic>from 1888 to 1928, connecting trends in print technology and publishing to larger developments in national literature and showing how the one-time best seller became obsolete.</p>
+         <p>The study subsequently traces<italic>Genji</italic>'s reemergence as a classic on a global scale, following its acceptance into the canon of world literature before the text gained popularity in Japan. It concludes with<italic>Genji</italic>'s becoming a "national classic" during World War II and reviews an important postwar challenge to reading the work after it attained this status. Through his sustained critique, Emmerich upends scholarship on Japan's preeminent classic while remaking theories of world literature, continuity, and community.</p>
+      </abstract>
+      <counts>
+         <page-count count="512"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.4</book-part-id>
+                  <title-group>
+                     <title>A Note to the Reader</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                     <subtitle>Replacing the Text</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The late Mitani Kuniaki, one of the most astute contemporary readers of the early-eleventh-century classic <italic>Genji monogatari</italic>, or <italic>The Tale of Genji</italic>, once suggested that no first experience of the tale will ever be more than preliminary; that in order to begin making sense of all it presents to us we must, having finished it, return to the beginning. “<italic>Genji monogatari</italic>,” he observes, “is literature that demands to be read again.”¹ Reading <italic>Genji</italic> now, at this juncture, prepares us for some potential future rereading; and by the same token, each subsequent rereading is an elaboration of those that came before.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.6</book-part-id>
+                  <title-group>
+                     <label>TOUCHSTONE 1</label>
+                     <title>Reimagining the Canon</title>
+                  </title-group>
+                  <fpage>43</fpage>
+                  <abstract abstract-type="extract">
+                     <p>“To be, or not to be, that is the question.” And it is an extremely familiar question, of course—so much so that it is tempting to read it as a meta-commentary on the canonicity of the play it calls to mind. For just as Hamlet’s survival until the closing lines of act 5 depends on his willingness to keep wrestling with this dilemma, so the play <italic>Hamlet</italic> continues to be recognized as a classic in part because a sufficiently large number of people remain interested in the line “To be, or not to be” and what it represents—Shakespeare’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>A<italic>Gōkan</italic>Is a<italic>Gōkan</italic>Is a<italic>Gōkan</italic>
+                     </title>
+                     <subtitle>Inaka Genji Beyond Parody</subtitle>
+                  </title-group>
+                  <fpage>47</fpage>
+                  <abstract abstract-type="extract">
+                     <p>You couldn’t escape it: the book had ignited a craze. People papered their walls with prints of its scenes and characters, and wore kimono with patterns it had inspired. Competing publishers copied the style of its covers. Questionable knockoffs appeared. <italic>Nise Murasaki inaka Genji</italic> had emerged as an unprecedented best seller, and it was moving so swiftly that no other work of early modern popular fiction in Japan would ever rival its success. Estimates of its sales per chapter range from an already staggering ten thousand to more than fifteen thousand copies in an age when five thousand was good</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Reading Higashiyama</title>
+                     <subtitle>Image, Text, and Book in<italic>Inaka Genji</italic>
+                     </subtitle>
+                  </title-group>
+                  <fpage>109</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Chapter 1 called on various types of evidence, both external and internal, to argue that <italic>Inaka Genji</italic> was probably not appreciated by the majority of its early readers as an adaptation of <italic>Genji monogatari</italic>. No doubt, even minimally educated townspeople had some inkling that a work called <italic>Genji monogatari</italic> existed, but at least early on, before <italic>Inaka Genji</italic>’s attractions began to reflect back onto the Heian classic, this link was, at best, one relatively insignificant factor among many that combined to make <italic>Inaka Genji</italic> an unprecedented best seller. The book succeeded not as an adaptation, and still less as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Turning a New Page</title>
+                     <subtitle>Bibliographic Translation and the<italic>Yomihon</italic>ization of<italic>Inaka Genji</italic>
+                     </subtitle>
+                  </title-group>
+                  <fpage>171</fpage>
+                  <abstract abstract-type="extract">
+                     <p>“To be, or not to be, that is the question.” And it is a question that must be repeated. It returns at intervals to the questioner until at last he settles on an answer or until some sea change in the world abroad forces an answer on him.</p>
+                     <p>Translation, the replacement of a text or a book by a new form of itself, has frequently been described in English, in the wake of “The Task of the Translator,” Harry Zohn’s translation of Walter Benjamin’s essay “Die Aufgabe des Übersetzers” (1923) as the “afterlife” of the original. Zohn writes, with Benjamin,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.10</book-part-id>
+                  <title-group>
+                     <label>TOUCHSTONE 2</label>
+                     <title>The Triangle</title>
+                  </title-group>
+                  <fpage>229</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On February 11, 2008, <italic>Yomiuri shinbun</italic> (<italic>Yomiuri Newspaper</italic>) ran an editorial titled “<italic>Genji monogatari</italic>: A Masterpiece of World Literature Turns One Thousand.”¹ “This, surely, is one masterpiece worthy of the ‘World Heritage’ name,” the article begins, and then goes on to rehearse the standard talking points about its canonical value: “<italic>Genji monogatari</italic> is said to be ‘the world’s oldest novel’ ”; “most of us have an image of it as a romantic novel [<italic>ren’ai shōsetsu</italic>] centered on Hikaru Genji, but it is actually a deeply profound work that touches on a variety of themes”; “scholars note that if <italic>Genji monogatari</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>The History of a Romance</title>
+                     <subtitle>
+                        <italic>Genji</italic>Before Waley</subtitle>
+                  </title-group>
+                  <fpage>237</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Arthur Waley’s much celebrated and much criticized English translation of <italic>Genji monogatari</italic>, <italic>The Tale of Genji</italic>, published simultaneously in England and the United States in six volumes between 1925 and 1933, is generally considered to have laid the foundation on which all subsequent replacements of <italic>Genji</italic> in the English-language context, and even beyond it, would build.</p>
+                     <p>To a certain extent, this view is accurate: <italic>The Tale of Genji</italic> represented a new discovery for most of its earliest readers, and with the publication of the translation’s first volume, critics began to describe the tale in terms now so familiar as to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>From the World to the Nation</title>
+                     <subtitle>Making<italic>Genji</italic>Ours</subtitle>
+                  </title-group>
+                  <fpage>315</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Earlier I suggested that <italic>Genji</italic>’s contemporary existence might be envisioned as a triangular field delimited by three conceptual lines: <italic>Genji</italic> as a work of world literature, <italic>Genji</italic> as a work that exists first and foremost in translation, and <italic>Genji</italic> as a work that is discursively figured as participating in world literature through translation. I sketched the slow emergence of this field through a transnational, translingual, and translational process of discursive turns and returns whose origins can be traced back to the United States and Europe in the mid-1870s, then back to early modern Japan—and from there, if one is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>“<italic>Genji monogatari:</italic>Translation and Original”</title>
+                  </title-group>
+                  <fpage>363</fpage>
+                  <abstract abstract-type="extract">
+                     <p>May 30, 1955. Ten years to the day after Henry L. Stimson, then secretary of war, insisted on scratching Kyoto from the top of the list of potential targets for an atomic bomb, Okada Ikunosuke, professor at the Tokyo University of Fisheries, published an article in <italic>Asahi shinbun</italic> introducing research on one possible “side effect of the peaceful use of nuclear energy.” Maguro sashimi wrapped in tin foil and exposed for forty hours to cobalt-60 gamma rays lasted at room temperature, it turned out, for two or three months even in the full heat of summer. “Someday,” Okada said, “sashimi</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.14</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                     <subtitle>Turning to Translation, Returning to Translation</subtitle>
+                  </title-group>
+                  <fpage>383</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This book has traced a vast history, beginning in early-nineteenth-century Edo and pushing ahead, and around the globe, to settle in the postwar era. We have seen how <italic>Nise Murasaki inaka Genji</italic> emerged as the first genuinely popular replacement (adaptation, translation expansively defined) of a tale composed for a narrow aristocratic audience at the Heian court—how <italic>Inaka Genji</italic> in fact created the notion of such a replacement for a popular audience. We have seen how, in the wake of Suematsu Kenchō’s <italic>Genji Monogatari</italic> and, most significantly, of Masamune Hakuchō’s discovery of Arthur Waley’s <italic>The Tale of Genji</italic> and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.15</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>405</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.7312/emme16272.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>469</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

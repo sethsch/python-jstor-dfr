@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">biography</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50008511</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Biography</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Hawaii Press for the Biographical Research Center</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01624962</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15291456</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23539134</article-id>
+         <title-group>
+            <article-title>The Orange Race: George S. Patton, Jr.'s Japanese-American Hostage Plan</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Michael</given-names>
+                  <surname>Slackman</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1984</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">7</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23537722</issue-id>
+         <fpage>1</fpage>
+         <lpage>49</lpage>
+         <permissions>
+            <copyright-statement>© 1984 Biographical Research Center</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23539134"/>
+         <abstract>
+            <p>George S. Patton, Jr., best known as an aggressive tank commander, was chief of U.S. Army intelligence in Hawaii before World War II. Doubting the loyalty of Japanese-Americans, he planned to make hostages of 128 leaders of Hawaii's Japanese community to forestall fifth column activity in the event of war. This article examines Patton's plan as well as the psychological and historical context in which it was conceived. The document, recently released by the National Archives, is appended.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>NOTES</title>
+         <ref id="d36e181a1310">
+            <label>1</label>
+            <mixed-citation id="d36e190" publication-type="other">
+Patton biographies consulted in preparing this article include: Frederick Ayer,
+Before the Colors Fade. Portrait of a Soldier: George S. Patton, Jr. (Boston:
+Houghton-Mifflin, 1964).</mixed-citation>
+            <mixed-citation id="d36e202" publication-type="other">
+Martin Blumenson, The Patton Papers, vol. 1, 1885-1940 (Boston: Houghton-Mif-
+flin, 1972).</mixed-citation>
+            <mixed-citation id="d36e212" publication-type="other">
+Editors of The Army Times, Warrior: The Story of General George S. Patton (New
+York: G. P. Putnam's Sons, 1967).</mixed-citation>
+            <mixed-citation id="d36e221" publication-type="other">
+Essame, Patton: A Study in Command (New York, Charles Scribner's Sons, 1974).</mixed-citation>
+            <mixed-citation id="d36e227" publication-type="other">
+Ladislas Farago, Patton: Ordeal and Triumph (New York: Ivan Oblensky, 1963).</mixed-citation>
+            <mixed-citation id="d36e233" publication-type="other">
+Alden Hatch, George Patton: General in Spurs (New York: Julian Messner, 1950).</mixed-citation>
+            <mixed-citation id="d36e239" publication-type="other">
+Ian V. Hogg, The Biography of General George S. Patton (New York: Galley Press,
+1982).</mixed-citation>
+            <mixed-citation id="d36e248" publication-type="other">
+William Bankcroft Mellor, Patton: Fighting Man (New York: G. P. Putnam's Sons,
+1946).</mixed-citation>
+            <mixed-citation id="d36e258" publication-type="other">
+GeorgeS. Patton, Jr., War as I Knew It (Boston: Houghton-Mifflin, 1947).</mixed-citation>
+            <mixed-citation id="d36e264" publication-type="other">
+Milton F. Perry and Barbara W. Parke, Patton and His Pistols: The Favorite Side-
+arms of General GeorgeS. Patton (Harrisburg, Pa.: Stackpole, 1957).</mixed-citation>
+            <mixed-citation id="d36e273" publication-type="other">
+Charles M. Province, The Unknown Patton (New York: Hippocrene Books, 1983).</mixed-citation>
+            <mixed-citation id="d36e279" publication-type="other">
+Harry H. Semmes, Portrait of Patton (New York: Appleton-Century Crofts, 1955).</mixed-citation>
+            <mixed-citation id="d36e285" publication-type="other">
+Porter B. Williamson, Patton's Principles: A Handbook for Managers Who Mean It!
+(New York: Simon and Schuster, 1979).</mixed-citation>
+            <mixed-citation id="d36e294" publication-type="other">
+James Wellard, General George S. Patton Jr.: Man Under Mars (New York: Dodd
+Mead, 1946).</mixed-citation>
+         </ref>
+         <ref id="d36e304a1310">
+            <label>2</label>
+            <mixed-citation id="d36e311" publication-type="other">
+Blumenson, The Patton Papers 1:3.</mixed-citation>
+         </ref>
+         <ref id="d36e318a1310">
+            <label>3</label>
+            <mixed-citation id="d36e325" publication-type="other">
+"A General Staff Study. Plan: Seizure of Orange Nationals" n.d., Hawaiian De-
+partment Adjutant General's Office, Emergency Defense and Mobilization
+Plans, 1940-1941, Record Group 338, National Archives.</mixed-citation>
+         </ref>
+         <ref id="d36e338a1310">
+            <label>4</label>
+            <mixed-citation id="d36e345" publication-type="other">
+Blumenson, The
+Patton Papers 1:965-69.</mixed-citation>
+         </ref>
+         <ref id="d36e356a1310">
+            <label>5</label>
+            <mixed-citation id="d36e363" publication-type="other">
+William Addleman, History of the United States in Hawaii, 1849-
+1939 (Schofield Barracks, Hi., Hawaiian Division, 1939).</mixed-citation>
+         </ref>
+         <ref id="d36e373a1310">
+            <label>6</label>
+            <mixed-citation id="d36e380" publication-type="other">
+Oscar W. Koch with Robert G. Hays, G-2: Intelligence for Patton (Philadelphia:
+Whitmore, 1971), vx.</mixed-citation>
+         </ref>
+         <ref id="d36e390a1310">
+            <label>7</label>
+            <mixed-citation id="d36e397" publication-type="other">
+The Army Times, 61.</mixed-citation>
+         </ref>
+         <ref id="d36e404a1310">
+            <label>8</label>
+            <mixed-citation id="d36e411" publication-type="other">
+Russel F. Weigly, "Shaping the American Army of World War II:
+Mobility Versus Firepower," Parameters XI:3 (Sept. 1981): 14.</mixed-citation>
+         </ref>
+         <ref id="d36e421a1310">
+            <label>9</label>
+            <mixed-citation id="d36e428" publication-type="other">
+Steven E. Ambrose, "A Fateful Friendship," American Heritage XX:30 (April
+1969): 41.</mixed-citation>
+         </ref>
+         <ref id="d36e438a1310">
+            <label>10</label>
+            <mixed-citation id="d36e445" publication-type="other">
+"George S. Patton's Student Days at the Army War College," Parameters V:2
+(1976): 25.</mixed-citation>
+         </ref>
+         <ref id="d36e456a1310">
+            <label>11</label>
+            <mixed-citation id="d36e463" publication-type="other">
+Blumenson, The Patton Papers 1:910-12.</mixed-citation>
+         </ref>
+         <ref id="d36e470a1310">
+            <label>12</label>
+            <mixed-citation id="d36e477" publication-type="other">
+Forrest C. Pogue, George C. Marshall: Ordeal and Hope, 1939-1942 (New York:
+Viking, 1966), 163.</mixed-citation>
+         </ref>
+         <ref id="d36e487a1310">
+            <label>13</label>
+            <mixed-citation id="d36e494" publication-type="other">
+Ambrose, 98</mixed-citation>
+         </ref>
+         <ref id="d36e501a1310">
+            <label>14</label>
+            <mixed-citation id="d36e508" publication-type="other">
+"Midwick Beats Army," Honolulu Advertiser, Aug. 19, 1935: 18.</mixed-citation>
+         </ref>
+         <ref id="d36e515a1310">
+            <label>15</label>
+            <mixed-citation id="d36e522" publication-type="other">
+Semmes, 16-17</mixed-citation>
+            <mixed-citation id="d36e528" publication-type="other">
+Farago, Patton, 112—16.</mixed-citation>
+         </ref>
+         <ref id="d36e535a1310">
+            <label>16</label>
+            <mixed-citation id="d36e542" publication-type="other">
+Essame, 25, 29</mixed-citation>
+            <mixed-citation id="d36e548" publication-type="other">
+Blumenson, The Patton Papers 1:220-22, 226, 240, 269, 289,
+310, 340, 448, 903, 906, 909.</mixed-citation>
+         </ref>
+         <ref id="d36e559a1310">
+            <label>17</label>
+            <mixed-citation id="d36e566" publication-type="other">
+Blumenson, The Patton Papers 1:916.</mixed-citation>
+         </ref>
+         <ref id="d36e573a1310">
+            <label>18</label>
+            <mixed-citation id="d36e580" publication-type="other">
+Williamson, 14-15.</mixed-citation>
+         </ref>
+         <ref id="d36e587a1310">
+            <label>19</label>
+            <mixed-citation id="d36e594" publication-type="other">
+Blumenson, "Student Days," 25.</mixed-citation>
+         </ref>
+         <ref id="d36e601a1310">
+            <label>20</label>
+            <mixed-citation id="d36e608" publication-type="other">
+Mark Skinner Watson, Chief of Staff: Prewar Plans and Preparations, United
+States Army in World War II (Washington: Department of the Army, 1950),
+87.</mixed-citation>
+         </ref>
+         <ref id="d36e621a1310">
+            <label>21</label>
+            <mixed-citation id="d36e628" publication-type="other">
+Roger Daniels, Concentration Camps USA: Japanese-Americans and World War II
+(New York: Holt, Rinehart and Winston, 1971), 19.</mixed-citation>
+         </ref>
+         <ref id="d36e638a1310">
+            <label>22</label>
+            <mixed-citation id="d36e645" publication-type="other">
+Ernest Wakukawa, A History of the Japanese People in Hawaii, (Honolulu: Toyo
+Shoin, 1938), 343,411.</mixed-citation>
+         </ref>
+         <ref id="d36e656a1310">
+            <label>23</label>
+            <mixed-citation id="d36e663" publication-type="other">
+Blumenson, The Patton Papers 1:899.</mixed-citation>
+         </ref>
+         <ref id="d36e670a1310">
+            <label>24</label>
+            <mixed-citation id="d36e677" publication-type="other">
+Ibid., 899.</mixed-citation>
+         </ref>
+         <ref id="d36e684a1310">
+            <label>25</label>
+            <mixed-citation id="d36e691" publication-type="other">
+Williamson, 143</mixed-citation>
+         </ref>
+         <ref id="d36e698a1310">
+            <label>26</label>
+            <mixed-citation id="d36e705" publication-type="other">
+Addleman, 41.</mixed-citation>
+         </ref>
+         <ref id="d36e712a1310">
+            <label>28</label>
+            <mixed-citation id="d36e719" publication-type="other">
+Wakukawa, 366-68.</mixed-citation>
+         </ref>
+         <ref id="d36e726a1310">
+            <label>28</label>
+            <mixed-citation id="d36e733" publication-type="other">
+Wakukawa, 366-68.</mixed-citation>
+         </ref>
+         <ref id="d36e741a1310">
+            <label>29</label>
+            <mixed-citation id="d36e748" publication-type="other">
+George F. Nellist, ed., Men of Hawaii: A Biographical Record of Men of Substantial
+Achievement in the Hawaiian Islands, vol. V (Honolulu: Honolulu Star-Bulle-
+tin, Inc., 1935).</mixed-citation>
+         </ref>
+         <ref id="d36e761a1310">
+            <label>30</label>
+            <mixed-citation id="d36e768" publication-type="other">
+John J. Stephan, Hawaii Under the
+Rising Sun: Japan's Plans for Conquest After Pearl Harbor (Honolulu: Univer-
+sity of Hawaii Press, 1984), 138.</mixed-citation>
+         </ref>
+         <ref id="d36e781a1310">
+            <label>31</label>
+            <mixed-citation id="d36e788" publication-type="other">
+Blumenson, The Patton Papers 1:913-14.</mixed-citation>
+         </ref>
+         <ref id="d36e795a1310">
+            <label>32</label>
+            <mixed-citation id="d36e802" publication-type="other">
+Ibid., 915.</mixed-citation>
+         </ref>
+         <ref id="d36e809a1310">
+            <label>33</label>
+            <mixed-citation id="d36e816" publication-type="other">
+Farago, Patton, 114</mixed-citation>
+            <mixed-citation id="d36e822" publication-type="other">
+Essame, 24</mixed-citation>
+            <mixed-citation id="d36e828" publication-type="other">
+Semmes, 78</mixed-citation>
+            <mixed-citation id="d36e835" publication-type="other">
+Ayer, 69-70</mixed-citation>
+            <mixed-citation id="d36e841" publication-type="other">
+Province, 51.</mixed-citation>
+         </ref>
+         <ref id="d36e848a1310">
+            <label>34</label>
+            <mixed-citation id="d36e855" publication-type="other">
+Blumen-
+son, The Patton Papers 1:915-16</mixed-citation>
+            <mixed-citation id="d36e864" publication-type="other">
+Stephan, 93.</mixed-citation>
+         </ref>
+         <ref id="d36e872a1310">
+            <label>35</label>
+            <mixed-citation id="d36e879" publication-type="other">
+Ladislas Farago, The Broken Seal: "Operation Magic" and the Secret Road to Pearl
+Harbor (New York: Random House, 1967), 127</mixed-citation>
+            <mixed-citation id="d36e888" publication-type="other">
+Ellis Zacharias, Secret Mis-
+sions (New York: G. P. Putnam's Sons, 1956), 128-35.</mixed-citation>
+         </ref>
+         <ref id="d36e898a1310">
+            <label>36</label>
+            <mixed-citation id="d36e905" publication-type="other">
+Williamson, 124-25.</mixed-citation>
+         </ref>
+         <ref id="d36e912a1310">
+            <label>37</label>
+            <mixed-citation id="d36e919" publication-type="other">
+Mellor, 121-23.</mixed-citation>
+         </ref>
+         <ref id="d36e926a1310">
+            <label>38</label>
+            <mixed-citation id="d36e933" publication-type="other">
+Ibid., 137.</mixed-citation>
+         </ref>
+         <ref id="d36e940a1310">
+            <label>39</label>
+            <mixed-citation id="d36e947" publication-type="other">
+Gordon Prange, At Dawn We Slept: The Untold Story of Pearl Harbor (New York:
+McGraw-Hill, 1981), 72, 75-77, 148, 156, 254, 309,311,419-20.</mixed-citation>
+         </ref>
+         <ref id="d36e957a1310">
+            <label>40</label>
+            <mixed-citation id="d36e964" publication-type="other">
+Michi Weglyn, Years of Infamy: The Untold Story of America's Concentration
+Camps (New York: William Morrow and Company, 1976), 54-56, 62-63.</mixed-citation>
+         </ref>
+         <ref id="d36e975a1310">
+            <label>41</label>
+            <mixed-citation id="d36e982" publication-type="other">
+Essame, 24.</mixed-citation>
+         </ref>
+         <ref id="d36e989a1310">
+            <label>42</label>
+            <mixed-citation id="d36e996" publication-type="other">
+Blumenson, The Patton Papers 1:788.</mixed-citation>
+         </ref>
+         <ref id="d36e1003a1310">
+            <label>42</label>
+            <mixed-citation id="d36e1010" publication-type="other">
+Ibid., 916.</mixed-citation>
+         </ref>
+         <ref id="d36e1017a1310">
+            <label>44</label>
+            <mixed-citation id="d36e1024" publication-type="other">
+Essame, 23.</mixed-citation>
+         </ref>
+         <ref id="d36e1031a1310">
+            <label>45</label>
+            <mixed-citation id="d36e1038" publication-type="other">
+Blumenson, The Patton Papers 1:798.</mixed-citation>
+         </ref>
+         <ref id="d36e1045a1310">
+            <label>46</label>
+            <mixed-citation id="d36e1052" publication-type="other">
+Stephan, 67.</mixed-citation>
+         </ref>
+         <ref id="d36e1060a1310">
+            <label>47</label>
+            <mixed-citation id="d36e1067" publication-type="other">
+Nellist, 315, 423.</mixed-citation>
+         </ref>
+         <ref id="d36e1074a1310">
+            <label>48</label>
+            <mixed-citation id="d36e1081" publication-type="other">
+Blumenson, The Patton Papers 1:13.</mixed-citation>
+         </ref>
+         <ref id="d36e1088a1310">
+            <label>49</label>
+            <mixed-citation id="d36e1095" publication-type="other">
+John Dominis Holt in an
+interview with the author, Honolulu, Sept. 1, 1983.</mixed-citation>
+         </ref>
+         <ref id="d36e1105a1310">
+            <label>50</label>
+            <mixed-citation id="d36e1112" publication-type="other">
+Gavan Daws, Shoal of Time: A History of the Hawaiian Islands (Honolulu: Univer-
+sity Press of Hawaii, 1968), 307.</mixed-citation>
+         </ref>
+         <ref id="d36e1122a1310">
+            <label>51</label>
+            <mixed-citation id="d36e1129" publication-type="other">
+Peter Van Singerland, Something Terrible Has
+Happened (New York: Harper and Row, 1966)</mixed-citation>
+            <mixed-citation id="d36e1138" publication-type="other">
+Theon Wright, Rape in Para-
+dise (New York: Tower Books, 1966).</mixed-citation>
+         </ref>
+         <ref id="d36e1148a1310">
+            <label>52</label>
+            <mixed-citation id="d36e1155" publication-type="other">
+U.S. Congress, Hearings Before the Joint Committee on the Investigation of the Pearl
+Harbor Attack, 79th Congress, 1946, Part 2: 868.</mixed-citation>
+         </ref>
+         <ref id="d36e1166a1310">
+            <label>53</label>
+            <mixed-citation id="d36e1173" publication-type="other">
+FDR memo to Leahy, Aug. 10, 1936.</mixed-citation>
+            <mixed-citation id="d36e1179" publication-type="other">
+Jeffery Dorwart, Conflict of Duty:
+The U.S. Navy's Intelligence Dilemma, 1919-1945 (Annapolis: Naval Institute
+Press, 1983), 65.</mixed-citation>
+         </ref>
+         <ref id="d36e1192a1310">
+            <label>54</label>
+            <mixed-citation id="d36e1199" publication-type="other">
+"Report on Department Maneuvers, Hawaiian Department, April-May, 1940,"
+Hawaiian Department Adjutant General's Office, Emergency Defense and
+Mobilization Plans, 1940, Record Group 338, National Archives.</mixed-citation>
+         </ref>
+         <ref id="d36e1212a1310">
+            <label>55</label>
+            <mixed-citation id="d36e1219" publication-type="other">
+Short to Adjutant General, May 15, 1941, Records of the Army Staff, Office of
+the Assistant Chief of Staff, G-2, Records Relating to the Attack on Pearl Har-
+bor and to Sabotage Activities, ca. 1937-1947, Record Group 319, National
+Archives.</mixed-citation>
+         </ref>
+         <ref id="d36e1235a1310">
+            <label>56</label>
+            <mixed-citation id="d36e1242" publication-type="other">
+J. Garner Anthony, Hawaii Under Army Rule (Honolulu: University Press of
+Hawaii, 1976), 1-59</mixed-citation>
+            <mixed-citation id="d36e1251" publication-type="other">
+Gwenfread Allen, Hawaii's War Years (Honolulu: Uni-
+versity of Hawaii Press, 1950), passim.</mixed-citation>
+         </ref>
+         <ref id="d36e1261a1310">
+            <label>57</label>
+            <mixed-citation id="d36e1268" publication-type="other">
+Allen, 131-50, 263-70.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

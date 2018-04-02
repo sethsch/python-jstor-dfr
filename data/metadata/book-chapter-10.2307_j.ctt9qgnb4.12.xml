@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qgnb4</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Continuing professional development in social work</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Halton</surname>
+               <given-names>Carmel</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Powell</surname>
+               <given-names>Fred</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib3">
+            <name name-style="western">
+               <surname>Scanlon</surname>
+               <given-names>Margaret</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>04</day>
+         <month>12</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9781447307372</isbn>
+      <isbn content-type="epub">9781447307396</isbn>
+      <publisher>
+         <publisher-name>Policy Press</publisher-name>
+         <publisher-loc>Bristol, UK; Chicago, IL, USA</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Policy Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt9qgnb4"/>
+      <abstract abstract-type="short">
+         <p>Continuing professional development (CPD) has become a defining issue in twenty-first century social work. There is widespread consensus in favour of CPD. But what is it? Are there discernible international trends? What are the barriers to participating in CPD? What do social workers think about and want from CPD? This book seeks to answer these questions. Based on a survey and interviews with social work practitioners, CPD in social work offers a unique insight into the possibilities and challenges of CPD and the issues it presents for newly qualified and experienced social workers in practice. Combining the perspectives of social workers and their managers with international research, assures its global appeal. It offers possible directions for the future of post qualifying social work education, making it essential reading for practitioners, educators, managers and policy-makers.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>iv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.4</book-part-id>
+                  <title-group>
+                     <title>List of abbreviations</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.5</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.6</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Continuing professional development:</title>
+                     <subtitle>the international context</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Many of the ideas that underpin continuing professional development (CPD) can be traced to the 1960s and 1970s, a period when economic prosperity and productivity were increasingly linked to education. In the following decades, there was sustained political support for whole societies to become engaged in continual learning and development (Beddoe, 2009: 723). Initial education was no longer seen as sufficient for a professional lifetime, particularly in the context of rapidly changing societies, globalisation and new technologies. Terms such as ‘lifelong learning’, the ‘learning society’ and the ‘learning organisation’ encapsulate the idea that learning is an ongoing process that is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.7</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Contemporary debates in social work education</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>Over the last few decades, major debates within social work have drawn attention to the impact of neoliberalism and globalisation on social work practice and, by extension, social work education. The formation of neoliberal governments in a number of Western countries – particularly the US and the UK – heralded a gradual rollback of the state, resulting in a residual welfare service. Some scholars have argued that rather than offering a critique of these developments, the social work profession has itself increasingly succumbed to neoliberal influences, loosing sight of its earlier social justice remit (Ferguson et al, 2005; Noble and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.8</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Continuing professional development:</title>
+                     <subtitle>a national study</subtitle>
+                  </title-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>In Ireland, for much of the 20th century, getting a job was synonymous with the end of formal education for most people, including those working in social services. Employers and other organisations provided some in-service training, though courses were generally short-term, participation was optional and there was no overall strategy for continuing education. Over the last two decades, however, continuing professional development (CPD) has assumed far greater significance within the social work profession in Ireland. The vital role of supervision and ongoing training in child protection has been emphasised in child abuse inquiries (McGuinness, 1993; Joint Committee on the Family,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.9</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>Barriers to participation</title>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>Over the last decade, continuing professional development (CPD) has come to be seen as an essential part of the professional life of social workers. Regulatory bodies have made it a condition for maintaining registration while professional associations routinely promote it among their members. Policymakers claim that CPD has the potential to increase rates of recruitment and retention, boost the flagging morale of the workforce, and improve services to clients. To meet the challenges of contemporary social work, practitioners are expected to constantly upskill. However, despite the current enthusiasm for CPD, international reports suggest that practitioners continue to face significant barriers</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.10</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>Supervision</title>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>Supervision is important for social work; however, controversy often surrounds its provision. Furthermore, its function, form and content can vary between countries, contexts of practice and organisations. It is generally regarded as essential to achieving an effective social work service and is considered the most common form of continuing professional development (CPD). As previously acknowledged, supervision takes on many forms and it is experienced by many as a context where professionals meet together to examine the evidence and professional judgements of practice. It plays a pivotal role in the development and enhancement of professional practice. It can involve the provision</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.11</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>Learning and reflection</title>
+                  </title-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>Earlier chapters elucidated the complexity of the fluctuating social, political and economic cultures in which current social work practice is embedded. This chapter will examine how reflective engagement as a learning paradigm promotes and supports social work practitioners by offering them a lifelong tool and a technology that will govern an effective response to clients over time. Both the literature and empirical studies carried out in the School of Applied Social Studies in University College Cork (UCC) support this stance (Halton et al, 2007; Dempsey et al, 2008; Murphy et al, 2008, 2010). In particular, this chapter will outline the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.12</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>Thinking and acting</title>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>This dark vision of the contemporary world, presented by writer and commentator Fintan O’Toole, captures the challenges that confront social work in an era we call ‘postmodernity’. A societal rupture has taken place that is changing the context of social work. Viviene Cree (2011: 5) has observed: ‘it is not certain what the future will hold for the profession of social work, but given the course of social work’s history and its recent experience, it seems likely that more organisational and institutional upheaval lies ahead’. Continuing professional development (CPD) will play an important part in the future of social work</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.13</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>Conclusion:</title>
+                     <subtitle>challenges and futurescapes</subtitle>
+                  </title-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>This simple poem about the Great Depression starts a conversation about the relationship between altruism and social change. Brecht poses a profound social question. Should we be glad ‘a few men have a bed for the night’ or despairing that ‘it will not shorten the age of exploitation’? The answer depends on how you read the poem and is ultimately shaped by your own subjectivity. The Project for Critical Reflection (no date), in a commentary on the poem, also poses a series of challenging questions that go to the core of the ethical purpose of social work. These questions provide</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.14</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>197</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>213</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qgnb4.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>221</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

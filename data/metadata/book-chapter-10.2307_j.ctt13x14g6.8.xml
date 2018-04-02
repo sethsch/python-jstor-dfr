@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9frs</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x14g6</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Revolt in Japan: The Young Officers and the February 26, 1936 Incident</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>SHILLONY</surname>
+               <given-names>BEN-AMI</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>03</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9781400872473</isbn>
+      <isbn content-type="epub">1400872472</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON, NEW JERSEY</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1973</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt13x14g6"/>
+      <abstract abstract-type="short">
+         <p>"Revere the Emperor, Destroy the Traitors"-armed with this slogan, on February 26, 1936. Rebellious Japanese troops led by members of the Young Officers' Movement seized the center of Tokyo and murdered several prominent officials. The Young Officers wanted a "Showa Restoration" whereby political and economic power would be restored to the Emperor and people. The privileged classes were to be abolished, wealth redistributed, and the state, rather than big business, was to control the economy. Although the rebellion was suppressed in four days, it dramatized ideological clashes and factional strife within the Imperial Army and the tensions between civil and military authorities.</p>
+         <p>The incident still stirs emotions in Japan and fascinates Japanese writers; Mishima Yukio, the famous novelist who committed suicide by<italic>seppuku</italic>in 1970, was a great admirer of the Young Officers. This exciting account by Ben-Ami Shillony includes the first full examination of the backgrounds and ideologies of the leaders, and discusses the crucial roles of such figures as the Emperor himself and his brother Prince Chichibu.</p>
+         <p>Originally published in 1973.</p>
+         <p>ThePrinceton Legacy Libraryuses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These paperback editions preserve the original texts of these important books while presenting them in durable paperback editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</p>
+      </abstract>
+      <counts>
+         <page-count count="263"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>B.S.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER I</label>
+                     <title>The Roots of Frustration</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Japan’s dream from the time of the Meiji Restoration, to become “a rich country with a strong military”<italic>(fukoku kyohei),</italic>seemed to be almost fulfilled at the end of World War I. From a small, undeveloped Asian nation, Japan rose, within one generation, to become the richest, most advanced, and most powerful country in East Asia. Having defeated China in 1895 and Russia ten years later, Japan secured for herself hegemony over an area stretching from Taiwan to Manchuria, including Korea, which was annexed in 1910. As an ally of Great Britain, Japan joined the war against Germany in 1914</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER II</label>
+                     <title>The Young Officers’ Movement</title>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>The Young Officers’ Movement<italic>(Seinen shōkō undō)</italic>was a loosely-knit organization, comprising a hard core of dedicated activists and a larger following of a few hundred “comrades”<italic>(dōshi)</italic>and sympathizers. Its members maintained connections with each other and some of them were in contact with civilian organizations of radical rightists. Although the Young Officers’ Movement was a clandestine association, it was tolerated and often supported by higher military echelons. At first, the military authorities favored it, because they hoped that by attracting radical-minded officers, the new movement would check the spread of leftwing ideologies within the ranks. Then in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER III</label>
+                     <title>The Vision of a Shōwa Restoration</title>
+                  </title-group>
+                  <fpage>56</fpage>
+                  <abstract>
+                     <p>The professed goal of the Young Officers was to bring about a Shōwa Restoration (<italic>Shōwa ishin,</italic>Showa being the name of Emperor Hirohito’s reign). This had to be a repetition, or continuation, of the glorious Meiji Restoration<italic>(Meiji ishin)</italic>three generations earlier, which still carried enormous prestige.</p>
+                     <p>The Meiji Restoration of 1868, which provided Japan with the political framework for her modernization, was based on the myth of having restored power to the Emperor, to whom it allegedly always belonged and from whom it had previously been usurped. This myth supplied the rationale for carrying out far-reaching reforms, under the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER IV</label>
+                     <title>In Quest of Support and Legitimacy</title>
+                  </title-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>The success of the only previous coup d’état in Japan, which, some seventy years earlier, had brought about the Meiji Restoration, had been due to the combination of a group of young and dedicated warriors<italic>(shishi),</italic>their sympathizers in the military establishments of the Southwestern<italic>han,</italic>a number of nationalistic intellectuals who preached change, some merchants who bet on the new regime, and a reform-minded section within the Imperial Court, which furnished the ultimate sanction to the coup d’etat. The Young Officers of the 1930s, wishing to emulate the bakumatsu<italic>shishi</italic>and carry out a Restoration of their own, aimed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER V</label>
+                     <title>Plotting a Rebellion</title>
+                  </title-group>
+                  <fpage>110</fpage>
+                  <abstract>
+                     <p>The Young Officers had long wanted to carry out a coup d’etat as a prerequisite to national reform, but it was only in February 1936 that they made a real attempt. This timing was the result of several related factors. First, there was the excitement over the assassination of Nagata, which made the Young Officers eager to follow Aizawa’s example. In his prison diary, Isobe describes the psychological impact of the assassination of Nagata on the Young Officers, who were chagrined that it took an officer from Fukuyama to kill the chief villain in the capital. He quotes Kurihara as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VI</label>
+                     <title>Apparent Success</title>
+                  </title-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>Shortly after midnight on February 26, 1936, two cars, carrying Captain Kōno and the five civilians, left the barracks of the First Regiment for the attack on Count Makino in Yugawara, about sixty miles away. At around 2 A.M., the rebel officers of the First Infantry Regiment in Roppongi, the Third Infantry Regiment in Azabu, and the Third Imperial Guards Regiment in Akasaka conducted roll-calls of their companies and informed their shivering soldiers about the planned action. The soldiers were then issued live ammunition and taken out, on foot and in trucks, into the snowy streets of Tokyo. In the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VII</label>
+                     <title>The Rebellion Suppressed</title>
+                  </title-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>The rebels’ attempt to overthrow the regime and change the leadership of the armed forces encountered opposition in the general staffs of the Army and the Navy. Yet, the Big Three of the Army, who usually decided on matters of policy, ceased to function. The Chief of Staff, Prince Kan’in, was ailing in Odawara; the Inspector General of Military Education, Watanabe, was dead; and the War Minister, Kawashima, was undecided but appeared to be flirting with the rebels. The Supreme Military Council favored the basic goals of the rebels, while the offices of the War Ministry and the General Staff</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VIII</label>
+                     <title>Punishment</title>
+                  </title-group>
+                  <fpage>198</fpage>
+                  <abstract>
+                     <p>On February 29, while the rebel officers were still debating whether or not to commit suicide, the cabinet announced that they were discharged from military service. This allowed the public, for the first time, to learn the names of the rebels. On the following day, the War Ministry stated that the units which had participated in the “recent illegal action” were to be designated as “the rebel army”<italic>(hanrangun)</italic>.¹ On March 4, the Emperor signed an ordinance establishing a Special Court-Martial<italic>(tokusetsu gumpō kaigi)</italic>to try the rebels and their collaborators. The Special Court-Martial was to be secret, quick, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER IX</label>
+                     <title>Aftermath</title>
+                  </title-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>Addressing a downtown Tokyo crowd on February 28, 1936, Captain Ando said: “If Japan remains as it is we shall soon be forgotten, and future generations will dismiss our action as a meaningless episode. But if, with your assistance, a new and splendid Japan is now born, then by dying we shall become the pillars on which the Showa Restoration will be built.”¹ But the rebellion failed and no restoration emerged from it. After the war, Okawa Shumei described the February 26 rebellion as a colossal failure: “A grandiose operation, and all it produced was the death of three old</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.13</book-part-id>
+                  <title-group>
+                     <title>GLOSSARY</title>
+                  </title-group>
+                  <fpage>221</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.14</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x14g6.15</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

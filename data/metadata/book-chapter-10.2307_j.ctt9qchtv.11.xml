@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qchtv</book-id>
+      <subj-group>
+         <subject content-type="call-number">HM654.B68 2008</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Space</subject>
+         <subj-group>
+            <subject content-type="lcsh">Social aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Boundless Worlds</book-title>
+         <subtitle>An Anthropological Approach to Movement</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Kirby</surname>
+               <given-names>Peter Wynn</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>12</month>
+         <year>2008</year>
+      </pub-date>
+      <isbn content-type="epub">9781782382157</isbn>
+      <isbn content-type="epub">1782382151</isbn>
+      <publisher>
+         <publisher-name>Berghahn Books</publisher-name>
+         <publisher-loc>New York; Oxford</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>Peter Wynn Kirby</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt9qchtv"/>
+      <abstract abstract-type="short">
+         <p>Where lived experience of surroundings is shifting, visceral, and immersive, interpretation of social spaces tends to be static and remote. "Space" and "place" are also often analyzed without grappling much (if at all) with the social, political, and historical roots of spatial practice. This volume embarks upon the novel strategy of focusing on movement as a way of understanding social spaces, which offers a means to get beyond biases inherent in the social science of space. Ethnographic studies of social life in settings as varied as nomadic Mongolia and island Melanesia, as distinct as contemporary Tokyo and war-torn Palestine, challenge Western assumptions about the universality of "space" and allow concrete understanding of how life plays out over different socio-cultural topographies. In a world that is becoming increasingly "bounded" in many ways - despite enormous changes wrought by technological, ideological, and other social developments -<italic>Boundless Worlds</italic>urges a scholarly turn, away from the purely global, toward the human dimension of social lives lived in conditions of conflict, upheaval, remapping, and improvisation through movement.</p>
+      </abstract>
+      <counts>
+         <page-count count="242"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kirby</surname>
+                           <given-names>Peter Wynn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.4</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Lost in ‘Space’:</title>
+                     <subtitle>An Anthropological Approach to Movement</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kirby</surname>
+                           <given-names>Peter Wynn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The tension between place, memory, and change lies at the heart of human existence and, as Manuel Castells’s quotation cited above indicates, sometimes place allows us to understand just how mutable and protean our lives become. But that is not to say that places are fixed or even durable, save in relative terms. We live in a world shaped by flux. Islands of apparent stability are engulfed by a sea of human and animal peregrinations, linguistic and cultural change, emergent social institutions, traffic in goods as well as flows of ‘bads’ (such as disease and pollutants), circuits of material culture,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.5</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>Against Space:</title>
+                     <subtitle>Place, Movement, Knowledge</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ingold</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>I wish to argue, in this chapter, against the notion of space. Of all the terms we use to describe the world we inhabit, it is the most abstract, the most empty, the most detached from the realities of life and experience. Consider the alternatives. Biologists say that living organisms inhabit<italic>environments,</italic>not space, and whatever else they may be, human beings are certainly organisms. Throughout history, whether as hunters and gatherers, farmers or herders of livestock, people have drawn a living from the<italic>land,</italic>not from space. Farmers plant their crops in the<italic>earth,</italic>not in space, and harvest</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Spatiality, Power, and State-Making in the Organization of Territory in Colonial South Asia:</title>
+                     <subtitle>The Case of the Anglo–Gorkha Frontier, 1740–1816</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Michael</surname>
+                           <given-names>Bernardo A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>The Anglo–Gorkha war (1814–16) vividly illustrates the territorial hubris and interpretive murk that can surround military conflict between very different societies in colonial settings. Historical writings on the war have narrated this event from divergent perspectives – military, diplomatic, and nationalist.² While these accounts of the war are not irrelevant, they are largely event-based accounts that have failed to undertake a detailed historical examination of the territorial disputes that led to the outbreak of war in 1814. Consequently, what remains obscured in these writings is the dynamic undercurrent of human movements and flows that were responsible for the organization</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>Embodying Spaces of Violence:</title>
+                     <subtitle>Narratives of Israeli Soldiers in the Occupied Palestinian Territories</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Clarke</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>In the late summer of 1999, as part of field research on the interrelationship between space, violence, movement, and knowledge in Israel/Palestine, I visited the occupied Palestinian territories with a number of Israelis: retired soldiers, those between periods of<italic>miluim</italic>reserve duty,¹ and a handful of those who, for political reasons, now refused to serve in the territories.</p>
+                     <p>This chapter is based on their evocative and careful narratives, as they sought to explain how it felt to them to be returning to what they saw as the violent landscape of the territories, and to spaces that they had first encountered</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>This Circle of Kings:</title>
+                     <subtitle>Modern Tibetan Visions of World Peace</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mills</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>On 3 May 1999, His Holiness the Fourteenth Dalai Lama, spiritual leader of the exiled Tibetan government, inaugurated a new Peace Garden in London, sited in the grounds of the Imperial War Museum. The garden, sponsored by the Tibet Foundation, was centred around a two-metre-wide Kilkenny-stone dais holding a bronze relief of the Kalacakra mandala, a representation of the divine palace of the tantric Buddha Kalacakra (‘Wheel of Time’). The dais was immediately surrounded by a ring of eight stone seats – set aside for ‘personal contemplation’ – and then by a series of large stone carvings depicting the principal elements of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>A Weft of Nexus:</title>
+                     <subtitle>Changing Notions of Space and Geographical Identity in Vanuatu, Oceania</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mondragón</surname>
+                           <given-names>Carlos</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>As the late Joël Bonnemaison sought to explain throughout his life, ideas about space in the maritime region of Melanesia are bound up within local understandings of geographical identity, ancestral origins, and sociogeographical networks that often challenge Western concepts of space, movement, and personhood (Bonnemaison 1991; 1997; and above).</p>
+                     <p>The following pages offer a set of ethnographic data from Island Melanesia that invite us to transcend the reductionist dichotomy often inherent in the categories ‘place’ and ‘space’, and which, as Peter Wynn Kirby aptly points out in the introductory chapter to the present volume, arises from a ‘lingering [Cartesian] bias</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>At Home Away from Homes:</title>
+                     <subtitle>Navigating the Taiga in Northern Mongolia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pedersen</surname>
+                           <given-names>Morten Axel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>Deleuze and Guattari, in their essay ‘On Nomadology’, suggest that ‘even though the nomadic trajectory may follow trails or customary routes, it does not fulfil the function of the sedentary road, which is to parcel out a closed space to people’. Rather, they argue, ‘the nomadic trajectory does the opposite: it distributes people (or animals) in an open space, one that is indefinite’ (1999: 380, emphases omitted). While it should be remembered that Deleuze and Guattari’s work represents an attempt to develop new philosophical concepts rather than anthropological ones – indeed, their reading of the ethnographic literature on nomads is rather</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Toxins Without Borders:</title>
+                     <subtitle>Interpreting Spaces of Contamination and Suffering</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kirby</surname>
+                           <given-names>Peter Wynn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>The world’s largest cities offer many attractions but are frequently most intriguing for the spaces in between: the nooks, alleyways, ghettoes, dumps, warrens, and local establishments hidden away there. In Tokyo – a megalopolis both fastidious and prone to neglect, depending on what’s at stake – rather unremarked pockets of the capital can stir with life. Ramshackle structures or overgrown thickets of wan greenery in ‘no-man’s lands’ tucked between buildings or elsewhere may seem uninhabited, even uninhabitable, but can be populated. Small cities of tarpaulin, twine, and cardboard – dwelled in by ‘homeless’ denizens at the fringes of some Tokyo parks – provide ready</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Movements in Corporate Space:</title>
+                     <subtitle>Organizing a Japanese Multinational in France</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sedgwick</surname>
+                           <given-names>Mitchell W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>We understand interpersonal contact as the context in which human relations, work, and, indeed, life itself are acutely and actively negotiated. Physical spaces are ordinarily taken to be vessels that place, or formally structure, and, so, contain, more quintessential human interactions. However, the apparent solidity, or exaggerated durability, of such ‘structures’ is a projection of our desire to stabilize our environments. These perceptions are convenient, but fully artificial, artefacts of our work of sense-making; they are means of orientation –<italic>fixations</italic>– if largely unconscious. The plasticity of spaces is more durable than, but it is not different in principle from, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Making Space in Finland’s New Economy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Berglund</surname>
+                           <given-names>Eeva</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>This chapter focuses on the Finnish province of Kainuu.¹ For me, Helsinki-born, Kainuu, with its expansive forests and almost empty roads, was long associated with remoteness and poverty. Numerous trips since 1996 have modified, if not completely overturned, these associations. My travel has transformed the vastness of its undifferentiated forested landscapes into landmarks like roads, fells, mires, lakes, and small towns that help me orient myself. I have invested them with significance and recognized that they are resources for managing life. In this process, the ‘mediatized’ imagery of Kainuu’s burgeoning tourist industry, an international music festival, and other ‘landscapes of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.14</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                     <subtitle>Onward Bound: Ethnographic Perspectives on Space, Movement, and Context</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kirby</surname>
+                           <given-names>Peter Wynn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>Real life does not unfold in the hollow construct commonly called ‘space’, as these pages demonstrate. Neither does movement unfurl in a vacuum. Instead, the world we navigate in our daily experience is a concatenation of lived, interpenetrating social worlds as rich as they are diverse. Rather than objectifying, misconstruing, or otherwise distorting this difference, scholars’ efforts would be better spent embracing and learning from such a multiplicity of perspective.</p>
+                     <p>In this spirit, the preceding chapters present a broad range of ethnographic settings, meticulously studied, from which to draw some conclusions regarding the lived ontologies of varied social milieux and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.15</book-part-id>
+                  <title-group>
+                     <title>Visual Appendix</title>
+                     <subtitle>Movement Studies</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Grou</surname>
+                           <given-names>Christian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Snellman</surname>
+                           <given-names>Tapio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>217</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.16</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qchtv.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>231</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqf3t</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN6790.J3S283 2011</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Comic books, strips, etc.</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Teenage girls</subject>
+         <subj-group>
+            <subject content-type="lcsh">Books and reading</subject>
+            <subj-group>
+               <subject content-type="lcsh">Japan</subject>
+               <subj-group>
+                  <subject content-type="lcsh">History</subject>
+                  <subj-group>
+                     <subject content-type="lcsh">20th century</subject>
+                  </subj-group>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Teenage girls in popular culture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+               <subj-group>
+                  <subject content-type="lcsh">20th century</subject>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Passionate Friendship</book-title>
+         <subtitle>The Aesthetics of Girls' Culture in Japan</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Shamoon</surname>
+               <given-names>Deborah</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>03</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824835422</isbn>
+      <isbn content-type="epub">9780824861117</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqf3t"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Shojo manga</italic>are romance comics for teenage girls. Characterized by a very dense visual style, featuring flowery backgrounds and big-eyed, androgynous boys and girls, it is an extremely popular and prominent genre in Japan. Why is this genre so appealing? Where did it come from? Why do so many of the stories feature androgynous characters and homosexual romance?<italic>Passionate Friendship</italic>answers these questions by reviewing Japanese girls' print culture from its origins in 1920s and 1930s girls' literary magazines to the 1970s "revolution"<italic>shojo manga,</italic>when young women artists took over the genre. It looks at the narrative and aesthetic features of girls' literature and illustration across the twentieth century, both pre- and postwar, and discusses how these texts addressed and formed a reading community of girls, even as they were informed by competing political and social ideologies.The author traces the development of girls' culture in pre-World War II magazines and links it to postwar teenage girls' comics and popular culture. Within this culture, as private and cloistered as the schools most readers attended, a discourse of girlhood arose that avoided heterosexual romance in favor of "S relationships," passionate friendships between girls. This preference for homogeneity is echoed in the postwar genre of boys' love manga written for girls. Both prewar S relationships and postwar boys' love stories gave girls a protected space to develop and explore their identities and sexuality apart from the pressures of a patriarchal society.<italic>Shojo manga</italic>offered to a reading community of girls a place to share the difficulties of adolescence as well as an alternative to the image of girls purveyed by the media to boys and men.<italic>Passionate Friendship'</italic>s close literary and visual analysis of modern Japanese girls' culture will appeal to a wide range of readers, including scholars and students of Japanese studies, gender studies, and popular culture.30 illus., 5 in color</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.4</book-part-id>
+                  <title-group>
+                     <title>Note on Language</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In Japan in the early 1970s, a transformation took place in the popular culture consumed by teenage girls. Young women artists, inspired by the atmosphere of youthful rebellion and creative experimentation at the time, took over the genre of<italic>shōjo manga,</italic>or comic books for girls, and changed it to address the concerns of teenage girls. The popularity of the comics they created granted legitimacy and gave voice to a coherent girls’ culture. By the end of the twentieth century, shōjo manga had become one of the primary sites of cultural production in Japan. This is a book about the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>The Emergence of the Shōjo and the Discourse of Spiritual Love in Meiji Literature</title>
+                  </title-group>
+                  <fpage>14</fpage>
+                  <abstract>
+                     <p>Representations of the teenage girl as a recurring figure in fiction (and public discourse more generally) begin to appear around the 1880s, or the second decade of the Meiji period. The schoolgirl (<italic>joshi gakusei</italic>or<italic>jogakusei</italic>) was one of several new classes of people that emerged in the new social order of Meiji. The Meiji schoolgirl was the first iteration of the shōjo in the public imagination, but her fictional representation had little to do with the realities of school life and adolescence for girls. Instead, as a new class of female, the shōjo from her first appearance in novels</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>Prewar Girls’ Culture (Shōjo Bunka), 1910–1937</title>
+                  </title-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>In the first decades of the twentieth century, a distinct and separate girls’ culture (<italic>shōjo bunka</italic>) arose within the homosocial world of single-sex secondary schools and found its public expression in girls’ magazines. Prewar girls’ culture coopted the discourse of spiritual love (<italic>ren’ai</italic>) not to describe heterosexual love, which was fraught with danger and difficulty, but instead to describe the passionate friendships girls formed with each other. This chapter will examine the development of a private, closed world of girls that emerged in single-sex secondary schools and the discourse of that culture in girls’ magazines, where friendship between girls was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Narrative and Visual Aesthetics of Prewar Girls’ Magazines</title>
+                  </title-group>
+                  <fpage>58</fpage>
+                  <abstract>
+                     <p>In the 1920s and 1930s, readers accepted magazines such as<italic>Shōjo no tomo, Shōjo club,</italic>and<italic>Shōjo gahō</italic>as the authentic representation of girls’ culture, a discrete discourse premised on a private, closed world of girls. In demonstrating how those magazines promoted the perception of authenticity, the previous chapter focused on reader-generated content. While significant, reader contributions were only part of each issue, usually located at the back. This chapter will examine the illustrations and serialized girls’ novels (<italic>shōjo shōsetsu</italic>) that appeared at the front of each issue. The serialized novels and the illustrations that accompanied them worked together to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.9</book-part-id>
+                  <title-group>
+                     <title>Plates</title>
+                  </title-group>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>The Formation of Postwar Shōjo Manga, 1950–1969</title>
+                  </title-group>
+                  <fpage>82</fpage>
+                  <abstract>
+                     <p>Manga as it exists in Japan today is a postwar phenomenon, and this is true for shōjo manga as well as for other genres.¹ The distinctive format and look of what is now the shojo manga genre emerged in the early 1970s. The key features of shōjo manga are initial publication in a monthly or weekly magazine devoted exclusively to comics for girls, a predominance of female artists and a close relationship between fans and artists, a tendency toward homogender romance or an aesthetic of sameness in romantic pairs, and a distinctive visual aesthetic marked not only by large eyes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>The Revolution in 1970s Shōjo Manga</title>
+                  </title-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>Shōjo manga today is not only the primary locus of girls’ culture, but because of its mainstream, widespread popularity, it has become an important site of cultural production, as popular series inspire animation, films, TV shows, music, stage plays, and novels. Manga in general comprise about 40 percent of the total books and magazines sold in Japan (Schodt 82), and circulation of manga magazines for girls is nearly three million per month.¹ The genre-defining elements of shōjo manga that developed in the early 1970s, specifically the prevalence of homoeroticism and the densely layered, decorative art, both attract girls and puzzle</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.12</book-part-id>
+                  <title-group>
+                     <title>Afterword</title>
+                  </title-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>When I first began to research shōjo manga over a decade ago, there was little scholarship on manga of any kind written in english, and manga translations had not yet found a foothold in the US marketplace. While translations of shōjo manga have at last become popular with North American girls, scholarship is only beginning to catch up to this trend. The concept of manga by and for girls, and featuring homosexual themes, is a tempting one for feminist scholars, but the heady promise of girl power is undermined by the heteronormative, gender-stereotyped characters and storylines in much of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>143</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.14</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>157</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>167</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqf3t.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>181</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

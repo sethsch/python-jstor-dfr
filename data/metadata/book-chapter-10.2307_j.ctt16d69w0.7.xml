@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt16d69jt</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt16d69w0</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Shanghai Literary Imaginings</book-title>
+         <subtitle>A City in Transformation</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Scheen</surname>
+               <given-names>Lena</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>17</day>
+         <month>07</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9789089645876</isbn>
+      <isbn content-type="epub">9789048522231</isbn>
+      <publisher>
+         <publisher-name>Amsterdam University Press</publisher-name>
+         <publisher-loc>Amsterdam</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Lena Scheen</copyright-holder>
+         <copyright-holder>Amsterdam University Press B.V.</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt16d69w0"/>
+      <abstract abstract-type="short">
+         <p>This book draws on a wide range of methods-including approaches from literary studies, cultural studies, and urban sociology-to analyze the transformation of Shanghai through rapid growth and widespread urban renewal. Lena Scheen explores the literary imaginings of the city, its past, present, and future, in order to understand the effects of that urban transformation on both the psychological state of Shanghai's citizens and their perception of the spaces they inhabit.</p>
+      </abstract>
+      <counts>
+         <page-count count="304"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>11</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.4</book-part-id>
+                  <title-group>
+                     <title>Conventions</title>
+                  </title-group>
+                  <fpage>13</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                     <subtitle>Shanghai Literary Imaginings: The City of Feeling Rising out of the City of Fact</subtitle>
+                  </title-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>As Wang Anyi explains in the opening of her literary essays collection In<italic>Search of Shanghai</italic>寻找上海, the Shanghai in its title is not an object of factual, historical study; it is an object of experience, an ‘image of the city’ (Lynch 1960) in the mind of its narrator, or, as Willa Cather (1976: 24; original 1935) writes in her novel<italic>Lucy Gayheart</italic>, a ‘city of feeling’: ‘Lucy carried in her mind a very individual map of Chicago: a blur of smoke and wind and noise, with flashes of blue water, and certain clear outlines rising from the confusion; a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Mappings</title>
+                     <subtitle>Drawing Mental Maps of Memories</subtitle>
+                  </title-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>‘Passing 97th Street in Far Rockaway still makes me hungry, and gives me vertigo.’ Thus starts one of the stories on the websitewww.cityofmemory.org, an online community map of New York citizens’ stories. The idea is simple: people can click on a particular point of the map and upload their memory of this place, including video, audio, and photos. When browsing the map with your mouse pointer, pop-ups appear containing the opening sentence and/or a picture of the stories attached to the places. Thus, New York’s geographical map is gradually layered with a map of the ‘invisible landscape’, i.e. ‘a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Seduction</title>
+                     <subtitle>Reproducing the City as Femme Fatale</subtitle>
+                  </title-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>The semi-autobiographical novels<italic>Shanghai Babe</italic>(1999)² by Weihui (b. 1973) and<italic>Sandbed</italic>(2003) by Ge Hongbing (b. 1968) are both set in Shanghai in 1999, and portray a globalizing city in the midst of commercialization and sexual liberation. The novels largely take place in bars, nightclubs, bathrooms and bedrooms, making the city a sexualized space of intoxication and temptation that functions as a playground for sensory experience. Unsurprisingly, Shanghai Babe and Sandbed both triggered heated debate among (online) readers, critics, and scholars. Whereas some regarded the novels’ depiction of hedonism and promiscuity as a blatant celebration of transnational consumer capitalism,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Nostalgia</title>
+                     <subtitle>Restoring Old Buildings to Rewrite the Past</subtitle>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Every Shanghainese will proudly tell you that if you haven’t been to the Bund, you haven’t been to Shanghai. Along this boulevard, beautifully preserved Art Deco and neoclassical buildings have been regarded as symbols of Shanghai for over a hundred years. In its grandeur, the Bund is most redolent of early twentieth-century Shanghai as portrayed by the New Perceptionists: the cosmopolitan metropolis of modern girls, Western businessmen and jazz; known by such colourful nicknames as the ‘Whore of Asia’, ‘Paris of the East’, the ‘Pearl of the Orient’, and ‘Paradise for Adventures’. Every day, people from all over China flock</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Escape</title>
+                     <subtitle>Out of and into Various Places ‘Real’ and Imagined</subtitle>
+                  </title-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>While in Jin Haishu’s poem, the lyrical subject and her/his lover are locked into their room, waiting ‘as the world screams on its way’ outside their window, the protagonist in Mian Mian’s<italic>Candy</italic>is in the midst of that very dazzling world outside, as she speeds over the elevated highway to yet another nightclub. Whereas Jin Haishu’s lyrical subject sits still and gets a special feeling of being ‘under some kind of curse outside time and velocity’, Mian Mian feels that the speed of the car controls her mood and heartbeat. Thus, these two passages show characters responding in markedly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.10</book-part-id>
+                  <title-group>
+                     <title>In Conclusion</title>
+                     <subtitle>The Shape of a City Changes Faster than the Human Heart Can Tell</subtitle>
+                  </title-group>
+                  <fpage>243</fpage>
+                  <abstract>
+                     <p>No two Shanghais are alike. Besides being a geographical location we can point out on a map and visit, to stroll along its alleys and grand boulevards, Shanghai is so much more than this physical place of bricks and mortar. Like any other city, it is a dynamic, socially-constructed world, informed by historical and cultural practices, an enclosed place of experience or ‘a state of mind’, as Chicago sociologist Robert Park (1915) famously put it. Most of all, though, it is a mental picture that differs from mind to mind.</p>
+                     <p>Crucially, Shanghai is a city in flux. In recent years,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.11</book-part-id>
+                  <title-group>
+                     <title>Glossary</title>
+                  </title-group>
+                  <fpage>249</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.12</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>259</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.13</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>275</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69w0.14</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>281</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

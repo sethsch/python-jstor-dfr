@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqhb3</book-id>
+      <subj-group>
+         <subject content-type="call-number">GF666.J36 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Human ecology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">Congresses</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nature and civilization</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">Congresses</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Japan at Nature's Edge</book-title>
+         <subtitle>The Environmental Context of a Global Power</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>MILLER</surname>
+               <given-names>IAN JARED</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>THOMAS</surname>
+               <given-names>JULIA ADENEY</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>WALKER</surname>
+               <given-names>BRETT L.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>08</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824836924</isbn>
+      <isbn content-type="epub">9780824838775</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>HONOLULU</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqhb3"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Japan at Nature's Edge</italic>is a timely collection of essays that explores the relationship between Japan's history, culture, and physical environment. It greatly expands the focus of previous work on Japanese modernization by examining Japan's role in global environmental transformation and how Japanese ideas have shaped bodies and landscapes over the centuries. Given the global and immediate nature of Earth's environmental crisis, a predicament highlighted by Japan's March 2011 disaster, it brings a sense of urgency to the study of Japan and its global connections.The work is an environmental history in the broadest sense of the term because it contains writing by environmental anthropologists, a legendary Japanese economist, and scholars of Japanese literature and culture. The editors have brought together an unparalleled assemblage of some of the finest scholars in the field who, rather than treat Japan in isolation or as a unique cultural community, seek to connect Japan to global environmental currents such as whaling, world fisheries, mountaineering and science, mining and industrial pollution, and relations with nonhuman animals.The contributors assert the importance of the environment in understanding Japan's history and propose a new balance between nature and culture, one weighted much more heavily on the side of natural legacies. Ideas and culture do shape the natural world, because it, like the poetry of Heian aristocrats, has become a relic of history. This approach does not discount culture. Instead, it suggests that the Japanese experience of nature, like that of all human beings, is a complex and intimate negotiation between the physical and cultural worlds.Contributors:Daniel P. Aldrich, Jakobina Arch, Andrew Bernstein, Philip C. Brown, Timothy S. George, Jeffrey E. Hanes, David L. Howell, Federico Marcon, Christine L. Marran, Ian Jared Miller, Micah Muscolino, Ken'ichi Miyamoto, Sara B. Pritchard, Julia Adeney Thomas, Karen Thornber, William M. Tsutsui, Brett L. Walker, Takehiro Watanabe.Ian Jared Millerteaches modern Japanese history at Harvard University.Julia Adeney Thomasis associate professor of history at the University of Notre Dame.Brett L. Walkeris Regents Professor at Montana State University, Bozeman.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WALKER</surname>
+                           <given-names>BRETT L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.4</book-part-id>
+                  <title-group>
+                     <title>Writing Japan at Nature’s Edge:</title>
+                     <subtitle>The Promises and Perils of Environmental History</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MILLER</surname>
+                           <given-names>IAN JARED</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Two episodes come to mind whenever I think about<italic>Japan at Nature’s Edge</italic>—the promises and perils of a book about Japan’s environmental history. Given the association between the Japanese and whaling in the international environmental imagination, it is perhaps appropriate that whales figure in each episode. The first event, the arrival of Commodore Matthew C. Perry of the US Navy, the man credited with “opening” Japan to the West, in the waters of Edo Bay (present-day Tokyo Bay) in 1853 illustrates the capacity of environmental themes to help us rethink even the grandest historical events. The second, the 2009</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Pelagic Empire:</title>
+                     <subtitle>Reconsidering Japanese Expansion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TSUTSUI</surname>
+                           <given-names>WILLIAM M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>This essay is based on the modest proposition that understanding imperialism requires us to consider oceans as well as land masses. Given the ongoing and global “fad in oceanic studies,” encompassing historians, literary scholars, and social scientists, such a contention is hardly revolutionary.¹ Nevertheless, as W. Jeffrey Bolster has noted, environmental historians have long shared a common “blind spot” when it comes to “the 70 percent of the globe covered by salt water.”² Following in the wake of Rachel Carson, who in her 1951 classic<italic>The Sea Around Us</italic>wrote naively (or perhaps just optimistically) that man “cannot control or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>From Meat to Machine Oil:</title>
+                     <subtitle>The Nineteenth-Century Development of Whaling in Wakayama</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ARCH</surname>
+                           <given-names>JAKOBINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>On December 24, 1878, a massive right whale (<italic>Eubalaena japonica</italic>) swam with her calf toward the Kumano coast of Wakayama Prefecture (fig. 2.1). The weather that afternoon was cold and rainy, with a northeasterly wind kicking up a dangerous chop on the water. Despite the bad weather, lookouts were stationed on a mountain near Taiji Harbor, peering through the rain for any sign of whales. At the same time, around three hundred whalers watched the mountain for a signal. It was late in the day by the time the nearly seventeen-meter whale and her four-meter calf came close enough for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Fisheries Build Up the Nation:</title>
+                     <subtitle>Maritime Environmental Encounters between Japan and China</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MUSCOLINO</surname>
+                           <given-names>MICAH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>56</fpage>
+                  <abstract>
+                     <p>Between 1898 and 1906, China’s political elites and thousands of Chinese students who spent time studying abroad enthusiastically appropriated intellectual currents originating from Japan. This chapter focuses on a lesser-known aspect of these international currents: the environmental dimensions of Japan’s role in the formation of Chinese modernity. The influence of modern Japanese conceptions of the sea and its resources can be traced to Meiji times (1868–1912), when Chinese students in Japan gained exposure to the discipline of fisheries management. Whereas fear and ambiguity characterized premodern Japanese perceptions of the ocean, during the Meiji period, as William Tsutsui demonstrated in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Talking Sulfur Dioxide:</title>
+                     <subtitle>Air Pollution and the Politics of Science in Late Meiji Japan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WATANABE</surname>
+                           <given-names>TAKEHIRO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>“Is it not the case, gentlemen, that the copper poisoning crisis … was caused by scientific progress deviating from the principles of civilization?” alleged parliamentarian Mutō Kinkichi during a 1909 Diet session on an air pollution case in eastern Ehime Prefecture, on the Japanese island of Shikoku.¹ The legislator had just returned from a tour of the agricultural area devastated by sulfur dioxide emissions from the Shisakajima Refinery, which stood in the middle of the Inland Sea on four uninhabited islands and was operated, along with the nearby Besshi Mine, by the Sumitomo industrial conglomerate. In speaking of “the withering</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Constructing Nature</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BROWN</surname>
+                           <given-names>PHILIP C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>90</fpage>
+                  <abstract>
+                     <p>The history of the Echigo Plain encapsulates the particularly intense dialog between Japanese society and natural erosional processes, a negotiation that continues today. Its story reminds us that natural processes radically transformed Japan’s geography even during historical times. The forces underlying these changes continue to challenge human efforts to live off the land despite improvements in materials, machinery, and funding for large-scale, environment-transforming projects. Its history also exemplifies some of the striking, unanticipated conundrums created by human alteration of the natural environment in order to make it more amenable to human use, problems with which Japan continues to wrestle.¹</p>
+                     <p>The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Toroku:</title>
+                     <subtitle>Mountain Dreams, Chemical Nightmares</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GEORGE</surname>
+                           <given-names>TIMOTHY S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>When Americans imagine harm caused by environmental pollution, they may think of spotted owls or melting glaciers. The images that come to mind for Japanese are likely to be the ravaged bodies of human beings, particularly the victims of congenital mercury poisoning in Minamata.¹ Poisons human beings release into the environment have also returned to destroy human bodies in many other places in Japan, including Toroku, a tiny mountain hamlet. For eight years after the Toroku arsenic mine opened in 1920, Tsuruno Masaichi and his wife, Kumi, processed the ore, crawling into a crude kiln to scrape out the white</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Fecal Matters:</title>
+                     <subtitle>Prolegomenon to a History of Shit in Japan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOWELL</surname>
+                           <given-names>DAVID L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>Poop is yucky. As a rule, yuckiness is socially constructed, but poop is different. Our dislike of the stuff is hardwired into us. Neuroscientists confirmed this in an experiment designed to locate regions of the brain involved in “the response to disgusting stimuli presented in the olfactory modality.”¹ Poop’s yuckiness is an insistent plea for us to stay away; it protects us from the critters that live in it and could cause illness or even death if ingested. Yuckiness is good, at least with regard to poop. At the same time, poop is more than just yucky; it’s necessary, too,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Weathering Fuji:</title>
+                     <subtitle>Marriage, Meteorology, and the Meiji Bodyscape</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BERNSTEIN</surname>
+                           <given-names>ANDREW</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>152</fpage>
+                  <abstract>
+                     <p>On the first of October in the twenty-eighth year of the Meiji emperor’s reign (1895), Nonaka Itaru began recording meteorological phenomena on Mount Fuji’s summit with the ambitious goal of taking measurements every two hours, day and night, for an entire year. In an age when the Japanese press eagerly celebrated tales of scientific discovery in dangerous, exotic places,³ Itaru’s project offered something unique: a bracingly raw view of the most familiar of mountains. Fuji, after all, was anything but distant. Easily seen from the streets of the capital and climbed each summer by thousands, it was a national icon.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Animal Histories:</title>
+                     <subtitle>Stranger in a Tokyo Canal</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARRAN</surname>
+                           <given-names>CHRISTINE L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>On August 7, 2002, a bearded seal (<italic>Erignathus barbatus/Agohige azarashi</italic>) was spotted in the Tama River, far beyond its usual Arctic Ocean habitat. Over the course of a few days, onlookers grew into the hundreds. Newspaper reporters and television crews flooded the area to document not just the seal but the astounding human interest in the slippery stranger. One television crewmember commented that the seal was treated as a kind of messiah: “People would follow it along and scream whenever it raised its head above the surface. Everybody was walking along slowly, watching its every move. It was like some</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Inventorying Nature:</title>
+                     <subtitle>Tokugawa Yoshimune and the Sponsorship of Honzōgaku in Eighteenth-Century Japan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARCON</surname>
+                           <given-names>FEDERICO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>Ihara Saikaku (1642–1693), chronicler of merchant life in early modern Japan, seemed to share his contemporaries’ belief that chance was the most important source of business prosperity: “Fortune be to merchants, luck in buying and happiness in selling!” he recited at the beginning of his<italic>Seken munezan’yō</italic>(Worldly mental calculations, 1692).¹ On the other hand, Saikaku’s urban heroes nicely fit John Stuart Mill’s definition of<italic>homo economicus</italic>when they act in his merchant tales as “a being who desires to possess wealth, and who is capable of judging the comparative efficacy of means for obtaining that end.”² His shopkeepers,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Japanese Literature and Environmental Crises</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THORNBER</surname>
+                           <given-names>KAREN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>Ecosystems are always in motion. Some of their changes result directly from human actions and some occur independent of people, while the majority result from a more nebulous combination of human behaviors and nonhuman dynamics. For many millennia, anthropogenic transformations of environments were relatively separate local phenomena, but in the last several centuries these changes have expanded to become subnational, national, regional, and ultimately global events. The greater the anthropogenic modifications of an ecosystem, the more likely this environment is regarded as damaged or in crisis. Since the 1970s, many have argued that the planet itself is in crisis, in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Japanese Environmental Policy:</title>
+                     <subtitle>Lessons from Experience and Remaining Problems</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MIYAMOTO</surname>
+                           <given-names>KEN’ICHI</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Hanes</surname>
+                           <given-names>Jeffrey E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>Following the Pacific War, Japan experienced Minamata disease and other terrible effects of pollution. Since the late 1960s, due largely to public criticism of pollution and the rise of an antipollution citizens’ movement, Japan has addressed the problems of air pollution (sulfur dioxide and nitrogen dioxide) and water and soil pollution (mercury and cadmium). This positive result has impelled numerous researchers from the West to conduct surveys and research in Japan on its antipollution measures and policies. Although we cannot assert that Japan has advanced as much as the European Union from the 1990s in its environmental policies and ecological</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.17</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>An Envirotechnical Disaster:</title>
+                     <subtitle>Negotiating Nature, Technology, and Politics at Fukushima</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PRITCHARD</surname>
+                           <given-names>SARA B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>255</fpage>
+                  <abstract>
+                     <p>The Tōhoku earthquake, now called the “Great East Japan Earthquake,” began rattling the island nation at 2:46 in the afternoon (JST) on that fateful spring day. The enormous magnitude 9.0 earthquake—the largest ever known to have hit Japan and also one of the five most powerful earthquakes in the entire world since modern record keeping began in the early twentieth century—shook buildings, buckled streets, and terrified the country’s citizens for an astounding six minutes. A major tsunami, eventually rising to the height of a four-story building, soon began rushing headlong toward northeastern Japan, barreling down on the country’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.18</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Postcrisis Japanese Nuclear Policy:</title>
+                     <subtitle>From Top-down Directives to Bottom-up Activism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALDRICH</surname>
+                           <given-names>DANIEL P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>280</fpage>
+                  <abstract>
+                     <p>The earthquake, tsunami, and resulting nuclear power plant meltdown beginning on March 11, 2011, not only destroyed Fukushima’s coastline and more than twenty thousand human lives, it altered the course of Japan’s energy policy. Throughout the postwar period, there has been a complex interplay between two camps over atomic energy. On one side the Japanese central government, local officials, and the nuclear power industry have advocated energy autarky for an island nation without much gas, oil, or coal through heavy use of nuclear power. On the other side, Japanese citizens have worried about the threat of nuclear accidents to their</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.19</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Using Japan to Think Globally:</title>
+                     <subtitle>The Natural Subject of History and Its Hopes</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THOMAS</surname>
+                           <given-names>JULIA ADENEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>Today “the global” in its many manifestations is shouldering aside local and national histories, dismissing them as inadequate to understanding our planetary context. Nowhere is the necessity of a global grasp more keenly felt than in environmental history where scholarship on the earth as a whole abounds. Climate change affects different parts of the earth differently but disregards national borders and encourages scholars to do likewise. Big history and deep history work on such large canvases that nations barely figure. These trends raise the question of why we focus on Japan in this volume, and here in the final chapter</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.20</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>311</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.21</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>315</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhb3.22</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>323</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

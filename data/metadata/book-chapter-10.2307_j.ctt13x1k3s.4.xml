@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x1k3s</book-id>
+      <subj-group>
+         <subject content-type="call-number">GV1065.23.J3H38 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Marathon running</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Relay racing</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Sports and state</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Marathon Japan</book-title>
+         <subtitle>Distance Racing and Civic Culture</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Havens</surname>
+               <given-names>Thomas R. H.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>02</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824841010</isbn>
+      <isbn content-type="epub">9780824854133</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>HONOLULU</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt13x1k3s"/>
+      <abstract abstract-type="short">
+         <p>Japanese have been fervid long-distance runners for many centuries. Today, on a per capita basis, at least as many Japanese residents complete marathons each year as do those in the United States or any other country.<italic>Marathon Japan</italic>traces the development of distance racing beginning with the Stockholm Olympics of 1912, when the Japanese government used athletics as part of its project to win the respect of Western countries and achieve parity with the world powers. The marathon soon became the first Western- derived sports event in which Japanese proved consistently superior to athletes from other countries. During the 1920s and 1930s, Japanese runners regularly produced the fastest times in the world, and in the 1960s and late 1970s-1980s, Japanese men again dominated world marathoning. Japanese women likewise emerged as some of the world's fastest in the 1990s and early 2000s. Meanwhile the general public took up distance running with enthusiasm, starting in the 1960s and continuing unabated today, symbolized most recently by massive open-entry marathons in Tokyo, Osaka, and other Japanese cities comparable in scale and challenge to major world races in Boston, New York, Chicago, London, and Berlin.</p>
+         <p>In this book, Thomas Havens analyzes the origins, development, and significance of Japan's excellence in marathons and long-distance relays (<italic>ekiden</italic>), as well as the explosive growth of distance racing among ordinary citizens. He reveals the key role of commercial media companies in promoting sports, especially marathons and<italic>ekiden</italic>, and explains how running became a consumer commodity beginning in the 1970s as Japanese society matured into an age of capitalist affluence. What comes to light as well are the relentlessly nationalistic goals underlying government policies toward sports throughout the modern era. The public craze for distance racing, both watching and running, has created a shared citizenship of civic participation among young and old, male and female, and persons of every social background and level of education.</p>
+         <p>
+            <italic>Marathon Japan</italic>will appeal to Japan specialists of cultural and social history, recreational runners in Japan and abroad, as well as anyone interested in the history of sports.</p>
+      </abstract>
+      <counts>
+         <page-count count="272"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Culture of Running in Japan</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Every year throughout Japan schoolchildren as young as kindergarteners compete in “marathon” (<italic>marason</italic>) races between 100 and 1,000 meters in length—an obligatory ritual dreaded by some and remembered by all for its ostensible focus on individual competition, regardless of skill or interest, presumably to build character and inspire accomplishment. Unlike the sports days (<italic>undōkai</italic>) held every October, which emphasize group participation and celebrate every student as a winner, schoolyard “marathons” highlight rivalry, glorify victors, tolerate the unmotivated, and humiliate also-rans by conferring “certificates of achievement”—even for placing dead last.¹ Yet with the passage of time and accretion of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Racing to Catch Up</title>
+                  </title-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>Japan at the start of the twentieth century must have seemed an unlikely candidate to excel at international marathon running. Just emerging from a hectic era of state formation, industrialization, and armed conflict with China in 1894–1895 and with imperial Russia ten years later, the country was saddled with unpaid war debt, internal protests against Shinto shrine mergers and police censorship, and a crisis of leadership when the Meiji emperor died in 1912, just as the elders (<italic>genrō</italic>) who had guided the country since 1868 were succumbing to infirmity and death. But the new era, known as Taishō (1912–</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>A Galaxy of Distance Runners</title>
+                  </title-group>
+                  <fpage>50</fpage>
+                  <abstract>
+                     <p>The Fukuoka International Marathon “is the Holy Grail, the Super Bowl of marathoning,” the one place “you want to be on the first Sunday in December every year.”¹ These words in 1980 from the American marathon star Bill Rodgers, who won the Fukuoka race in 1977 to become the only man ever to hold the triple crown of marathon titles at the same time (Boston, New York, Fukuoka), reflected the running community’s consensus that the annual Fukuoka contest had by then soared in prestige to become the unofficial world marathon championship. In 1966 the Japan Amateur Sports Association began inviting</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Distance Running as a Commodity</title>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>Japan entered the 1970s riding the crest of an economic boom unpre cedented in its history. Adjusted for inflation, output in the domestic economy rose about 11 percent each year during the era of high-speed growth, 1955–1973. House hold consumption in the 1960s was dampened by a government-business consensus on producer goods, but in the next decade ordinary citizens began to enjoy higher levels of material abundance as family incomes rose. Reflecting global trends dating to the 1960s, the marathon and ekiden community in Japan gradually grew more commercialized in the 1970s and especially the 1980s, when the cabinet</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>“Greater Depth, More Women”:</title>
+                     <subtitle>Marathons and Ekidens in the 1990s</subtitle>
+                  </title-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Speaking with his Japanese hosts in 1996, the former Olympic marathon champion Frank Shorter commented, “My perception is that the number of top-class male marathoners is no greater [in Japan than before], but, that there is more depth just below the top level. Naturally, the real difference is with the emergence of women marathoners on the world racing scene.” He pointed out that men were running marathons two minutes faster than in the 1970s, when Shorter won four consecutive Fukuoka International titles, partly because “they have paid rabbits” (pace setters) to lead at least halfway. He also noted, as had</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>From Peak to Plateau:</title>
+                     <subtitle>Elite Runners in the 2000s</subtitle>
+                  </title-group>
+                  <fpage>116</fpage>
+                  <abstract>
+                     <p>Takahashi Naoko began her record-setting Olympic marathon at Sydney in September 2000 with a coughing fit that lasted for the first 17 kilometers. By then she had dropped her bottle of mineral water, so her teammate Yamaguchi Eri shared her own bottle with Takahashi as the fiftyfour competitors battled high heat, tough hills, and harborside winds along a notably difficult course. Takahashi ran stride for stride beside the great Romanian champion Lidia Simon, who likewise trained for the Olympics in Boulder, until Simon fell back around the 30-kilometer mark. By then Takahashi’s trademark sunglasses were bothering her, so she flung</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Running for Everyone</title>
+                  </title-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>“The Tokyo Marathon made Japa nese people aware that, in dependent of winning or losing, everyone has their own race,” the champion runner Fujiwara Arata said in 2011. Runners once were regarded “as fitness geeks or people who enjoyed suffering . . . [but now] running has turned into something cool.”¹ The Ethiopian champion Haile Gebrselassie concurs: “Marathon is really wonderful right now . . . it’s a sport for everybody, with many participants.” Matsuo Kazumi, who won the Berlin Marathon in 2000 during her brief career with the Tenmaya corporate team, thinks it splendid that all sorts of people</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.11</book-part-id>
+                  <title-group>
+                     <title>Afterword:</title>
+                     <subtitle>Marathon Japan</subtitle>
+                  </title-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>When Richard Finn, media relations director of the New York Road Runners Club, arrived in the Japa nese capital to watch the 2010 Tokyo Marathon, he pointed out that Japan had a better infrastructure of local running clubs, university athletics, and corporate running teams to support long-distance running than the United States. Finn reassured his Japanese hosts that the current marathon boom among the general public would not burst and told them not to be concerned that their country could no longer boast of Olympic or world champion marathoners. He reminded them that the New York City Marathon had not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.12</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>175</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.13</book-part-id>
+                  <title-group>
+                     <title>Sources Cited</title>
+                  </title-group>
+                  <fpage>205</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.14</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>219</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1k3s.15</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>228</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

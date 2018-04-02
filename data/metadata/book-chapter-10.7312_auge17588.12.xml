@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt125wjg</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/auge17588</book-id>
+      <subj-group>
+         <subject content-type="call-number">HM721 .A9413 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Life cycle, Human</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Age groups</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Aging</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Self-acceptance</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Anthropology</subject>
+         <subject>Psychology</subject>
+         <subject>Philosophy</subject>
+         <subject>History</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Everyone Dies Young</book-title>
+         <subtitle>Time Without Age</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Augé</surname>
+               <given-names>Marc</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <role>Translated by</role>
+            <name name-style="western">
+               <surname>Gladding</surname>
+               <given-names>Jody</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>24</day>
+         <month>05</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="epub">9780231541596</isbn>
+      <isbn content-type="epub">0231541597</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/auge17588"/>
+      <abstract abstract-type="short">
+         <p>"We are awash in time, savoring a few moments of it; we project ourselves into it, reinvent it, play with it; we take our time or let it slip away: it is the raw material of our imagination. Age, on the other hand, is the detailed account of the days that pass, the one-way view of the years whose total sum when set forth can stupefy us. Age wedges each of us between a date of birth that, at least in the West, we know for certain and an expiration date that, as a general rule, we would like to defer. Time is a freedom, age a constraint."</p>
+         <p>Marc Augé remembers his beloved childhood cat, who seemed to grow wise with age, though her essential nature remained unchanged. He considers our belief that objects mature, when it is our perception of them that evolves over time. He wonders why public demonstrations of affection between the elderly make the young so uncomfortable and why we torture ourselves with regret at what might have been. Time can be liberating, he finds; it is a resource we can squander or relish. Yet age is a burden, bound by our personal and cultural neuroses. With an ethnologist's understanding of construct and practice, Augé isolates age from the development of consciousness, desire, and representations of the self. In bold, eye-opening strokes, he casts age as a physical marker and treats one's youthful approach to the world as the true measure of life's value.</p>
+      </abstract>
+      <counts>
+         <page-count count="112"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>[i]</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>[v]</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.3</book-part-id>
+                  <title-group>
+                     <title>THE WISDOM OF THE CAT</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>We found it in the Forest of Marly, abandoned for some time, famished, imploring, and clearly determined not to let us return alone. I was of the same opinion. My parents let themselves be convinced. I was an only child. I was twelve years old. We would grow up together, the cat more quickly than me, of course.</p>
+                     <p>That kitten had character and tough claws that she readily put to use, especially when I persisted in trying to teach her tricks, as though she were a circus horse. My arms were covered with wounds but suffered less than the upholstery</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.4</book-part-id>
+                  <title-group>
+                     <title>AS AGE APPROACHES</title>
+                  </title-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>As age approaches, it is much better to welcome it, because it is a sensitive animal and could be tempted to make whomever pretends not to acknowledge it pay dearly for that silence. It does not lack means for demonstrating its presence; better to stroke it the right way and look it in the eye. In short, as age approaches, it is best to proclaim that it is welcome, to swallow your pride and humbly, enthusiastically list the gifts that, like Santa Claus, it will generously pull out of its sack. Essentially and in no order, they are: wisdom born</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.5</book-part-id>
+                  <title-group>
+                     <title>HOW OLD ARE YOU?</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>“Q<italic>uel âge avez-vous</italic>?” This question is even more awkward in a language like English, which uses the auxiliary verb “to be”: not “What age<italic>have</italic>you?” but “How old<italic>are</italic>you?” And the response is even worse: “I am….” Am I really these forty, fifty, sixty or more years by which I am thus condemned to define myself? In one sense, yes, and it is others, society, and its rules that decide that sense. Age requirements are established in every domain: coming of age, retirement, candidacy for the Académie Française—as if, past a certain age, one can no longer</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.6</book-part-id>
+                  <title-group>
+                     <title>AUTOBIOGRAPHY AND ETHNOLOGY OF SELF</title>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>Literary autobiography seems less driven by a narcissistic temptation to talk about oneself than a desire to fix oneself in time with a few incontestable pieces of evidence, a bit like those tourists who seem more anxious to photograph the landscape or sights pointed out to them than actually to look at them. Given the fleeting nature of the moment and the least event, the most important thing is to anticipate being able to see it again in order to believe it, to anticipate the absence that already looms, the shadow cast by an elusive present. This is the opposite</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.7</book-part-id>
+                  <title-group>
+                     <title>CLASS</title>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>Space helps us not only represent but also master, order, and even stop time, or it gives us the feeling of doing so. How old are you? Scarcely have I understood the question and opened my mouth to answer than I have already aged a few seconds; on the other hand, if I pull out my ID card, I find my date of birth inscribed there; that is solid, fixed. Beginning at fifteen years old, children can no longer be listed on their parents’ passports; they must have their own. In short, they are entitled to their own dates of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.8</book-part-id>
+                  <title-group>
+                     <title>IMAGES D’ÉPINAL</title>
+                  </title-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>“The ages of life” form a pictorial motif that does not correspond to any concrete experience. A memory from our youth does sometimes come back to us, an image that is insistent but fuzzy on the details. However, the succession of scenes evoked by some painters to illustrate the theme of the ages of life, those<italic>Images d’Épinal</italic>that used to decorate French kitchen walls, never file past in our memory. Those representations of the human body rising by degrees toward the prime of life before descending again bent over toward extreme old age elaborate a kind of illustrated cartography</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.9</book-part-id>
+                  <title-group>
+                     <title>LOOKING YOUR AGE</title>
+                  </title-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>Words and common expressions speak volumes, as they say. No doubt they say too much not to contradict themselves, with the confidence of the overly naive or the overly clever. “You don’t look your age” is a claim we sometimes hear; it is supposed to please the one to whom it is addressed. Conversely, expressed positively, it is most often used in the third person, in a confidential, pitying tone, referring to an absent third party. She “looks her age,” or more insistently, he “really looks his age.” The verb in French is not<italic>voir</italic>, to look, but<italic>faire</italic>, to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.10</book-part-id>
+                  <title-group>
+                     <title>THE AGE OF THINGS AND THE AGE OF OTHERS</title>
+                  </title-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>We sometimes have the feeling that age comes from elsewhere, that it is exterior to us, that things have changed without asking our opinion and that is why we do not recognize them. “This book has aged,” we say or sometimes hear said. Or more harshly: “It hasn’t aged well.” Such remarks are relatively frequent and transform us into unmoving, implacable judges of works and authors. A little reflection leads us quickly to reverse this image: the book’s text has not altered, the film’s images have not changed. From this perspective, cinema is the inexorable witness of how memory drifts.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.11</book-part-id>
+                  <title-group>
+                     <title>AGING WITHOUT AGE</title>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>It is in seeing the face again of someone we have long “lost sight of” that we sometimes become aware of having aged. Past a certain age, we must never stray for very long from those whom we are destined to see again; they will take advantage of that time by aging without warning and reappear suddenly like tactless mirrors of our own decrepitude. Among friends with whom we have stayed in closer contact we may reassure ourselves: “Age has dealt him quite a blow …,” but our hearts are not in it. We look for an explanation; we wonder</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.12</book-part-id>
+                  <title-group>
+                     <title>NOSTALGIA</title>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>There are two kinds of nostalgia: one that focuses on the past that we lived and one that focuses on the past that we might have lived. The first is conjugated in the present conditional (“I would love to return to those happy days”); the second is conjugated in the past conditional (“If I had dared to act, I would have succeeded”). Taking over for and nurtured by a more or less faithful memory, the first runs head-on into the irreversibility of time. The second does not just want to return to the past but to change history (“If I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.13</book-part-id>
+                  <title-group>
+                     <title>EVERYONE DIES YOUNG</title>
+                  </title-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>I have had many cats in my life, female cats most often, that, after a first and only experience, surgery quickly denied the pleasures of mating and the feelings of reproduction. With each of them, it was the same story beginning over again: the mischievousness of the first months, triumphant maturity, gradual loss of powers, and always the same serenity. The ages of life paraded past at an accelerated pace. One of the virtues of pets, from the human perspective, is surely their ability to replace one another. Their quick succession dispenses with the work of grieving, and when a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.14</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>87</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.15</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>91</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">auge17588.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>97</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt2121757</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Film Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Double Visions, Double Fictions</book-title>
+         <subtitle>The Doppelgänger in Japanese Film and Literature</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Posadas</surname>
+               <given-names>Baryon Tensor</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>28</day>
+         <month>02</month>
+         <year>2018</year>
+      </pub-date>
+      <isbn content-type="ppub">9781517902636</isbn>
+      <isbn content-type="epub">9781452956336</isbn>
+      <isbn content-type="epub">1452956332</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>MINNEAPOLIS; LONDON</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2018</copyright-year>
+         <copyright-holder>the Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.5749/j.ctt2121757"/>
+      <abstract abstract-type="short">
+         <p>A fresh take on the dopplegänger and its place in Japanese film and literature-past and presentSince its earliest known use in German Romanticism in the late 1700s, the word<italic>Dopplegänger</italic>(double-walker) can be found throughout a vast array of literature, culture, and media. This motif of doubling can also be seen traversing historical and cultural boundaries.<italic>Double Visions, Double Fictions</italic>analyzes the myriad manifestations of the dopplegänger in Japanese literary and cinematic texts at two historical junctures: the interwar period of the 1920s and 1930s and the present day.</p>
+         <p>According to author Baryon Tensor Posadas, the doppelgänger marks the intersection of the historical impact of psychoanalytic theory, the genre of detective fiction in Japan, early Japanese cinema, and the cultural production of Japanese colonialism. He examines the doppelgänger's appearance in the works of Edogawa Rampo, Tanizaki Jun'ichiro, and Akutagawa Ryunosuke, as well as the films of Tsukamoto Shin'ya and Kurosawa Kiyoshi, not only as a recurrent motif but also as a critical practice of concepts. Following these explorations, Posadas asks: What were the social, political, and material conditions that mobilized the desire for the dopplegänger? And how does the dopplegänger capture social transformations taking place at these historical moments?</p>
+         <p>
+            <italic>Double Visions, Double Fictions</italic>ultimately reveals how the dopplegänger motif provides a fascinating new backdrop for understanding the enmeshment of past and present.</p>
+      </abstract>
+      <counts>
+         <page-count count="280"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>A Strange Mirror The Doppelgänger in Japan</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The myriad manifestations of the motif of a haunting encounter with one’s own double, which often foretells one’s doom—the motif of seeing one’s so-called doppelgänger, in other words—have made appearances in a wide range of literary and cinematic traditions. Subsumed under its name is a constellation of interlinked images—everything from lookalikes, psychological projections, evil twins, alter egos, genetic clones, perfect disguises, disembodied souls and shadows, and others—all of which involve the idea of an interplay between identity and difference. These repeated recurrences of the figure have led to its being variously understood as an illustration of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Stalkers and Crime Scenes:</title>
+                     <subtitle>The Detective Fiction of Edogawa Rampo</subtitle>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>At roughly the same time that Otto Rank began writing his seminal psychoanalytic study of the doppelgänger, the first Japanese translation of Edgar Allan Poe’s (1809–1849) short story “William Wilson” (1839) was published as a part of the anthology<italic>Akaki shi no kamen</italic>(<italic>Masque of Red Death</italic>, 1913).¹ The story of “William Wilson” revolves around a young student who is persistently hounded by his double in the form of another boy who not only shares a roughly similar appearance to the protagonist, but moreover has an identical name and date of birth. Soon, the other boy imitates his dress</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Repressing the Colonial Unconscious:</title>
+                     <subtitle>Racialized Doppelgängers</subtitle>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>It cannot be said that the work of Tanizaki Jun’ichirō (1886–1965) has suffered from any critical neglect. Not only were his fictions some of earliest and more extensively translated into English among twentieth-century Japanese authors; more importantly, they have been consistent objects of attention, with various debates and discussions about his work persisting through the decades in both Japanese and English-language scholarly writings.¹ Beyond the standard literary-historical overviews and biographical accounts of the trajectory of his career, all manner of approaches to Tanizaki’s fiction have appeared in recent years, from considerations of his employment of the femme fatale figure,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Projections of Shadow:</title>
+                     <subtitle>Visual Modernization and Psychoanalysis</subtitle>
+                  </title-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>Technologies of visuality played a crucial mediating role in the conceptual articulation of the figure of the doppelgänger. From the very beginnings of its theorization, with Otto Rank’s pioneering work on the figure in his<italic>Der Doppelgänger (The Double , 1925)</italic>, cinema featured as the impetus behind the examination of the doppelgänger as a psychoanalytic concept. Rank opens his study of the doppelgänger with a discussion of the “banal subject” of film, recounting from memory his experience of viewing Hanns Heinz Ewers and Stellan Rye’s Der Student von Prag (<italic>The Student of Prague</italic>, 1913), which he describes as “shadowy, fleeting,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Rampo’s Repetitions:</title>
+                     <subtitle>Confession, Adaptation, and the Historical Unconscious</subtitle>
+                  </title-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>In the preceding chapters, I identified two historical processes that were formative of the fantasy of the doppelgänger in the context of interwar Japan. First, the expansion of the Japanese empire led to the intense negotiation of racial discourses of identity and difference vis-à-vis its new colonial subjects. Second, the modernization process entailed transformations in the regime of visuality marked by the industrial mass production of images, which facilitated the imagination of all manner of doublings and repetitions. Importantly, these were not merely parallel processes, but instead intersected and mutually reinforced one another. On the one hand, the circulation of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Compulsions to Repeat:</title>
+                     <subtitle>The Doppelgänger at the End of History</subtitle>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>For the spectator familiar with his work, Kurosawa Kiyoshi’s film<italic>Sakebi</italic>(<italic>Retribution</italic>, 2006) immediately provokes moments of spectatorial déjà vu. Many of its plot points and narrative turns recall scenes from previous films in Kurosawa’s extensive body of work.<italic>Retribution</italic>begins by calling upon its spectators to witness a scene of violence. Immediately after the titles appear and then vanish off the screen is a sequence of only three cuts, all shot from a distance, accentuating the sense that one is secretly witnessing the scene. A man in a black jacket drags a woman in a red dress across the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.9</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.10</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.11</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.12</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2121757.13</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>255</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

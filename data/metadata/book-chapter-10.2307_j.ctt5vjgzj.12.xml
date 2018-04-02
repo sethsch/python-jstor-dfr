@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt5p4vtp</collection-id>
+      <volume>44</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vjgzj</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Locating Science Fiction</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>MILNER</surname>
+               <given-names>ANDREW</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>14</day>
+         <month>11</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9781846318429</isbn>
+      <isbn content-type="ppub">1846318424</isbn>
+      <isbn content-type="epub">9781846317804</isbn>
+      <publisher>
+         <publisher-name>Liverpool University Press</publisher-name>
+         <publisher-loc>Liverpool</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Andrew Milner</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt5vjgzj"/>
+      <abstract abstract-type="short">
+         <p>Locating Science Fiction is a ground breaking and potentially paradigm-shifting book, a major intervention into contemporary theoretical debates about SF. Academic literary criticism has tended to locate SF primarily in relation to the older genre of utopia; fan criticism primarily in relation to fantasy and SF in other media, especially film and television; popular fiction studies primarily in relation to other contemporary genres such as the romance and the thriller. This bold new synthesis relocates SF in relation to each of these other genres and media and also to the historical and geographic contexts of its emergence and development. Locating Science Fiction effects a series of vital shifts in the way SF theory and criticism has conceptualised its subject, away from prescriptively abstract dialectics of cognition and estrangement and towards the empirically grounded understanding of what is actually a messy amalgam of texts, practices and artefacts. Inspired by Raymond Williams's cultural materialism, Pierre Bourdieu's sociology of culture and Franco Moretti's application of world systems theory to literary studies, Locating Science Fiction draws on the disciplinary competences of Comparative Literature, Cultural Studies, Critical Theory and Sociology to produce a powerfully persuasive mode of analysis, engagement and argument.</p>
+      </abstract>
+      <counts>
+         <page-count count="244"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.4</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Memories of Dan Dare</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>I am by enthusiasm a science fiction fan and by profession a critical theorist, that is, an academic specialist in the theory of literary (and other) criticism. The first explains why I would choose to write about this genre, the second how I would do so, that is, by utilising the kinds of resource I canvass in my own earlier books on critical and cultural theory (Milner, 2002; Milner and Browitt, 2002). Like many other literary subfields, science fiction studies has been exposed to a wide variety of critical theories. So, for example, there are postcolonial and, more specifically, ‘Afrofuturist’</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Science Fiction and Selective Tradition</title>
+                  </title-group>
+                  <fpage>22</fpage>
+                  <abstract>
+                     <p>To summarise the tentative conclusions of the previous chapter, I have argued that the category of SF applies meaningfully across a whole range of cultural forms, from the novel and short story to film and television, a generic continuity repeatedly signalled by way of intertextuality; that SF cannot be located exclusively on either side of any high Literature/popular culture binary, but should be seen as straddling and thereby, in effect, deconstructing them; that SF tends to be resistant to modernist aesthetics insofar as it privileges content, that is, ideas, over form; and that SF narratives are typically tales of resonance</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Science Fiction and the Cultural Field</title>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>In the previous chapter, we explored Williams’s notion of selective tradition. Here, I want to propose Bourdieu’s model of the literary field as a possible, perhaps even necessary, complement to Williams in our understanding of genre. For Bourdieu, as we noted in chapter 1, even apparently disinterested and gratuitous practices can be treated as directed towards the maximisation of material or symbolic profit. When applied directly to literature and art, this proposition produces a model of ‘the field of cultural production’ as structured externally in relation to the ‘field of power’ (Bourdieu, 1993, 37–38) and internally in relation to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Radio Science Fiction and the Theory of Genre</title>
+                  </title-group>
+                  <fpage>68</fpage>
+                  <abstract>
+                     <p>Perhaps the most striking feature of the previous chapter’s mapping of the SF field is that, to date, only one of these many and various SF forms, commercial radio SF drama, has actually become extinct. Its absence from the contemporary cultural field is arguably ‘symptomatic’, in the Althusserian sense of the term, that is, it signifies something much more generally significant about the structure and function of the whole field (Althusser and Balibar, 1970, 316). What exactly that might be, will be the subject of this chapter.</p>
+                     <p>In the mid 1960s, Professor A.J.P. Taylor, the distinguished Oxford historian, opined, with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Science Fiction, Utopia and Fantasy</title>
+                  </title-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>We turn now to our third question, not that of what SF was, but rather of what it wasn’t. It is obvious that SF isn’t the romance or the Western or crime fiction, although there are hybrid instances of SF and each of these. There are even modernist–SF hybrids: one need look no further than Ballard’s middle-period fictions. But the question of generic specificity really becomes acute only at the two points that will be our concern in this chapter, utopia and fantasy. If contemporary cinema and print publishing is any guide, fantasy is a far more socially influential</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Science Fiction and Dystopia</title>
+                  </title-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>In the previous chapter, we explored the relations between SF, utopia and fantasy, concluding that all three occupy positions within the contemporary global SF field and therefore contribute to the SF selective tradition. Twenty years ago, both fan critics and academics alike would have found the inclusion of fantasy much more problematic than that of utopia. Today, however, the central site of contention, albeit not to the point of exclusion, is almost certainly provided by dystopia.</p>
+                     <p>The obverse of the enthusiasm for utopia traced in chapter 5 is, in Williams, Freedman, Suvin and Jameson, something quite close to a distaste</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>When Was Science Fiction?</title>
+                  </title-group>
+                  <fpage>136</fpage>
+                  <abstract>
+                     <p>Between 20 May and 25 September 2011 the British Library in London held a public exhibition devoted to SF under the rubric<italic>Out of This World: Science Fiction but Not as You Know It</italic>. The Library is a United Kingdom deposit library and was thus able to draw on an extensive collection of first editions by British publishers, including Shelley’s<italic>Frankenstein</italic>and<italic>The Last Man</italic>, Bellamy’s<italic>Looking Backward</italic>(the London version), Wells’s<italic>The Time Machine</italic>, Huxley’s<italic>Brave New World</italic>and Orwell’s<italic>Nineteen Eighty-Four</italic>. It also houses an extensive collection of archives, for example the Ballard papers, and was able to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Where Was Science Fiction?</title>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Although heavily weighted towards England, France and the United States, the British Library’s 2011<italic>Out of This World</italic>exhibition, cited in the previous chapter, clearly presented a version of the history of SF that not only reached back to classical antiquity, but also stretched across Eurasia and North America, from the Japanese Haruki Murakami’s<italic>Sekai no owari to hādo-boirudo wandārando</italic>(<italic>Hard-Boiled Wonderland and the End of the World</italic>) to the Canadian Margaret Atwood’s<italic>Oryx and Crake</italic>and<italic>The Year of the Flood</italic>(Ashley, 2011, 66, 114). Germany, Poland, Russia and Czechoslovakia were all comparatively well represented; on 9 September the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Uses of Science Fiction</title>
+                  </title-group>
+                  <fpage>178</fpage>
+                  <abstract>
+                     <p>We set out to answer four main questions: what, positively, was SF? what, negatively, wasn’t it? when was it? and, finally, where was it? Our answer to the first question, developed in chapters 2 and 3 and elaborated in chapter 4, was that SF is a ‘selective tradition’, in Williams’s terms, and that this selective tradition is produced and reproduced institutionally by the SF subfield of the general cultural field, defined in terms borrowed loosely from Bourdieu. Our answer to the second, developed in chapters 5 and 6, was that SF, utopia, dystopia and fantasy are analytically distinct but cognate</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.14</book-part-id>
+                  <title-group>
+                     <title>Afterword</title>
+                  </title-group>
+                  <fpage>196</fpage>
+                  <abstract>
+                     <p>I decided on the book’s closing sentence in February 2011, only a week or so after my house had flooded, and wrote the whole of the final chapter towards its concluding encounter with the young Alison Conway. But other quite unrelated events eventually convinced me that this little flood was ultimately a very small matter, not only in relation to the collective life of Australia, but also to my own personal biography. As narrative, the book ends where it ends. But as autobiography there is more to add. I began work on the book in West Yorkshire in late 2007,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.15</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgzj.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>231</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

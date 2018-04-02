@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt9m0vx3</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Future of the Word</book-title>
+         <subtitle>An Eschatology of Reading</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Kriner</surname>
+               <given-names>Tiffany Eberle</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9781451470321</isbn>
+      <isbn content-type="ppub">1451470320</isbn>
+      <isbn content-type="epub">9781451487657</isbn>
+      <isbn content-type="epub">1451487657</isbn>
+      <publisher>
+         <publisher-name>Augsburg Fortress Publishers</publisher-name>
+         <publisher-loc>Minneapolis</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Fortress Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt9m0vx3"/>
+      <abstract abstract-type="short">
+         <p>In scripture, Jesus promises a future that potentiall infuses all texts: "my words will not pass away" (Matt 24:28). This book argues that texts--even literary texts--, have an eschatology, too, a part of God's purpose for the cosmos. They, with all creation, moves toward participation in the new creation, in the Trinity's expanding, creative love. This eschatological future for texts impacts how we understand meaning making, from the level of semiology to that of hermeneutics. This book tells he story of how readers participate in the future of the word, the eschatology of texts. If texts have a future i the kingdom of God, then readers' engagement with them--everything from preservation and utterance to translation, criticism, and call and response--can cultivate those futures in the love of the Trinity. Kriner explores how the fallenness and failures of texts, alongside readers' own failures, while seeming to challenge the future of the word, ultimately point to reading as a posture of reconciliation, in which reader and text meet in the Maranatha of all text.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>The End of Reading</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The Joseph of the book of Genesis is both a dreamer and dream-reader, and even the briefest page-through of his tale suggests that the latter is more useful—certainly more lucrative—than the former. In his early life, Joseph dreams two big dreams, the grasping subconscious desire of which is obvious—and offensive—to all those around him: one night, he dreams that his brothers’ sheaves of wheat bow down to his sheaf, and another night, he dreams that the sun, moon, and eleven stars bow down to him. After the technicolor dreamcoat and its negative aftermath, however, Joseph stops</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Future of the Word</title>
+                  </title-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>The writer of Matthew understands Jesus’ life in terms of texts.¹ In his gospel, the writer links all of the major events, many of the major speeches, and several of the parable sequences to Old Testament scripture passages. Apparently, Jesus’ life is all about fulfilling scripture. Sometimes the writer explicitly uses the term “fulfill”—as in the fulfillment citations—and sometimes other formulae, such as the “you have heard that it was said … but I say to you” passages. In both, Jesus embodies the word, reinterprets the word, and sets forth the future of the word. Matthew pictures a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Reading for the Future of the Word</title>
+                  </title-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>In the last chapter, I showed how the book of Matthew depicts Jesus as bringing forward—cultivating, if you will—the future of the word, in part through the series of parables in Matthew 13. The last of the great assemblage that features the parable of the sower, the parable of the mustard seed, the wheat and tares, the treasure in the field, the pearl of great price, and the parable of the net is a diminutive sentence about “the scribe trained for the kingdom of heaven” (Matt. 13:52). The scribe, Jesus says, is like a “master of a household,”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.7</book-part-id>
+                  <title-group>
+                     <title>Literary Scrivenings 1:</title>
+                     <subtitle>Futures for the Living Dead</subtitle>
+                  </title-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>The three sections of this book headed<italic>Scrivenings</italic>bring out literary texts to play with the theology. Engaging questions of how reading might participate in the becoming, meaning-making, and community-building futures of texts, these interpretations try out the activities of the scribe for the kingdom—in a gloriously messy way. They map the myriad and manifold paths that reading takes outside of philosophical or theological argument, sometimes kicking against the pricks and sometimes seeming to take a turn themselves in the dance of the healing of time.</p>
+                     <p>The previous chapter pointed to several angles on the future of the word—</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Evil and Judgment</title>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>This book has been lit by the idea that the eschatological purpose of God for the cosmos includes texts, constituting and illuminating them—in part through our reading—with expanding love and meaning-making for the kingdom. But what about the dark side? How does reading’s glorious expansion of meaning and love through the futures of texts square with evil? A reminder of evil makes the future of the word as it has been described so far seem a naïve universal salvation—the idea that no text or meaning will ever be lost, or that meaning marches unflaggingly toward transparency at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.9</book-part-id>
+                  <title-group>
+                     <title>Literary Scrivenings 2:</title>
+                     <subtitle>The Double Bind of Judgment</subtitle>
+                  </title-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>The texts in this second section of scrivenings do not refer much to God’s judgment. There are judgments aplenty and even angels crashing through bedroom ceilings. But rather than considering God’s role in demarcating and eliminating evil, these stories take us rather to what Klyne Snodgrass called “the human question” associated with evil: “We must stop being evil, and we must stop evil from destroying, but how can we stop evil without becoming evil in the process?”¹ Henry James’s novella<italic>Daisy Miller</italic>and Tony Kushner’s play<italic>Angels in America</italic>engage questions of human judgment, one demonstrating the dangers of judgment,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Forgiving the Text</title>
+                  </title-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>In the gospel accounts, John the Baptist’s ministry rides the line between the necessity and difficulty of judgment. He is a baptizer known for unflinching denunciations and unhesitating warnings (Matt. 3:7). Yet when confronted with Jesus’ request for baptism, John almost refuses to perform it, because he knows of his own need for forgiveness. That double bind, between the rock of inevitable, necessary judgment and the hard place of our incapacity for just execution, is where we too are left in the wilderness as readers for the future of the word. When we encounter texts and read, even as would-be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.11</book-part-id>
+                  <title-group>
+                     <title>Literary Scrivenings 3:</title>
+                     <subtitle>The Romance of Reconciliation</subtitle>
+                  </title-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>An unlikely juxtaposition of novels works toward reconciliation and forgiveness in the final scrivenings and the conclusion of this book: Francine Rivers’s<italic>Redeeming Love</italic>(1991/1997), a Christian inspirational romance novel that retells the biblical book of Hosea in gold-rush California and Vladimir Nabokov’s<italic>Lolita</italic>(1955), the fictional memoir and apologia of a pedophile. Though it seems reasonably assured that these two texts may never elsewhere come into as close proximity as they do in this book, they do have a few things in common. Both novels take up childhood sexual slavery and pedophilia; both push boundaries; both are significantly revised</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.12</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>This book has argued that texts’ meanings are founded on the future of the word of God, on the future of Christ, the word who became flesh. That eschatological future—the glorious plenitude of the community of the new creation—is texts’ expansion of meaning within the expanding love of the Trinity for the glory of God. God grants us participation in the future of the word through our participation in Christ, in whom we live and move and have our being. In reading, we cultivate and keep texts for their futures in the kingdom of God. In the time</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.13</book-part-id>
+                  <title-group>
+                     <title>Afterword</title>
+                  </title-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>If God has a future for texts and allows readers to participate in those futures, I suspect that participation starts pretty early in the process—from the first scrappy ideas through the long making. And so, I am grateful for the following readers and cultivators of this book, especially for the conversations about it and prayers for it, without which it would have had no future at all. Heartfelt thanks to Beth Felker Jones, Noah Toly, Nicole Mazzarella, Christina Bieber Lake, Miho Nonaka, Caleb Spencer, Erick Sierra, Richard Gibson, Pete Powers, Crystal Downing, Jay Wood, Tim Larsen, Matthew Milliner, Carey</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.14</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>297</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>321</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9m0vx3.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>327</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

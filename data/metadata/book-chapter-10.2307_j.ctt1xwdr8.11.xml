@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1njj08</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1xwdr8</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Contact Moments</book-title>
+         <subtitle>The Politics of Intercultural Desire in Japanese Male-Queer Cultures</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Suganuma</surname>
+               <given-names>Katsuhiko</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>04</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9789888083701</isbn>
+      <isbn content-type="epub">9789882208896</isbn>
+      <publisher>
+         <publisher-name>Hong Kong University Press, HKU</publisher-name>
+         <publisher-loc>Aberdeen, Hong Kong</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Hong Kong University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1xwdr8"/>
+      <abstract abstract-type="short">
+         <p>This book sheds light on 'contact moments' between Japanese male-queer culture and that of the West in the postwar period, and critiques various contemporary examples of persistent Orientalism and nativism. Focusing on a range of Japanese as well as English male-queer materials including magazines, memoirs and cybertexts, Suganuma shows how the interactions of the two cultures affected the subject formation process of queer selves. The instances examined range from the hentai magazines of the 1950s and their depiction of men who had sex with foreign men (mostly American servicemen); the depiction of race in the magazine Barazoku; John Whittier Treat's memoir of his sabbatical in Japan and his depiction of his own Orientalism; the writings and strategies of OCCUR and Fushimi in the 1990s; and the GJN news site.</p>
+      </abstract>
+      <counts>
+         <page-count count="232"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.3</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.5</book-part-id>
+                  <title-group>
+                     <title>Note to the Reader</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Introduction:</title>
+                     <subtitle>Ways of Knowing Japan’s Queer Culture</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Cross-cultural contact often puts a person in a situation in which she or he feels insecure. In contact with another culture, all of a sudden a person’s mode of being is left on shaky ground, creating the feeling of a subtle distance from the previous identity. The person may feel confused in the process of being forced to be someone who represents one culture in comparison to another. A variety of binary concepts including ‘us’ and ‘them’, ‘West’ and ‘non-West’, ‘man’ and ‘woman’, and ‘heterosexual’ and ‘homosexual’ emerge and more often than not suffocate each individual, for the individual is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>Under the Patriotic Gaze:</title>
+                     <subtitle>The Emergence of Non-Normative Sexual Discourses in Post-War Japan</subtitle>
+                  </title-group>
+                  <fpage>37</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In his meticulous historical work, <italic>Embracing Defeat</italic> (1999), John Dower succinctly summarises a popular observation of Japan’s defeat by the West made by some critics immediately after the Second World War. As Dower suggests, it is normally assumed that Japanese people who had been subject to strict social controls under the totalitarian and militarist regime during the war were thrown into a milieu where wartime doctrines were no longer effective. From the declaration of the country’s unconditional surrender to the US-led allied forces in 1945, Japan found itself in the process of reconstituting its sovereignty, and amending the state’s crisis</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Hybridised Whiteness in ‘Rose’:</title>
+                     <subtitle>The Displacement of Racialised/Gendered Discourse in a Japanese Queer Magazine in the 1970s</subtitle>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the previous chapter, I have shown that in post-war Japan, the binary trope of the West and Japan was a gendered discourse, and played a pivotal role in mediating the identity politics of Japan. The colonial gendered binary, which normally renders Japan as feminine in relation to a masculine West, was redefined so as to situate Japan’s masculine subjecthood as a viable identity. Furthermore, the undervalued femininity that Japan’s male subject refused to associate with was in turn embodied in the discourses of Japanese women as well as men who had a sexual relationship with Western men. Those who</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>Allegorising the Erotic:</title>
+                     <subtitle>Transforming Intercultural Queer Desires in John Treat’s <italic>Great Mirrors Shattered</italic>
+                     </subtitle>
+                  </title-group>
+                  <fpage>101</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Previous chapters have examined the various ways in which the cross-cultural binary trope of ‘East’ and ‘West’ has been constantly redefined and rearticulated in Japan’s queer culture so as to serve local needs. The ‘contact zone’ between Japanese queer culture and that of the West has been a locus where the power dynamics between the two constituents are not necessarily fixed, but instead remain motile and evolving. As argued in the previous chapters, Japanese male-queer selves and identities have never been in stasis, but have constantly gone through transformation by virtue of contact with the West. If this is what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Associative Identity Politics:</title>
+                     <subtitle>Unmasking the Multi-Layered Formation of Queer Male Selves in 1990s Japan</subtitle>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The decade of the 1990s was a critical period for the establishment and rapid growth of Japanese gay studies. The bulk of works produced by writers and academics who were directly engaged in the gay liberation movement developed scholarship that was sometimes collaborative with and sometimes contested by those inside and outside the movement. As historical research on the queer cultures of the preceding period (from 1950s to 1980s) by some authors (e.g. Ishida et al. 2005) as well as what this book’s earlier chapters discuss show, it is debatable whether one can recognise the period of the 1990s as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Japanese Male-Queer Cyberspace and Global Flows:</title>
+                     <subtitle>Realising Queer Japan through the Imagination</subtitle>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In Chapter 5, I argued that the binary opposition of ‘Japan’ versus the ‘West’ is strategically taken up in the Japanese gay men’s coming-out narratives that emerged during the 1990s. In line with previous chapters, what is important to recognise is that the binary does not always dictate the ways in which Japan’s queer identity or subjecthood congeals in the context of globalisation. Instead, the constantly evolving Japanese gay men’s narratives tactically use and reuse the binary trope in order to move between categories and identities, and thus expose the discursive limits of the binary itself. I applied Fran Martin’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Conclusion:</title>
+                     <subtitle>On Cross-Cultural Contacts and Queer Desire</subtitle>
+                  </title-group>
+                  <fpage>177</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Can we discuss identity in the context of cross-cultural contacts? To put it in different terms, when we say we analyse identity, do we really look at what identity is? Or is it the case that we are often discussing the footprints of a certain mode of being or sense of belonging that wanders from one place to another, between the categories of what we call identity? In <italic>Outside Belongings</italic> (1996), Elspeth Probyn offers us a critical insight into what she describes as modes of being oscillating somewhere between particular categories and identities in both a national and a transnational</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>191</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.14</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>197</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdr8.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>211</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

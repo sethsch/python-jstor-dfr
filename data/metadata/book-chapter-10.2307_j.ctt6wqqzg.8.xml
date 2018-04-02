@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqqzg</book-id>
+      <subj-group>
+         <subject content-type="call-number">B831.2.L82 2007</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Postmodernism</subject>
+         <subj-group>
+            <subject content-type="lcsh">China</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Popular culture</subject>
+         <subj-group>
+            <subject content-type="lcsh">China</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Biopolitics</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>General Science</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Chinese Modernity and Global Biopolitics</book-title>
+         <subtitle>Studies in Literature and Visual Culture</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Lu</surname>
+               <given-names>Sheldon H.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>05</month>
+         <year>2007</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824831110</isbn>
+      <isbn content-type="epub">9780824861865</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>HONOLULU</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqqzg"/>
+      <abstract abstract-type="short">
+         <p>This ambitious work is a multimedia, interdisciplinary study of Chinese modernity in the context of globalization from the late nineteenth century to the present. Sheldon Lu draws on Chinese literature, film, art, photography, and video to broadly map the emergence of modern China in relation to the capitalist world-system in the economic, social, and political realms. Central to his study is the investigation of biopower and body politics, namely, the experience of globalization on a personal level. Lu first outlines the trajectory of the body in modern Chinese literature by focusing on the adventures, pleasures, and sufferings of the male (and female) body in the writings of selected authors. He then turns to avant-garde and performance art, tackling the physical self more directly through a consideration of work that takes the body as its very theme, material, and medium. In an exploration of mass visual culture, Lu analyzes artistic reactions to the multiple, uneven effects of globalization and modernization on both the physical landscape of China and the interior psyche of its citizens. This is followed by an inquiry into contemporary Chinese urban space in popular cinema and experimental photography and art. Examples are offered that capture the daily lives of contemporary Chinese as they struggle to make the transition from the vanishing space of the socialist lifestyle to the new capitalist economy of commodities. Lu reexamines the history and implications of China’s belated integration into the capitalist world system before closing with a postscript that traces the genealogy of the term "postsocialism" and points to the real relevance of the idea for the investigation of everyday life in China in the twenty-first century.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.4</book-part-id>
+                  <title-group>
+                     <title>acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.5</book-part-id>
+                  <title-group>
+                     <title>introduction:</title>
+                     <subtitle>China and the Global Biopolitical Order</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This book is a multidisciplinary study of Chinese modernity in the areas of literature, visual culture, and biopolitics. In his deceptively titled monograph,<italic>A Singular Modernity: Essay on the Ontology of the Present,</italic>Fredric Jameson at one point entertains as many as fourteen possible narratives of modernity in European history, extending from the German Reformation through the French Enlightenment to the Soviet Revolution.¹ Chinese modernity, from the mid-nineteenth century to the twenty-first century, is necessarily multifarious and open to many possibilities of narration.² We may enumerate a series of successive or overlapping “modern” moments: incipient modernity in the late Qing,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.6</book-part-id>
+                  <title-group>
+                     <label>chapter one</label>
+                     <title>Waking to Global Modernity:</title>
+                     <subtitle>The Classical Tale in the Late Qing</subtitle>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>China’s encounter with modernity in the nineteenth century entailed a radical reconceptualization of China’s position within the new world that it had just discovered. It reluctantly realized that it had to jettison its old universalist yet sinocentric view of itself and the world. The Qing Empire was but a nation-state among a multitude of other countries. At the same moment, the self-reorientation awakened and animated a utopian longing for a future universal unity in imaginary if not real terms. I shall examine a pivotal figure in the genealogy of Chinese reformers in the late Qing, Wang Tao. He wrote political</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.7</book-part-id>
+                  <title-group>
+                     <label>chapter two</label>
+                     <title>When Mimosa Blossoms:</title>
+                     <subtitle>Blockage of Male Desire in Yu Dafu and Zhang Xianliang</subtitle>
+                  </title-group>
+                  <fpage>38</fpage>
+                  <abstract>
+                     <p>In this chapter I discuss the stories of two modern Chinese writers: Yu Dafu, of the May Fourth generation in the first half of the twentieth century; and Zhang Xianliang, from the socialist period in the second half of that century. Although they come from two different historical periods, certain commonalities exist between these two male writers. They are linked by what might be called a common political and libidinal “economics of deficits.”¹ Politically, their fictional yet autobiographical characters stand at the margins of society, and sexually, their stories often narrate the lack of libidinal fulfillment among Chinese males; there</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.8</book-part-id>
+                  <title-group>
+                     <label>chapter three</label>
+                     <title>Body Writing:</title>
+                     <subtitle>Beauty Writers at the Turn of the Twenty-first Century</subtitle>
+                  </title-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>At the end of the twentieth century, two Shanghai-born women writers, Mian Mian and Wei Hui, took China’s literary scene by storm with their shocking stories and writing styles. Their novels were immensely popular with China’s new generation of readers, the so-called Generation X (<italic>xin xin renlei,</italic>literally “new new human beings”). The writers themselves were born in the early 1970s and have no recollection or experience of the Cultural Revolution (1966–1976). By the time of their adolescence, China’s modernization and open-door policy were already in full swing. Throughout the 1990s, Shanghai, the city of their birth, had emerged</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.9</book-part-id>
+                  <title-group>
+                     <label>chapter four</label>
+                     <title>The Naked Body Politic in Postsocialist China and the Chinese Diaspora</title>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>This chapter explores the body art of Ma Liuming and Zhang Huan, two leading body/performance artists from the People Republic of China since the early 1990s.¹ Throughout ancient China, the naked body, or full nudity, was relatively absent in iconography, in contrast to Western art.² In modern and contemporary China, the naked body cautiously surfaces in art works once in a while. Today, no public platform for the artistic performance of the naked body in postsocialist China exists. Perceived as subversive and perverse, such exhibitions are held in private, nonpublic, nonofficial spaces in the small circles of a fledgling avant-garde</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.10</book-part-id>
+                  <title-group>
+                     <label>chapter five</label>
+                     <title>“Beautiful Violence”:</title>
+                     <subtitle>War, Peace, Globalization</subtitle>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>Qin Yufen (b. 1954), a Chinese woman artist based in Berlin, Germany, created a gigantic installation,<italic>Beautiful Violence (Meili de baoli),</italic>at the Mattress Factory, a museum of contemporary art in Pittsburgh, Pennsylvania, as part of the exhibition “Visual Sound” in 2001.<italic>Beautiful Violence</italic>consists of 5.75 miles of barbed wire configured in loops. Multicolored party balloons are attached to the wire. Small speakers suspended from the ceiling play fragments of traditional Chinese flute music and electronically altered noise of balloons rubbing together through an eight-channel audio. Accompanying the installation is a verbal text — memoirs written by Qin Yufen and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.11</book-part-id>
+                  <title-group>
+                     <label>chapter six</label>
+                     <title>Hollywood, China, Hong Kong:</title>
+                     <subtitle>Representing the Chinese Nation-State in Filmic Discourse</subtitle>
+                  </title-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>Media theorists and cultural critics have argued that the post–Cold War era is the age of transnational media and cultural globalization. Transnationalization, in this formulation, breaks down national barriers and extends to the remote corners of the globe. Globalization, as succinctly defined by Roland Robertson, “refers both to the compression of the world and the intensification of consciousness of the world as a whole.”¹ This space-time compression has in part been brought about by the spread of new communication technologies across the globe. Residents of third-world countries can gain easy access to the cultural products of the first world</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.12</book-part-id>
+                  <title-group>
+                     <label>chapter seven</label>
+                     <title>History, Memory, Nostalgia:</title>
+                     <subtitle>Rewriting Socialism in Film and Television Drama</subtitle>
+                  </title-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>The legacy of Chinese socialism has been a hotly contested issue both inside and outside China from the vantage point of the postsocialist, post-modern, post–Cold War present. Chinese socialism, through such momentous historical events as the Great Proletarian Cultural Revolution (1966–1976), had been an inspiring experience in worldwide anticolonial, anti-imperialist, anticapitalist struggles as well as academic Marxism in the West.¹ Yet inside China a series of political campaigns in the Mao era, such as the Anti-Rightist Campaign (1957) and the Cultural Revolution, have been denounced by the official party line as “past party mistakes” and castigated by intellectuals</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.13</book-part-id>
+                  <title-group>
+                     <label>chapter eight</label>
+                     <title>Dialect and Modernity in Twenty-first-Century Sinophone Cinema</title>
+                  </title-group>
+                  <fpage>150</fpage>
+                  <abstract>
+                     <p>This chapter attempts to explore and differentiate the uses and functions of dialects in varieties of Chinese-language films in the early twenty-first century. I briefly examine such diverse films as<italic>The Dance Age</italic>(Taiwanese documentary, 2003), which hinges on a notion of local modernity based on the Fukienese/Taiwanese dialect in early twentieth-century Taiwanese popular songs; a mainland Chinese art-house film<italic>The World</italic>(2004) by Jia Zhangke, whose works have developed a dialectal film aesthetics based on the Shanxi dialects of Fenyang and Datong; Feng Xiaogang’s new-year films<italic>Cell Phone</italic>(2003) and<italic>A World without Thieves</italic>(2004), in which some key</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.14</book-part-id>
+                  <title-group>
+                     <label>chapter nine</label>
+                     <title>Tear Down the City:</title>
+                     <subtitle>Reconstructing Urban Space in Cinema, Photography, Video</subtitle>
+                  </title-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>C<italic>hai-na</italic>(literally, “tearing down!”) is indeed the proper name for contemporary China, as we witness the destruction of old buildings and the construction of new structures wherever we go in a Chinese city. This process of massive scale gathered great momentum throughout the 1990s with the infusion of transnational capital and continues into the twenty-first century.</p>
+                     <p>
+                        <italic>Chai</italic>(demolition) is the very theme of much contemporary Chinese visual art. It points not only to the physical demolition of the old cityscape, but more profoundly to the symbolic and psychological destruction of the social fabric of families and neighborhoods. This chapter is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.15</book-part-id>
+                  <title-group>
+                     <title>historical conclusion:</title>
+                     <subtitle>Chinese Modernity and the Capitalist World-System</subtitle>
+                  </title-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>In 2005, China officially named July 11 national “Navigation Day.” On that day six hundred years ago in the Ming dynasty, Admiral Zheng He and the Chinese fleet launched the first of a series of sea voyages. The Chinese government conspicuously organized a commemoration of the six hundredth anniversary of this primal event. Special postage stamps were issued to mark the anniversary and editorials in official newspapers such as the<italic>People’s Daily</italic>pointed out the inspiring example of an ancient hero for modern Chinese, who must brace up for the era of the ocean.</p>
+                     <p>The invention of a new national</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.16</book-part-id>
+                  <title-group>
+                     <title>postscript:</title>
+                     <subtitle>Answering the Question, What Is Chinese Postsocialism?</subtitle>
+                  </title-group>
+                  <fpage>204</fpage>
+                  <abstract>
+                     <p>Chinese socialism has been a dominant tradition throughout the twentieth century and beyond. It is no exaggeration to say that Chinese modernity has been to a large extent the development, revision, and rethinking of socialist modernity. Much of the socialist legacy has been repudiated and jettisoned, and yet much of it persists in people’s minds and still exists, like a ghost from a previous life, at the beginning of the twenty-first century.</p>
+                     <p>In the first half of the twentieth century, anarchists, socialists, and communists projected a vision of socialist society for China’s future as well as fighting for the material</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.17</book-part-id>
+                  <title-group>
+                     <title>notes</title>
+                  </title-group>
+                  <fpage>211</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.18</book-part-id>
+                  <title-group>
+                     <title>chinese glossary of names, titles, and terms</title>
+                  </title-group>
+                  <fpage>233</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.19</book-part-id>
+                  <title-group>
+                     <title>bibliography</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.20</book-part-id>
+                  <title-group>
+                     <title>index</title>
+                  </title-group>
+                  <fpage>255</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqqzg.21</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>265</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

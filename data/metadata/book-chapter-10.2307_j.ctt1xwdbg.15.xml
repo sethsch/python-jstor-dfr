@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1njj84</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1xwdbg</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Cinema at the City's Edge</book-title>
+         <subtitle>Film and Urban Networks in East Asia</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Braester</surname>
+               <given-names>Yomi</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Tweedie</surname>
+               <given-names>James</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>06</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9789622099838</isbn>
+      <isbn content-type="epub">9789882206052</isbn>
+      <publisher>
+         <publisher-name>Hong Kong University Press, HKU</publisher-name>
+         <publisher-loc>Aberdeen, Hong Kong</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Hong Kong University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1xwdbg"/>
+      <abstract abstract-type="short">
+         <p>This anthology presents a number of leading voices on contemporary Asian cinema studies, including Ackbar Abbas, Chris Berry, Emilie Yueh-yu Yeh, Darrell William Davis, Dudley Andrew, Yomi Braester, Susie Jie Young Kim, Akira Mizuta Lippit, James Tweedie, Yiman Wang and Zhang Zhen. Through a range of interdisciplinary responses that simultaneously investigate film practices and technologies, the contributors offer a timely look at the ever-shifting cities in East Asia and their portrayal in cinema.</p>
+      </abstract>
+      <counts>
+         <page-count count="216"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.4</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.5</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>The City’s Edge</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tweedie</surname>
+                           <given-names>James</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Braester</surname>
+                           <given-names>Yomi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The city’s edge is the place where the urban environment encounters its limits, a site where existing conceptions of the city are challenged and redefined. More than any other regional network of cities, the built environments of East Asia have pushed toward the vanguard of a new urbanism. The pace and scale of the transformation of cities in East Asia beggar even the essential vocabulary inherited from architecture and urban planning, compelling critics to qualify or supplement references to the city with modifiers like “global,” “world,” or “mega.” On the outskirts of these major urban centers or in sparsely populated</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.6</book-part-id>
+                  <title-group>
+                     <label>INTERLUDE 1:</label>
+                     <title>Arriving in the City; Touring the City; Watching the City</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Braester</surname>
+                           <given-names>Yomi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The film camera is a stranger to the city; to belong, it looks for a surrogate carrier. Much depends on the identity of that carrier, through whose eyes we will see the city. Is she a passerby or a local dweller? A stranger or a returning exile? A vagabond or a savvy traveler? An architect who sticks to blueprints or a jack of all trades who spontaneously creates her own spaces?</p>
+                     <p>Many films begin with a point-of-view shot that tells us as much about the observer as about the city. The city is revealed, often at a distance, from an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Affective Spaces in Hong Kong/Chinese Cinema</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Abbas</surname>
+                           <given-names>Ackbar</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Writing about Paris in the early twentieth century, the German poet Rainer Maria Rilke notes that “the city sucks images out of you, without giving you anything definite in return.” It is as if a <italic>radical disconnection</italic> between image and city has taken place; the first in a series of other disconnections. Rilke’s precocious insight, I would argue, is even more applicable to Asian cities today. More and more, it seems, images of the Asian city, even as they proliferate and become more vivid, tell us less and less about the city. The city can no longer be <italic>represented</italic> through</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Ghost Towns</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Andrew</surname>
+                           <given-names>Dudley</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>37</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Anyone looking into the way Asian cities cooperate with cinema in the representation of the present must start with two unavoidable critical texts: Fredric Jameson’s 1989 “Remapping Taipei” and Ackbar Abbas’s 1998 <italic>Hong Kong: Culture and the Politics of Disappearance</italic>.¹ Whereas before World War II cinematic modernism was in league with Joyce, Döblin, and Dos Passos in rendering cities visible through “symphonic form,” postmodern writers and filmmakers find the city invisible, discordant, and in a fundamental way unrepresentable. Temporal simultaneity and spatial randomness work against this medium of time and space, for in cities today simultaneity could mean being nowhere</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.9</book-part-id>
+                  <title-group>
+                     <label>INTERLUDE 2:</label>
+                     <title>Workspace</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tweedie</surname>
+                           <given-names>James</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Slavoj Žižek has written that sites of mass industrial production only appear in Hollywood films during the decisive moment when James Bond is captured and taken on a tour of the villain’s lair, with its half-completed tool of world domination on display and legions of uniformed workers scurrying around the shop floor as they build it. Bond then manages to escape and eventually to blow up the factory and its workers, and even the surrounding island, if necessary. Work environments, especially the spaces of large-scale industry, are as rare in East Asian city films as in Hollywood blockbusters, except in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.10</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Taipei as Shinjuku’s Other</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yeh</surname>
+                           <given-names>Emilie Yueh-yu</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Japanese cinema since the 1980s was noted for its apparent decline, and only recently was its recovery recorded with the performance of several popular films in the domestic market.¹ Parallel to the recovery was Japanese cinema’s artistic achievement by independent filmmakers who emerged from television and video sectors. Miike Takashi is among these directors whose quick, efficient workmanship helped accumulate an impressive repertoire and establish a cult reputation. Like another noted Japanese filmmaker, Kitano Takeshi, Miike pushed a new engagement with the yakuza picture and rendered this genre attractive to fans of Asian popular cinema. But this does not mean</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.11</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>City of Youth, Ocean of Death:</title>
+                     <subtitle>Taiyōzoku on the Edge of an Island</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wang</surname>
+                           <given-names>Yiman</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The relationship between the city and cinema has been an important topic in studies of cinematic modernity. Regarding the increased significance of the city due to the inception of the sound era, Anthony Sutcliffe writes, “[T]he definitive arrival of sound in 1929 confirmed the credentials of the big city, as par excellence the home of noise, as a neutral or even positive setting for feature films.”¹ This is amply manifested in the outpouring of a series of American musicals extolling the excitement of New York, the Chaplinesque comedy containing mild social criticism, and a new genre called the gangster film.²</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.12</book-part-id>
+                  <title-group>
+                     <label>INTERLUDE 3:</label>
+                     <title>Neon</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tweedie</surname>
+                           <given-names>James</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Neon lights beckon us toward a future city seen from another era. In films like <italic>Tokyo Drifter</italic> (Seijun Suzuki, 1966) the neon sign, multilingual and cosmopolitan, uprooted and floating above the banalities of the street, presents a vision of the city to come, a spectacular space where light is dedicated to the cause of commerce. Littered with brand names, it speaks a commercial lingua franca founded on a handful of keywords like “shopping” and “new.” Glimpsed in close-up, these neon signs are more than the backdrop for the tale of a vagabond gangster; they are worthy of attention in their</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.13</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Transfiguring the Postsocialist City:</title>
+                     <subtitle>Experimental Image-Making in Contemporary China</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zhen</surname>
+                           <given-names>Zhang</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Shanghai in Sixty Years</italic> (Liushi nianhou Shanghai tan) is a long forgotten futuristic comedy made in the besieged Shanghai of 1938. According to an extant synopsis, at the beginning of the film two men find themselves suddenly in a Shanghai of 1998, following an evening out in the dancehall cut short by their annoyed wives, who promptly placed them “in the doghouse,” in the attic. They fall into a long sleep. In the dreamscape they find themselves in a future Shanghai stranger than paradise, with flying cars and apartments where interior design is instantaneously changeable by remote control. The most</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.14</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Noir Looks and the Flash of Transgression:</title>
+                     <subtitle>Trauma and the City’s Edge(s) in<italic>A Bittersweet Life</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kim</surname>
+                           <given-names>Susie Jie Young</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>119</fpage>
+                  <abstract abstract-type="extract">
+                     <p>When we talk about the city in terms of the edge, do we imagine a physical demarcation separating the inside from a periphery outside and beyond? Or is the edge simultaneously “out there” and contained within the city itself? Such ambiguity circumscribes Seoul, which appears to possess the guise of what Rem Koolhaas calls a “Generic City” but whose patina is redolent of something different.¹ This apparent a-historicity is deceptive insofar as its complex history in the last century is marked by traumas encompassing Japanese colonization, the Korean War, Cold War imbroglios, postwar recovery, rapid economic development, authoritarian regimes, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.15</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Technology and (Chinese) Ethnicity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Davis</surname>
+                           <given-names>Darrell William</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract abstract-type="extract">
+                     <p>It is striking how Chinatown pervades imagining of the future. Asia-Pacific figurations, notably expatriate Chinese enclaves, are pronounced in popular images of urban settings, especially when dystopic. <italic>Children of Men</italic> (2006) renders a future London choked with snarling rickshaws, immigrants, traffic jams, and insurgents. This is a world of overcrowding, decay, and abrupt violence. Illegal immigrants are called “fugees” (refugees), though faces onscreen are so often Asian, that we might hear “Fuji,” the mountain sacred to the Japanese. A wellspring of Asian-inflected futurism is Ridley Scott’s <italic>Blade Runner</italic> (1982), adapted from Philip K. Dick’s <italic>Do Androids Dream of Electric Sheep?</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.16</book-part-id>
+                  <title-group>
+                     <label>INTERLUDE 4:</label>
+                     <title>In the Name of the City</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Braester</surname>
+                           <given-names>Yomi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Many movies include city names in their titles. The gesture of declaring an identity between the film and the city not only grounds the film but also shackles it to its location. Understanding the film, it is implied, requires intimate knowledge of the locales it describes.</p>
+                     <p>A symbiosis emerges in which the film and the city market each other. The touristy pitch in films such as <italic>Roman Holiday</italic> (1953) has been further accentuated since the rise of branding as an advertisement strategy in the 1990s. The city itself has become a brand name, promoted by a skyline that functions as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.17</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Imaging the Globalized City:</title>
+                     <subtitle>Rem Koolhaas, U-thèque, and the Pearl River Delta</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Berry</surname>
+                           <given-names>Chris</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This essay examines the imaging — and the imagination — of the Globalized City. The Globalized City is not quite the same thing as the Global City, but both terms acknowledge that globalization is transforming urban life in profound ways. What is it like to live and work in urban space under the new order of globalization? How is it different from life and work in the cities of the old international order — for example, the national capital, the imperial metropolis, or the colonial entrepôt? These questions are crucial to understanding the consequences of globalization and judging its benefits and its drawbacks.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.18</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>At the Center of the Outside:</title>
+                     <subtitle>Japanese Cinema Nowhere</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lippit</surname>
+                           <given-names>Akira Mizuta</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Among the unique features of individual cities, aside from the features that define each place, is the speed with which any city can become at once a singular and global place: a space defined by an indeterminate quality that renders it the only possible place where it is and everywhere else at the same time. A city and the world at once, in an instant, defined by a temporality of place that constitutes the taking place of places. Somewhere, singular and always everywhere, nowhere, the world projected into the universe. Here, I am at the center where I am, wherever</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.19</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>181</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdbg.20</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>197</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

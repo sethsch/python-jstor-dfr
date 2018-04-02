@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1tfj8m3</collection-id>
+      <volume>172</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1tg5jx3</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL 809.Z9Z7396 1998</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Izumi, Kyōka, 1873–1939</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Authors, Japanese</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century-Biography</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Similitude of Blossoms</book-title>
+         <subtitle>A Critical Biography of Izumi Kyōka (1873–1939), Japanese Novelist and Playwright</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Inouye</surname>
+               <given-names>Charles Shirō</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>1998</year>
+      </pub-date>
+      <isbn content-type="ppub">9780674808164</isbn>
+      <isbn content-type="epub">9781684173143</isbn>
+      <isbn content-type="epub">1684173140</isbn>
+      <publisher>
+         <publisher-name>Harvard University Asia Center</publisher-name>
+         <publisher-loc>Cambridge (Massachusetts); London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>1998</copyright-year>
+         <copyright-holder>the President and Fellows of Harvard College</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1tg5jx3"/>
+      <abstract abstract-type="short">
+         <p>Izumi Kyoka (1872-1939) wrote some 300 stories, plays, and essays. In the first book-length study in English of Kyoka, Charles Shiro Inouye argues that his writings were a refinement of a vision that came into focus around 1900. This narrative archetype formed the aesthetic and ethical bases of his work. Kyoka does not fit the conventional story of Japanese literary modernization. Unlike most of his contemporaries, he did not jettison the Japanese literary tradition in favor of modernist imports from the West. The highly visual mode of figuration that was Kyoka's compromise with the demands of literary modernism allows us to see the continuation of Edo culture in the Japanese modern and expand our understanding of literary reform in the early twentieth century.</p>
+      </abstract>
+      <counts>
+         <page-count count="440"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.3</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The famous Japanese critic Kobayashi Hideo (1902-83) outlined a number of issues crucial to an evaluation of Izumi Kyōka’s (1873–1939) life and works.</p>
+                     <p>Contemporary writers have in many ways tried to distance themselves from what Kyōka represented, and in fact have been successful in doing so. But will they be able to escape what he stood for? I ask this question because Kyōka was of all writers the most thorough with regard to the fundamental and difficult questions that surround the issue of what it means to be a writer. By this I do not mean to declare him</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER I</label>
+                     <title>Contexts</title>
+                     <subtitle>1873–1883</subtitle>
+                  </title-group>
+                  <fpage>7</fpage>
+                  <abstract>
+                     <p>The Asano River flows through the neighborhood where Izumi Kyōka (1873–1939) was born. Its waters roll quietly over rounded stones as it glides to its union with the sea a few miles away. The flow is steady, controlled by dams and aqueducts, and contained between banks of fitted granite stones that channel the water and leave only the narrowest of flood plains. Indeed, there is no shifting edge between river and city, no exposed space where itinerants gather in the summer to dance and perform. The usual no-man’s-land of gravel bars and summer weeds has been severely reduced in this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>The Desire to Write</title>
+                     <subtitle>I883–1889</subtitle>
+                  </title-group>
+                  <fpage>24</fpage>
+                  <abstract>
+                     <p>The stability of Kyōka’s childhood was shaken by loss—not only of his mother but also of his sisters. When Nakata Suzu died in 1883, both sisters were given away. The baby, Yae, was adopted by Miyazaki Sukijirō as his oldest daughter. He gave her a new birthdate of February 3, 1883. Taka, who was five, was transferred to the family registry of Kotake Yosuke, owner of a teahouse on the far bank of the Asano River, near Mt. Utatsu. The date of the transaction was March 29, 1886, though she probably left the Izumi household soon after the funeral.¹</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Master and Apprentice</title>
+                     <subtitle>1890–1892</subtitle>
+                  </title-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>When Kyōka announced his desire to be a novelist and to go to Tokyo to seek out Ozaki Kōyō, “the great writer who lived in the East,” he met strong opposition (28:461). Kyōka later recalled the reasons why both Izumi Seiji and Meboso Kite resisted.</p>
+                     <p>To become a novelist was quite a decision on my part, especially when you consider how very differently people in those days thought about novels. In the eyes of all my relatives and family friends ... my wish to become a writer made even less sense than if I were to decide to become an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Crisis</title>
+                     <subtitle>1893–1894</subtitle>
+                  </title-group>
+                  <fpage>64</fpage>
+                  <abstract>
+                     <p>On February 28, 1893, Kyōka began his next project, a first and last attempt at detective fiction. As with<italic>Crowned Yazaemon,</italic>the piece was written at Kōyō’s bidding. Sales of serious literature (<italic>jun bungaku</italic>) had been flagging, overshadowed by the recent successes of more popular writers such as Kuroiwa Ruikō (1862-1920), who, writing for an expanding urban readership, threw his net widely and reaped the economic rewards. Following the lead of the many newspapers that carried the strongly plotted detective stories of Ruikō and the historical novels of Murakami Namiroku (1865-1944), Shun’yōdō went after the popular market by publishing its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>First Successes</title>
+                     <subtitle>1895–1896</subtitle>
+                  </title-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>Kyōka’s desire to establish himself financially was intensified by the need to send money to Kanazawa to support Kite and Toyoharu. Sensing his impatience, Kōyō himself had arranged for him to move to the Ōhashi residence and even held a celebration to mark the occasion. Kōyō and a number of the members of his ever-growing circle met at the Meishinkan in Kagurazaka for a Western meal. Kyōka used a knife and fork for the Brst time, but disliked the food that was set before him, the guest of honor. He would eventually develop a taste for Western cigarettes and movies,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Pursuing a Vision</title>
+                     <subtitle>1896</subtitle>
+                  </title-group>
+                  <fpage>100</fpage>
+                  <abstract>
+                     <p>Perhaps his dual life as a physician and a writer made Ōgai particularly disposed to dislike “Maidenhair.” His criticism of Kyōka was harsh. “We look forward to reading poetry but regret having unexpectedly been made to read an article on medical jurisprudence.”¹ To Ōgai, Kyōka could not compare with Ichiyō, who, having won the recognition of all, was now dying of tuberculosis. She first became aware of her disease in April 1896, while working on her contribution to the<italic>Family Encyclopedia.</italic>Otowa had commissioned her to write the volume on<italic>Daily Correspondence,</italic>which Kyōka would have edited. Although it is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.10</book-part-id>
+                  <title-group>
+                     <title>photographs</title>
+                  </title-group>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER SEVEN</label>
+                     <title>Embraces</title>
+                     <subtitle>1897–1899</subtitle>
+                  </title-group>
+                  <fpage>119</fpage>
+                  <abstract>
+                     <p>Keeping ahead of Kyōka’s small successes, Kōyō launched his next major work,<italic>The Gold Demon (Konjiki yasha),</italic>on New Year’s Day, 1897. Serialized in the<italic>Yomiuri News,</italic>this novel about a young man, Hazama Kan’ichi, who loses his beloved to a wealthier man and is permanently embittered by the loss, soon gained a wide audience. Indeed,<italic>The Gold Demon</italic>proved to be Kōyō’s signature work. Its themes of greed and wealth’s corrupting power were judiciously chosen for the times. Japan had recently emerged victorious from its first modern war, and many celebrated the victory over China as a measure of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>The Archetype</title>
+                     <subtitle>1900</subtitle>
+                  </title-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>In the fall of 1899, Kyōka moved from Ōtsuka to Enoki-chō in Ushigome.¹ A photograph shows the young author sitting on the veranda, looking out over the backyard (see Fig. 11). The neighborhood was thick with nettle trees, and Kyoka’s small two-story home, shaded and dark in midsummer, was “wild and lonely.” On the first floor were two 6-mat rooms: one for Meboso Kite, the other for Toyoharu. On the second floor, another 6-mat room served as Kyōka’s study and as a retreat for Kōyō when there were guests in his own home and he needed a place to work.²</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Language, Love, Death</title>
+                     <subtitle>1901–1903</subtitle>
+                  </title-group>
+                  <fpage>156</fpage>
+                  <abstract>
+                     <p>Despite the lukewarm reception accorded<italic>The Holy Man of Mt. Kōya,</italic>not all members of the critical establishment felt Kyōka had gone astray. One writer for<italic>Imperial Literature</italic>compared him with Li Ho (style name: Ch’ang-chi; 791-817 ), a T’ang poet whom Kyōka had come to know through Sasakawa Rinpū. According to this critic, both Kyōka and Li Ho were kindred spirits, sharing the same “demonic language” (<italic>kigo</italic>). For this reason, neither artist should cultivate connections with the world of realism.</p>
+                     <p>You mustn’t let the world’s opinions about your work make you forget where your real talent lies. This is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 10</label>
+                     <title>Flight to Zushi</title>
+                     <subtitle>1904–1906</subtitle>
+                  </title-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>Koyō’s death marked the end of an era, not only for Kyōka, now without a mentor, but also for the<italic>bundan,</italic>which had already begun moving in new directions. The transition was commemorated with a funeral sufficiently grand for a writer who had sought, and with<italic>The Gold Demon</italic>’ had achieved, a voice that could speak to an entire nation. According to Tayama Katai, the narrow streets around the Ozaki residence in Y okodera were so crowded with rickshaws, horse-drawn carriages, people, and flowers that “it was almost impossible to walk.”¹ The funeral procession began there and traveled down Kagurazakadori,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 11</label>
+                     <title>The End of Desire</title>
+                     <subtitle>1907–1908</subtitle>
+                  </title-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>Zushi proved to be a balm for Kyōka’s ailments. He continued commuting by rail into Tokyo each week as his job required, but he postponed his permanent return to the city again and again. His nerves needed the solitude of mountains and surf. His soul required the near daily walks to the Gandenji, where he prayed before the statue of the benevolent Kannon. The verdant and still largely undeveloped Zushi was a place set apart from Tokyo and the activities of the bundan. It provided a needed form of separation, just as Kōyō’s death had provided another. Without Kōyō’s support,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 12</label>
+                     <title>Perfecting Art</title>
+                     <subtitle>1909–1910</subtitle>
+                  </title-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>Bolstered by the successes of “One Day in Spring” and “The Grass Labyrinth,” Kyōka was now confident enough to write openly about his methods and about his fundamental disagreement with the naturalists. In December 1908, he published the essay “Letting Go" (“Mukō makase”), in which, for the first time, he described his thoughts about the creative process.</p>
+                     <p>The urge to write comes upon me when a new feeling or some accidental incident makes just the right connection with an idea I’ve been keeping in my head. In other words, I get the urge to write when some old idea comes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 13</label>
+                     <title>A Space for the Dispossessed</title>
+                     <subtitle>1910–1923</subtitle>
+                  </title-group>
+                  <fpage>248</fpage>
+                  <abstract>
+                     <p>Kyōka and Suzu moved once again in May 1910, this time to Kojimachi Shimo 6 Banchō II. The house would be Kyoka’s home for the next twenty-nine years, until his death in 1939. It was a two-story, wooden structure, situated directly across a narrow street from the Arishima Mansion, Satomi Ton’s large complex of high walls and spacious gardens and a stark contrast to Kyōka’s modest yet “chic private dwelling, appropriate for a trueborn gesakusha.”¹ One entered by opening a latticed door and stepping up from the street into a small portico, which is shown in Fig.15. A cabinet for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.18</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 14</label>
+                     <title>Among Friends</title>
+                     <subtitle>1915–1927</subtitle>
+                  </title-group>
+                  <fpage>279</fpage>
+                  <abstract>
+                     <p>Kyōka’s interest in writing for the stage waned after 1917 and<italic>The Castle Tower.</italic>¹ He had written stories throughout the Taishō period while working on the plays, but it was not until around 1918 that he again concentrated on writing prose. His intense involvement with the theater had lasting effects, however. Due to his experimentation with the stage as a place for the dispossessed, his later fiction acquires an even more ghastly, intensely visual tenor. The 1915 story “Will-o’-the-wisp” (“Kakegō”), for instance, illustrates the direction of this shift. A grotesque account of a man’s encounter with a diseased and betrayed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.19</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 15</label>
+                     <title>Crisis and Salvation</title>
+                     <subtitle>1928–1939</subtitle>
+                  </title-group>
+                  <fpage>314</fpage>
+                  <abstract>
+                     <p>If Akutagawa felt that his aestheticism was no longer relevant to the dawning age of proletarian writing, the issue of relevance had long since ceased to concern Kyōka. Not one to assert a public political position, he withdrew into narrowing artistic concerns, despite his supposed sympathies with those of the proletarian movement who were waging class warfare and despite the deterioration of the archetype that had sustained his imagination to this point. Tanizaki would later depict Kyōka as one “forgotten.” Kyōka was, however, not the only Meijiperiod writer whose reputation suffered because of Taishoera changes in literary sensibilities. Tanizaki, whose</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.20</book-part-id>
+                  <title-group>
+                     <title>Epilogue</title>
+                  </title-group>
+                  <fpage>341</fpage>
+                  <abstract>
+                     <p>Shortly after Kyōka’s death, an updated version of his complete works was published by Iwanami shoten. This collection,<italic>Kyōka zenshu,</italic>which appeared from April 1940 to November 1942, was updated in 1973, and again in 1989.</p>
+                     <p>The most recent version contains thirty volumes.</p>
+                     <p>Suzu died on January 20, 1950. Before passing away, she donated the bulk of her husband’s manuscripts to Keiō University in Tokyo, where they are still kept. She also saw to it that a significant number of his personal effects—including his library, his writing desk and implements, and his folding screen covered with images from Ryiitei</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.21</book-part-id>
+                  <title-group>
+                     <title>APPENDIX A</title>
+                     <subtitle>Major Titles and Dates of Publication</subtitle>
+                  </title-group>
+                  <fpage>347</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.22</book-part-id>
+                  <title-group>
+                     <title>APPENDIX B</title>
+                     <subtitle>Titles of journals and Newspapers</subtitle>
+                  </title-group>
+                  <fpage>351</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.23</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>355</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.24</book-part-id>
+                  <title-group>
+                     <title>Selected Bibliography</title>
+                  </title-group>
+                  <fpage>375</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.25</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>389</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5jx3.26</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>399</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

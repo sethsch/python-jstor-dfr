@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">lawsocialinquiry</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100808</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Law &amp; Social Inquiry</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Wiley Subscription Services</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">08976546</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">17474469</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41349667</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>REVIEW ESSAYS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>American Capital Punishment in Comparative Perspective</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>David T.</given-names>
+                  <surname>Johnson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>10</month>
+            <year>2011</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">36</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40064307</issue-id>
+         <fpage>1033</fpage>
+         <lpage>1061</lpage>
+         <product>
+            <source>Peculiar Institution: America's Death Penalty in an Age of Abolition</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>David</given-names>
+               <surname>Garland</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>© 2011 American Bar Foundation</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:role="external-fulltext-any"
+                   xlink:href="http://dx.doi.org/10.1111/j.1747-4469.2011.01260.x"
+                   xlink:title="an external site"/>
+         <abstract>
+            <p>It is often said that American capital punishment fulfills no purposes, serves no functions, and possesses no coherent rationale. In Peculiar Institution: America's Death Penalty in an Age of Abolition (201O), David Garland argues that American capital punishment is functional, meaningful, and effective, especially in the cultural realm of death penalty discourse. Vie also demonstrates that America's radically local version of democracy helps explain why the death penalty has persisted in the United States long after it disappeared in other Western democracies and that many of the peculiar forms through which American capital punishment is now administered have been designed to deny association with the lynchings that have occurred in American history. Goedand arrìves at these conclusions fry comparing capital punishment in contemporary America with death penalty systems from the American past and from other Western nations. This essay argues that comparison with Asia further illuminates what is peculiar—and ordinary —in American capital punishment.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

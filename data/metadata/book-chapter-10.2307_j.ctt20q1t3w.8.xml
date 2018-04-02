@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt20mvgx0</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt20q1t3w</book-id>
+      <subj-group>
+         <subject content-type="call-number">QC16.O62 B36 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Oppenheimer, J. Robert, 1904–1967</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Physicists</subject>
+         <subj-group>
+            <subject content-type="lcsh">United States</subject>
+            <subj-group>
+               <subject content-type="lcsh">20th century</subject>
+               <subj-group>
+                  <subject content-type="lcsh">Biography</subject>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Atomic bomb</subject>
+         <subj-group>
+            <subject content-type="lcsh">United States</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Manhattan Project (U.S.)</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Meanings of J. Robert Oppenheimer</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>BANCO</surname>
+               <given-names>LINDSEY MICHAEL</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>05</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781609384197</isbn>
+      <isbn content-type="epub">9781609384203</isbn>
+      <publisher>
+         <publisher-name>University of Iowa Press</publisher-name>
+         <publisher-loc>IOWA CITY</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>the University of Iowa Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt20q1t3w"/>
+      <abstract abstract-type="short">
+         <p>He called the first atomic bomb "technically sweet," yet as he watched its brilliant light explode over the New Mexico desert in 1945 in advance of the black horrors of Hiroshima and Nagasaki, he also thought of the line from the Hindu epic<italic>The Bhagavad Gita</italic>: "I am become Death, the destroyer of worlds." Physicist J. Robert Oppenheimer, the scientific director of the Manhattan Project, the single most recognizable face of the atomic bomb, and a man whose name has become almost synonymous with Cold War American nuclear science, was and still is a conflicted, controversial figure who has come to represent an equally ambivalent technology.<italic>The Meanings of J. Robert Oppenheimer</italic>examines how he has been represented over the past seven decades in biographies, histories, fiction, comics, photographs, film, television, documentaries, theater, and museums. Lindsey Michael Banco gathers an unprecedented group of cultural texts and seeks to understand the multiple meanings Oppenheimer has held in American popular culture since 1945. He traces the ways these representations of Oppenheimer have influenced public understanding of the atomic bomb, technology, physics, the figure of the scientist, the role of science in war, and even what it means to pursue knowledge of the world around us. Questioning and unpacking both how and why Oppenheimer is depicted as he is across time and genre, this book is broad in scope, profound in detail, and offers unique insights into the rise of nuclear culture and how we think about the relationship between history, imagination, science, and nuclear weapons today.</p>
+      </abstract>
+      <counts>
+         <page-count count="254"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Following the detonation of the world’s first atomic bomb in New Mexico and the use of the weapon on Hiroshima and Nagasaki in 1945, J. Robert Oppenheimer, the scientific director of the Manhattan Project and the oft-proclaimed father of the atomic bomb, became an American hero. As the nature and scale of the destruction in Japan became clear, however, Oppenheimer’s heroic questing after a particular kind of knowledge—and with it the bright fame of midcentury theoretical physics, of science more generally, and of a new phase in techno culture—became tinged with regret, guilt, fear, acrimony, and death. This</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.5</book-part-id>
+                  <title-group>
+                     <title>[PART I Introduction]</title>
+                  </title-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>In a well-known piece of nuclear criticism, the philosopher Jacques Derrida asserts that, because Hiroshima and Nagasaki represented the end of a conventional war rather than the beginning of a nuclear one, nuclear war has not yet occurred and remains “fabulously textual.” As a (thus far) purely rhetorical event, nuclear war is wholly encoded in linguistic and visual representation and is only comprehensible through interpretation and decoding (“No Apocalypse” 23). Despite the realities of Hiroshima and Nagasaki, and despite the fabulously expensive materiality of subsequent weapons proliferation, the bomb exists largely as a discursive construction for most who live in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>DESERT SAINT OR DESTROYER OF WORLDS:</title>
+                     <subtitle>OPPENHEIMER BIOGRAPHIES</subtitle>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>The life of J. Robert Oppenheimer—and how his life has been represented in textual and other forms—is important to understanding his cultural meaning. For this reason, this chapter opens with a short biographical sketch. Born April 22, 1904, in New York to wealthy German-Jewish immigrant parents, Oppenheimer attended the Ethical Culture School as a boy and showed early proclivities for both science and the arts. He earned a bachelor’s degree in chemistry from Harvard in 1925 and a doctorate in physics from the University of Göttingen in Germany in 1927. He moved to California, where he married Katherine</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>UNDER THE SUN:</title>
+                     <subtitle>OPPENHEIMER IN HISTORY</subtitle>
+                  </title-group>
+                  <fpage>46</fpage>
+                  <abstract>
+                     <p>Readers often judge the “accuracy” of a biography (or, for that matter, a novel or a film) on the basis of its resemblance to the “truth” of the historical record. Despite a given text’s acknowledgment of the gaps in the record and the textual strategies used to account for such gaps, biographies are frequently read with the assumption that history is an objective referent for texts. Similarly, many readers try to understand the Manhattan Project and its legacies through a genre sometimes assumed to be the most transparent of conveyors: the history books. Critics sometimes make these assumptions as well.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>HISTORY IMAGINED:</title>
+                     <subtitle>OPPENHEIMER IN FICTION</subtitle>
+                  </title-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>To conclude the first part, on textual iterations of Robert Oppenheimer, I turn to fiction. Biographies, which I discuss in the first chapter, show an indebtedness to fiction when they speculate about the psychological states of their subjects, recreate conversations between individuals, or even simply when their literary qualities challenge conventional understandings of truth.¹ Histories too, as “remembrances” of the past, necessarily engage in reconstruction, fictionalization, and other overtly rhetorical strategies.² Discerning the textual meaning of Oppenheimer can thus be sharpened by an analysis of fiction. As a very large body of literary scholarship assumes, fiction changed following World War</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.9</book-part-id>
+                  <title-group>
+                     <title>[PART II Introduction]</title>
+                  </title-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>From the startling images of the unseen that marked Wilhelm Röntgen’s discovery of X-rays in 1895 to the “pinprick of a brilliant light” (Lamont 235) and the solar metaphors that came to characterize the Trinity explosion, many of the tropes in early nuclear science involve sight, light, and other dimensions of visuality characteristic of Enlightenment thought (including the word “enlightenment” itself): revealing the unknown, seeing is believing, the dawning of a new age, and so on.¹ At the same time, the subatomic activity at the core of nuclear weapons is invisible to the naked eye and must be depicted in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>THE GHOST AND THE MACHINE:</title>
+                     <subtitle>OPPENHEIMER IN FILM AND TELEVISION</subtitle>
+                  </title-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Photographs “of” Oppenheimer—images in which he is both present and absent—emerge from a twentieth-century convergence of technologies. The beginning of the century saw what Akira Mizuta Lippit calls the “extreme, even excessive modes of visuality” (30) offered by inventions such as X-rays and cinema, inventions that changed the very possibilities of sight, while the middle of the twentieth century saw the blinding light of the atomic bomb change the nature of war. The relationships between brightness and shadow, depth and surface, exteriority and interiority are at issue in both X-ray images and cinematic images, and as the Hiroshima</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>“THE BONY TRUTH”:</title>
+                     <subtitle>OPPENHEIMER IN MUSEUMS</subtitle>
+                  </title-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>Before discussing the representation of Robert Oppenheimer in museums, places in which the materiality of history assumes prominence in depicting the past, I wish briefly to discuss another “transitional” genre, one that (like novels and films) fictionalizes its subject but (like museums) makes use of material representation: drama. Theatrical productions about Oppenheimer frequently appeal to the material reality of the bomb. But like museums, which trade on “the bony truth” (Fortey 295) of physical artifacts and concrete, often three-dimensional representation, theater also confronts the transience of history with a tangible, in situ reality. The “liveness” of plays, the “presence” they</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.12</book-part-id>
+                  <title-group>
+                     <title>[PART III Introduction]</title>
+                  </title-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>In 1982, about one million demonstrators gathered in New York to protest nuclear weapons. Earlier that same year, in Paris, philosopher and historian Michel Foucault delivered the lectures that would eventually be published as<italic>The Hermeneutics of the Subject</italic>. Although his focus was not nuclear arms, Foucault’s development of the notion of ethopoiesis helps illuminate the objects of analysis in the final chapter of this book and their relation to the deep anxiety over nuclear weapons that would characterize the 1980s. Ethopoiesis derives from Foucault’s study of classical thought: “<italic>Ethopoiein</italic>means making<italic>ethos</italic>, producing<italic>ethos</italic>, changing, transforming<italic>ethos</italic>, the individual’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>IN HIS OWN WORDS:</title>
+                     <subtitle>OPPENHEIMER’S WRITING</subtitle>
+                  </title-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>In 1916, when he was only twelve years old and after having been in correspondence with several New York area geologists, Robert Oppenheimer was invited to give a talk to the New York Mineralogical Club. Unaware that they had invited a young boy, the club was bemused when he showed up, laughed when he could not see over the lectern, but gave him a “hearty round of applause” (Bird and Sherwin 15) when the awkward child finished his talk. For the precocious child this early foray into public speaking, complete with a belittling audience response followed by emphatic acceptance, would</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.14</book-part-id>
+                  <title-group>
+                     <title>CONCLUSION</title>
+                  </title-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>In a farewell speech delivered to the Association of Los Alamos Scientists in November 1945, Oppenheimer began with a disclaimer about his participation in postwar nuclear regulation: “I could not talk, and will not tonight talk, too much about the practical political problems which are involved. There is one good reason for that—I don’t know very much about practical politics” (qtd. in Smith and Weiner 315). A characteristic moment of selfeffacement, the comment reveals the fraught position of nuclear scientists in the years following World War II. Those responsible for the bomb had assumed remarkable public presences, in part</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.15</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>215</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.16</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.17</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>259</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt20q1t3w.18</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

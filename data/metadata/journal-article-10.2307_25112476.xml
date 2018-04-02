@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">collegelit</journal-id>
+         <journal-id journal-id-type="jstor">j50000196</journal-id>
+         <journal-title-group>
+            <journal-title>College Literature</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>West Chester University</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00933139</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">25112476</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Literature</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Post-Millennial Postmodernism: On the Professing of Literature in the Centrifugal Age</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Frank L.</given-names>
+                  <surname>Cioffi</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1999</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">26</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i25112469</issue-id>
+         <fpage>82</fpage>
+         <lpage>94</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1999 West Chester University</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/25112476"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Works Cited</title>
+         <ref id="d1163e117a1310">
+            <mixed-citation id="d1163e121" publication-type="other">
+Ballard, J. G. 1973. Crash. New York: Vintage Books.</mixed-citation>
+         </ref>
+         <ref id="d1163e128a1310">
+            <mixed-citation id="d1163e132" publication-type="other">
+Comnes, Gregory. 1996. Review of Postmodern Sublime, by Joseph Tabbi. Review of
+Contemporary Literature 16 (Spring): 184-85.</mixed-citation>
+         </ref>
+         <ref id="d1163e142a1310">
+            <mixed-citation id="d1163e146" publication-type="other">
+Hynes, James. 1997. Publish and Perish: Three Tales of Tenure and Terror. New
+York: St. Martin's.</mixed-citation>
+         </ref>
+         <ref id="d1163e156a1310">
+            <mixed-citation id="d1163e160" publication-type="other">
+Murakami, Haruki. 1997. The Wind-Up Bird Chronicle. Trans. Jay Rubin. New York:
+Alfred A. Knopf.</mixed-citation>
+         </ref>
+         <ref id="d1163e171a1310">
+            <mixed-citation id="d1163e175" publication-type="other">
+-. 1998. Reading of The Wind-Up Bird Chronicle. 28 October, at Princeton Univer-
+sity, Princeton, New Jersey.</mixed-citation>
+         </ref>
+         <ref id="d1163e185a1310">
+            <mixed-citation id="d1163e189" publication-type="other">
+Teachout, Terry. 1998. Review of The Cowboy and the Dandy, by Perry Meisel. New
+York Times Book Review 13 December, 24.</mixed-citation>
+         </ref>
+         <ref id="d1163e199a1310">
+            <mixed-citation id="d1163e203" publication-type="other">
+Woodcott, Keith (pseud. John Brunner). 1961. / Speak for Earth. New York: Ace
+Books.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

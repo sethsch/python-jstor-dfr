@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">hudsonreview</journal-id>
+         <journal-id journal-id-type="jstor">j101056</journal-id>
+         <journal-title-group>
+            <journal-title>The Hudson Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Hudson Review, Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0018702X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/3853327</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Character</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Tom Wilhelmus</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>2002</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">54</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i372182</issue-id>
+         <fpage>672</fpage>
+         <lpage>678</lpage>
+         <page-range>672-678</page-range>
+         <product>
+            <source>The Southern Woman: New and Selected Fiction</source>
+            <string-name>
+               <given-names>Elizabeth</given-names>
+               <surname>Spencer</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>A Few Corrections</source>
+            <string-name>
+               <given-names>Brad</given-names>
+               <surname>Leithauser</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Going Away Party</source>
+            <string-name>Laura Pederson</string-name>
+         </product>
+         <product>
+            <source>Thinks...</source>
+            <string-name>
+               <given-names>David</given-names>
+               <surname>Lodge</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Sputnik Sweetheart</source>
+            <string-name>Haruki Murakami</string-name>
+            <string-name>
+               <given-names>Philip</given-names>
+               <surname>Gabriel</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Dark Back of Time</source>
+            <string-name> 
+               <given-names>Javier</given-names>
+               <surname>Marías</surname> 
+            </string-name>
+            <string-name>
+               <given-names>Esther</given-names>
+               <surname>Allen</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 2002 The Hudson Review, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3853327"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

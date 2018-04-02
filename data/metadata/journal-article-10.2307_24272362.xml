@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">esprit</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50016602</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Esprit (1940-)</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Esprit</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00140759</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">24272362</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>REPÈRES</subject>
+               <subj-group>
+                  <subject>LIBRAIRIE</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Alice</given-names>
+                  <surname>Béja</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>11</month>
+            <year>2011</year>
+         </pub-date>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">379 (11)</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i24272329</issue-id>
+         <fpage>175</fpage>
+         <lpage>176</lpage>
+         <product>
+            <source>1Q84, LIVRE 1, AVRIL-JUIN</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Haruki</given-names>
+               <surname>Murakami</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>1Q84, LIVRE 2, JUILLET-SEPTEMBRE</source>
+         </product>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/24272362"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>fre</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

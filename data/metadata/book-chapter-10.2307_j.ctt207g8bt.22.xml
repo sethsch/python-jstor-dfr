@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt207g8bt</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>True False</book-title>
+         <subtitle>Stories</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>KLEE</surname>
+               <given-names>MILES</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>10</day>
+         <month>09</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9781939293992</isbn>
+      <publisher>
+         <publisher-name>OR Books</publisher-name>
+         <publisher-loc>New York; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Miles Klee</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt207g8bt"/>
+      <abstract abstract-type="short">
+         <p>Klee’s last book, his first, was variously hailed as “sharply intelligent" (Publishers Weekly) and “harsh, spastic" (Justin Taylor): we like to think of True False as intelligently spastic, or sharply harsh—disquieting and funny. A collection of stories that range from the very short to the merely short, these forty-four tales evoke extraordinary scenes in an understated manner that’s marked Klee one of today’s most intriguing writers. From the apocalyptic to the utopic, from a haunted office building to a suburban pool that may be alive, a day in the mind of a demi-god Pythagoras to a secret race to develop artificial love, True False captures a fractured reality more real than our own.</p>
+      </abstract>
+      <counts>
+         <page-count count="264"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>6</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.3</book-part-id>
+                  <title-group>
+                     <title>Dead Languages</title>
+                  </title-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>The last known speakers of American English were garbagemen. In a rural county of Ohio they worked sorting trash for a nanoshuf-fler that emitted ozone and vitamin gas. They spoke normally elsewhere, but since most had had a grandparent who dealt in that strange vernacular, they liked to maintain a fluency exclusive to themselves. One among them picked up the dialect from scratch, putting in several years of practice. None passed their obscure and useless knowledge down to the younger generation; after a time just two were left alive, and even they could not read the stuff. Additionally, they would</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.4</book-part-id>
+                  <title-group>
+                     <title>A Syndicate of Angels</title>
+                  </title-group>
+                  <fpage>10</fpage>
+                  <abstract>
+                     <p>Last thing I did as a twenty-four-year-old was try to shave in the dark. I pictured all the puckerings and sneers, the facial flex, each tangled zone of beard. Stickiness mingled with the cooling foam: blood. I’d cut the pads of two fingers. Affixing Band-Aids, I blamed an obsession with a man. Then I successfully blamed the man. Then I knew what a struggle the rest of my life would be.</p>
+                     <p>I left my Hell’s Kitchen sweatbox. The humid night put glaze on my chin. Two gypsy cabs patrolled, burning princely sums in gasoline. Another week’s energy tax would park</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.5</book-part-id>
+                  <title-group>
+                     <title>The Dauphin</title>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>The Dauphin, he has an unscratchable itch. The people of Versailles disagree as to where, because in truth it wanders. Left side of the scalp—wait, right—just under the—whoops, the burning folds of his ear—er, a fuzzed and bouncing Adam’s apple: all in turn bristle with the Maddening, our secret pet name for the intolerable nothings that divide and conquer his wilting frame.</p>
+                     <p>His brain turns end over end in the skull before catching. Now comes a spark! If fingers are useless, do as the animals—he turns feline, tries to trap and kill the itch in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.6</book-part-id>
+                  <title-group>
+                     <title>A Message</title>
+                  </title-group>
+                  <fpage>26</fpage>
+                  <abstract>
+                     <p>The postal service, most would agree, is a decrepit and wasteful branch of federal government, one completely helpless, for example, to cease its delivery of junk mail nominally intended for the tenant who last dwelled in my apartment. Email and other modes of digital messaging, while presented as solution to the sloth and basic incompetence of the postal service, pose the trouble of users being too stupid to manage the transmission of their ideas—people say private things publicly or else communicate with mindless haste. In looking at both systems it might be asked whether contact, and neither method, is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.7</book-part-id>
+                  <title-group>
+                     <title>Varieties of Things One Rarely Bothers to Mention</title>
+                  </title-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>The week I had my wisdom teeth removed, I saw a man in line at the corner bodega drop a pencil, a nice-looking one, without noticing. I was fixed in a Percocet fog and stared at the pencil (handsome wood, something an architect would use) instead of telling the man he had dropped it. His transaction completed, he left, and I stepped up to the register, placing my beer next to it. I then turned to watch as an employee mopping the floor discovered the pencil, picked it up and admired it. I regretted not doing the same when I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.8</book-part-id>
+                  <title-group>
+                     <title>Concession</title>
+                  </title-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>As society degrades, a broader segment of it will choose drugs, moving images, dormancy. Yet this subset will cling, surprisingly, to a single public duty: that of electing a ruling class. Unwilling to be implicated in the butchery or humiliations of government, they nonetheless pick sacrificial holograms to populate its halls. Boredom is the price for yielding control. The reward: their mistakes affect nothing.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.9</book-part-id>
+                  <title-group>
+                     <title>Assembled in the Light</title>
+                  </title-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>STOP DROP AND ROLL WONT WORK IN HELL warned a punctuationless church marquee Alex passed on the way to Phoenix Towers. Yesterday it had been inexplicably blank, which bothered him. He found this unsettlement itself unsettling, because come on—who cares? Not me, he said aloud, twice. Earpiece trembled; voice described problem. ProFusion, Sanders &amp; Price’s private data network, was fucked. It now held that President Fullner’s baby would be premature and “half albino,” the latter not quite possible so far as Alex reasoned. Seemed like kids with nothing better to do.</p>
+                     <p>“Software’s haunted as shit,” Gates revealed, sounding impressed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.10</book-part-id>
+                  <title-group>
+                     <title>Limits</title>
+                  </title-group>
+                  <fpage>48</fpage>
+                  <abstract>
+                     <p>If suffering, a utilitarian philosopher thought, is predicated upon existence—and indeed he remembered pre-life as categorically painless—then its continuation relies exclusively upon survival.<italic>Homo sapiens</italic>have a choice in their survival, and the morally correct option, when it came to the reduction of suffering, was for the human race to quit. Childbirth, the philosopher concluded, was the arrival of one more receiver and transmitter of pain to share in the increasing woe, spiteful answer to a cascade of everlasting genesis. These ideas found unlikely purchase in the philosopher’s department and then university as he argued the logical holiness</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.11</book-part-id>
+                  <title-group>
+                     <title>Sonata</title>
+                  </title-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>Sam was watching a commercial, one that was there with him. It showed a man growing agitated in his attempts at sleep, while beyond him and barely sketched a female silhouette dozed on.</p>
+                     <p>
+                        <italic>Quiltō</italic>, said a toasted female voice.</p>
+                     <p>“<italic>Quiltō</italic>,” Sam intoned, sipping his beer. He acted like he was interested in what TV said, just to humor it.</p>
+                     <p>Is now<italic>Quiltō+</italic>. An extended-release sleeping aid with two layers.</p>
+                     <p>“Layers?”</p>
+                     <p>The man had stopped thrashing under his blanket. His eyes were closed and his smile pinned on. The woman—the wife—observed his contentment, so still it had woken her.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.12</book-part-id>
+                  <title-group>
+                     <title>The Nikkei &amp; The Dow</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Recently an economist, long considered a future Nobel laureate, proposed a curious codependency between two major stock market indices—the Nikkei 225, based in Tokyo, and the Dow 30 in New York. It appeared the Dow, closing at 4 p.m. Eastern Standard Time, unduly or “irrationally” influenced the open of the Nikkei three hours later, at 9 a.m. Japan Standard Time. The Dow the next morning was likewise affected by the Nikkei’s last fluctuation seven hours and thirty minutes before. The economist made vague assertions that the affinity went deeper—that in reality all any stock index could do was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.13</book-part-id>
+                  <title-group>
+                     <title>Waiting For the Chinese</title>
+                  </title-group>
+                  <fpage>58</fpage>
+                  <abstract>
+                     <p>They escaped the situation, but as they drove east on the dark-and-green George Washington Bridge, the car horn malfunctioned. It had been threatening this, sputtering superfluously when tapped, concluding its blasts with gassy strangling noises. It sounded like the car horn was a thing that lived inside the steering wheel, and that it was dying.</p>
+                     <p>Only here, now, halfway across the bridge . . . Well, Yard wondered, why did it have to be the bridge, which he already feared? It wouldn’t have been more pleasant in the tunnel, in fact it may have been far worse, but the bridge</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.14</book-part-id>
+                  <title-group>
+                     <title>Feedback</title>
+                  </title-group>
+                  <fpage>68</fpage>
+                  <abstract>
+                     <p>Strike first comma. Combine lines four and eight, compress. Misspelling; should be “tintinnabulation,” which is not what a thunderstorm sounds like. Fifth stanza derails completely. “Swift” never rhymed with “grief.” Get your own style. Avoid evasions. Answer my emails. Give up on continuous selfhood—anything of the momentary us projected anywhere else in time. Come to this little bar downtown: we’ll discuss. Leg, stocking, fingers, wrist. Agreement occurs so easily when coaxed. Soon you’ll see by our mingled light. Think clearly. Worry less. Write more. Quit adding adverbs. Read other poets; don’t seek their advice. Throw out that fucking thesaurus.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.15</book-part-id>
+                  <title-group>
+                     <title>A Few Environments</title>
+                  </title-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>Playground next to low-income housing. At night. Modular squares of beaten rubber serve as gridlike, lunar ground. Swoop of a tubular plastic slide. Sag of a miniature plank bridge that joins a pair of raised platforms, one outfitted as nautical helm, the other roofed with a ziggurat. The vast brick cake—apartment complex—beyond. Counterfeit moons in clustered bulbs, the color of scrambled eggs, on poles.</p>
+                     <p>Medicine cabinet mirror, ajar. Shelves a mosaic: prescription orange, paradise blue. Twin hairs stuck to the grooved little shelf that should offer soap. Silver faucet a mounted bird’s neck. Raised drain-stopper whose ridge amasses</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.16</book-part-id>
+                  <title-group>
+                     <title>The Other Nine</title>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>It is estimated that, at this moment, our universe contains a grand total of ten planets capable of supporting life. How the other nine have resolved the problem is not a question we care to address.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.17</book-part-id>
+                  <title-group>
+                     <title>XX</title>
+                  </title-group>
+                  <fpage>74</fpage>
+                  <abstract>
+                     <p>His earliest memory was a tower of colored blocks toppling over him, his arms arced above his head, crossed at the wrists. He avoided the sight of his genitals, which struck him as impossibly hideous. He once espied his father’s, a dark cluster between tree-trunk thighs, and they repelled him differently. He found himself aroused at violent cartoons, from a flickering, withheld release: the monomaniacal cat eating the clever mouse alive.</p>
+                     <p>At ten, with a scholar’s eye, he studied his gold-trimmed baby book, grazing washed-out photos and ballpoint anecdotes, disturbed that there existed a past so near yet out of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.18</book-part-id>
+                  <title-group>
+                     <title>A Little Party</title>
+                  </title-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>A young man living with his father and grandmother on the east side of town came home from his shift as convenience store clerk one night and stabbed them both to death in their beds, it was reported—hiding the bodies in his car and under the front porch, respectively, to be discovered by police the following afternoon. The reason for moving the bodies, or so the accused gave it, was that he had invited friends over for a little party.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.19</book-part-id>
+                  <title-group>
+                     <title>Name Is the Sun</title>
+                  </title-group>
+                  <fpage>82</fpage>
+                  <abstract>
+                     <p>A ruby forms like sunrise where my left thumb’s cuticle meets the stripped nail groove. Suck it out. New one wells up, spills into a red line. My teeth find a thread of skin alongside the left index and yank it out in two tries. This isn’t the week I stop biting my nails.</p>
+                     <p>Washington Heights to Bed-Stuy: the ride demands beer, and I don’t argue. Last whiskey, then burst squinting into the bodega for a forty of Olde English. Disappear underground. After the acid light of the subway, parties are DJ’d anticlimax.</p>
+                     <p>The brown bag throws signals. Only other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.20</book-part-id>
+                  <title-group>
+                     <title>The Newspaper</title>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>The newspaper slapped her porch every morning. It was a slap she heard from bed, not long after dawn, while she lay awake and her husband rustled in his sleep. A slap at the front porch, and the deliveryman’s car accelerating smoothly down the road. When she heard this, she got up in gray light and tied a blue bathrobe and drifted past her son’s room to the pale front door. Out on the porch, barefoot, she would check: yes, it was the same newspaper. They had changed the dates, and some of the pictures, but the people and places</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.21</book-part-id>
+                  <title-group>
+                     <title>The Ebenezer Effect</title>
+                  </title-group>
+                  <fpage>86</fpage>
+                  <abstract>
+                     <p>I stood on the piano bench, trying to rip the pendulum from my father’s un-gift of a cuckoo clock, which hung above the quiet, never-tuned baby grand. Conrad had wound the clock, purely to annoy me, on his way upstairs to bed. It would strike the early hour and lurch into a clattering pantomime of some Bavarian lumber town, and this I was not prepared to accept—not again.</p>
+                     <p>The clock wouldn’t give me its pendulum, not until it had guaranteed equal injury. My eyes were level with the darkened archway where the little Aryans exited to chop at pines</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.22</book-part-id>
+                  <title-group>
+                     <title>Ibid.</title>
+                  </title-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>As to those, who in presence of their betters are too lowly in speech so that they bring not their voice whole to the lips, it happened to me and without full utterance I began:¹</p>
+                     <p>Yes, it is terrible, and sudden.² He thrown everything off balance.³ And then he did go off balance on the ice, taking a step back from the eyes which had penetrated him and emptied his face.⁴ What was that dim distant music, those vestiges of color in the air?⁵ The penalty of light forever.⁶ Then he would be able to think about it and sort</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.23</book-part-id>
+                  <title-group>
+                     <title>Foundling Fathers</title>
+                  </title-group>
+                  <fpage>112</fpage>
+                  <abstract>
+                     <p>When Ben Franklin’s favorite whore had a son, he paved its path to the College of William &amp; Mary. The boy was so adaptable he found a flock of eager friends, won glory on the cricket pitch and could write in some dead languages before another autumn blazed. “Very fine, they will accelerate your studies,” impressed old Ben would say of the last to his suddenly shying benefactee. “But can you lie in them as well?”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.24</book-part-id>
+                  <title-group>
+                     <title>Dogfight</title>
+                  </title-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>Red celebrates return to consciousness by throttling doctor stooped over bed, whose pince-nez slips off to politely explode on white tile. For man shot in head and forced to land in Belgium, Red seems less the worse for wear as Schweinfeder and I struggle to break his grip. “That dog!” comes husk of voice, brutal vessels blooming in face. “Dog was toying with me!” At once he swoons, resumes glass coma. Doctor sucks air, clutches autograph book to chest, one finger placeholding still-blank page. “Same sweet baboon,” Schweinfeder snorts.</p>
+                     <p>Red is distant unaccountable asshole, yet it’s other people I’m expected</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.25</book-part-id>
+                  <title-group>
+                     <title>Medicine</title>
+                  </title-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Senator D—testified that he wouldn’t-couldn’t run from his wrongdoing and bullshit and attendant fate but none of us in the business believed that now did we. Still, little pube only got the chance cause Ray be distracted popping the board straps. So<italic>whump</italic>goes the van door flying open, distinguished Senator D—making like a banana and the two of us executechs just vacant stares with the all-prepped even drippy killshot in my hand. Fantastic cause now it’s the terse two-word argument bout which pushover is gonna leave the climate control of our Mobile Mando Euth Facility to chase</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.26</book-part-id>
+                  <title-group>
+                     <title>Drone</title>
+                  </title-group>
+                  <fpage>118</fpage>
+                  <abstract>
+                     <p>The president’s coma had taken a turn for the worse: she was dead.</p>
+                     <p>The VP shot himself before they could do the oath. Whoever came next in line met the void, called the wars off and undid the draft. Those of us in the last week of boot woke at dawn, synchronized, to find the top brass had already split.</p>
+                     <p>First thing we did was whoop it up. Then we showered and set out for the women’s barracks to get it on. The women had had the same idea. We collided over the mortar range, which was dry and pockmarked</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.27</book-part-id>
+                  <title-group>
+                     <title>Quick</title>
+                  </title-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>The pool was bleeding. Byron noticed, adrift in shade on my shark floater: an acorn hit him on the head and he’d opened his eyes to find it bobbing in the water, ribbons of red uncoiling beneath.</p>
+                     <p>Came and got me and I got mom and she got dad.</p>
+                     <p>“It’s not blood,” mom said, squinting. “What is it.”</p>
+                     <p>“Not blood,” dad agreed.</p>
+                     <p>No swimming till our pool guy Darren gave the OK. Byron and Mackenzie fought on the rock waterfall while he worked, Kenz fussing her bikini for tanline checks, Byron plugging the spout with his foot for fields of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.28</book-part-id>
+                  <title-group>
+                     <title>Eleven Impossibilities</title>
+                  </title-group>
+                  <fpage>144</fpage>
+                  <abstract>
+                     <p>Something to do with kidney strain. Now, absurdly, my feet are what move me. I look to the sky, clouded by people: executives floating to work in suits . . . kids soaring too high, backpacks dangling by a strap. Police officers hover ten stories up, analyzing the flow of traffic. When my neck aches from tension and longing, I return to the rippled shade of the sidewalks, which are in severe disrepair, as everyone in this city flies. I avoid fellow terrestrial travelers, who inevitably seek to combine their misery with mine. The path is dim—is cracked, unreal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.29</book-part-id>
+                  <title-group>
+                     <title>The Happy Suicide</title>
+                  </title-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>Mr. Yearly, it must be admitted, enjoyed success in every aspect. His loving marriage had resulted in healthy, intelligent children. Wealthy from his innovations in photographic software, he gave to African charities and was devout in his Christian faith. He owned a rambling, modern house on a vast property given to beautiful pine forest that—so we have heard—he ventured into to die, by what method we have not been informed. We know it took eight days to find a body. His wife, when one of us mentioned how happy and, more to the point, how “satisfied” he seemed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.30</book-part-id>
+                  <title-group>
+                     <title>Nurse on Terror Island</title>
+                  </title-group>
+                  <fpage>150</fpage>
+                  <abstract>
+                     <p>“Step Six,” went the turtle. “Care for the patient.”</p>
+                     <p>“Can you be more specific?” Avril Andrews wondered.</p>
+                     <p>“Skreeeeee,” went the turtle. Its way of saying no.</p>
+                     <p>“Shot in the dark,” Avril said. “But oh well.”</p>
+                     <p>She rolled her handsome dead man back into the tide pool. His body twisted against rocks. A broken arm exhaling dull red clouds. The turtle looked askance at Avril, but of course it couldn’t really.</p>
+                     <p>“What now?” Avril asked, wiping her hands on a salty white skirt. Out of the turtle came not so reassuring static. “This won’t do at all,” Avril sighed, toying with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.31</book-part-id>
+                  <title-group>
+                     <title>The Milkman’s Exhaustion</title>
+                  </title-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>Conventionally handsome, but why the fuss over that? He’s nothing special, nothing unique. There exist a million men who have his kind of beauty.</p>
+                     <p>Perhaps that’s why it is in such high demand.</p>
+                     <p>His truck runs perfectly, never stalls. Purrs at the curb like a big dumb cat. Milk bottles clink in his milk bottle carrier, sounding like milk bottles in the movies.</p>
+                     <p>More like movies than movies, in fact.</p>
+                     <p>Alexandra, Belinda. Cassandra and Emilia and Fiona. Happily married except one grieving widow. The odd echoing of the names is accidental.</p>
+                     <p>It’s good that in climax, he is not given</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.32</book-part-id>
+                  <title-group>
+                     <title>Off-Season</title>
+                  </title-group>
+                  <fpage>162</fpage>
+                  <abstract>
+                     <p>As a boy I went on a strange vacation with a friend. His parents took us, I can’t remember why, it may have been his birthday, to a series of towns along the shore. But it was November, tourist season long over, the air was dry and little tornados of sand wobbled in the empty streets, the aging five-and-tens were shuttered, the hotels were vast and clean-smelling and quiet. We swam in a pool on a night half-warm but electric-cool, starry with almost no light. The water was alive on my skin, black trees rushed nowhere in the wind. I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.33</book-part-id>
+                  <title-group>
+                     <title>Northern Gothic</title>
+                  </title-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>1.</p>
+                     <p>A shuffling, lazy-eyed conductor for New Jersey Transit is thirty-six years old, a bit older than Jesus was at the time of the Crucifixion.</p>
+                     <p>2.</p>
+                     <p>A bickering family—day-trader father, web developer mother, two spoiled children, retired grandfather—are driving to their beach house. Stopping at a rest area to gas up the SUV and buy a bunch of espressos, they see a report on the TV in Starbucks that a psychopath nicknamed “Mr. Normal” has been killing people on the Long Island Expressway. “Turn that off, young lady,” the grandfather tells the barista. “We’re trying to drink coffee</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.34</book-part-id>
+                  <title-group>
+                     <title>Everybody’s Bluffing</title>
+                  </title-group>
+                  <fpage>166</fpage>
+                  <abstract>
+                     <p>If we’d hit Hillcrest Savings the last time through Kansas City, neither of us could recall. But a source had it ripe that day—said the place groaned with cash. We’d outraced a storm bearing east; the air around us was all hiss while miles north, a twister poked and dragged at the earth as the finger of one supremely bored. A haze was cooking off the road.</p>
+                     <p>Lionel clawed up a blizzard of yellowing newsprint in back, hoping for a hint in our headlines. Why didn’t we keep these details straight? Blame the sole thing he and I felt</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.35</book-part-id>
+                  <title-group>
+                     <title>Generally Speaking</title>
+                  </title-group>
+                  <fpage>178</fpage>
+                  <abstract>
+                     <p>Germans prefer to rent, not buy, apartments.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.36</book-part-id>
+                  <title-group>
+                     <title>If You Could</title>
+                  </title-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>Me sitting here is nothing but luck. You might’ve heard I get a stipend too. That’s off the books you understand. Need it for my wife’s anxiety meds or else she can’t relax and doubts everything comes out of my mouth.</p>
+                     <p>What do I mean luck. We got an inmate named Clay Ferris. Mean stringy gearhead did a meaningless arson killed a family of four. Can’t afford a kid myself, or—but I mean but he burnt a pair right up. Don’t think his lawyer bothered much with defending. The case was more should he be lethal injected or not.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.37</book-part-id>
+                  <title-group>
+                     <title>Oasis</title>
+                  </title-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>A bioengineer, shortly after a stunning breakthrough, despaired. A dozen test subjects, following several rounds of unprecedented gene therapy, no longer needed to urinate or defecate, having digestive tracts that now operated at one hundred percent efficiency. But rather than celebrate this simplification, or enjoy the precious minutes it saved, his patients grew cagey and irritable. The scientist, studying their tired faces, assumed they were in a fleeting state of evolutionary shock, and was mystified as their symptoms worsened. Not till he broke down and brought in a stuffy old psychoanalyst was it learned that for many individuals, a rare</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.38</book-part-id>
+                  <title-group>
+                     <title>Pythagoras Too</title>
+                  </title-group>
+                  <fpage>184</fpage>
+                  <abstract>
+                     <p>Pythagoras does not write—he speaks. In five days a pupil, by some enthusiastic error, attributes his theorem to him. It is five hundred years until Cicero writes that attribution down. Pythagoras knows this because for him the law of time is no law. He interrupts the inflexible line as water fractures a beam of light. He goes to the humanity’s edge, and beyond, to moments when the gods alone exist. The gods, and Pythagoras.</p>
+                     <p>He does this now. Comes upon the gods bickering. It sounds like the warp and shatter of trees, frozen trees in Hyperborea, due north. In</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.39</book-part-id>
+                  <title-group>
+                     <title>Mortmain</title>
+                  </title-group>
+                  <fpage>190</fpage>
+                  <abstract>
+                     <p>“You are aware that we ourselves cannot perform the surgery required to reattach your hand. Were you aware?” Naw. Girl comes at you with that infomercial knife screaming<italic>I told you not to leave your wet towel on the bed</italic>, what goes through your head is: hell, I’ll be fixed in no time. Doctor has the gall to pretend his nose-pick is a nose-scratch as he inquires would I like to see the appendage. Well come on if you’re gonna cause baby I’m gettin on the news tonight.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.40</book-part-id>
+                  <title-group>
+                     <title>Twenty-Four Sorts of Silence</title>
+                  </title-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>The landlord is about to pounce. An odor of sweat via sweatshirt informs you halfway down the last flight of stairs. He is in the lobby, mopping, maybe. Or red-ink-emphasizing every line of his trash-collection dogma, taped up in furious triplicate. He will speak explosively at you, incensed by treasonous acts. You set off the roof alarm. You trod upon the sacred strip of dirt out front. You will nod; your nods will nod. I know it was you, he’ll say at least twice as you sidle past. But in theory your fate might still be unstitched; he has not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.41</book-part-id>
+                  <title-group>
+                     <title>Past Simple</title>
+                  </title-group>
+                  <fpage>196</fpage>
+                  <abstract>
+                     <p>They explained invited welcomed kissed. I took sat drank watched. She sipped dripped sucked. He adored squeezed licked. Sun split hushed. I sighed. Mirror caught stared. He swore leaned thrust. She spread bent gave. I drank sank loved lacked. They slowed spoke rolled sped.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.42</book-part-id>
+                  <title-group>
+                     <title>Great White</title>
+                  </title-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>Pure Water Winds, this man-made utopian isle, is broken. It lies upon ocean overfished and sterile. Bloodscent gone. The air dead still. This chum gets thinner every day—not a proper meal regardless.</p>
+                     <p>I swim night-circles (insomnia lasting my life so far), and the pale teenagers attack. They take turns punching me in the snout, disappear in clouds of laughter. Only dimly aware of my violent past. This fossil blindly jaws the air, seeking any offender’s fist. I’m the oldest thing in water. I have more teeth than stuff to bite. All that I am meant to be is not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.43</book-part-id>
+                  <title-group>
+                     <title>Misanthropy</title>
+                  </title-group>
+                  <fpage>200</fpage>
+                  <abstract>
+                     <p>A young woman who read no one but nasty old novelists in the twilight of their talent was quite assured, in reading such bilious and hateful fiction, of her own loathing and acidic wit, and therefore rather insulted when taken for an empathetic friend. What howled within her as fury against mankind came out as the undifferentiated politeness she found so repulsive in others. She termed this an<italic>essential flaw</italic>in misanthropy, even as the suitors, invitations, and goodwill piled up around her, promising suffocation.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.44</book-part-id>
+                  <title-group>
+                     <title>An Unexpected Masterpiece</title>
+                  </title-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>The novel I never wrote is spotless. Every sentence is a sickening surprise. The plot coils round you like a python. Your eyes water badly at the humanist climax. You do not trust this response.</p>
+                     <p>It is three hundred and twenty-nine pages long. It’s at least 54 percent true and took six days to write. Seventeen people conspired against it, and each died under odd circumstances.</p>
+                     <p>The text is political but not polemic, learned but not dense. It is riven with cold ambiguity and wrought with alarming clarity. Portions all but beg to be carefully read aloud, alone or as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.45</book-part-id>
+                  <title-group>
+                     <title>History</title>
+                  </title-group>
+                  <fpage>204</fpage>
+                  <abstract>
+                     <p>If, as the present suggests, we are fated to spend more time in virtual realities, funneling ourselves into the abstractions of code, then so too will human savagery fold into this nonspace. Murder will be wiping a hard drive with minds on it. Infoterror and thoughtwar the apocalyptic threats. History a projection—even more than it is right now—of outcomes purely algorithmic. Meanwhile the disused, external matter will fall to ruin as if all our phantom atrocities were true.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.46</book-part-id>
+                  <title-group>
+                     <title>LOVE</title>
+                  </title-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>Thing about Andalusia Dunn, tall and stormy, five-eleven if her license didn’t fib, with impressive though unapplied degrees in molecular bio, who hated that her city fairly shimmered with stink but had once gagged at the notion of making home elsewhere (blame the mini-quiches at the Real Estate Board of New York’s 119<sup>th</sup>Annual Banquet, chalky as the keynote speech, which I hadn’t cared for myself), whose gait had of late been thwarted by not quite a wedgie, more a bunchie, from that oversize underwear she bought in three-packs from Duane Reade, price of delaying a laundry cycle—thing<italic>was</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt207g8bt.47</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>260</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

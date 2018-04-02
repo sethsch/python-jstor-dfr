@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vkwh2</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN511.S746 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>A Little History of Literature</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>SUTHERLAND</surname>
+               <given-names>JOHN</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>05</day>
+         <month>11</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780300186857</isbn>
+      <isbn content-type="ppub">0300186851</isbn>
+      <isbn content-type="epub">9780300188363</isbn>
+      <isbn content-type="epub">0300188366</isbn>
+      <publisher>
+         <publisher-name>Yale University Press</publisher-name>
+         <publisher-loc>NEW HAVEN; LONDON</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>John Sutherland</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt5vkwh2"/>
+      <abstract abstract-type="short">
+         <p>This 'little history' takes on a very big subject: the glorious span of literature from Greek myth to graphic novels, from The Epic of Gilgamesh to Harry Potter. John Sutherland is perfectly suited to the task. He has researched, taught, and written on virtually every area of literature, and his infectious passion for books and reading has defined his own life. Now he guides young readers and the grown-ups in their lives on an entertaining journey 'through the wardrobe' to a greater awareness of how literature from across the world can transport us and help us to make sense of what it means to be human.Sutherland introduces great classics in his own irresistible way, enlivening his offerings with humor as well as learning: Beowulf, Shakespeare, Don Quixote, the Romantics, Dickens, Moby Dick, The Waste Land, Woolf, 1984, and dozens of others. He adds to these a less-expected, personal selection of authors and works, including literature usually considered well below 'serious attention' - from the rude jests of Anglo-Saxon runes to The Da Vinci Code. With masterful digressions into various themes - censorship, narrative tricks, self-publishing, taste, creativity, and madness - Sutherland demonstrates the full depth and intrigue of reading. For younger readers, he offers a proper introduction to literature, promising to interest as much as instruct. For more experienced readers, he promises just the same.</p>
+      </abstract>
+      <counts>
+         <page-count count="288"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.3</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>What is Literature?</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Imagine that, like Robinson Crusoe, you are marooned for the rest of your days on a desert island. What one book would you most want to have with you? That is a question asked on one of the longest-running and most-loved programmes on BBC radio,<italic>Desert Island Discs</italic>. Broadcast also on the BBC’s World Service, it is listened to across the globe.</p>
+                     <p>The question is one of two that are put to that week’s guest, after we have heard snatches of the eight pieces of music they would take to the island. The castaway is allowed one luxury – what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Fabulous Beginnings</title>
+                     <subtitle>Myth</subtitle>
+                  </title-group>
+                  <fpage>7</fpage>
+                  <abstract>
+                     <p>Long before we began to think of literature as something written down and printed, there was something which – on the principle ‘If it walks like a duck and quacks like a duck, it’s a duck’ – we could still call literature. Anthropologists, who study humankind from the ancient past to the present day, call it ‘myth’. It originates in societies which ‘tell’ their literature, rather than writing it. The awkward and contradictory term ‘oral literature’ (that is, ‘spoken literature’) is often used. We don’t have a better term.</p>
+                     <p>The first point to make about myth is that it is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Writing for Nations</title>
+                     <subtitle>Epic</subtitle>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>The word ‘epic’ is used widely but very loosely nowadays. In the newspaper I’ve just put down, for example, I find a soccer match (one of the very few, alas, in which an English team has won a major sporting title) described as an ‘epic struggle’. But in terms of literature, ‘epic’ has, when properly applied, an anything but loose meaning. It describes a very select, very ancient, set of texts that carry values which are ‘heroic’ in tone (‘heroic’ being another word we tend to use too loosely). They show mankind, we may say, at its most manly. (The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Being Human</title>
+                     <subtitle>Tragedy</subtitle>
+                  </title-group>
+                  <fpage>20</fpage>
+                  <abstract>
+                     <p>Tragedy, in its full literary form, represents a new highpoint (some would argue the highest ever reached) in the long evolution of literature: the imposition of ‘form’ on the raw materials of myth, legend and epic. Why do we still read and watch drama that was written 2,000 years ago, in a language few of us understand, for a society which might as well be on another planet for all the resemblance it has to ours? The answer is simple: tragedy has never been done better than when Aeschylus, Sophocles, Euripides and other ancient Greek dramatists did it.</p>
+                     <p>What, though,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>English Tales</title>
+                     <subtitle>Chaucer</subtitle>
+                  </title-group>
+                  <fpage>26</fpage>
+                  <abstract>
+                     <p>English literature – as we know it – starts with Geoffrey Chaucer (c. 1343–1400), 700 years ago. But I’ll rephrase that sentence. Not ‘English literature’ but ‘literature in English’ starts with Chaucer. It was a long time before England had a language that unified the speech and writing practice of the whole population – and Chaucer marks the point where we can see it happening, around the fourteenth century.</p>
+                     <p>Compare the two following quotations. They are the opening lines of two great poems written, in what we now think of as England, at almost exactly the same time, toward</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Theatre on the Street</title>
+                     <subtitle>The Mystery Plays</subtitle>
+                  </title-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>In the late fifteenth and early sixteenth centuries the world of literature saw the emergence of both printing and the modern theatre. These two great machineries, the page and the stage, would be where great literature happened over the next four centuries. In this chapter we shall look at the early stirrings of drama in England. Not on the stage but in the streets of England’s most vibrant towns.</p>
+                     <p>Where does theatre<italic>really</italic>begin? If you asked Aristotle, he would have said, look at your children. It originates in the make-up, or wiring, of human beings themselves. It’s one of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>The Bard</title>
+                     <subtitle>Shakespeare</subtitle>
+                  </title-group>
+                  <fpage>40</fpage>
+                  <abstract>
+                     <p>Any poll to decide the greatest writer in the English language would come up with the same result. No contest. But how did Shakespeare come to be so? A simple question, but it admits of no simple answer.</p>
+                     <p>Some of the best literary-critical minds in history (not to say generations of theatre-goers) have tried, but no one has been able to explain convincingly how an early school-leaver, the son of a high-street tradesman, born and brought up in the backwater of Stratford-upon-Avon, whose principal interest in his career seems to have been gathering enough money to retire, became the greatest</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>The Book of Books</title>
+                     <subtitle>The King James Bible</subtitle>
+                  </title-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>Although we do not automatically think of it as literature, nor is it normally read in that spirit, the King James Bible is the most-read work in the English literary canon. (The word ‘canon’, incidentally, comes from the Roman Catholic Church’s catalogue of ‘works which ought to be read’. The Church also drew up a stricter catalogue of books which must<italic>not</italic>be read – the<italic>Index Librorum Prohibitorum</italic>.)</p>
+                     <p>The King James Bible (KJB) is still, worldwide, the most popular version of the Bible. Every American motel has one, in the bedside drawer, thanks to the indefatigable Gideons Society. But</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Minds Unchained</title>
+                     <subtitle>The Metaphysicals</subtitle>
+                  </title-group>
+                  <fpage>54</fpage>
+                  <abstract>
+                     <p>Ask poetry-lovers who is the finest creator of short ‘lyric’ poems in English literature and chances are the name that comes up time and again will be John Donne (1572–1631). Donne led a school of poets called the ‘Metaphysicals’. Ignore that name, by the way: no one has satisfactorily been able to work out why these poets should be so called. If you need to be precise it’s best to settle, as do most literary historians, for ‘school of Donne’. But ‘Metaphysicals’ has a more interesting sound to it.</p>
+                     <p>Donne did not write for the opinion of posterity –</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 10</label>
+                     <title>Nations Rise</title>
+                     <subtitle>Milton and Spenser</subtitle>
+                  </title-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>During the forty-five years of the reign of Queen Elizabeth I – ‘good Queen Bess’ – there is a new ‘feel’ to literature: a growth of national pride and bursting confidence. England felt a certain ‘greatness’ in itself – a greatness, daring spirits might think, equal to that of ancient Rome. It expressed itself through literature in two ways: writing about England and writing in English, appropriating, where required, the literary forms of other supremely great nations and their literatures. Put another way, nationalism takes centre-stage.</p>
+                     <p>The first great English poem about England is Edmund Spenser’s<italic>The Faerie Queene</italic>of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 11</label>
+                     <title>Who ‘Owns’ Literature?</title>
+                     <subtitle>Printing, Publishing and Copyright</subtitle>
+                  </title-group>
+                  <fpage>68</fpage>
+                  <abstract>
+                     <p>The book you are holding in your hand at the moment is not a work of literature, but let’s take it as a handy example. I wrote it. My name is there on the title page, and in the copyright line. So it’s ‘my’ (John Sutherland’s) book. Does that mean, though, that I ‘own’ the book in your hand? No, it doesn’t – the physical copies are not mine. If you bought it, it’s yours. But suppose someone broke into my house while I was writing this book, stole my computer, found the text of what I was writing and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 12</label>
+                     <title>The House of Fiction</title>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>Human beings are storytelling animals. That goes as far back as we can trace our species. If you think of fiction, do you think of novels? Well, we did not start writing and reading novels until a fairly precise moment in literary history, in the eighteenth century. We will come to that in the next chapter. Before that moment, fiction took different forms. If we dig, we can find what we might call some ‘proto-novels’ in literature before, in some cases long before, what we think of as the first novel. Five European works of literature will make the point</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 13</label>
+                     <title>Travellers’ Tall Tales</title>
+                     <subtitle>Defoe, Swift and the Rise of the Novel</subtitle>
+                  </title-group>
+                  <fpage>82</fpage>
+                  <abstract>
+                     <p>The previous chapter explored the roots of the modern novel. Now we come to what may be called the plant’s first ripe fruit. Daniel Defoe (1660–1731), the author of<italic>Robinson Crusoe</italic>, is the generally agreed starting point of the genre in England. In the early and middle years of the eighteenth century, with Defoe and other writers like Samuel Richardson, Henry Fielding, Jonathan Swift and Laurence Sterne, we can see the modern novel emerging from the primal soup of the many kinds of tale-telling that humanity has always gone in for.</p>
+                     <p>A trigger for all this was needed. Why</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 14</label>
+                     <title>How to Read</title>
+                     <subtitle>Dr Johnson</subtitle>
+                  </title-group>
+                  <fpage>88</fpage>
+                  <abstract>
+                     <p>The first literary critic most of us will encounter is our English teacher in the classroom. Someone, that is, who helps us understand, or better appreciate, the more difficult and finer points of literature. Literature is made by ‘authors’. Literary criticism involves something connected, but different: ‘authority’, or ‘the person who knows better than we do’.</p>
+                     <p>The subject of this chapter is Samuel Johnson (1709–84). He is commonly known as ‘Dr Johnson’, following the example of his admiring friends and contemporaries. Why do we also choose to call him that? We don’t, for example, talk about ‘Mr Shakespeare’ or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 15</label>
+                     <title>Romantic Revolutionaries</title>
+                  </title-group>
+                  <fpage>94</fpage>
+                  <abstract>
+                     <p>Literary lives do not generally make interesting films. There is nothing dramatic in scribbling – which is what most writers do most of the working day. John Keats (1795–1821) is an exception. His short life was the subject of a fine film in 2010,<italic>Bright Star</italic>. The title was taken from one of Keats’s sonnets – ‘Bright star, would I were steadfast as thou art’ – addressed in 1819 to the woman he loved, Fanny Brawne. In it the poet longs to be</p>
+                     <p>Pillow’d upon my fair love’s ripening breast,</p>
+                     <p>To feel for ever its soft swell and fall,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.18</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 16</label>
+                     <title>The Sharpest Mind</title>
+                     <subtitle>Jane Austen</subtitle>
+                  </title-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>It has taken a long time for us to realise that Jane Austen (1775–1817) is one of the great English-language novelists. One of the reasons we can overlook her is that the world of her fiction is (there is no other word) small. And, to the superficial eye, the big question posed in each of her six novels – ‘Who will the heroine marry?’ – looks, if not similarly small, something less than earth-shatteringly important. We are not, it is clear, in the same league as Tolstoy’s<italic>War and Peace</italic>(even though virtually all of Austen’s fiction was actually</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.19</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 17</label>
+                     <title>Books for You</title>
+                     <subtitle>The Changing Reading Public</subtitle>
+                  </title-group>
+                  <fpage>108</fpage>
+                  <abstract>
+                     <p>Reading has always been an intensely private act. Even in a reading group, members will bring their private responses to the meeting and ‘share them’. They do not share the act of reading itself. Nonetheless what readers buy, beg, borrow or steal<italic>en masse</italic>is a crucial element in the long evolution of literature. The market determines the product. And, in the largest sense, that market (made up of millions of individual readers) constitutes what we can call the ‘reading public’. It is no more predictable in its choices than the voting public, but, like them, it calls the shots.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.20</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 18</label>
+                     <title>The Giant</title>
+                     <subtitle>Dickens</subtitle>
+                  </title-group>
+                  <fpage>114</fpage>
+                  <abstract>
+                     <p>Few people would disagree with the idea that Charles Dickens (1812–70) is the finest British novelist ever to have put pen to paper. ‘A no-brainer’, we might say. ‘The Inimitable’, as he nicknamed himself (even<italic>he</italic>thought he was peerlessly superb), would have flashed an angry look at the impertinence of even thinking, let alone asking, such a question.</p>
+                     <p>What other novelist has had his image on both a banknote and a postage stamp? What other novelist has had his work so often adapted for large and small screen? What other Victorian novelist still sells a million copies of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.21</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 19</label>
+                     <title>Life in Literature</title>
+                     <subtitle>The Brontës</subtitle>
+                  </title-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>The lives of the Brontë sisters – Charlotte (1816–55), Emily (1818–48) and Anne (1820–49) – could themselves serve as the plot of a sensational novel. They were the daughters of a remarkable self-made man, born Patrick Prunty, one of ten children of a dirt-poor Irish farmer. By dint of native cleverness, work and a lot of good luck, Patrick got himself to Cambridge University. On graduation he was ordained into the Church of England and prudently changed his name to Brontë, one of the titles of Lord Nelson. Not everyone liked the Irish at the time –</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.22</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 20</label>
+                     <title>Under the Blankets</title>
+                     <subtitle>Literature and Children</subtitle>
+                  </title-group>
+                  <fpage>128</fpage>
+                  <abstract>
+                     <p>Let’s play some literary hide and seek. Where is the child hiding in<italic>Hamlet</italic>? Where are the little ones in<italic>Beowulf</italic>?<italic>Pride and Prejudice</italic>was, in 2012, voted the most influential novel in the English language. Where are the children in Austen’s story about the Bennet family? Come out, come out, wherever you are! You’ll seek in vain.</p>
+                     <p>If, for the traditional parent, the ideal child was ‘seen and not heard’, in the long history of literature the child was, for centuries, neither seen nor heard. They are, of course,<italic>there</italic>, but they are invisible.</p>
+                     <p>Children’s literature – in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.23</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 21</label>
+                     <title>Flowers of Decadence</title>
+                     <subtitle>Wilde, Baudelaire, Proust and Whitman</subtitle>
+                  </title-group>
+                  <fpage>134</fpage>
+                  <abstract>
+                     <p>Towards the end of the nineteenth century a new image of the writer begins to take centre-stage in Britain and France: ‘the author as dandy’. Suddenly writers were not just writers but ‘celebrities’. Their modes of dress and demeanour were closely studied and imitated, their<italic>bon mots</italic>recycled. Their persons were admired as much as their writings. The authors, on their part, played up to their celebrity. As Wilde quipped in his novel,<italic>The Picture of Dorian Gray</italic>, ‘there is only one thing in the world worse than being talked about, and that is not being talked about’.</p>
+                     <p>Historically one</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.24</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 22</label>
+                     <title>Poets Laureate</title>
+                     <subtitle>Tennyson</subtitle>
+                  </title-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>The poet. What images does the little word call up? Like me, perhaps, your mind’s eye pictures a man with blazing eyes, a far-away look, flowing hair, clad in loose garb. Or a woman, standing on a rock, or some other eminence, gazing into the far distance. Cloud, sea, wind and storm are in the air. Both figures are solitary. ‘Lonely’ as Wordsworth put it, ‘as a cloud’.</p>
+                     <p>There may be an aura of madness – the Romans called it ‘<italic>furor poeticus</italic>’. Many of our greatest poets (John Clare and Ezra Pound, to take two of the very greatest) actually</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.25</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 23</label>
+                     <title>New Lands</title>
+                     <subtitle>America and the American Voice</subtitle>
+                  </title-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>One of the insults that used to be directed at American literature by outsiders was that it didn’t exist – there was only English literature written in America. It’s ignorant as well as insulting and, not to waste words, plain wrong. George Bernard Shaw commented that ‘England and America are two nations divided by a common language’. It is true of the literature of all different English-speaking nations, but especially true in this case. There is, whatever the fuzzy edges, an American literature as rich and great as any literature anywhere, or that there has ever been in any period</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.26</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 24</label>
+                     <title>The Great Pessimist</title>
+                     <subtitle>Hardy</subtitle>
+                  </title-group>
+                  <fpage>154</fpage>
+                  <abstract>
+                     <p>Imagine you could create something called the ‘Literary Happiness Scale’, with the most optimistic authors basking in sunshine at the top and the most pessimistic authors sunk in gloom at the bottom. Where, to name names, would you put Shakespeare, Dr Johnson, George Eliot, Chaucer and Dickens?</p>
+                     <p>Chaucer projects the happiest vision of life, most would agree. The band of pilgrims riding to Canterbury are a merry crew, and the tone of their tales is comic. Chaucer would surely top the scale. Shakespeare is also pretty upbeat – with the exception of a handful of tragedies (especially King Lear) which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.27</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 25</label>
+                     <title>Dangerous Books</title>
+                     <subtitle>Literature and the Censor</subtitle>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>Authorities, everywhere and at every period of history, are always nervous about books, regarding them as naturally subversive and potential dangers to the state. Plato, famously, establishes the security of his ideal Republic by kicking out all the poets.</p>
+                     <p>And so on through the ages. At the creative edge, where great writers work, there is always the professional hazard of incurring the wrath of those currently in power. We can draw up an impressive list of martyrs to the literary cause. As we saw in Chapter 12, John Bunyan wrote most of his great work,<italic>The Pilgrim’s Progress</italic>, in Bedford</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.28</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 26</label>
+                     <title>Empire</title>
+                     <subtitle>Kipling, Conrad and Forster</subtitle>
+                  </title-group>
+                  <fpage>168</fpage>
+                  <abstract>
+                     <p>The point was made in earlier chapters that great literatures tend to be the product of great nations. Those, that is, which have enlarged their territory by conquest, invasion or, in some cases, downright theft. No subject in literature raises thornier issues than ‘empire’ and ‘imperialism’ – most particularly the right by which one country claims to own, dominate, plunder, and in some instances destroy another country. Or, as the imperial power may argue, ‘to bring civilisation’.</p>
+                     <p>Literature’s engagement with the subject of the rights and wrongs of empire, is complex, fraught and at times quarrelsome. The nature of that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.29</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 27</label>
+                     <title>Doomed Anthems</title>
+                     <subtitle>The War Poets</subtitle>
+                  </title-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>War and poetry have always gone hand in hand. The first great work of poetry that has come down to us, the<italic>Iliad</italic>, is about nations in conflict. War figures in most of Shakespeare’s plays which are not comedies (and it comes up in some of them, too). One of the most graphic descriptions of the ‘horrors of war’ (as the Spanish artist Goya called it) is to be found in<italic>Julius Caesar</italic>:</p>
+                     <p>Blood and destruction shall be so in use,</p>
+                     <p>And dreadful objects so familiar,</p>
+                     <p>That mothers shall but smile when they behold</p>
+                     <p>Their infants quartered with the hands</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.30</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 28</label>
+                     <title>The Year that Changed Everything</title>
+                     <subtitle>1922 and the Modernists</subtitle>
+                  </title-group>
+                  <fpage>182</fpage>
+                  <abstract>
+                     <p>Of all wonderful years in literature, 1922 qualifies as the most wonderful. It produced a bumper crop of books. But the reason for the year’s wonderfulness is not the quantity or variety of what was produced but the fact that what was published in that year (and the years on either side) changed the reading public’s sense of what literature could be. The ‘climate’, as the poet W.H. Auden later put it, was altered. A new and dominant ‘style’ came into play – ‘modernism’.</p>
+                     <p>Historically one can trace modernism’s roots back to the 1890s and the ‘end of century’ (<italic>fin</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.31</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 29</label>
+                     <title>A Literature of her Own</title>
+                     <subtitle>Woolf</subtitle>
+                  </title-group>
+                  <fpage>188</fpage>
+                  <abstract>
+                     <p>‘On or about December 1910’, Virginia Woolf famously (and not entirely seriously) said, ‘human character changed’. It was then that ‘Victorianism’ finally came to a close and the new era, modernism, began. The actual moment Woolf specified was when a controversial Post-Impressionist art exhibition opened in London. Woolf was very definitely ‘post-Victorian’ – an uneasy successor to an age whose values and prejudices were obstinately outliving their historical period.</p>
+                     <p>Virginia Woolf (1882–1941) wrote from within a famous milieu (roughly, a group of like-minded intellectuals) known as the Bloomsbury Group. She was a central member of the group and forcefully</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.32</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 30</label>
+                     <title>Brave New Worlds</title>
+                     <subtitle>Utopias and Dystopias</subtitle>
+                  </title-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>‘Utopia’ is an Ancient Greek word meaning, literally, ‘good place’. If you had used it in conversation with, say, Sophocles or Homer, however, they might well have looked at you oddly. The word was invented by an Englishman, Sir Thomas More, in the sixteenth century as the title of a story that pictured a world in which everything was perfect. The fact that More had his head chopped off a few years later for questioning Henry VIII’s marriage arrangements suggests that the England he was living in was something less than perfect.</p>
+                     <p>Literature has the godlike ability, simply using the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.33</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 31</label>
+                     <title>Boxes of Tricks</title>
+                     <subtitle>COMPLEX NARRATIVES</subtitle>
+                  </title-group>
+                  <fpage>202</fpage>
+                  <abstract>
+                     <p>Fiction can do many things other than entertain. It can, for example, instruct. What many of us know about science might have come from reading science fiction. Fiction can enlighten and change minds – as<italic>Uncle Tom’s Cabin</italic>changed America’s thinking about slavery. Fiction can popularise the central ideas of a political party: what is now the central belief of British Conservatism was worked out in a series of novels by Benjamin Disraeli in the 1840s. Fiction can, if targeted the right way, bring about urgent social reform. In the early twentieth century Upton Sinclair’s novel<italic>The Jungle</italic>(1906) about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.34</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 32</label>
+                     <title>Off the Page</title>
+                     <subtitle>Literature on Film, TV and the Stage</subtitle>
+                  </title-group>
+                  <fpage>208</fpage>
+                  <abstract>
+                     <p>‘Literature’, as you will know, literally means something that comes to us in the form of letters. That is, something written or printed and taken in through the eye to be interpreted by the brain. But often enough, particularly nowadays, literature comes to us ‘mediated’, in different forms and through different channels and different sense organs.</p>
+                     <p>Let’s play another mind game. If you borrowed H.G. Wells’s time machine and brought Homer to the present day, what would he make of the all-action, Brad Pitt-starring 2004 film<italic>Troy</italic>– an epic movie ‘based’ (as the title and credits affirm) on his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.35</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 33</label>
+                     <title>Absurd Existences</title>
+                     <subtitle>Kafka, Camus, Beckett and Pinter</subtitle>
+                  </title-group>
+                  <fpage>214</fpage>
+                  <abstract>
+                     <p>If you made a list of the most gripping opening lines in literature, the following would surely make it into the top ten:</p>
+                     <p>As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect.</p>
+                     <p>It is from a short story, ‘The Metamorphosis’, by Franz Kafka (1883–1924). It’s probable that Kafka did not much care whether we read this sentence or anything that he wrote. He instructed his friend and exectutor Max Brod to burn his literary remains ‘preferably unread’ after his death – he died prematurely, aged forty, from tuberculosis.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.36</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 34</label>
+                     <title>The Poetry of Breakdown</title>
+                     <subtitle>Lowell, Plath, Larkin and Hughes</subtitle>
+                  </title-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>On an early October morning in 1800 the poet William Wordsworth went for a walk on his beloved Lake District moors and hills. It had stormed and rained all night but now the sun was shining. It was a new day and a new century. At thirty, William was in the prime of life. To his joy the poet saw a hare running, sending up glistening rainbow splashes of water from the night’s puddles in the grass not yet shrivelled by winter. He heard a skylark warbling invisibly. He felt infused with what he liked to call ‘joy’. He was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.37</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 35</label>
+                     <title>Colourful Cultures</title>
+                     <subtitle>Literature and Race</subtitle>
+                  </title-group>
+                  <fpage>228</fpage>
+                  <abstract>
+                     <p>Race is a subject which raises tempers. So too in literature, and discussions of literature. It’s something that takes us to uncomfortable places. Is Shakespeare’s depiction of Shylock anti-Semitic? Or is it, at heart, sympathetic to a victim of racial prejudice? Those who go for sympathy will quote the lines</p>
+                     <p>I am a Jew. Hath not a Jew eyes? hath not a Jew hands, organs, dimensions, senses, affections, passions? fed with the same food, hurt with the same weapons, subject to the same diseases, healed by the same means, warmed and cooled by the same winter and summer, as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.38</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 36</label>
+                     <title>Magical Realisms</title>
+                     <subtitle>Borges, Grass, Rushdie and Márquez</subtitle>
+                  </title-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>The term ‘magic realism’ became current in the 1980s. Suddenly everyone seemed to be knowingly dropping it into conversations about the latest thing in literature. What, though, does this odd term mean? On the face of it, ‘magic realism’ looks like an oxymoron, jamming together two traditionally irreconcilable elements. A novel is ‘fictional’ (it never happened) but it is also ‘true’ – that is, ‘realistic’. The mass of British fiction, from Defoe, through what has been called the ‘Great Tradition’ (Jane Austen, George Eliot, Joseph Conrad, D.H. Lawrence), on past Graham Greene and Evelyn Waugh, to Ian McEwan and A.S.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.39</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 37</label>
+                     <title>Republic of Letters</title>
+                     <subtitle>Literature Without Borders</subtitle>
+                  </title-group>
+                  <fpage>241</fpage>
+                  <abstract>
+                     <p>In the twenty-first century, it’s safe to say, literature has become truly global. But what does ‘world literature’ mean if we break the term down? A number of things, as we shall see.</p>
+                     <p>Let’s consider, for example, a novel originating in one of the tiniest, most isolated literary communities on earth – Iceland. The first Viking inhabitants arrived on this barren, rocky, freezing island in the ninth century. The following two centuries are called by literary historians the ‘Saga Age’ (the word ‘saga’, meaning ‘told tale’, comes from the Old Norse that Icelanders spoke, and still speak). It’s an astonishingly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.40</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 38</label>
+                     <title>Guilty Pleasures</title>
+                     <subtitle>Bestsellers and Potboilers</subtitle>
+                  </title-group>
+                  <fpage>248</fpage>
+                  <abstract>
+                     <p>There is more ‘great’ literature readily available to us now than any one person, however ambitious and diligent, can get through in a lifetime – and there is more being added to the pile every year. Literature is a mountain that none of us will reach the peak of; we’re lucky if we get through the lower foothills, following our chosen path as carefully as we can, as the summit above us gets ever-higher. To reflect only on authors mentioned in this book, even the best-read of us will go through life not having read<italic>all</italic>of Shakespeare’s thirty-nine plays</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.41</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 39</label>
+                     <title>Who’s Best?</title>
+                     <subtitle>Prizes, Festivals and Reading Groups</subtitle>
+                  </title-group>
+                  <fpage>254</fpage>
+                  <abstract>
+                     <p>There have always been prizes for the highest literary achievement, from the ancient world’s laurel-leaf crown to the ‘biggest ever’ advances which (lucky) modern authors receive. ‘Laureateships’ are prizes of a kind. Tennyson’s forty-two-year tenure of the post of British poet laureate (Chapter 22) confirmed his supremacy in the world of poetry, as did the peerage, and the state funeral (in all but name), which a grateful Queen and nation awarded him on his death in 1892.</p>
+                     <p>But systematically organised literary prizes – delivering a jury’s verdict that this or that is the best novel, poetry collection or play, or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.42</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 40</label>
+                     <title>Literature in Your Lifetime… and Beyond</title>
+                  </title-group>
+                  <fpage>260</fpage>
+                  <abstract>
+                     <p>The printed ‘book’ – a physical thing made up of paper, type, ink and board – has been around now for over 500 years. It has served literature wonderfully: packaging it in cheap (sometimes beautiful) forms that have helped to sustain mass literacy. Few inventions have lasted longer, or done more good.</p>
+                     <p>The book may, however, have had its day. The tipping point has come very recently, in the second decade of the twenty-first century, when e-books – digital things made up of algorithms and pixels – began to outsell the traditional book on Amazon. An e-book, as it’s currently</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwh2.43</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>267</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1r20cr</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Edinburgh Companion to Twentieth-Century Literatures in English</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>McHale</surname>
+               <given-names>Brian</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Stevenson</surname>
+               <given-names>Randall</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>28</day>
+         <month>06</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748620111</isbn>
+      <isbn content-type="epub">9780748627103</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>Edinburgh University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.3366/j.ctt1r20cr"/>
+      <abstract abstract-type="short">
+         <p>This companion with a difference sets a controversial new agenda for literary-historical analysis. It cuts across familiar categories, focusing instead on literary events and texts which consitute 'landmarks' across the century.</p>
+      </abstract>
+      <counts>
+         <page-count count="304"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>BMcH</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <string-name>RS</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>On or about December 1910, London</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McHale</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stevenson</surname>
+                           <given-names>Randall</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Repeatedly endured by Compton Mackenzie’s hero in <italic>Sinister Street</italic> (1913–14), this dream seems to recur for the central characters in Thomas Pynchon’s V. (1963), disturbed by the prospect of an</p>
+                     <p>abstracted Street . . . [of] mercury-vapor lamps, receding in an asymmetric V to the east where it’s dark . . . the street of the 20th Century, at whose far end or turning – we hope – is some sense of home or safety. (Pynchon 1973: 2, 303)</p>
+                     <p>Visions of a dark, ‘abstracted street’, dotted with pools of clear illumination, turn up significantly often in the half-century separating</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.5</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>1899, Vienna and the Congo:</title>
+                     <subtitle>The Art of Darkness</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kolocotroni</surname>
+                           <given-names>Vassiliki</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On 21 April 1896, Dr Sigmund Freud presented his recent findings on ‘The Aetiology of Hysteria’ to the Society for Psychiatry and Neurology in Vienna, beginning with an explication of his new diagnostic method:</p>
+                     <p>I should like to bring before you an analogy taken from an advance that has in fact been made in another field of work.</p>
+                     <p>Imagine that an explorer arrives in a little-known region where his interest is aroused by an expanse of ruins, with remains of walls, fragments of columns, and tablets with half-effaced and unreadable inscriptions. He may content himself with inspecting what lies exposed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>1912, London, Chicago, Florence, New York:</title>
+                     <subtitle>Modernist Moments, Feminist Mappings</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kinnahan</surname>
+                           <given-names>Linda A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Imagine a moment in 1912 London, picking up a copy of the <italic>Poetry Review</italic>, published in conjunction with the new Poetry Society of England and founded by editor Harold Monro in January of that year. It is May, and the issue on the stands is a special edition of ‘Women- Poets’, evidence of Monro’s championing of this undervalued group. Given two decades of incessant talk of the ‘New Woman’ in Europe and America and ten years of increased militancy – labelled ‘feminism’ by 1910 – the focus of this issue is not entirely surprising. Women are, after all, constantly in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>1916, Flanders, London, Dublin:</title>
+                     <subtitle>‘Everything Has Gone Well’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stevenson</surname>
+                           <given-names>Randall</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Human character may have changed, as Virginia Woolf claimed, ‘on or about December 1910’ (Woolf 1986–94: 3: 421). But it changed more radically at 7.30am on Saturday, 1 July 1916, with the beginning of the offensive on the Somme – a battle which eventually wiped out more than a million human characters, around half of them British. Fundamental changes in human communication, too, were in evidence over that weekend. The language and even the page-layout of <italic>The Times</italic> on Monday 3 July – when the battle was first reported in the London daily press – indicate areas involved. Other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>1922, Paris, New York, London:</title>
+                     <subtitle>The Modernist as International Hero</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>North</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>48</fpage>
+                  <abstract abstract-type="extract">
+                     <p>One of the very first literary events of 1922 was an unusual dinner party in Paris, at which Ezra Pound played host to T. S. Eliot, James Joyce and the American publisher Horace Liveright (Dardis 1995: 86–92; Rainey 1998: 82). Eliot, on his way back from a rest-cure in Lausanne, was in possession of a manuscript not yet entitled The <italic>Waste Land</italic>, and Joyce had just scrambled his way through the final revisions to <italic>Ulysses</italic>, which was to appear a month later. Liveright, who had been turning his firm into one of the major American outlets for daring and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>1925, London, New York, Paris:</title>
+                     <subtitle>Metropolitan Modernisms – Parallax and Palimpsest</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Goldman</surname>
+                           <given-names>Jane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Virginia and Leonard Woolf saw in the New Year at Monks House, Rodmell, their country retreat, and returned on 2 January 1925 to their metropolitan home in Tavistock Square, Bloomsbury. Woolf’s first diary entry for the year records another row with her cook, Nelly Boxall, whose spirited defiance Woolf recognises as partly her own doing – the ‘fruit’ of the Bloomsbury group’s progressive, egalitarian politics and notoriously easy-going domestic arrangements (Woolf 1977–84: 3: 3). The spat with her servant forms a timely coda to Woolf’s famous assertion, in ‘Mr Bennett and Mrs Brown’ (1924), that ‘on or about December</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>1928, London:</title>
+                     <subtitle>A Strange Interlude</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Baldick</surname>
+                           <given-names>Chris</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+                  <abstract abstract-type="extract">
+                     <p>It was a year of Victorian endings and postmodern beginnings. Thomas Hardy, last of the great Victorian writers, died in January, and his career concluded later in the year with the appearance of his last volume of poems, <italic>Winter Words</italic>. The unfinished business of Victorian lexicography, too, terminated in the dozen enormous volumes of the <italic>Oxford English Dictionary</italic>, published at last after seventy years of collective toil. Havelock Ellis’s tireless compendium of sexology, <italic>Studies in the Psychology of Sex</italic>, begun in the 1890s, was also concluded with the appearance of its seventh and final volume. Soames Forsyte, whom John Galsworthy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>1936, Madrid:</title>
+                     <subtitle>The Heart of the World</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nelson</surname>
+                           <given-names>Cary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>82</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In that most notoriously political of all twentieth-century decades, revered by some and castigated by others – the 1930s – a singular turning point came just after the decade’s mid-point, in the summer of 1936. The decade began, of course, with the worldwide depression that followed the US stockmarket crash in October 1929. As the Great Depression deepened, with a full 25 per cent of Americans unemployed and many more severely under-employed, homeless and hungry, it began to seem as if there was no end in sight to years of misery. Capitalism, it appeared to many, could not fix itself.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>1941, London under the Blitz:</title>
+                     <subtitle>Culture as Counter-History</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Miller</surname>
+                           <given-names>Tyrus</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>98</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In his ‘London Letter’ to the <italic>Partisan Review</italic> of 3 January 1941, George Orwell recounted the bombing of London a few months earlier and described a collective feeling of watching the world in which they had grown up come to an end. But another, still stranger discovery was in store for Orwell in the nights of bombing: despite the fires, despite floodlights and flak and sirens piercing the air, much of the old world, that framework of grey everydayness in equal measure musty and reassuring, was still holding firm, as if by sheer force of habit and lack of sufficient</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>1944, Melbourne and Adelaide:</title>
+                     <subtitle>The Ern Malley Hoax</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mead</surname>
+                           <given-names>Philip</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Back in 1944 the Australian poet ‘Ern Malley’ was world famous for fifteen minutes, because he was non-existent. Malley was a hoax whose life and work were purportedly created one Saturday afternoon in October the previous year, in Melbourne’s Victoria Barracks, by two young Australian servicemen and former school friends, James McAuley and Harold Stewart. Their purpose was to hornswoggle Max Harris, editor of the Adelaide–Melbourne magazine of contemporary writing and art, <italic>Angry Penguins</italic>, into publishing the work of their dead, pseudo-avant-garde poet – which he did, in a special ‘Ern Malley Commemorative’ issue. The whole affair was front-page</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>1955, Disneyland:</title>
+                     <subtitle>‘The Happiest Place on Earth’ and the Fiction of Cold War Culture</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nadel</surname>
+                           <given-names>Alan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>126</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On 17 July 1955 the Disneyland amusement park, self-billed as ‘the Happiest Place on Earth’, had its grand opening. In many ways, this was as much a culmination as a commencement. The hit television show, <italic>Disneyland</italic>, which had premièred the preceding October, was a year-long advertisement, aimed at using the power of television to sell the park to the American public, a prescient strategy, in that in the 1954–5 television season the number of American households with television sets would pass the 50 per cent mark. The power of television to affect every aspect of American life, moreover, had</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>1956, Suez and Sloane Square:</title>
+                     <subtitle>Empire’s Ebb and Flow</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rylance</surname>
+                           <given-names>Rick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Few texts adhere so tenaciously to the moment of their first production as John Osborne’s <italic>Look Back in Anger</italic>. First performed by the English Stage Company (ESC) at the Royal Court Theatre, Sloane Square, London on 8 May 1956, it is anchored to its moment in three ways. First, the title invites a reassessment and suggests, albeit equivocally, a break from the past. Second, 1956 was a year of political and cultural tumult and, for many, the play seemed to articulate feelings of enraged but helpless frustration over events that included Britain’s ‘Suez Crisis’ and the Soviet invasion of Hungary.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>1960, Lagos and Nairobi:</title>
+                     <subtitle>‘Things Fall Apart’ and ‘the Empire Writes Back’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Williams</surname>
+                           <given-names>Patrick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>150</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The 1960s are popularly remembered as going out on a wave of radicalism, international in extent, and often student-led: May ’68; the Italian ‘hot autumn’ of ’69; protests against the Vietnam War; Black Power in the United States. The decade came in, however, on something more resembling a global tidal surge of decolonisation, but one whose events, because they occurred on the peripheries of Empire rather than in its heartlands, figure less in the memories both of the period and of its significant protests. Although Eldridge Cleaver of the Black Panthers could claim at the end of the 1960s that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 13</label>
+                     <title>1961, Jerusalem:</title>
+                     <subtitle>Eichmann and the Aesthetic of Complicity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Spargo</surname>
+                           <given-names>R. Clifton</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The trial of Adolf Eichmann was a threshold moment of Holocaust memory, ushering in an era of widespread knowledge about the Holocaust as a historical event, distinct from the events of the Second World War. Especially in Israel and the United States, the trial served as a means for retrieving a history that had occurred in a far away place and what in 1961 seemed already, in an ever-renewable and erasable modern world, a far-away time. As Sidra DeKoven Ezrahi has provocatively intimated, the trial may have especially resonated with the Israeli and American publics because of what Eichmann represented</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.18</book-part-id>
+                  <title-group>
+                     <label>Chapter 14</label>
+                     <title>1963, London:</title>
+                     <subtitle>The Myth of the Artist and the Woman Writer</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Waugh</surname>
+                           <given-names>Patricia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract abstract-type="extract">
+                     <p>1963: the worst of years and the best of years. As the impact of the revelations about the concentration camps was felt, following the trial of Adolf Eichmann in 1961, George Steiner would write that ‘the house of classic humanism, the dream of reason which animated western society, have largely broken down . . . We come after’ (Steiner 1969: 15). Yet Martin Luther King would announce, in his ‘I have a Dream’ speech, delivered on the steps of the Lincoln memorial in Washington DC in August, that ‘nineteen sixty-three is not an end but a beginning. The whirlwind of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.19</book-part-id>
+                  <title-group>
+                     <label>Chapter 15</label>
+                     <title>1967, Liverpool, London, San Francisco, Vietnam:</title>
+                     <subtitle>‘We Hope You Will Enjoy the Show’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hellmann</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the August 1967 issue of <italic>Atlantic</italic> magazine, John Barth argued in his ‘Literature of Exhaustion’ that forms and modes of art can be used up. Speaking years later, Barth pointed out, ‘I wrote the essay in 1967 . . . in the middle of a very apocalyptic time in the history of our republic . . . a time when people could be forgiven for wondering whether a lot of institutions were falling apart’ (Reilly 1981: 7). Barth cited the disturbances on university campuses and Marshall McLuhan’s claims in his <italic>The Medium is the Massage</italic> (1967) that the age</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.20</book-part-id>
+                  <title-group>
+                     <label>Chapter 16</label>
+                     <title>1970, Planet Earth:</title>
+                     <subtitle>The Imagination of the Global</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heise</surname>
+                           <given-names>Ursula K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>201</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The launch of the Soviet satellite Sputnik-1 on 4 October 1957 changed not only the history of twentieth-century technology, but also politics, philosophy and aesthetics. It marked the start of a space race between the two Cold-War superpowers, with satellites put into orbit and the first humans, Yuri Gagarin and Gherman Titov in 1961, and John Glenn in 1962, undertaking orbital flights. Satellites and cosmonauts sent back photographs of Earth taken from space that enabled humankind, for the first time in history, to look at its planet as a whole. This new perspective galvanised the public as the planet’s beauty,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.21</book-part-id>
+                  <title-group>
+                     <label>Chapter 17</label>
+                     <title>1979, Edinburgh and Glasgow:</title>
+                     <subtitle>Devolution Deferred</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Craig</surname>
+                           <given-names>Cairns</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>217</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On 1 March 1979, the Labour Government of the United Kingdom held a referendum in Scotland on proposals to establish a devolved Scottish parliament that would take responsibility for those local issues which, since the Union of Scotland and England in 1707, had been the responsibility of the Westminster parliament in London. The proposals were the Labour Party’s response to the success, since the late 1960s, of the Scottish National Party, which campaigned for the dissolution of the Union and the re-establishment of an independent Scottish state. The referendum outcome, however, was indecisive: although a small majority voted in favour,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.22</book-part-id>
+                  <title-group>
+                     <label>Chapter 18</label>
+                     <title>1989, Berlin and Bradford:</title>
+                     <subtitle>Out of the Cold, Into the Fire</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Teverson</surname>
+                           <given-names>Andrew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>229</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In a 1990 interview with Blake Morrison, Salman Rushdie recalls 1989 with mixed emotions – as a source of lament and a source of celebration. His lament is for his personal situation, which prevented him from enjoying a dance on a crumbling wall. ‘In normal circumstances I’d have been on the first plane to Berlin’, he told Morrison:</p>
+                     <p>I envied my friends who did go . . . those images of people dancing on the Wall were quite extraordinary. And to miss the chance of being on it! I felt I’d missed out on one of the great moments of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.23</book-part-id>
+                  <title-group>
+                     <label>Chapter 19</label>
+                     <title>11 February 1990, South Africa:</title>
+                     <subtitle>Apartheid and After</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bethlehem</surname>
+                           <given-names>Louise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>240</fpage>
+                  <abstract abstract-type="extract">
+                     <p>‘One long ocean away’ from South Africa, the expatriate poet Denis Hirson views in these extracts the global relay of images which accompanied Nelson Mandela’s release from prison.</p>
+                     <p>There are only a few yards to go now, the ground widens under his feet. It is February 11th, 1990. History waits for him like a big smart car and he gets in . . . (Hirson 1996: 4, 11)</p>
+                     <p>The moment, as Hirson’s poem attests, was one of undeniable, even redemptive, power. So much so, that some commentators see it as having inaugurated ‘the civilised twentieth century’ – belatedly, yet not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.24</book-part-id>
+                  <title-group>
+                     <label>Chapter 20</label>
+                     <title>1991, The Web:</title>
+                     <subtitle>Network Fictions</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tabbi</surname>
+                           <given-names>Joseph</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Our age is recombinant. Not retrospective, in the way that Ralph Waldo Emerson thought of nineteenth-century culture: nobody is looking back to the classics and few look even to literature of the recent past as standards for measuring new creativity. What our age does, rather, is splice, graft and recombine the materials left lying around after the disintegration of the old orders. Since the fall of the Soviet Union in 1991, liberal democracy, no longer an embattled ideal or a provincial experiment, has become an international norm, for better or worse. The failure of socialism run by a centralised command</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.25</book-part-id>
+                  <title-group>
+                     <label>Chapter 21</label>
+                     <title>1993, Stockholm:</title>
+                     <subtitle>A Prize for Toni Morrison</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gurnah</surname>
+                           <given-names>Abdulrazak</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On 24 January 1988, the <italic>New York Times Book Review</italic> published a letter under the heading ‘Black Writers in Praise of Toni Morrison’. The letter was in two parts. The first part was an appreciation of Toni Morrison’s writing in general and of <italic>Beloved</italic>, just published the year before, in particular. The first part appeared above the names of June Jordan and Houston A. Baker Jr, an eminent poet and an eminent academic, both African-American. The second part, which was preceded by the word ‘STATEMENT’, took the more recognisable form of a letter to a newspaper with its ‘We, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.26</book-part-id>
+                  <title-group>
+                     <title>Coda:</title>
+                     <subtitle>11 September 2001, New York: Two Y2Ks</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McHale</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stevenson</surname>
+                           <given-names>Randall</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>273</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Ending a literary history at the end of one century and the beginning of a new one is arbitrary, but at least it has the virtue of being <italic>transparently</italic> arbitrary – all the more so when that end and beginning also coincide with the onset of a new millennium. Centuries and millennia are convenient fictions, and using them to frame a history is a way of acknowledging that there is no ‘natural’ place to stop – as there is no ‘natural’ place to start. Developments begun on one page of the calendar continue on the next page, and the conditions</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.27</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>279</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r20cr.28</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>283</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

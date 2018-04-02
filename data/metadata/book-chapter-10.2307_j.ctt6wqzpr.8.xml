@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqzpr</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN1997.85.D36 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Film adaptations</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Chinese fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">Film and video adaptations</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Motion pictures and literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">China</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Adapted for the Screen</book-title>
+         <subtitle>The Cultural Politics of Modern Chinese Fiction and Film</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Deppman</surname>
+               <given-names>Hsiu-Chuang</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>04</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824833732</isbn>
+      <isbn content-type="epub">9780824860653</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqzpr"/>
+      <abstract abstract-type="short">
+         <p>Contemporary Chinese films are popular with audiences worldwide, but a key reason for their success has gone unnoticed: many of the films are adapted from brilliant literary works. This book is the first to put these landmark films in the context of their literary origins and explore how the best Chinese directors adapt fictional narratives and styles for film. Contemporary Chinese films are popular with audiences worldwide, but a key reason for their success has gone unnoticed: many of the films are adapted from brilliant literary works. This book is the first to put these landmark films in the context of their literary origins and explore how the best Chinese directors adapt fictional narratives and styles for film. With her sophisticated blend of stylistic and historical analyses, Deppman brings much-needed nuance to current conversations about the politics of gender, class, and race in the work of the most celebrated Chinese writers and directors. Her pioneering study will appeal to all readers, general and academic, who have an interest in Chinese literature, cinema, and culture.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Whether adapting fiction into film is an art or a science, Chinese directors are good at it.</p>
+                     <p>Since 1995 all eight of Ang Lee’s films have been adaptations, and his results have been nothing short of spectacular:<italic>Crouching Tiger, Hidden Dragon</italic>(2000),<italic>Brokeback Mountain</italic>(2005), and<italic>Lust, Caution</italic>(2007), to name just three. Zhang Yimou’s best movies are also adaptations:<italic>Red Sorghum</italic>(1987),<italic>Raise the Red Lantern</italic>(1991), and<italic>To Live</italic>(1994). In 2002, Dai Sijie took the art of Chinese self-adaptation to new heights when he remade his own award-winning novel<italic>Balzac and the Little Chinese Seamstress</italic>into a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Wang Dulu and Ang Lee:</title>
+                     <subtitle>Artistic Creativity and Sexual Freedom in Crouching Tiger, Hidden Dragon</subtitle>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>Viewers of Ang Lee’s blockbuster<italic>Crouching Tiger, Hidden Dragon</italic>(2000) are always intrigued by the last scene in which Jen (Zhang Ziyi) leaps off the bridge for no obvious reason. It is not easy to decide whether this is a suicidal act, an attempt to eliminate shame and compensate for misdeeds—in which case Jen may be revealing a repressed Confucian sensibility—or an act of rebellion and escape, a soaring liberation from tradition and patriarchy. In fact to examine this moment, a flashpoint for conservative and liberal interpretations, is to open a window not only on the way Ang</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Su Tong and Zhang Yimou:</title>
+                     <subtitle>Women’s Places in Raise the Red Lantern</subtitle>
+                  </title-group>
+                  <fpage>34</fpage>
+                  <abstract>
+                     <p>If Ang Lee is a wide-ranging director’s director from the Chinese/Taiwanese diaspora, Zhang Yimou is a versatile chronicler of mainland China’s ideological and social transformations from the 1980s on. It is a China he has experienced from many perspectives: as the cinematographer in Chen Kaige’s groundbreaking movie<italic>Yellow Earth</italic>(1984); as the male lead in Wu Tianming’s<italic>Old Well</italic>(1986); as the director of sixteen award-winning feature films; as the creative spirit behind the impressive opening and closing ceremonies of the 2008 Summer Olympics in Beijing. Zhang has dazzled the world with his inexhaustible talents and is indisputably a transformational</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Eileen Chang and Stanley Kwan:</title>
+                     <subtitle>Politics and Love in Red Rose (and) White Rose</subtitle>
+                  </title-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>Like directors Ang Lee and Zhang Yimou, fiction writer Eileen Chang (Zhang Ailing, 1920–1995) can be considered a blockbuster artist. Chang Fans (Zhang Mi) are spread across the globe and reach deep into diverse Chinese-speaking communities. Her stories appeal to both laymen and scholars because they depict rich and revelatory encounters between tradition and modernity, man and woman, East and West. They often feature blended—or what I call<italic>postrealist</italic>—styles and narrative strategies to critique sinocentrism, with many of her tales satirically deconstructing essentialist or chauvinist versions of the one-China ideal. From Fu Lei’s criticism of her satirical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Liu Yichang and Wong Kar-wai:</title>
+                     <subtitle>The Class Trap in In the Mood for Love</subtitle>
+                  </title-group>
+                  <fpage>98</fpage>
+                  <abstract>
+                     <p>A key representative of the Hong Kong Second Wave,¹ Wong Kar-wai (Wang Jiawei, b. 1956) stands out as one of the hippest and most critically acclaimed directors in the world. He experiments with different genres, makes complex and beautiful movies, and can generally be taken as a pure example of why Hong Kong cinema has become popular in the West. From<italic>As Tears Go By</italic>(1988) to<italic>My Blueberry Nights</italic>(2007), he has innovated in genres as diverse as gangster and martial arts films, melodrama and road films. Combining fast editing, superimposed slow motion, parallel narrative structures, expansion of off-screen</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Dai Sijie:</title>
+                     <subtitle>Locating the Third Culture in Balzac and the Little Chinese Seamstress</subtitle>
+                  </title-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Unlike the writers and directors examined in the other chapters, Dai Sijie is a relatively unknown artist in the Sinophone world. Because China has banned both the film and novel versions of<italic>Balzac and the Little Chinese Seamstress</italic>(novel 2000; film 2002), his most popular work worldwide, curious readers cannot even find his name in the China Film and Television Bureau’s 2006 publication<italic>One Hundred Years of Chinese Cinema</italic>(<italic>Zhong guo dian ying bai nian</italic>). This inclusive anthology has allowed more than seventy directors from China, Taiwan, and Hong Kong, many without Dai’s global presence, to introduce themselves in their</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Hou Xiaoxian and Zhu Tianwen:</title>
+                     <subtitle>Politics and Poetics in A Time to Live, A Time to Die</subtitle>
+                  </title-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>So far in this book we have seen novelists who are aficionados of cinema and filmmakers who are literary buffs. We have seen interactions, borrowings, and transformations between literature and film on topics ranging from politics to aesthetics to historical representation. And yet, despite robust cross-fertilization, Chinese adaptation has almost always been a one-way street: film directors read and remake literature, not the other way around. Thus Zhu Tianwen (b. 1956) and Hou Xiaoxian (b. 1947) represent an important exception: working together in both directions since 1983, they have produced extraordinary cine-literary results. In this chapter we will look carefully</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Chen Yuhui and Chen Guofu:</title>
+                     <subtitle>Envisioning Democracy in The Personals</subtitle>
+                  </title-group>
+                  <fpage>174</fpage>
+                  <abstract>
+                     <p>In the overall context of the book, my final two artists Chen Yuhui (b. 1957) and Chen Guofu (b. 1958) stand out for the ways they reconfigure autobiography, democratization, and gender politics. They investigate the fragmented subjectivity of postmodern professional women and mix such narrative genres as documentary, drama, anthropological field study, diary, fiction, and poetry. Their deconstructive confessions quietly criticize the utopian collectivism envisioned in the neorealist nativist tales of Hou and Zhu.</p>
+                     <p>Unlike the more established artists discussed in this book, the two Chens are not as well known either inside or outside of Taiwan. In fact, few</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.12</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Throughout this book I have pulled at many threads in the fabric of Chinese film, literature, and cultural politics. Rather than pursuing the question of “fidelity” in adaptation—a trap in every guise from the political to the philosophical to the technical—I have emphasized individual contexts and meanings, each of which has advanced Chinese cinema and literature in an important way. Looking back, what stands out is a range and diversity—China, Hong Kong, Taiwan, and overseas Chinese communities—that challenge the very idea of geographical or linguistic unity. We saw basic forms as different as cinematic adaptation of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>197</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.14</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>215</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.15</book-part-id>
+                  <title-group>
+                     <title>Selected Filmography</title>
+                  </title-group>
+                  <fpage>231</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>235</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqzpr.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

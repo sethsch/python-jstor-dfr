@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qd4gh</book-id>
+      <subj-group>
+         <subject content-type="call-number">HN25.P87 2008</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Quality of life</subject>
+         <subj-group>
+            <subject content-type="lcsh">Cross-cultural studies</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Well-being</subject>
+         <subj-group>
+            <subject content-type="lcsh">Cross-cultural studies</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Happiness</subject>
+         <subj-group>
+            <subject content-type="lcsh">Cross-cultural studies</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Anthropology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+         <subject>Public Health</subject>
+         <subject>Health Sciences</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Pursuits of Happiness</book-title>
+         <subtitle>Well-Being in Anthropological Perspective</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Mathews</surname>
+               <given-names>Gordon</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Izquierdo</surname>
+               <given-names>Carolina</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>12</month>
+         <year>2008</year>
+      </pub-date>
+      <isbn content-type="ppub">9781845457082</isbn>
+      <isbn content-type="epub">9781845458775</isbn>
+      <isbn content-type="epub">184545877X</isbn>
+      <publisher>
+         <publisher-name>Berghahn Books</publisher-name>
+         <publisher-loc>New York; Oxford</publisher-loc>
+      </publisher>
+      <edition>NED - New edition, 1</edition>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Gordon Mathews</copyright-holder>
+         <copyright-holder>Carolina Izquierdo</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt9qd4gh"/>
+      <abstract abstract-type="short">
+         <p>Anthropology has long shied away from examining how human beings may lead happy and fulfilling lives. This book, however, shows that the ethnographic examination of well-being-defined as "the optimal state for an individual, a community, and a society"-and the comparison of well-being within and across societies is a new and important area for anthropological inquiry. Distinctly different in different places, but also reflecting our common humanity, well-being is intimately linked to the idea of happiness and its pursuits. Noted anthropological researchers have come together in this volume to examine well-being in a range of diverse ways and to investigate it in a range of settings: from the Peruvian Amazon, the Australian outback, and the Canadian north, to India, China, Indonesia, Japan, and the United States.</p>
+      </abstract>
+      <counts>
+         <page-count count="290"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.3</book-part-id>
+                  <title-group>
+                     <title>List of Tables and Figures</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.5</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                     <subtitle>Anthropology, Happiness, and Well-Being</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mathews</surname>
+                           <given-names>Gordon</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Izquierdo</surname>
+                           <given-names>Carolina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Today, happiness is everywhere—at least in bookstores. There are numerous tomes to be found on “happiness,” “the pursuit of happiness,” “the history of happiness,” and “the science of happiness,” teaching, in so many words, how to become happy. Some of these books are very informative, based in evidence from the research of psychologists and economists and other experts (see, for example, Gilbert 2007; Layard 2005; McMahon 2006), but most more or less share a common misunderstanding. They assume that there is a single “pursuit of happiness”—but is there? We argue that there is not. Happiness is not one</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Why Anthropology Can Ill Afford to Ignore Well-Being</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Thin</surname>
+                           <given-names>Neil</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>In his foundational text, Malinowski urged anthropologists to explore diverse views on happiness and the meaning of life. Imagine how you would feel if, similarly assuming sociocultural anthropology to be about things that humans care about, your proposals to study well-being received the following advice from colleagues:</p>
+                     <p>“That doesn’t sound very anthropological: it’s too individualistic and psychological. Not to mention ethnocentric and value-laden. We study relations, structures, and networks, not motives and feelings. We don’t make evaluative judgments.”</p>
+                     <p>“If you must explore psychology, avoid emotions and stick with cognitive psychology: explore mental maps, terminologies, and symbolic patterning, but not motives</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Is a Measure of Cultural Well-Being Possible or Desirable?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Colby</surname>
+                           <given-names>Benjamin Nick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>Any study of well-being, however characterized (cultural, sociocultural, psychocultural, social) must consider both the level and objective of analysis. At the very simplest, one can measure a psychological state, a state of subjective well-being or happiness with a five-item questionnaire about how satisfied respondents are with their lives (Diener and Suh 2000). One can go further by asking people what makes them happy, or how they define a successful life. These answers can be ranged along different levels of generality. A more detailed ethnography of people’s goals, values, and attitudes will produce a large amount of data that then must</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Well-Being among the Matsigenka of the Peruvian Amazon:</title>
+                     <subtitle>Health, Missions, Oil, and “Progress”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Izquierdo</surname>
+                           <given-names>Carolina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>In this chapter I discuss the relationship between biomedical, individual, and societal assessments of well-being among the Matsigenka of the Peruvian Amazon, as they seek to preserve their senses of wellness despite their rapidly changing social and economic environment. Matsigenka senses of well-being give us insight into a horticultural/huntergatherer society that has only recently been in frequent contact with the larger world. The Matsigenka are now experiencing the full impact of globalization in their daily lives, for under their territory lies one of the largest natural gas reserves in Latin America, currently being extracted by multinational companies. My research indicates</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Embodied Selves and Social Selves:</title>
+                     <subtitle>Aboriginal Well-Being in Rural New South Wales, Australia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heil</surname>
+                           <given-names>Daniela</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>88</fpage>
+                  <abstract>
+                     <p>What does it mean for Australian Aboriginal people to experience wellbeing and to understand themselves through their conceptions of wellbeing? Drawing on my ethnography of the small all-Aboriginal village of Murrin Bridge in rural central-western New South Wales, this chapter illustrates ways in which these Aboriginal people understand wellbeing in response to the quality of their relations with significant, mostly kin-related others. The dominant focus in the neocolonial Australian nation-state, in which indigenous Australians make up 2.4 percent of the national population, is on the well-being of people as individuals—what others and I have termed “embodied selves” (see Moore</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Shifting Landscape of Cree Well-Being</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Adelson</surname>
+                           <given-names>Naomi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>To understand the cultural meanings of well-being is to understand a society’s social, cultural, and political values: values which are, in turn, reflected in the language and practices of well-being. Much as culture is understood as being dynamic, so too are notions of well-being, and those meanings will change over time and with changes to our wider social and political landscapes (cf. Lock and Scheper-Hughes 1990; Mann 2005). In this chapter, I examine the ways in which a particular Aboriginal conceptualization of well-being is at once both grounded in specific land-based beliefs and activities and yet is changing with changing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Well-Being:</title>
+                     <subtitle>Lessons from India</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Derné</surname>
+                           <given-names>Steve</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>Anthropologists have shown that aspects of the human psyche, like self and emotion, vary because different societies sensitize people to different aspects of human experience. Because of cultural individualism, most middle-class American men feel that they fi nd their “real selves” in pursuing their own individual desires (e.g., Bellah et al. 1985). Because of this focus on the individual, Americans tend to view love as a positive feeling for a special person. In the 1980s, middle-class, uppercaste Indian men living in joint families experienced a more socially oriented cultural milieu: they saw themselves as always entangled in webs of relationships</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Well-Being, Cultural Pathology, and Personal Rejuvenation in a Chinese City, 1981–2005</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jankowiak</surname>
+                           <given-names>William</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>Well-being is a notion that embodies numerous elements ranging from good health to emotional stability to integrated goals for a meaningful life. Life satisfaction is organized around a person’s life-orientation or thoughts about the future as they pertain to a person’s accomplishments compared to his or her aspirations. Conversely, life dissatisfaction arises whenever an individual’s achievements significantly do not match his or her level of aspirations. Given the importance of cultural values in structuring a person’s life-orientation or future aspirations, analysis of a culture’s notion of well-being needs to explore the interplay between a culture’s social organization, its value system,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Finding and Keeping a Purpose in Life:</title>
+                     <subtitle>Well-Being and Ikigai in Japan and Elsewhere</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mathews</surname>
+                           <given-names>Gordon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>Well-being is not only a matter of physical health; it has an existential component as well. In order to fully experience well-being, people everywhere need to feel that their lives are worth living. This sense is difficult to specify in most languages, because there is no term for it. However, Japanese has exactly such a term:<italic>ikigai,</italic>meaning “that which most makes one’s life worth living,” whether one’s work, family, dream, or God. I argue that once we move beyond the barrier of language—the lack of a term like ikigai in languages other than Japanese—the same is the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Pleasure Experienced:</title>
+                     <subtitle>Well-Being and the Japanese Bath</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Clark</surname>
+                           <given-names>Scott</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>As physical beings, humans everywhere experience the world physically. Humans also have concepts of experiencing the world, and perhaps the universe, on other dimensions, spiritually and culturally and ranging from the climactic to the unnoticed. To achieve a sense of wellbeing, the experiences that are noticed need to be, on balance, positive. Pleasure is one positive experience, sensory pleasures among the most obvious. We notice when something feels good or pleasant, smells good, tastes good, sounds good, or looks appealing. Indeed, if we consider what well-being may mean, can we imagine it without sensory pleasures? In this chapter, I will</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Selfscapes of Well-Being in a Rural Indonesian Village</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hollan</surname>
+                           <given-names>Douglas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>Many would agree that the state of being well has certain biological and social correlates. It is hard to be well if one is starving, if one is in chronic pain, or if one is the victim of assault or lives in constant fear of assault. But people who are not starving, who are not in chronic pain, and who do not live in fear of assault can tell us how miserable they are. So whatever well-being is (see introduction to this volume), it entails more than the fulfillment of basic biological and social needs.</p>
+                     <p>In this chapter I argue</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Well-Being and Sustainability of Daily Routines:</title>
+                     <subtitle>Families with Children with Disabilities in the United States</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Weisner</surname>
+                           <given-names>Thomas S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>228</fpage>
+                  <abstract>
+                     <p>Parents everywhere have a common project: to construct a social ecology that balances what they want for themselves and their family, with what is possible given their circumstances. This project involves<italic>sustaining</italic>a daily routine of life. Sustainability is a holistic conceptualization of how families are doing with respect to this project. Ecological-cultural (hereafter<italic>ecocultural</italic>) theory suggests that sustaining a daily routine is a universal adaptive problem for all families (Whiting 1976, 1980; Munroe, Munroe, and Whiting 1981; Whiting and Edwards 1988; Weisner 1984, 1993). Ecocultural family theory uses Super and Harkness’ notion of a developmental niche for the child</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.18</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                     <subtitle>Towards an Anthropology of Well-Being</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mathews</surname>
+                           <given-names>Gordon</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Izquierdo</surname>
+                           <given-names>Carolina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>248</fpage>
+                  <abstract>
+                     <p>As the reader is by this point no doubt well aware, the chapters of this book do not set forth a single research agenda. As we noted in the introduction, anthropological approaches to well-being are today marked by their diversity, a diversity that this book illustrates. The purpose of this book has not been to set forth a single investigative path for the anthropological study of well-being, but rather to show the variety and richness of anthropological investigations into what it means to be happy and well in different cultural contexts. This richness can serve as an empirical antidote to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qd4gh.19</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>267</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

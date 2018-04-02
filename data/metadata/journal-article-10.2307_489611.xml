@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jassoteacjapa</journal-id>
+         <journal-id journal-id-type="jstor">j100777</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of the Association of Teachers of Japanese</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Teachers of Japanese</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">08859884</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/489611</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Janice</given-names>
+                  <surname>Brown</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1999</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i221307</issue-id>
+         <fpage>100</fpage>
+         <lpage>103</lpage>
+         <page-range>100-103</page-range>
+         <product>
+            <source>Studies in Modern Japanese Literature: Essays and Translations in Honor of Edwin McClellan</source>
+            <string-name>
+               <given-names>Dennis</given-names>
+               <surname>Washburn</surname>
+            </string-name>
+            <string-name>
+               <given-names>Alan</given-names>
+               <surname>Tansman</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/489611"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

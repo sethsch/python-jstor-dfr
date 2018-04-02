@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="misc" dtd-version="1.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">booksireland</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000270</journal-id>
+         <journal-title-group>
+            <journal-title>Books Ireland</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Wordwell Ltd.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03766039</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">booksireland.363.9</article-id>
+         <title-group>
+            <article-title>BOOK NOTES</article-title>
+         </title-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">
+            <day>1</day>
+            <month>9</month>
+            <year>2015</year>
+            <string-date>September/October 2015</string-date>
+         </pub-date>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>2015</year>
+         </pub-date>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink">363</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">booksireland.issue-363</issue-id>
+         <fpage>9</fpage>
+         <lpage>13</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/booksireland.363.9"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

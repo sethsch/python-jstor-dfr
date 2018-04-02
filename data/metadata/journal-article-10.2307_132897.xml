@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jjapanesestudies</journal-id>
+         <journal-id journal-id-type="jstor">j100501</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Japanese Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Society for Japanese Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00956848</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/132897</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Review Section</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Stephen B.</given-names>
+                  <surname>Snyder</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">19</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i207547</issue-id>
+         <fpage>271</fpage>
+         <lpage>275</lpage>
+         <page-range>271-275</page-range>
+         <product>
+            <source>Monkey Brain Sushi: New Tastes in Japanese Fiction</source>
+            <string-name>
+               <given-names>Alfred</given-names>
+               <surname>Birnbaum</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>New Japanese Voices: The Best Contemporary Fiction from Japan</source>
+            <string-name>
+               <given-names>Helen</given-names>
+               <surname>Mitsios</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1993 The Society for Japanese Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/132897"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

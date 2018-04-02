@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revijapacultsoci</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50010273</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Review of Japanese Culture and Society</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Center for Inter-Cultural Studies and Education, Josai University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">09134700</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23299770</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">42800985</article-id>
+         <title-group>
+            <article-title>The Trouble with "Boku" — A Meditation on Cosmopolitan Architecture</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Torben</given-names>
+                  <surname>Berns</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>2001</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">13</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40106525</issue-id>
+         <fpage>22</fpage>
+         <lpage>30</lpage>
+         <permissions>
+            <copyright-statement>© 2001 Josai University</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/42800985"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Notes</title>
+         <ref id="d680e107a1310">
+            <label>1</label>
+            <mixed-citation id="d680e114" publication-type="other">
+Iwamoto Yoshio, "A Voice from Postmodern
+Japan: Haruki Murakami," World Literature Today
+(spring 1993), 295-300;</mixed-citation>
+         </ref>
+         <ref id="d680e127a1310">
+            <label>2</label>
+            <mixed-citation id="d680e134" publication-type="other">
+Shirai Sei'ichi, "Dentō no atarashii kiken"
+(Tradition's New Crisis), in Without Windows
+(Musō) (Tokyo: Chikuma Shobō, 1979), 43.</mixed-citation>
+         </ref>
+         <ref id="d680e147a1310">
+            <label>3</label>
+            <mixed-citation id="d680e154" publication-type="other">
+Watsuji Tetsurō, Climate (Tokyo, Iwanami Shoten,
+1991).</mixed-citation>
+         </ref>
+         <ref id="d680e164a1310">
+            <label>4</label>
+            <mixed-citation id="d680e171" publication-type="other">
+Kevin Doak, Dreams of
+Difference (Berkeley: University of California
+Press, 1994).</mixed-citation>
+         </ref>
+         <ref id="d680e185a1310">
+            <label>6</label>
+            <mixed-citation id="d680e192" publication-type="other">
+Shirai, 42.</mixed-citation>
+         </ref>
+         <ref id="d680e199a1310">
+            <label>8</label>
+            <mixed-citation id="d680e206" publication-type="other">
+Shirai, 41.</mixed-citation>
+         </ref>
+         <ref id="d680e213a1310">
+            <label>9</label>
+            <mixed-citation id="d680e222" publication-type="other">
+Arata Isozaki, Preface to the Japanese edition of
+Durand (Tokyo: Reifū Shobō, 1996).</mixed-citation>
+         </ref>
+         <ref id="d680e232a1310">
+            <label>10</label>
+            <mixed-citation id="d680e239" publication-type="other">
+Shirai, 43.</mixed-citation>
+         </ref>
+         <ref id="d680e246a1310">
+            <label>11</label>
+            <mixed-citation id="d680e253" publication-type="other">
+Tetsuo Najita, "On Culture and Technology in
+Postmodern Japan," South Atlantic Quarterly, vol.
+87 (summer 1988), 401-18.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

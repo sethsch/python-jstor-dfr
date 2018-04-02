@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1d4v0cc</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1pc5fzd</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN3352.P7 L48 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">Psychological aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Reading, Psychology of</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Cruft of Fiction</book-title>
+         <subtitle>Mega-Novels and the Science of Paying Attention</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>LETZLER</surname>
+               <given-names>DAVID</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>06</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9780803299627</isbn>
+      <isbn content-type="epub">9781496201669</isbn>
+      <isbn content-type="epub">1496201663</isbn>
+      <publisher>
+         <publisher-name>UNP - Nebraska</publisher-name>
+         <publisher-loc>Lincoln; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>the Board of Regents of the University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1pc5fzd"/>
+      <abstract abstract-type="short">
+         <p>What is the strange appeal of big books? The mega-novel, a genre of erudite tomes with encyclopedic scope, has attracted wildly varied responses, from fanatical devotion to trenchant criticism. Looking at intimidating mega-novel masterpieces from<italic>The Making of Americans</italic>to<italic>2666</italic>, David Letzler explores reader responses to all the seemingly random, irrelevant, pointless, and derailing elements that comprise these mega-novels, elements that he labels "cruft" after the computer science term for junk code. In<italic>The Cruft of Fiction</italic>, Letzler suggests that these books are useful tools to help us understand the relationship between reading and attention.</p>
+         <p>While mega-novel text is often intricately meaningful or experimental, sometimes it is just excessive and pointless. On the other hand, mega-novels also contain text that, though appearing to be cruft, turns out to be quite important. Letzler posits that this cruft requires readers to develop a sophisticated method of attentional modulation, allowing one to subtly distinguish between text requiring focused attention and text that must be skimmed or even skipped to avoid processing failures.<italic>The Cruft of Fiction</italic>shows how the attentional maturation prompted by reading mega-novels can help manage the information overload that increasingly characterizes contemporary life.</p>
+      </abstract>
+      <counts>
+         <page-count count="324"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Information and Attention in the Mega-Novel</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Why do we respond so strangely to big books?</p>
+                     <p>I mean a certain type of big book: the extremely literate, erudite tomes around which one must plan one’s life for a month; the books one hesitates to approach without the assistance of a university course, a reading circle, or at least a reader’s guide; the books whose spines stare down from bookshelves, holding dominion over entire rooms; the books that inspire fanatical devotion and revulsion in equal parts, even though both seem exaggerated well beyond even the books’ own elephantine materiality. I mean the books Frederick R. Karl calls “mega-novels,”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Dictionary</title>
+                  </title-group>
+                  <fpage>30</fpage>
+                  <abstract>
+                     <p>Unique among the generic categories structuring this book, the term<italic>dictionary novel</italic>has not, to my knowledge, been generally used to describe mega-novels.¹ This, I believe, is an oversight, because at least one strain of mega-novel shares with the dictionary its most distinctive characteristic: the desire to expand the boundaries of language. Dictionaries, after all, especially those in English, have long been used to increase their users’ linguistic aptitudes. The original English dictionaries were bilingual translating references, and the first ones written entirely in English were designed mainly to enlarge readers’ vocabularies with “hard” words, a function that can still</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Encyclopedia</title>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>Having in the last chapter treated “information” in its technical sense, this chapter will treat the more colloquial use of the word by examining a mega-novel subgenre drawing on a different type of reference work, the encyclopedic novel. That term has been frequently used over the past six decades to refer to mega-novels that incorporate substantial specialized information from the sciences, the arts, and history.¹ Most famously Edward Mendelson defined encyclopedic narratives as those that “attempt to render the full range of knowledge and beliefs of a national culture,” echoing Northrop Frye’s earlier claim that encyclopedic fiction presents “a total</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Life-Writing</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>The first two chapters have dealt with cruft that mimics the excessive, born-textual data of reference guides. However, ever since Tristram Shandy set out to recount his life and opinions, only to find upon finishing the fourth volume that he was barely past his own birth and that “ things have crowded in so thick upon me, that I have not been able to get into that part of my work, towards which, I have all the way, looked forwards,” we have known that the details of a single life can sprawl out similarly.¹ While Tristram finds this situation stressful,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Menippean Satire</title>
+                  </title-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>Though the previous chapters have used mega-novels’ relationships to several nonfictional genres to examine how their detailed accumulation of the facts of real life can overload readers’ attention capacities and subsequently prompt them to modulate their methods of text processing, cruft is not limited to the small-scale cases of the incoherent word, the irrelevant datum, the passing moment of consciousness. The following three chapters will examine how mega-novels’ incorporation of elements from other literary genres produces more extensive but equally pointless cruft, inducing the same characteristic frustration and boredom to provoke a similar reorientation of attention. We will begin by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Episodic Narrative</title>
+                  </title-group>
+                  <fpage>154</fpage>
+                  <abstract>
+                     <p>Since the beginning of the twentieth century, one common complaint about western literary fiction has been that its overabsorption with artistry prevents it from “telling a good story.” Summarizing this view in his “Reader’s Manifesto,” critic B. R. Myers groused that “any accessible, fast-moving story written in unaffected prose is deemed to be ‘genre fiction’ [. . . ] never literature with a capital L.”¹ Given that several touchstone twentieth-century theories of the novel significantly deemphasized story in favor of character or language—think of E. M. Forster’s mournful, “Yes—oh dear, yes—the novel tells a story”—this criticism</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Epic and the Allegory</title>
+                  </title-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>In the last chapter, we discussed James Wood’s claim that mega-novels often become gratuitously overrun with arbitrary stories. Wood, however, does not stop there, proceeding to make a more serious attack on the very process through which mega-novels aspire to greater significance. Wood illustrates his complaint with this parody:</p>
+                     <p>If, say, a character is introduced in London, call him Toby Awknotuby (that is, “To be or not to be”—ha!) then we will be swiftly told that he has a twin in Delhi (called Boyt, which is an anagram of Toby, of course), who, like Toby, has the same very</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.11</book-part-id>
+                  <title-group>
+                     <title>Conclusion:</title>
+                     <subtitle>The Fate of the Mega-Novel</subtitle>
+                  </title-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>The past six chapters have analyzed how we process text in the meganovel, ranging from its sentence-level lacunae up to its macro-scale figurations of nation and world. Given how utterly mega-novel text overwhelms our limited working memory and how often it dissolves its most important text into a large amount of cruft, I have argued that we must hone our ability to modulate attention to an extremely fine degree, filtering the latter so as to better perceive the former. Some passages should be processed closely and slowly, while others should be read more quickly; some are best read distantly, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.12</book-part-id>
+                  <title-group>
+                     <title>Source Acknowledgments</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.14</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>273</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>297</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pc5fzd.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>304</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="misc">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">procnatiacadscie</journal-id>
+         <journal-id journal-id-type="jstor">j100014</journal-id>
+         <journal-title-group>
+            <journal-title>Proceedings of the National Academy of Sciences of the United States of America</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>National Academy of Sciences</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00278424</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3055734</article-id>
+         <title-group>
+            <article-title>Front Matter</article-title>
+         </title-group>
+         <pub-date>
+            <day>22</day>
+            <month>5</month>
+            <year>2001</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">98</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">11</issue>
+         <issue-id>i354613</issue-id>
+         <fpage>i</fpage>
+         <lpage>viii</lpage>
+         <page-range/>
+         <permissions>
+            <copyright-statement>Copyright 1993-2001 National Academy of Sciences of the United States of America</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3055734"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

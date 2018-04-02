@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt19qgd8k</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt19qgddn</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Contemporary Australian Literature</book-title>
+         <subtitle>A World Not Yet Dead</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Birns</surname>
+               <given-names>Nicholas</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib2">
+            <name name-style="western">
+               <surname>Dixon</surname>
+               <given-names>Robert</given-names>
+            </name>
+            <role>Series Editor</role>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>05</day>
+         <month>07</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781743324363</isbn>
+      <isbn content-type="ppub">1743324782</isbn>
+      <isbn content-type="epub">9781743324783</isbn>
+      <publisher>
+         <publisher-name>Sydney University Press</publisher-name>
+         <publisher-loc>AUSTRALIA</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Nicholas Birns</copyright-holder>
+         <copyright-holder>Sydney University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt19qgddn"/>
+      <abstract abstract-type="short">
+         <p>Australia has been seen as a land of both punishment and refuge. Australian literature has explored these controlling alternatives, and vividly rendered the landscape on which they transpire. In Contemporary Australian Literature: A World Not Yet Dead, Nicholas Birns tells the story of how novelists, poets and critics responded to this condition.</p>
+      </abstract>
+      <funding-group>
+         <award-group>
+            <funding-source>Knowledge Unlatched</funding-source>
+         </award-group>
+      </funding-group>
+      <counts>
+         <page-count count="280"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.4</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Australian Literature in a Time of Winners and Losers</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>In 1985, at age twenty, I turned to the study of Australian literature, seeking a world that was not yet dead. I sought a horizon of hope, a milieu of greater generosity and charity, tolerance and flexibility. Three years later, in 1988, in the consummate gesture of the New Historicist school of criticism, Stephen Greenblatt said, “I began with a desire to speak with the dead”.¹ Greenblatt sought to understand the past, to study how people of previous generations might have thought in their own terms. My interest in Australia was motivated by a similar freewheeling curiosity about a locale</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Christina Stead:</title>
+                     <subtitle>Australian in Modernity</subtitle>
+                  </title-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>In the early 1970s, when Les Murray wrote<italic>Poems Against Economics</italic>, it was axiomatic that he was writing them against leftist economics.¹ To be economic then was to speak of the left. The right was irrelevant, so much so that in<italic>The Liberal Imagination</italic>, Lionel Trilling could write that the “sole intellectual tradition” of the United States was of the left.² A generation later, any Australian poet writing<italic>Poems Against Economics</italic>would have been assumed to be opposing neoliberalism and by extension the right. Murray’s positioning of poetry against economics was part of his early aesthetics, which privileged literary language,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>“Medium-sized Mortals”:</title>
+                     <subtitle>Elizabeth Harrower and the Crisis of Late Modernity</subtitle>
+                  </title-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>In<italic>The Field of Cultural Production</italic>, Pierre Bourdieu argued that, in the symbolic network of modernity, “losers win”.¹ A novelist like Flaubert, who did not enjoy much commercial success, is far more esteemed than a more commercially successful writer, not just in spite of Flaubert making less money but<italic>because</italic>he made less money. The ratio between financial and imaginative success was inverse. One can see this in the counterculture as late as the 1960s, when the American bohemian writer Seymour Krim could say, “if you are a proud, searching ‘failure’ in this society, and we can take ironic comfort</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Long and the Short of It:</title>
+                     <subtitle>The Shape of Contemporary Australian Literature</subtitle>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Mega biblion, mega kakon</italic>, pronounced the Alexandrian sage Callimachus in the early third century BC: “Big book, big problem.” Callimachus was not speaking metaphorically. It was a literal complaint about the lengthy efforts of his contemporary and rival, Apollonius of Rhodes, whose epic on Jason and the Argonauts, written in deliberate imitation of Homer, was all the rage in the court of the early Ptolemies. Since Apollonius’ book has never quite made its way into the central literary nexus (Harold Bloom, for instance, did not include it in his list of masterworks in<italic>The Western Canon</italic>), Callimachus’ quip might be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Ludicrous Pageant:</title>
+                     <subtitle>Challenging Consensus Through Rancour</subtitle>
+                  </title-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>If globalisation can lead to hype and inequality in literary reception, as shown in the previous chapter, the two earlier chapters, on Stead and Harrower, have shown that there can be no return to the deadlocked reassurances of late modernity. One cannot, in other words, simply lament the free market and indulge in a nostalgic wish for the era of the welfare state; that era, even if it was better than Stead and Harrower unsparingly show it to be, is gone forever. Instead, I am proposing that, rather than any sort of polemical antidote to neoliberalism, the solution to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Failing to Be Separate:</title>
+                     <subtitle>Race, Land, Concern</subtitle>
+                  </title-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>In October 1988, I went to the Australian instalment of the “Common Wealth of Letters” series presided over at Yale University by the Jamaican-born Michael Cooke (1934–1990). This was a cornucopia of stimulation, and it was here that I first met Australian scholars and writers such as Kevin Hart, Ivor Indyk, Andrew Taylor and Michael Wilding, who continued to be important reference points as I delved further into the intricacies of books from down under. But the unquestioned star of the conference was Thomas Keneally. Though the film<italic>Schindler’s List</italic>(1993), based on his 1982 Booker Prize-winning novel,<italic>Schindler’s</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Australia’s International Styles:</title>
+                     <subtitle>The Idealisms of Architecture and Mobility</subtitle>
+                  </title-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>This chapter will discuss idealism in Australian literature, with especial consideration given to the role of artificial structures in promoting idealism. In the work of Frank Moorhouse, the artificial capital of Canberra is linked to a global idealism of international organisations and a realm of perpetual peace. In the work of Gerald Murnane, idealism pertains to imaginary landscapes and the cognitive and ethical power they exert. The chapter concludes with an examination of recent Australian fiction by Michelle de Kretser and Brian Castro that continues this idealism in a more mobile and transnational mode.</p>
+                     <p>Idealism can be defined as the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Australian Abroad:</title>
+                     <subtitle>Peter Carey’s Inside Course</subtitle>
+                  </title-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>This chapter will discuss the later work of Peter Carey, arguing that it is far more politically progressive and formally daring than critics have assumed, and suggesting that Carey’s extensive engagement with the United States – as aspiration, foil and enemy – speaks to the heart of how contemporary Australian fiction can challenge the banalities of neoliberalism. In this, Carey’s first novel of the twenty-first century is exemplary.</p>
+                     <p>When Carey wrote a novel about Ned Kelly (published in 2000 as<italic>True History of the Kelly Gang</italic>) it was a case of one Australian icon writing about another. It was quite</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>History Made Present:</title>
+                     <subtitle>Hannah Kent and Eleanor Catton</subtitle>
+                  </title-group>
+                  <fpage>213</fpage>
+                  <abstract>
+                     <p>This book began with an account of my own efforts as a scholar, in 1985, to understand Australia. It will end by examining the work of two writers born in that same year, 1985, both young women from the antipodes who exploded onto the world literary scene in 2013. Hannah Kent and Eleanor Catton are very different writers who, in<italic>Burial Rites</italic>(2013) and<italic>The Luminaries</italic>(2013), wrote books very varied in setting and tone. Kent’s is dark and mournful, set on the other side of the world from Australia. Catton’s is expansive and high-spirited, set in nineteenth-century New Zealand.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.14</book-part-id>
+                  <title-group>
+                     <title>Afterword:</title>
+                     <subtitle>Sly Change</subtitle>
+                  </title-group>
+                  <fpage>237</fpage>
+                  <abstract>
+                     <p>In May 2015 I learned in quick succession of the deaths of two fine Australian poets, Syd Harrex and J. S. Harry. I never met either writer, although I did engage in correspondence by surface mail with Harry, who always signed herself “Jann Harry”. Her opulent, generous poems will always be a part of me, even if I never met their author in person. Although I am fortunate to have met many of the Australian writers I have studied, there are many I have not met and will now never meet. Had I not gone to Australia, I would never</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.15</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19qgddn.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>259</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

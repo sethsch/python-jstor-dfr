@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5hh6nd</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Technology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Turning Heads and Changing Minds</book-title>
+         <subtitle>Transcending IT Auditor Archetypes</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>EE</surname>
+               <given-names>CHONG</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>07</day>
+         <month>03</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9781849283847</isbn>
+      <isbn content-type="epub">9781849284752</isbn>
+      <publisher>
+         <publisher-name>IT Governance Publishing</publisher-name>
+         <publisher-loc>Ely, Cambridgeshire, United Kingdom</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Chong Ee</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt5hh6nd"/>
+      <abstract abstract-type="short">
+         <p>Turning Heads and Changing Minds provides the IT auditor (student or practitioner) with an understanding of soft skills. It takes a hard look at common auditor perceptions that can hinder an audit and offers practical techniques for overcoming them. Rather than issue a list of ‘should dos’, the book offers the reader an intuitive, organic approach, with real-life IT scenarios involving general computer, application and third-party controls at various stages of an audit life cycle.</p>
+      </abstract>
+      <counts>
+         <page-count count="158"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.2</book-part-id>
+                  <title-group>
+                     <title>ABOUT THE AUTHOR</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGEMENTS</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.4</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <fpage>8</fpage>
+                  <abstract>
+                     <p>The idea for this book came to me when I was doing the conference circuit. Several times a year, I scheduled time away from work to speak at audit and compliance conferences. Starting in the local San Francisco Bay Area, I branched out to out-of-state locales. My focus was IT audits: I covered anything from general computer and application controls to audit communications and client delivery. Countless red-eye flights (and sleepless nights) later, it occurred to me that participants from varied industries often voiced the same need: how can IT auditors evolve from traditional finger-pointing roles to become convincing partners</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1:</label>
+                     <title>THROUGH THE EYES OF THE SKEPTIC</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>Our journey begins with the Skeptic archetype (see Figure 2). The first step is arguably the hardest. To step into the unknown requires an equal measure of foolhardiness and willingness to let go. What of, you ask. Old habits, fixations, and illusions, though in no particular sequence; controls that appear to operate year after year; reviews performed even as no exceptions ever get identified. Management signs off on the dotted line and the company attains an A on the audit scorecard. The auditor as Skeptic questions this status quo: how can controls remain static in spite of organizational, system, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2:</label>
+                     <title>FORGING AHEAD WITH THE SLEUTH</title>
+                  </title-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>As a kid, I was entranced by Miss Marple and Hercule Poirot. I spent summer vacations cooped up in my room combing through Agatha Christie’s detective novels. Little did I know then that I would be manifesting a Sleuth archetype when auditing in the not so distant future. Whilst the Skeptic archetype is characterized by openness to uncertainty and ambiguity, the Sleuth archetype takes this a step farther, bridging an open disposition with tangible, concrete action. In this regard, the Sleuth archetype is about gathering clues, wading through seeming paraphernalia, piecing together parts of a puzzle to make a whole</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3:</label>
+                     <title>SAFETY UNDER THE PROTECTOR</title>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>When you turn the page in an IT audit or security textbook, words like attackers, hackers, cyber criminals pop up on almost every page. Budding IT auditors are trained to spot suspicious malicious insiders and guard against phishing, brute force, and other network attacks. The Protector archetype emerges when the Sleuth archetype identifies an area that needs securing (see Figure 4). Are our backups effective? Do we have a rollback plan for emergency program changes? Are controls in place for administrators or superusers? If not, what can be done? Management looks to auditors to propose a course of action and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4:</label>
+                     <title>MAKING STRIDES WITH THE PARTNER</title>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>Most of us, clients and auditors alike, do not view auditors as partners. When we do, we are more likely to think of audit partners, owners joined by their pooled interest in the audit firm, rather than individuals with whom we can form strong symbiotic relations. In fact, the archetypes covered earlier – Skeptic, Sleuth, and Protector – are more likely used to characterize an auditor. Auditors are often perceived to be a stuffy lot, more at home with sifting and cataloging control paraphernalia than driving any real change or improvement in how things work. Yet, by assessing a process</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5:</label>
+                     <title>IN SEARCH OF ESSENCE</title>
+                  </title-group>
+                  <fpage>70</fpage>
+                  <abstract>
+                     <p>We started this book by looking for the essence behind various roles that auditors play (see Tables 1 and 2). In undertaking this journey, we covered the Skeptic Sleuth, Protector, and Partner archetypes, yet how close have we come in truly understanding each of these images? Might each in turn yet constitute a form given rise to by an underlying essence, a puppet, as it were, manipulated by an invisible hand?</p>
+                     <p>Take openness in a Skeptic archetype. What can give rise to openness? How about its polar opposite: segregation, an insistence on clarity of boundary, right versus wrong, the very</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6:</label>
+                     <title>SHADOW-WORK</title>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>As auditors, we often find ourselves in circumstances that are different, confounding the very best practices or checklists at our fingertips.</p>
+                     <p>Employees should not be set up as vendors in the system, yet there were no other means of reimbursing expenses.</p>
+                     <p>Backups have been configured to run nightly, but the recent slew of notification emails revealed failures over the course of multiple days.</p>
+                     <p>A newly implemented intrusion detection tool has been disabled due to an overwhelming number of false negatives.</p>
+                     <p>An augmented round of approvals has yet to preclude errors from arising in submitted transactions.</p>
+                     <p>When tested, we take on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7:</label>
+                     <title>INTEGRATING INDIVIDUAL AND COLLECTIVE</title>
+                  </title-group>
+                  <fpage>100</fpage>
+                  <abstract>
+                     <p>In working with archetypes and their shadows, it can be easy to personalize specific archetypes. Yet, as Jung points out, archetypes are located in the collective unconscious, where experiences shared by humankind are collected and organized in a similar way. There is also a larger shadow at hand: the collective shadow (see Figure 8). Professor of Comparative Literature, Steve Walker, remarks on how the collective shadow rears its head when we project our collective shadow onto another group, political party, or nation.<sup>30</sup>Originating in the late nineteenth century, the Yellow Peril was used to characterize the threat to Western living</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8:</label>
+                     <title>AWAKENING TO OUR TRUE POTENTIAL</title>
+                  </title-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Most of us are familiar with integrated audits where auditors, in addition to opining on financial statements, express an opinion on the effectiveness of a company's internal controls over financial reporting. Yet, how many of us are familiar with integrating our shadows?</p>
+                     <p>As auditors, we are familiar with control self-assessment, where process owners perform tests of operating control effectiveness. Yet, how many of us perform periodic self-assessments of the archetypes we embody?</p>
+                     <p>In Buddhism, kleshas are mental states that cloud the mind and manifest in unwholesome actions. Referred to as the three poisons in the Mahayana tradition, or three unwholesome</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9:</label>
+                     <title>NO SCRIPT</title>
+                  </title-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>Audit originates from the Latin word<italic>audītus</italic>, which means the sense or act of hearing. Yet, how many of us, in the face of looming deadlines and countless checklists, take the time to actually listen to our clients? Auditors and auditees need each other. Auditees rely on auditors to provide an honest, unbiased perspective on the current state of affairs. IT auditors, in particular, can provide a unique insight into the inner workings of a system that auditees in business and accounting domains are not privy to. In thinking about the role of auditors, I’m reminded of the<italic>kōan</italic>:</p>
+                     <p>If</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hh6nd.15</book-part-id>
+                  <title-group>
+                     <title>ITG RESOURCES</title>
+                  </title-group>
+                  <fpage>155</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt4z8sj</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7s10g</book-id>
+      <subj-group>
+         <subject content-type="call-number">P306.A58 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Translation and interpreting</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Translation Zone</book-title>
+         <subtitle>A New Comparative Literature</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>APTER</surname>
+               <given-names>EMILY</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>16</day>
+         <month>10</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780691049977</isbn>
+      <isbn content-type="ppub">0691049971</isbn>
+      <isbn content-type="epub">9781400841219</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON; OXFORD</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt7s10g"/>
+      <abstract abstract-type="short">
+         <p>Translation, before 9/11, was deemed primarily an instrument of international relations, business, education, and culture. Today it seems, more than ever, a matter of war and peace. In<italic>The Translation Zone</italic>, Emily Apter argues that the field of translation studies, habitually confined to a framework of linguistic fidelity to an original, is ripe for expansion as the basis for a new comparative literature.</p>
+         <p>Organized around a series of propositions that range from the idea that nothing is translatable to the idea that everything is translatable,<italic>The Translation Zone</italic>examines the vital role of translation studies in the "invention" of comparative literature as a discipline. Apter emphasizes "language wars" (including the role of mistranslation in the art of war), linguistic incommensurability in translation studies, the tension between textual and cultural translation, the role of translation in shaping a global literary canon, the resistance to Anglophone dominance, and the impact of translation technologies on the very notion of how translation is defined. The book speaks to a range of disciplines and spans the globe.</p>
+         <p>Ultimately,<italic>The Translation Zone</italic>maintains that a new comparative literature must take stock of the political impact of translation technologies on the definition of foreign or symbolic languages in the humanities, while recognizing the complexity of language politics in a world at once more monolingual and more multilingual.</p>
+      </abstract>
+      <counts>
+         <page-count count="296"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.4</book-part-id>
+                  <title-group>
+                     <title>TWENTY THESES ON TRANSLATION</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The urgent, political need for skilled translators became abundantly clear in the tragic wake of 9/11, as institutions charged with protecting national security scrambled to find linguistically proficient specialists to decode intercepts and documents. Translation and global diplomacy seemed never have been so mutually implicated. As America’s monolingualism was publicly criticized as part of renewed calls for shared information, mutual understanding across cultural and religious divides, and multilateral cooperation, translation moved to the fore as an issue of major political and cultural significance. No longer deemed a mere instrument of international relations, business, education, and culture, translation took on special</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Translation after 9/11:</title>
+                     <subtitle>Mistranslating the Art of War</subtitle>
+                  </title-group>
+                  <fpage>12</fpage>
+                  <abstract>
+                     <p>In the wake of 9/11 translation became a hot issue when the United States realized that it had a dearth of Arabic translators. Suddenly transparent was the extent to which monolingualism, as a strut of unilateralism and monocultural U.S. foreign policy, infuriated the rest of the world. Though monolingual complacency evaporated along with public faith in the translation skills of State Department and intelligence operatives, the psychic and political danger posed by the Anglocentrism of coalition forces was never suffi-ciently confronted. The “terror” of mistranslation has yet to be fully diagnosed, and the increasing turn to machine translation as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Human in the Humanities</title>
+                  </title-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>In 1948 the literary critic Leo Spitzer published his celebrated essay “Linguistics and Literary History.” Originally titled “Thinking in the Humanities” when it was delivered as a lecture at Princeton to the Department of Modern Languages and Literatures, it became a foundational text and curricular staple in the burgeoning field of comparative literature and in the human sciences generally. From Spitzer to Paul de Man, etymological method fired debates around the postwar humanist legacy, structural semiotics and intertextuality. It informed deconstruction’s rhetorical practice, and, in political terms, it gave substance to linguistic racial and national claims, or more precisely, to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Global Translatio:</title>
+                     <subtitle>The “Invention” of Comparative Literature, Istanbul, 1933</subtitle>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>In many ways, the rush to globalize the literary canon in recent years may be viewed as the “comp-lit-ization” of national literatures throughout the humanities. Comparative literature was in principle global from its inception, even if its institutional establishment in the postwar period assigned Europe the lion’s share of critical attention and shortchanged non-Western literatures. As many have pointed out, the foundational figures of comparative literature—Leo Spitzer, Erich Auerbach—came as exiles and émigrés from war-torn Europe with a shared suspicion of nationalism. Goethe’s ideal of<italic>Weltliteratur,</italic>associated with a commitment to expansive cultural secularism, became a disciplinary premiss</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Saidian Humanism</title>
+                  </title-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>The humanism of Leo Spitzer and Erich Auerbach found, as I have implied in the previous two chapters, its late-twentieth-century correlative in Edward Said’s elaboration of what might be called<italic>Welt</italic>-humanism. In taking up the issue of Saidian humanism, I want to consider: what it is, why it was such a fixture of Said’s intellectual trajectory, and how humanist interpretation was complicated by the critique of Orientalism. As is well known, the German philologist Erich Auerbach remained a consistent reference point in Said’s oeuvre; a figure of secular criticism in exile, a defender of literary worldliness in an era of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Nothing Is Translatables</title>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Over the last three decades, the French philosopher Alain Badiou (building on Gilles Deleuze) has reworked notions of singularity and poetic universalism for comparative poetics in an era that has often treated such principles as theoretically suspect. While I remain wary of attempts to resuscitate unipolar thinking at the expense of multiplicity, entropy, heterodoxy, and transversality, I find Badiou’s refutation of easy relationality, along with his willingness to recognize the limits of cultural translation, an incentive to rethink translation studies from the standpoint of the presumption that “nothing is translatable.” Construing a translation theory from Badiou is tantamount to playing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>“Untranslatable” Algeria:</title>
+                     <subtitle>The Politics of Linguicide</subtitle>
+                  </title-group>
+                  <fpage>94</fpage>
+                  <abstract>
+                     <p>In Juan Goytisolo’s<italic>Paisajes después de la batalla (Landscapes after the Battle,</italic>1982), a Parisian quartier overcome by immigrant taggers turns into a calvados-imbibing Frenchman’s worst nightmare—Paris translated into Arabic. Stumbling toward his favorite bar, the man encounters a “strange script” scrawled over the entrance. “Dumbfounded, he quickly blinked his eyes: the incomprehensible inscription, in luminous characters, was still there.”¹ Figuring the café has changed management, he steers himself toward another, only to confront the same phenomenon. Everything has been changed over to Arabic, including his favorite newspaper<italic>L’Humanité</italic>and the traffic signage:</p>
+                     <p>What invisible hand could have woven</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Plurilingual Dogma:</title>
+                     <subtitle>Translation by Numbers</subtitle>
+                  </title-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>
+                        <italic>The Celebration (Festen),</italic>a Danish film directed by Thomas Vinterberg, ranks high as a harrowing cinematic experience. Part<italic>Buddenbrooks,</italic>part send-up of schlock reenactments of recovered-memory-syndrome, the story, such as it is, devolves around a son’s revelation of his father’s sexual abuse in the public forum of a paternal birthday celebration. Friends and relatives have gathered from far and wide to toast the patriarch on his impressive estate. Everyone, from the cooks and kitchenmaids, to the errant sons and daughters, have been commandeered to assemble and remain on best behavior. But the camera is doing strange things in recording the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Balkan Babel:</title>
+                     <subtitle>Translation Zones, Military Zones</subtitle>
+                  </title-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>A subset of politics at large, with particular agendas and strategic interests, language politics defines its theater of war in the space where a military zone may be superimposed on a linguistic hot spot or “translation zone.” The expression “translation zone” could well refer to the demarcation of a community of speakers who achieve an ideal threshold of communication (the utopia of Leibniz, von Humboldt, and Habermas). But when war is at issue, it makes more sense to define it as a translation no-fly zone, an area of border trouble where the lines dividing discrete languages are muddy and disputatious,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>War and Speech</title>
+                  </title-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>Shifting notions of readability are crucial to the determination of major and minor languages and literatures. Harold Bloom’s popular book<italic>How to Read and Why,</italic>with its breezy normative agenda aimed at delivering the right reading list to an educated public, confirms the degree to which the pedigree of great books is linked to critical edicts of readability.¹ The French sense of<italic>lisible</italic>(which hews to conservative standards of literateness) builds in the exclusionary function of readability tests, especially constrictive of authors working outside the pale of what Pascale Casanova has called the “Anglosaxon model of modernity,” and its opposite,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Language of Damaged Experience</title>
+                  </title-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>“Rotten” language converges with “damaged” language just as postcolonial theory converges with Frankfurt school thought in new forms of literary comparatism.¹ Theodor Adorno’s<italic>Minima Moralia</italic>subtitled<italic>Reflexionen aus dembeschädigten Leben</italic>(Reflections from Damaged Life), published in 1951, emerges as a fulcrum for such comparatism. Though Adorno’s life-world, shattered as it was by his conviction that Hitler had wrought the death of culture, was of course distinctly different from that of a postcolonial critic (the phobia of American mass culture, for a start, was a unique theoretical impetus for Adorno and his colleagues, while the same could not be said of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>CNN Creole:</title>
+                     <subtitle>Trademark Literacy and Global Language Travel</subtitle>
+                  </title-group>
+                  <fpage>160</fpage>
+                  <abstract>
+                     <p>Translational language, loosely defined as language in transit, has enjoyed a long association with genres of travel-writing charged with covering the life of linguistic contact zones. At its best, the travelogue gave us Alexis de Tocqueville in America, Théophile Gautier in Algeria, Washington Irving in Spain, Edith Wharton in Morocco, Ernestine Hill in Australia, and more recently, the contemporary picaresque of Bruce Chatwin and V.S. Naipaul. But now, increasingly, it seems to be a discredited, outmoded kind of writing. Defined in its stock form by the dictates of local color (from the virtuoso description of landscape and monuments to sketches</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Condé’s Créolité in Literary History</title>
+                  </title-group>
+                  <fpage>178</fpage>
+                  <abstract>
+                     <p>Though “Creole” increasingly works as a term for media-inflected hybrid speech, it is also entering the lexicon as a paradigm of literary history. Drawing on a wide range of theories of literary history and geography, I want to consider how<italic>créolité</italic>challenges paradigms of literary evolution, narrative markets, and comparative genre. In focusing on Maryse Condé’s relationship to the British novel (with special attention to her rewriting of Emily Brontë’s<italic>Wuthering Heights in her La migration des coeurs</italic>[trans.<italic>Windward Heights</italic>]), the intent is to emphasize the implications of Condé’s decision to exchange a French literary genealogy for a British</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Nature into Data</title>
+                  </title-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>“The rural,” Gayatri Chakravorty Spivak has asserted, “is not trees and fields anymore. It is on the way to data.”¹ If, following Spivak, media and environment are conceived as capable of mutual translation, then the idea of critical habitat could be “located,” so to speak, as a margin of critique inserted in the space where this translation process occurs. As such, the term owes a clear debt to the intellectual zone of criticality developed in continental theory by the Frankfurt School and must also fully acknowledge Kenneth Frampton’s precursory paradigm of “critical regionalism,” which takes its stand against the megalopolis</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Translation with No Original:</title>
+                     <subtitle>Scandals of Textual Reproduction</subtitle>
+                  </title-group>
+                  <fpage>210</fpage>
+                  <abstract>
+                     <p>In a short story titled “The Dialect of the Tribe” by the American Oulipo writer Harry Mathews, the narrator ponders an academic article authored by an Australian anthropologist of the 1890s by the name of Ernest Botherby. The article is of interest because it offers the example of a mysterious technique “used by the Pagolak-speaking tribe to translate their tongue into the dialects of their neighbors. ‘What was remarkable about this method was that while it produced translations that foreign listeners could understand and accept, it also concealed from them the original meaning of every statement made.’”¹ The narrator is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Everything Is Translatable</title>
+                  </title-group>
+                  <fpage>226</fpage>
+                  <abstract>
+                     <p>With the advent of an explosion of world language usage on the Internet, translation theory has become newly serviceable. Instead of fixating mournfully on the supposition that nothing is translatable (the original is always and inevitably lost in translation), translation studies increasingly explores the possibility that everything is translatable. “Translation attains its full meaning in the realization that every evolved language (with the exception of the word of God) can be considered a translation of all the others,” Benjamin wrote in 1916.¹ Little could he have foreseen how rife with implication this statement would become in an era of digital</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.21</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>A New Comparative Literature</title>
+                  </title-group>
+                  <fpage>243</fpage>
+                  <abstract>
+                     <p>In attempting to rethink critical paradigms in the humanities after 9/11, with special emphasis on language and war, the problem of creolization and the mapping of languages “in-translation,” shifts in the world canon and literary markets, and the impact of enhanced technologies of information translation, I have tried to imagine a program for a new comparative literature using translation as a fulcrum. I began with an attempt to rethink the disciplinary “invention” of comparative literature in Istanbul in the 1930s, using the work of Leo Spitzer and Erich Auerbach as figures whose names became synonymous with defining early iterations of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.22</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>253</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7s10g.23</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>287</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

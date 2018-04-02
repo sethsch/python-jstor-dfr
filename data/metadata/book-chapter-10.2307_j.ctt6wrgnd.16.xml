@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt6t9j8v</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wrgnd</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN1995.9.E78F73 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Environmental protection and motion pictures</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Human ecology in motion pictures</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Motion pictures</subject>
+         <subj-group>
+            <subject content-type="lcsh">Social aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ecocriticism</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Framing the World</book-title>
+         <subtitle>Explorations in Ecocriticism and Film</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>EDITED BY</role>
+            <name name-style="western">
+               <surname>WILLOQUET-MARICONDI</surname>
+               <given-names>PAULA</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>03</day>
+         <month>09</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="epub">9780813930664</isbn>
+      <isbn content-type="epub">0813930669</isbn>
+      <publisher>
+         <publisher-name>University of Virginia Press</publisher-name>
+         <publisher-loc>Charlottesville; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>the Rector and Visitors of the University of Virginia</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wrgnd"/>
+      <abstract abstract-type="short">
+         <p>The essays in this collection make a contribution to the greening of film studies and expand the scope of ecocriticism as a discipline traditionally rooted in literary studies. In addition to highlighting particular films as productive tools for raising awareness and educating us about environmental issues,<italic>Framing the World: Explorations in Ecocriticism and Film</italic>encourages its readers to become more ecologically minded viewers, sensitive to the ways in which films reflect, shape, reinforce, and challenge our perceptions of nature, of human/nature relations, and of environmental issues.</p>
+         <p>The contributors to this volume offer in-depth analyses of a broad range of films, including fictional and documentary, Hollywood and independent, domestic and foreign, experimental and indigenous. Drawing from disciplines including film theory, ecocriticism, philosophy, rhetoric, environmental justice, and American and Indigenous studies, Framing the World offers new and original approaches to the ecocritical study of cinema. The twelve essays are gathered in four parts, focusing on ecocinema as activist cinema; the representation of environmental justice issues in Hollywood, independent, and foreign films; the representation of animals, ecosystems, and natural and human-made landscapes in live action and animation; and ecological themes in the films of two eco-auteurs, Kiyoshi Kurosawa and Peter Greenaway. Willoquet-Maricondi's introduction provides an overview of the field of ecocriticism and offers both philosophical and theoretical foundations for the ecocritical study of films.</p>
+         <p>Contributors</p>
+         <p>Beth Berila, St. Cloud State University * Lynne Dickson Bruckner, Chatham College * Elizabeth Henry, University of Denver * Joseph K. Heumann, Eastern Illinois University * Harri Kilpi, University of East Anglia * Jennifer Machiorlatti, Western Michigan University * Mark Minster, Rose-Hulman Institute of Technology * Robin L. Murray, Eastern Illinois University * Tim Palmer, University of North Carolina, Wilmington * Cory Shaman, Arkansas Tech University * Rachel Stein, Siena College * Paula Willoquet-Maricondi, Marist College</p>
+      </abstract>
+      <counts>
+         <page-count count="280"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.4</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>FROM LITERARY TO CINEMATIC ECOCRITICISM</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLOQUET-MARICONDI</surname>
+                           <given-names>PAULA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Framing the World: Explorations in Ecocriticism and Film</italic>owes its greatest debt and inspiration to the field of literary ecological criticism, or ecocriticism; to the seminal texts that helped shape this field since the mid-1990s; to the journal<italic>ISLE: Interdisciplinary Studies in Literature and Environment;</italic>and to the Association for the Study of Literature and the Environment (ASLE), the organization that has supported the growth and strengthening of this field of study.</p>
+                     <p>Since its official inception in the early 1990s and its recognition as a significant academic field of study, ecocriticism has expanded beyond the area of literary analysis to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.6</book-part-id>
+                  <title-group>
+                     <title>THE RHETORIC OF ASCENT IN AN INCONVENIENT TRUTH AND EVERYTHING’S COOL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MINSTER</surname>
+                           <given-names>MARK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>Given that the explicit purpose of both<italic>An Inconvenient Truth</italic>and<italic>Everything’s Cool</italic>is to convince viewers to help fight global warming, the title of my essay might equally well be “the rhetoric of assent.” Both documentaries call for an end to nearly two decades of dilatory, unproductive debates about whether the planet’s climate really is changing, or whether anthropogenic emissions of greenhouse gases have caused “some” or “most” of the troposphere’s warming. The science is as clear as it can possibly be, both films insist, and the time for discussion is over. The time for action is<italic>now.</italic>Toward</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.7</book-part-id>
+                  <title-group>
+                     <title>SHIFTING PARADIGMS:</title>
+                     <subtitle>FROM ENVIRONMENTALIST FILMS TO ECOCINEMA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLOQUET-MARICONDI</surname>
+                           <given-names>PAULA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>The proliferation of international and domestic film festivals dedicated to environmentally oriented films attests to the crucial function of the emerging genre of ecocinema to “challenge and broaden audiences’ perception and understanding of the complex world that surrounds us.”¹ The annual Environmental Film Festival in Washington, DC, one of the largest, showcases a wide selection of fiction, documentary, and experimental films, with themes ranging from the vital connections between healthy food, fresh water, and the environment, to the patenting of genetically modified seeds, fresh water shortages and privatization, climate change, world hunger, and the impacts of globalization on indigenous peoples</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.8</book-part-id>
+                  <title-group>
+                     <title>ECOCINEMA, ECOJUSTICE, AND INDIGENOUS WORLDVIEWS:</title>
+                     <subtitle>NATIVE AND FIRST NATIONS MEDIA AS CULTURAL RECOVERY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MACHIORLATTI</surname>
+                           <given-names>JENNIFER A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>62</fpage>
+                  <abstract>
+                     <p>Human beings are storytellers. Whether oral, written, or visual, narratives assist us in navigating our place in the world, guiding us on how to act and how to evaluate what goes on in the world (Hall 75). The stories of different people, therefore, are reflections of their worldview, that is, the complex web of interrelated beliefs, values, and practices. Worldview is part of our learned cultural orientation; it informs our social organization, our relationships to nature/environment, our beliefs about humanity, as well as cosmological or philosophical questions about the nature of the universe, reality, and the Divine. Culture—including music,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.9</book-part-id>
+                  <title-group>
+                     <title>TESTIMONIAL STRUCTURES IN ENVIRONMENTAL JUSTICE FILMS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SHAMAN</surname>
+                           <given-names>CORY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>One of the most chilling scenes of Steven Soderbergh’s<italic>Erin Brockovich</italic>(2000) involves a young mother who learns that her legal dispute with a corporate energy utility has inadvertently brought to light a correlation between her family’s illnesses and environmental contamination. The title character, played by Julia Roberts, explains that the water supply contains dangerous chemicals linked to the array of health problems the family has experienced. Facing such overwhelming news, the young woman, Donna Jensen, sits silently as she comprehends her naïveté regarding corporate deception and the implications of her family’s continued exposure to toxic material. The silence of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.10</book-part-id>
+                  <title-group>
+                     <title>DISPOSABLE BODIES:</title>
+                     <subtitle>BIOCOLONIALISM IN THE CONSTANT GARDENER AND DIRTY PRETTY THINGS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STEIN</surname>
+                           <given-names>RACHEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>The grassroots environmental justice (EJ) movement that arose in the 1980s addressed the disproportionate environmental hazards and deprivations suffered by poor and people of color communities in the United States and around the world. While mainstream environmental groups had defined the environment as a pristine wilderness that needed to be defended from human depredation, environmental justice groups defined it instead as “where we live, play, work, and worship.” These activists focused their attention on the interactions of communities with their natural and built environments, questioning why the environmental health of the poor and of people of color was being sacrificed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.11</book-part-id>
+                  <title-group>
+                     <title>ENGAGING THE LAND/POSITIONING THE SPECTATOR:</title>
+                     <subtitle>ENVIRONMENTAL JUSTICE DOCUMENTARIES AND ROBERT REDFORD’S THE HORSE WHISPERER AND A RIVER RUNS THROUGH IT</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BERILA</surname>
+                           <given-names>BETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>116</fpage>
+                  <abstract>
+                     <p>This essay brings together feminist theory, environmental justice scholarship, and feminist cultural geography to analyze the implications of particular portrayals of our relationship to the land. Specifically, I juxtapose two Hollywood films touted as revering the western landscape with two environmental justice documentaries that interrogate different communities’ responsibility for addressing environmental degradation. I am particularly interested in how these different portrayals construct a gendered and racialized relationship to the environment by positioning viewers differently in relation to the land, thus shaping our perceptions of the land and our living relationships to it. The contrast raises some useful questions about the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.12</book-part-id>
+                  <title-group>
+                     <title>THE LANDSCAPE’S LIE:</title>
+                     <subtitle>CLASS, ECONOMY, AND ECOLOGY IN HOTEL RWANDA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KILPI</surname>
+                           <given-names>HARRI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>In 1988 Western cinema audiences were treated to a small spectacle of primatologist Dian Fossey (played by Sigourney Weaver) hectoring a Rwandan government official in<italic>Gorillas in the Mist.</italic>After being told that protecting the gorilla sanctuaries and other park lands is expensive, she retorts, “That’s your problem: make new laws, raise taxes, but give<italic>my</italic>gorillas the protection they are entitled to” (my emphasis). Although the film provides us with a fleeting glimpse into the problems of the local human population—the official contrasts the decreasing number of gorillas and the increasing number of people—it is mostly preoccupied</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.13</book-part-id>
+                  <title-group>
+                     <title>FAST, FURIOUS, AND OUT OF CONTROL:</title>
+                     <subtitle>THE ERASURE OF NATURAL LANDSCAPES IN CAR CULTURE FILMS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MURRAY</surname>
+                           <given-names>ROBIN L.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HEUMANN</surname>
+                           <given-names>JOSEPH K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>154</fpage>
+                  <abstract>
+                     <p>Rob Cohen’s<italic>The Fast and the Furious</italic>(2001), John Singleton’s<italic>2 Fast 2 Furious</italic>(2003), Justin Lin’s<italic>The Fast and the Furious: Tokyo Drift</italic>(2006) and<italic>Fast and Furious</italic>(2009), like the 1955 John Ireland and Edward Sampson film,<italic>The Fast and the Furious,</italic>which inspired them, illustrate the devotion to souped-up high-speed cars and the stylish culture they represent. These films also take environmental degradation to hyperbolic levels, going beyond merely highlighting the car as an American icon and valorizing a concrete highway built for racing. In spite of the more liberal class and race politics in the later</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.14</book-part-id>
+                  <title-group>
+                     <title>THE SCREAMING SILENCE:</title>
+                     <subtitle>CONSTRUCTIONS OF NATURE IN WERNER HERZOG’S GRIZZLY MAN</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HENRY</surname>
+                           <given-names>ELIZABETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>170</fpage>
+                  <abstract>
+                     <p>In<italic>New German Cinema,</italic>Thomas Elsaesser tells us that German filmmaker Werner Herzog comes to America to explore the possibility of creating a new “cinema of experience.” Herzog seeks to generate in the New World, with film, an experience of “pure being and pure seeing” (5). He looks to the camera to capture a vision of the world unencumbered by civilized man’s obsessions with industrialized life, car culture, and mass media. In many of Herzog’s films, the New World represents a quest of sorts, the opportunity to break out of the norms of civilization. It is, indeed, the norms of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.15</book-part-id>
+                  <title-group>
+                     <title>BAMBI AND FINDING NEMO:</title>
+                     <subtitle>A SENSE OF WONDER IN THE WONDERFUL WORLD OF DISNEY?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRUCKNER</surname>
+                           <given-names>LYNNE DICKSON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>Writing in the 1950s, Rachel Carson noted that “if a child is to keep alive his inborn sense of wonder . . . he needs the companionship of at least one adult who can share it, rediscovering with him the joy, excitement and mystery of the world we live in” (45). In this cultural moment, however, children are less likely to receive knowledge about the nonhuman world from an interested adult than from the media and popular culture, especially animated films. Framed by an ecological perspective, this essay looks at the potential impacts of<italic>Bambi</italic>(1942) and<italic>Finding Nemo</italic>(2003)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.16</book-part-id>
+                  <title-group>
+                     <title>THE RULES OF THE WORLD:</title>
+                     <subtitle>JAPANESE ECOCINEMA AND KIYOSHI KUROSAWA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PALMER</surname>
+                           <given-names>TIM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>Crucial to Japanese cinema’s global identity is how it represents the Japanese environment, the physical entity of Japan itself. To take a representative recent example, Kiyoshi Kurosawa’s<italic>Charisma</italic>(1999) provides a poignant set of ecological anxieties. Heavily allegorical, the film opens as a burnt-out policeman, Yabuike (Koji Yakusho), negotiates with a gunman holding a hostage in an isolated office. The man wordlessly hands him a note stating simply, “Restore the Rules of the World.” Before the message is relayed, however, the police intervene disastrously and both gunman and hostage are killed, traumatizing Yabuike, who flees the city to a remote</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.17</book-part-id>
+                  <title-group>
+                     <title>BEYOND THE FRAME:</title>
+                     <subtitle>THE SPIRIT OF PLACE IN PETER GREENAWAY’S THE DRAUGHTSMAN’S CONTRACT</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLOQUET-MARICONDI</surname>
+                           <given-names>PAULA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>Peter Greenaway’s films are informed by an impulse to investigate the politics of linguistic and visual representation. A painter by training, a writer and self-taught filmmaker, the British director has devoted particular attention to exploring the power of words and images to reflect and shape our perceptions of reality. These perceptions, Greenaway shows, in turn inform our actions in relation to both the human and nonhuman worlds. Greenaway would agree, I believe, with W. J. T. Mitchell’s contention that visual culture has reached a power quotient that is “too palpable, too deeply embedded in technologies of desire, domination, and violence,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.18</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.19</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>247</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wrgnd.20</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

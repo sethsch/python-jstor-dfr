@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">harvardbookrev</journal-id>
+         <journal-id journal-id-type="jstor">j50000170</journal-id>
+         <journal-title-group>
+            <journal-title>Harvard Book Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>George Edward Woodberry Poetry Room and the Henry Weston Farnsworth Room in the Harvard College Library</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">10806067</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">27500164</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Harvard Book Review</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Kathleen</given-names>
+                  <surname>Anderson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1990</year>
+         
+            <day>1</day>
+            <month>10</month>
+            <year>1990</year>
+         </pub-date>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">17/18</issue>
+         <issue-id>i27500095</issue-id>
+         <fpage>36</fpage>
+         <lpage>36</lpage>
+         <product>
+            <source>A Wild Sheep Chase</source>
+            <string-name>
+               <given-names>Haruki</given-names>
+               <surname>Murakami</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1990 President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/27500164"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

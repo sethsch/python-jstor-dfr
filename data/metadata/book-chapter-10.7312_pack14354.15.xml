@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/pack14354</book-id>
+      <subj-group>
+         <subject content-type="call-number">E840.8. R45P33 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Reischauer, Edwin O. (Edwin Oldfather), 1910–1990</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanologists</subject>
+         <subj-group>
+            <subject content-type="lcsh">United States</subject>
+            <subj-group>
+               <subject content-type="lcsh">Biography</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Scholars</subject>
+         <subj-group>
+            <subject content-type="lcsh">United States</subject>
+            <subj-group>
+               <subject content-type="lcsh">Biography</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ambassadors</subject>
+         <subj-group>
+            <subject content-type="lcsh">United States</subject>
+            <subj-group>
+               <subject content-type="lcsh">Biography</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">Relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">United States</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">United States</subject>
+         <subj-group>
+            <subject content-type="lcsh">Relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">Japan</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Edwin O. Reischauer and the American Discovery of Japan</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>PACKARD</surname>
+               <given-names>GEORGE R.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>05</day>
+         <month>04</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="epub">9780231512770</isbn>
+      <isbn content-type="epub">0231512775</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/pack14354"/>
+      <abstract abstract-type="short">
+         <p>In 1961, President Kennedy named Edwin O. Reischauer the U.S. Ambassador to Japan. Already deeply intimate with the country, Reischauer hoped to establish a more equal partnership with Japan, which had long been maligned in the American imagination. Reischauer pushed his fellow citizens to abandon caricature and stereotype and recognize Japan as a peace-loving democracy. Though his efforts were often condemned for being "too soft," the immensity of his influence (and the truth of his arguments) can be felt today.</p>
+         <p>Having worked as Reischauer's special assistant in Tokyo, George R. Packard writes the definitive-and first-biography of this rare, charismatic talent. Reischauer reset the balance between two powerful nations. During World War II, he analyzed intelligence and trained American codebreakers in Japanese. He helped steer Japan toward democracy and then wrote its definitive English-language history.</p>
+         <p>Reischauer's scholarship supplied the foundations for future East Asian disciplines, and his prescient research foretold America's missteps with China and involvement in Vietnam. At the time of his death in 1990, Reischauer warned the U.S. against adopting an attitude toward Asia that was too narrow and self-centered. India, Pakistan, and North Korea are now nuclear powers, and Reischauer's political brilliance has become more necessary and trenchant than ever.</p>
+      </abstract>
+      <counts>
+         <page-count count="368"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Born in Japan</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In September 1945, just a month after Japan surrendered to the United States, ending the bloodiest war in history, a shy, thirty-four-year-old, Harvard-trained American scholar sat down with a pencil and pad of yellow lined paper and wrote a short book in two months. He called it Japan: Past and Present.</p>
+                     <p>Remarkably, Edwin O. Reischauer used no history texts, reference works, or notes. The book grew out of a series of four or five hours of lectures on Japanese history that he had given while serving as a lieutenant colonel in the U.S. Army during the war. “I … figured</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Japan, “the Dark Side of the Moon”</title>
+                  </title-group>
+                  <fpage>25</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The gangly sixteen-year-old who arrived at Oberlin College in the fall of 1927 appeared to be a typical high school student more interested in sports and girls than in academic studies.¹ But his academic record over the next six years—four at Oberlin and two at Harvard—was hardly that of a playboy. Rather, we can see a highly motivated young man aspiring to become a serious scholar and perhaps even a player in the foreign-policy arena. In his autobiography, Reischauer describes his intellectual journey as a series of random occurrences, but a close reading of his account makes it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>On the Trail of Ennin</title>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract abstract-type="extract">
+                     <p>As Edwin Reischauer’s train rolled slowly across Siberia toward Japan in the spring of 1935, his life was full of hope and promise. His financial support from the Harvard-Yenching Institute for two more years of graduate study was secure. His parents and his fiancé, Adrienne, awaited him in Tokyo, a city that he still considered home. He looked forward to his marriage and to sharing his life with Adrienne in Kyoto and traveling with her to China and Korea. At last, he would get started on his doctoral thesis, which would assure him of a faculty position at Harvard and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Scholar at War</title>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Edwin and Adrienne Reischauer returned to Harvard in the late summer of 1938 after five tumultuous years in Japan, China, and Korea. After watching the country of his birth go to war with China, losing his brother in that war, traveling far from family and friends, living in unsanitary, unheated homes, they rejoiced at the peace and tranquility of Harvard’s small intellectual community. Adrienne gave birth to their first child, Helen Ann Reischauer, the following year on February 23. The young couple settled into a cozy home on Hawthorn Street near Harvard Yard, expecting for the first time to live</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>A Time of Large Ideas</title>
+                  </title-group>
+                  <fpage>81</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The period following World War Two was a time of surging optimism in America, of high expectations and faith in the power of large ideas to reshape the world. U.S. military and industrial power had defeated the forces of aggression and had created the conditions for a better world order. The United Nations, launched in 1945, seemed full of promise. The stage was now set for triumphant American leaders to imagine and craft new and better ways to secure world peace and prosperity.</p>
+                     <p>Ambitious and idealistic scholars took it upon themselves to understand and explain America’s ascendancy and to forge</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>A Family Tragedy and a New Start</title>
+                  </title-group>
+                  <fpage>103</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Edwin Reischauer characterized the period from 1945 to 1960 as his “Golden Years at Harvard.”¹ They were indeed golden in terms of his scholarship, teaching, and writing, but they were also years of deep personal tragedy. He would watch his wife die of heart disease in 1955 after six agonizing years of illness, and his mother would suffer a series of strokes that left her incapacitated and led to her death in 1956. He had to take care of his aging father and deaf-mute sister, Felicia, after he brought them to live in nearby Belmont, Massachusetts. August Karl Reischauer had</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>A Time to “Put Up or Shut Up!”</title>
+                  </title-group>
+                  <fpage>125</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Looking back at Edwin Reischauer’s improbable jump from the Harvard faculty to President Kennedy’s ambassador to Japan, one is impressed with the extraordinary combination of talent, luck, skill, and connections that made it possible. The atmosphere in Washington, for one brief moment, was welcoming to intellectuals with large ideas. President Kennedy, after eight years of Republican control of the White House, seemed to offer the nation refreshing change, contempt for the hidebound bureaucrats, and a summons to duty. “We can do better, ”Kennedy repeated again and again in his campaign. The call was compelling for Reischauer, but the odds were</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>One Shining Moment</title>
+                  </title-group>
+                  <fpage>153</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Japan and America shared an extraordinary moment of exuberant friendship from 1961 to 1963. Japan, after the protest demonstrations of 1960 against the alliance with the United States, turned its energy to its booming economy. Its population grew rapidly. For the irst time in history, a confident new middle class, free of government harassment and at peace with the world, reveled in the luxury of refrigerators, washing machines, color television sets, cars, and leisure time. A compact car made by Toyota, the Corona, first appeared in the U.S. market in 1964. In 1961, for the first time, American visitors to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>A Darkening Sky</title>
+                  </title-group>
+                  <fpage>201</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The call came at 4:30 a.m., Saturday, November 23, 1963, Tokyo time. President Kennedy was dead. Reischauer was at his desk before 6:00. Foreign Minister Ohira called on him before 8:00, expressing his condolences. The plane carrying Rusk and five other cabinet members heading for Tokyo was an hour west of Hawaii when the news came; it turned around and headed back to Washington. They were headed for the third of the cabinet-level economic conferences that Reischauer had launched in 1961. Ironically, Rusk’s secret mission was also to plan for President Kennedy’s visit to Japan the following February.</p>
+                     <p>What happened</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>A Hard Landing</title>
+                  </title-group>
+                  <fpage>237</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The Reischauers’ homecoming in the summer of 1966 was markedly different from the warm send-off in Tokyo. Cambridge—and America—had changed dramatically since Ed and Haru had embarked on their great adventure in April 1961. The Harvard campus now was a hornets’ nest of angry students protesting the war in Vietnam. Many were young men subject to the draft and facing the prospect of being sent off to die in the jungles of Southeast Asia. A new generation of scholars of East Asian affairs—including many of Reischauer’s former students—was accusing him of complicity in the war effort.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Nearing the River’s Mouth</title>
+                  </title-group>
+                  <fpage>275</fpage>
+                  <abstract abstract-type="extract">
+                     <p>“Long ago the best and dearest Japanese friend said to me a little before his death: ‘When you find in four or five more years that you cannot understand the Japanese at all, then you will begin to know something about them.’ After having discovered that I cannot understand the Japanese at all, I feel better qualified to attempt this essay.”¹</p>
+                     <p>These words from Lafcadio Hearn’s 1904 book <italic>Japan: An Attempt at Interpretation</italic> captured the essence of popular American feelings toward Japan then and through much of the twentieth century. Lafcadio Hearn, an American journalist, lived in Japan from 1890</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.16</book-part-id>
+                  <title-group>
+                     <title>Epilogue</title>
+                  </title-group>
+                  <fpage>295</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Reischauer’s legacy remains strong. The Edwin O. Reischauer Institute of Japanese Studies at Harvard, endowed with a base of seven million dollars that he helped to raise, has thirty-three Japanese studies faculty associated with it. Four professorships and one visiting professorship bear his name. His former home in Belmont, which was purchased by Kodansha Inc., is now called the Edwin O. Reischauer Memorial House. A visiting scholar stays there each year, and the Reischauer Institute sponsors a major event there every October, around the time of his birthday (October 15). The institute also runs the Noma-Reischauer Prize competition for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.17</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>297</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">pack14354.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>333</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

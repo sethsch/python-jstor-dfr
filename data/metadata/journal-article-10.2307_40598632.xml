@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">dcidob</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000712</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>DCIDOB</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>CIDOB</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">11326107</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">40598632</article-id>
+         <title-group>
+            <article-title>El soft power japonés: la seducció d'Occident: El desembarcament de Japó a la modernitat</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jordi Mas</given-names>
+                  <surname>López</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>7</month>
+            <year>2007</year>
+         </pub-date>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">101</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40026148</issue-id>
+         <fpage>34</fpage>
+         <lpage>38</lpage>
+         <permissions>
+            <copyright-statement>© Fundació CIDOB</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/40598632"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>cat</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Notes</title>
+         <ref id="d8e125a1310">
+            <label>3</label>
+            <mixed-citation id="d8e132" publication-type="other">
+Madame Sadayakko. Barcelona: Lumen, 2003.</mixed-citation>
+         </ref>
+         <ref id="d8e139a1310">
+            <label>4</label>
+            <mixed-citation id="d8e146" publication-type="other">
+Barcelona: Publicacions
+de l'Abadia de Montserrat, 2004.</mixed-citation>
+         </ref>
+      </ref-list>
+      <ref-list>
+         <title>Referencies bibliogràfiques</title>
+         <ref id="d8e165a1310">
+            <mixed-citation id="d8e169" publication-type="other">
+BERGER, Klaus. Japonisme in Western Painting from Whistler to Matisse.
+Cambridge: Cambridge University Press, 1992.</mixed-citation>
+         </ref>
+         <ref id="d8e179a1310">
+            <mixed-citation id="d8e183" publication-type="other">
+DALE, Peter N. The Myth of Japanese Uniqueness. Londres: Routledge, 1990.</mixed-citation>
+         </ref>
+         <ref id="d8e190a1310">
+            <mixed-citation id="d8e194" publication-type="other">
+GARClA SEGURA, Caterina. "Seguridad humana y política exterior japonesa:
+contexto, concepto y aplicación." Revista CI DOB d'Afers Internacionais 76: 79-95
+(desembre 2006-gener 2007).</mixed-citation>
+         </ref>
+         <ref id="d8e207a1310">
+            <mixed-citation id="d8e211" publication-type="other">
+GUARNÉ, Blai (coord). Dossier "Identität i representadó cultural: perspectives
+des del Japó." Revista d'etnologia de Catalunya 29 (2006).</mixed-citation>
+         </ref>
+         <ref id="d8e222a1310">
+            <mixed-citation id="d8e226" publication-type="other">
+KEENE, Donald. Dawn to the West: Japanese Literature of the Modern Era.
+Fiction. A History of Japanese Literature, vol. 3. Nova York: Columbia University
+Press, 1998.</mixed-citation>
+         </ref>
+         <ref id="d8e239a1310">
+            <mixed-citation id="d8e243" publication-type="other">
+NYE, Joseph S. "Soft Power Matters in Asia". The Japan Times (5 de desembre
+de 2005) [en línea], http://search.japantimes.co.jp/print/eo20051205a1.html</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1gsmxs3</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1gxp9b7</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Film Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Screen Writings</book-title>
+         <subtitle>Genres, Classics, and Aesthetics</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Cardullo</surname>
+               <given-names>Bert</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>03</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9781843318378</isbn>
+      <isbn content-type="epub">9781843313885</isbn>
+      <publisher>
+         <publisher-name>Anthem Press</publisher-name>
+         <publisher-loc>LONDON; NEW YORK; DELHI</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Bert Cardullo</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1gxp9b7"/>
+      <abstract abstract-type="short">
+         <p>Screen Writings: Genres, Classics, and Aesthetics' offers close readings of genre films and acknowledged film classics in an attempt to explore both the aesthetics of genre and the definition of 'classic' - as well as the changing perception of so-called classic movies over time.</p>
+      </abstract>
+      <counts>
+         <page-count count="210"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>The Film of Value</subtitle>
+                  </title-group>
+                  <fpage>ix</fpage>
+                  <abstract>
+                     <p>Throughout history, two factors have formed people’s taste in any art, their valuing of it, that is: knowledge of that art and knowledge of life. Obviously this is still true, but the function of taste seems to be altering. As formalist aesthetic canons have come to seem less and less tenable, standards in art and life have become more and more congruent, and as a result the function of taste is increasingly the selection and appraisal of the works that are most valuable to the individual’s very existence. So our means for evaluating films naturally become more and more involved</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.5</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Shooting the City:</title>
+                     <subtitle>The Gangster, Manhattanites, and the Movies</subtitle>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The archetypal creature of the city is the movie gangster, whom Robert Warshow described over sixty years ago as a tragic hero. “Thrown into the crowd without background or advantages, with only … ambiguous skills,” Warshow wrote, “the gangster is required to make his own way, to make his life and impose it on others.” Frustrated by the facelessness of the individual in the big city, he sees crime as the rational way to establish his identity. Yet there is a tragic flaw in this ambition to rise above the crowd, for the successful racketeer increasingly becomes the target of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.6</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Back to the Future, or the Vanguard Meets the Rearguard</title>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>A recurrent motif in the history of avant-garde film is the idea that the medium need not have become a narrative, representational form at all, but could instead have modeled itself on other art forms, especially painting and music. A history of avant-garde cinema can in fact be constructed in just such terms, counterpoising the origins of orthodox or mainstream narrative film in literature and theater with the painterly, poetic, and musical origins of the first avant-garde experiments on celluloid. In doing so, one would be elaborating a gesture made much earlier by, among others, Fernand Léger, Germaine Dulac, Maya</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.7</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>Flags and Letters, Men and War</title>
+                  </title-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>The subject of this chronicle is not the current war in Iraq, or direct filmic treatments of that war, even though these have already begun to be made: witness James Longley’s documentary<italic>Iraq in Fragments</italic>(2005), Philip Haas’s fiction feature<italic>The Situation</italic>(2006), Nick Broomfield’s docudrama<italic>Battle for Haditha</italic>(2007), and Kathryn Bigelow’s thriller<italic>The Hurt Locker</italic>(2009). Nor is my subject metaphorical movie treatments of a “present” conflict, like the Iraq or Afghan one, through the lens of a past war (be it World War II, Vietnam, or Korea). No, my subject here is two films, produced in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.8</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>Farce, Dreams, and Desire:</title>
+                     <subtitle>Some Like It Hot Re-viewed</subtitle>
+                  </title-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>Now celebrating its fiftieth anniversary,<italic>Some Like It Hot</italic>(1959) is still significant in four ways in American film history. It is the best film by the last European director to flourish in the United States. (Hollywood has seen two principal “waves” of European directors. The first group, including such men as Ernst Lubitsch and F. W. Murnau, were imported in the 1920s by an American industry that was jealous of European artistic advances and worried about commercial competition. The second group consisted of the political refugees of the 1930s.) It is the best film of the last great sex</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.9</book-part-id>
+                  <title-group>
+                     <title>[Illustrations]</title>
+                  </title-group>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.10</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>Switching Genres, or Playing to the Camera, Playing to the House:</title>
+                     <subtitle>Stage vs. Screen Acting</subtitle>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>When viewers had their first exposure to film one hundred years ago, it is unlikely that they interpreted silence as loss. Then, motion pictures represented a striking novelty: the ability to convey photographic detail in motion-produced images that on initial viewing must have seemed quite dramatic in themselves. Oddly enough, it was filmmakers’ earliest efforts to convey a story that may have called attention to the unremitting silence of actors on the screen. Almost immediately, dramatic episodes adapted or drawn directly from the legitimate stage began to contend with more strictly documentary forms such as travelogues and newsreels. And the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.11</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>On the Road Again:</title>
+                     <subtitle>The Road Film and the Two Coppolas</subtitle>
+                  </title-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>The Coppolas, Francis Ford and his daughter, Sophia, both have the same artistic problem: neither is a thinker. The father has always been short on thought; indeed, he stumbles when he thinks, when he thinks he’s thinking.<italic>The Godfather</italic>(1972, 1974, 1990) was strongest in its execution – also its executions – not in its adolescent implications of analogy between the Mafia and corporate capitalism (an analogy that ignores, among other things, the origins of the Mafia and its blood bonds of loyalty, which have nothing to do with capitalism).<italic>The Conversation</italic>(1974) faltered in its Orwellian ideological structure. And</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.12</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>The Coming-of-Age Film à la Fellini:</title>
+                     <subtitle>The Case of I vitelloni</subtitle>
+                  </title-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>In the most impressive phase of his career (from<italic>Variety Lights</italic>[1950] through<italic>8½</italic>[1963]), Federico Fellini (1920–1993) was, above all, an observer, constructing his films through juxtaposition: that is, through setting details of reconstructed reality side-by-side to point up a common denominator, or (more often) to expose the ironic relationship between unlike things. This method of reconstruction is the one associated with Italian neorealism, which Fellini himself defined in a 1971 interview with Charles Thomas Samuels as “the opposite of manufactured effects, of the laws of dramaturgy, spectacle, even of cinematography” – in other words, the presentation of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.13</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>Early vs. Later Bergman:</title>
+                     <subtitle>Winter Light and Autumn Sonata Revisited</subtitle>
+                  </title-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>We live in a secular, narcissistic, even hedonistic age. Is there anyone out there who still doubts this? If you do, have a look at a film made by Ingmar Bergman over forty years ago –<italic>Winter Light</italic>(1962) – and you’ll see what I mean. This is not to say that something like<italic>Winter Light</italic>couldn’t be made now. We’re dealing here with the rule and not the exception, the middle, not the extremities. Obviously, none of this is intended to denigrate Bergman’s film as a mediocrity, or<italic>a priori</italic>to privilege contemporary films over it. Still, “men are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.14</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>“Everyone Has His Reasons”:</title>
+                     <subtitle>Words, Images, and La grande illusion in the Cinema of Jean Renoir</subtitle>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>Jean Renoir (1894–1979) completed his thirty-ninth motion picture,<italic>The Little Theatre of Jean Renoir</italic>, in 1970. His first film,<italic>The Water Girl</italic>, was made in 1924 during the silent era. What comes between is perhaps the most impressive body of filmmaking ever directed by one person. But, before any consideration of the length or quality of Renoir’s career, one must first consider the length of his life – of<italic>his</italic>life, not just anyone who happens to survive for eighty-four years – because it gave him a unique place that would affect his art.</p>
+                     <p>Now the history of film</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.15</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>A Passage to Tokyo:</title>
+                     <subtitle>The Art of Ozu, Remembered</subtitle>
+                  </title-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>The worldly life of Yasujiro Ozu (1903–1963) was, like that of many another artist, very worldly. This is especially true of film artists, for no one can live in a movie environment as in a Buddhist monastery. And no film director is likely to get the chance to achieve such “purity” as Ozu’s (more on this term later) unless he can deal with the rather less pure circumstances that surround the making of all films.</p>
+                     <p>Ozu entered films as an assistant in 1923, when he was twenty years old, assigned to a director of light comedy. He had been</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.16</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>Through the Looking Glass:</title>
+                     <subtitle>The American Art Cinema in an Age of Social Change</subtitle>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>By 1970, it’s worth reminding ourselves at the outset, film’s recognition as an art form had not been in question for some time. Yet film, as it was mostly being made above ground in the United States at that moment, had very little aesthetic identity in the minds of its chief practitioners and enthusiasts, or at any rate its most vocal ones. There are more ironies than one here: unquestionably better, more mature, more salient and thematically sophisticated as many of America’s new films had become, superior as a class as they were to the great bulk of American movies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.17</book-part-id>
+                  <title-group>
+                     <title>Bibliography of Related Criticism</title>
+                  </title-group>
+                  <fpage>173</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1gxp9b7.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                     <subtitle>Screen Writings, Volume 2</subtitle>
+                  </title-group>
+                  <fpage>177</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

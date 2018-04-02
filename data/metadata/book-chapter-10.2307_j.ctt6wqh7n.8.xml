@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqh7n</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN1993.5.J3W327 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Motion pictures</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Digital cinematography</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Motion picture industry</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Film Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Japanese Cinema in the Digital Age</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Wada-Marciano</surname>
+               <given-names>Mitsuyo</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>07</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824835941</isbn>
+      <isbn content-type="epub">9780824865887</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>HONOLULU</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqh7n"/>
+      <abstract abstract-type="short">
+         <p>Digital technology has transformed cinema’s production, distribution, and consumption patterns and pushed contemporary cinema toward increasingly global markets. In the case of Japanese cinema, a once moribund industry has been revitalized as regional genres such as anime and Japanese horror now challenge Hollywood’s preeminence in global cinema. In her rigorous investigations of J-horror, personal documentary, anime, and ethnic cinema, Mitsuyo Wada-Marciano deliberates on the role of the transnational in bringing to the mainstream what were formerly marginal B-movie genres. She argues persuasively that convergence culture, which these films represent, constitutes Japan’s response to the variegated flows of global economics and culture.&lt;br /&gt;&lt;br /&gt;With its timely analysis of new modes of production emerging from the struggles of Japanese filmmakers and animators to finance and market their work in a post-studio era, this book holds critical implications for the future of other national cinemas fighting to remain viable in a global marketplace. As academics in film and media studies prepare a wholesale shift toward a transnational perspective of film, Wada-Marciano cautions against jettisoning the entire national cinema paradigm. Discussing the technological advances and the new cinematic flows of consumption, she demonstrates that while contemporary Japanese film, on the one hand, expresses the transnational as an object of desire (i.e., a form of total cosmopolitanism), on the other hand, that desire is indeed inseparable from Japan’s national identity.&lt;br /&gt;&lt;br /&gt;Drawing on a substantial number of interviews with auteur directors such as Kore’eda Hirokazu, Kurosawa Kiyoshi, and Kawase Naomi, and incisive analysis of select film texts, this compelling, original work challenges the presumption that Hollywood is the only authentically “global” cinema.&lt;br /&gt;&lt;br /&gt;30 illus.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.4</book-part-id>
+                  <title-group>
+                     <title>NOTE ON ROMANIZATION</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The notion of “global cinema” has been changing dramatically in the last two decades due to the increasing ubiquity of digital technology. The cinematic event has been steadily relocated from the theater to the home, and the act of viewing has thus also been transformed from a collective experience to an individual one. Moreover, the once dominant flow of movie screen culture, historically centered in Hollywood, has been dispersed with the diversity of cinematic commodities such as DVDs or Blu-ray Disc as well as Internet-enabled distribution. The directions of that cultural flow have become more variegated and even reversed, as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>NEW MEDIA’S IMPACT ON HORROR CINEMA</title>
+                  </title-group>
+                  <fpage>28</fpage>
+                  <abstract>
+                     <p>THE MAIN OBJECTIVE of this chapter is to scrutinize new media’s effect on contemporary Japanese cinema, especially the horror film genre “J-horror.” In particular, I will examine the ongoing contestation and negotiation between cinema and new media in contemporary Japan by analyzing the impact of new media on the transnational horror boom from Japan to East Asia and finally to Hollywood. While academic discourses on the connection between cinema and new media have been increasing, many of them are following the historical constellation of hegemony and capital in cinema—namely, Hollywood as the primary center of production and distribution. From</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>DIGITAL AUTHENTICITY</title>
+                  </title-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>IN HIS RECENT overview of contemporary Japanese cinema, the Japanese film scholar Sato Tadao notes that “Japanese cinema has lost the strong support of investment capital, but it has gained more freedom in its production.”¹ The whole film industry has gradually become financially dysfunctional, and the major film companies have dramatically reduced production numbers since the 1960s. This industrial transformation has created a domino effect. The program pictures (or B-movies), which were once the studios’ main source of revenue, are no longer produced. The film industry also scrapped the system of nurturing the careers of movie stars with those program</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>THE RISE OF “PERSONAL” ANIMATION</title>
+                  </title-group>
+                  <fpage>74</fpage>
+                  <abstract>
+                     <p>THE DIVERSITY OF Japanese animation in terms of its history, media, genre, and style makes it both an exciting subject and a difficult one to analyze. Anime is often misperceived as representing the whole history of “Japanese animation,”¹ a premise that emphasizes its intrinsic cultural difference from the norm, American animation—namely Disney. Jonathan Clements and Helen McCarthy’s<italic>The Anime Encyclopedia</italic>, for instance, covers an impressive list of over two thousand Japanese animation titles from 1917 to 2001. They introduce terms such as “early anime” and “wartime anime” for Japanese animation produced in the period up to 1945. However, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>FINDING THE NATION IN TRANSNATIONAL CINEMA</title>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>I HAVE RECENTLY encountered a number of films skillfully promoted as transnational cinema, such as<italic>The Hotel Venus</italic>(2004, Takahata Hideta), which features a multinational cast (American, Japanese, and Korean) all speaking Korean and presented with Japanese subtitles. The film was made with Japanese capital, produced for the most part by a Japanese crew, and was filmed entirely on location in Vladivostok, the administrative center of Primorsky Krai, Russia. This further highlights the contradiction that one encounters in recent transnational cinema. If the transnational is defined, in Elizabeth Ezra and Terry Rowden’s sense, as “the global forces that link people</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>ETHNIC CINEMA IN THE JAPANESE CULTURAL IMAGINATION</title>
+                  </title-group>
+                  <fpage>114</fpage>
+                  <abstract>
+                     <p>THE<italic>ZAINICHI</italic>KOREAN (Korean resident of Japan) filmmaker Sai Yoichi’s film<italic>Blood and Bones</italic>(<italic>Chi to hone</italic>, 2004) garnered major film awards in 2005 in Japan.¹ The film centers around a<italic>zainichi</italic>Korean man, Kim Shunpei (Kitano Takeshi), and his family’s lives as oppressed ethnic minorities in Japan from the 1920s to the early 1970s.² As the novelist and the film’s screenplay writer Yan Sogiru (Yang Seok-il) describesit, Sai expressed no interest in making<italic>Blood and Bones</italic>a “minor” film targeting the Korean minorities in Japan, but rather he wanted a “major” one.³ Indeed, the film’s success with critics and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.11</book-part-id>
+                  <title-group>
+                     <title>CONCLUSION</title>
+                  </title-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>In this book, I have focused on the shift in cinematic modes from the film studio era to the post-studio period, particularly as they relate to the recent developments in digital technology. Another transformation is in the critical framework from the national to the transnational cinema. To what extent, then, has the national cinema truly become the transnational? How should a film scholar forge ahead, if indeed technology has so transformed film’s material reality as to render all such guideposts—national or transnational—equally untenable?</p>
+                     <p>It is tempting to see a parallel between the two dichotomies—studio/post-studio production modes and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.12</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>141</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.13</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>161</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.14</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>171</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqh7n.15</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>179</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

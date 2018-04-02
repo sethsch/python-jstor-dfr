@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7zf44</book-id>
+      <subj-group>
+         <subject content-type="call-number">JQ1681.M3 2011</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Democracy</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">Politics and government</subject>
+            <subj-group>
+               <subject content-type="lcsh">21st century</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Political participation</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Political culture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Women</subject>
+         <subj-group>
+            <subject content-type="lcsh">Political activity</subject>
+            <subj-group>
+               <subject content-type="lcsh">Japan</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Community power</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Popular Democracy in Japan</book-title>
+         <subtitle>How Gender and Community Are Changing Modern Electoral Politics</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Martin</surname>
+               <given-names>Sherry L.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>21</day>
+         <month>02</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780801449178</isbn>
+      <isbn content-type="epub">9780801460821</isbn>
+      <publisher>
+         <publisher-name>Cornell University Press</publisher-name>
+         <publisher-loc>Ithaca; London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>Cornell University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7591/j.ctt7zf44"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Popular Democracy in Japan</italic>examines a puzzle in Japanese politics: Why do Japanese women turn out to vote at rates higher than men? On the basis of in-depth fieldwork in various parts of the country, Sherry L. Martin argues that the exclusion of women from a full range of opportunities in public life provokes many of them to seek alternative outlets for self-expression. They have options that include a wide variety of study, hobby, and lifelong learning groups-a feature of Japanese civic life that the Ministry of Education encourages.</p>
+         <p>Women who participate in these alternative spaces for learning tend, Martin finds, to examine the political conditions that have pushed them there. Her research suggests that study group participation increases women's confidence in using various types of political participation (including voting) to pressure political elites for a more inclusive form of democracy. Considerable overlap between the narratives that emerge from women's groups and a survey of national public opinion identifies these groups as crucial sites for crafting and circulating public discourses about politics. Martin shows how the interplay between public opinion and institutional change has given rise to bottom-up changes in electoral politics that culminated in the 2009 Democratic Party of Japan victory in the House of Representatives election.</p>
+      </abstract>
+      <counts>
+         <page-count count="216"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.3</book-part-id>
+                  <title-group>
+                     <title>Tables and Figures</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.5</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.6</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Why Don’t They Stay Home?</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On August 30, 2009, the Liberal Democratic Party of Japan suffered a dramatic defeat in the national House of Representatives election. This much-anticipated outcome was nearly three decades in the making. Wide-ranging political, administrative, and economic reforms and rapid demographic changes should have brought about the party’s ouster long before this.¹ Voters were finally able to expel the LDP from power for the first time in fifty-four years.² But six decades of single-party dominance had taken a toll on Japanese voters.</p>
+                     <p>In the two decades preceding the 2009 House election, public confidence that national elections were an effective means of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Political Distance between Citizens and Elites</title>
+                  </title-group>
+                  <fpage>26</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Nearly a decade after a short-lived eight-party coalition government unseated the LDP to reform the electoral rules of the House of Representatives in 1993–1994, Japanese voters remained deeply dissatisfied with national politics. The public mood shifted dramatically in the aftermath of the DPJ’s August 2009 victory and the long-awaited alteration in government it brought, the first achieved through the ballot box in the postwar period. Voters reported that their votes had finally made a difference. What were the underlying dynamics of a landslide election and a rapid shift in public opinion about the influence of voters? In 2002, <italic>Asahi</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>New Styles of Political Leadership and Community Mobilization</title>
+                  </title-group>
+                  <fpage>49</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The Japanese Election and Democracy Study survey coincided with the tenure of Yoshirō Mori, who became president of the LDP and prime minister of Japan in April 2000, following the death of Keizō Obuchi, who had been in office just shy of two years. Japan went through six prime ministers in the seven years after electoral reform. The 1990s witnessed a proliferation of small reform parties formed by defectors from the LDP and the traditional opposition parties on the left. Parties splintered, merged, and dissolved at a dizzying rate, as voters waited for the system to reach a new equilibrium</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>National Attitudes and Local Action:</title>
+                     <subtitle>Changing the Center from the Periphery</subtitle>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract abstract-type="extract">
+                     <p>One-party dominance in national politics has propelled voters to seek new opportunities to influence politics at the local level. Local political entrepreneurs—independent politicians, citizen activists, and emerging nonprofit organizations, among others—have worked to widen existing channels of interest articulation, while administrative reforms have created new opportunities for citizen participation by shifting the balance of power between the national government and local government. The Information Disclosure Law (1999), the Nonprofit Organization Law (1998), the Law to Promote Decentralization (1995), and the Revised Local Autonomy Law (1999) are vital tools. Administrative decentralization has revived debate about the meaning of local</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Politically Excluded “Commoners”:</title>
+                     <subtitle>A Gendered Pathway to Participation</subtitle>
+                  </title-group>
+                  <fpage>102</fpage>
+                  <abstract abstract-type="extract">
+                     <p>National politics is far removed from everyday voters. This chapter sharpens the focus on Japanese women voters, a segment of the electorate that raises a theoretical and empirical puzzle. As a group, Japanese women face institutional, structural, and cultural constraints that conventionally depress political participation. These conditions have arguably contributed to higher rates of nonpartisanship among women, another factor that correlates with political disengagement. Yet more Japanese women than men have turned out to vote in every election across Japan for over three decades. In this chapter I focus on women because their patterns of electoral participation run counter to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Gender and “Communities of Practice”:</title>
+                     <subtitle>Escaping the Regulatory Boundaries of Formal Education</subtitle>
+                  </title-group>
+                  <fpage>130</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The women in my focus groups provide a glimpse of the wide range of activities available to women that are fundamental to building the types of social capital that “make democracy work.” Some of the women who participated in my focus groups belonged to explicitly political groups. Others belonged to groups that fulfilled a range of social functions, from consumer protection to eldercare. But many were involved in study and hobby groups that had the potential to become politicized. At the very least, these groups constitute a dense social network that can be used to mobilize voters during elections. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.12</book-part-id>
+                  <title-group>
+                     <title>Conclusion:</title>
+                     <subtitle>Engendering Knowledge and Political Action</subtitle>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On the afternoon of February 29, 2008, approximately two hundred people marched by Osaka’s prefectural assembly building to protest the planned closing of the Dawn Center, one of Japan’s leading public institutions devoted to promoting gender equality. The demonstration was organized by the We Love the Dawn Center Association, founded earlier in the month following Governor Tōru Hashimoto’s announcement of the planned closure and sale or privatization of the center and twenty-four other public facilities to rein in the prefecture’s mounting debt.¹ A group of predominantly female protesters presented a list of invaluable services that make the center a model</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.13</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>175</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zf44.14</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>187</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

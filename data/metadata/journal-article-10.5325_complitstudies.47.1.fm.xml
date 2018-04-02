@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="misc"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">complitstudies</journal-id>
+         <journal-title-group>
+            <journal-title content-type="full" xml:lang="en">Comparative Literature Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Pennsylvania State University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00104132</issn>
+         <issn pub-type="epub">15284212</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">complitstudies.47.1.FM</article-id>
+         <article-id pub-id-type="doi">10.5325/complitstudies.47.1.FM</article-id>
+         <title-group>
+            <article-title>Front Matter</article-title>
+         </title-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>2010</year>
+            <string-date>2010</string-date>
+         </pub-date>
+         <volume>47</volume>
+         <issue>1</issue>
+         <issue-id>complitstudies.47.issue-1</issue-id>
+         <permissions>
+            <copyright-statement>Copyright 2010 The Pennsylvania State University</copyright-statement>
+            <copyright-year>2010</copyright-year>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.5325/complitstudies.47.1.fm"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1tfj8m3</collection-id>
+      <volume>242</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1tg5mgb</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL726.55.H557 2005</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Seduction in literature</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Philosophy</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Discourses of Seduction</book-title>
+         <subtitle>History, Evil, Desire, and Modern Japanese Literature</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Hirata</surname>
+               <given-names>Hosea</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>2005</year>
+      </pub-date>
+      <isbn content-type="ppub">9780674016552</isbn>
+      <isbn content-type="epub">9781684174065</isbn>
+      <isbn content-type="epub">1684174066</isbn>
+      <publisher>
+         <publisher-name>Harvard University Asia Center</publisher-name>
+         <publisher-loc>Cambridge (Massachusetts); London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2005</copyright-year>
+         <copyright-holder>the President and Fellows of Harvard College</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1tg5mgb"/>
+      <abstract abstract-type="short">
+         <p>If the postmodernist ethical onslaught has led to the demise of literature by exposing its political agenda, if all literature is compromised by its entanglement with power, why does literature’s subterranean voice still seduce us into reading? Why do the madness and the scandal of transgressive literature, its power to force us to begin anew, its evil, escape the gaze of contemporary literary criticism? Why do we dare not reject ethics and the ethical approach to literature? If the primary task of literary criticism is to correct others’ ethical missteps, should we not begin by confronting the seductiveness of ethics, our desire for ethics, the pleasure we take in being ethical? And what is the relationship between ethics and history in the study of literature? What would be the ethical consequences of an erasure of history from literary criticism? In a series of essays on the writings of Kawabata Yasunari, Murakami Haruki, Karatani Kjin, Furui Yoshikichi, Mishima Yukio, Oe Kenzaburo, Natsume Soseki, and Kobayashi Hideo, Hosea Hirata visits the primal force of the scandalous in an effort to repeat (in the Kierkegaardian sense) the originary scene that initiates the obscure yet insistent poetry that is literature and to confront the questions raised.</p>
+      </abstract>
+      <counts>
+         <page-count count="327"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>Beginning from Somewhere Else</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>A poem as a scandal begins a book on modern Japanese prose texts. It opens this book, not because this particular poem historically, geographically, or culturally circumscribes the primary texts that are to be analyzed— works by Kawabata Yasunari, Murakami Haruki, Karatani Kojin, Furui Yoshikichi, Mishima Yukio, Ōe ken zaburŌ, Natsume SŌseki, and Kobayashi Hideo— but simply because it is<italic>scandalous</italic>in the most elementary sense. (How could any beginning that forces an opening in our everyday, tepid prosaicness fail to be scandalous?) On the surface, this book is a series of essays on modern Japanese fiction and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Into the Interiority of Language:</title>
+                     <subtitle>The Seduction of Literature in House of the Sleeping Beauties</subtitle>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>At the very beginning, we seem to encounter, necessarily, an already historical monument:</p>
+                     <p>As we passed through the long tunnel at the border, the snow country spread before our eyes (国境の長いトンネルを抜けると雪国であった).(Kawabata 1964: 7; my translation)</p>
+                     <p>With this remarkable beginning of the novel<italic>Yukiguni</italic>(Snow country), Kawabata Yasunari (1899 – 1972) distilled the movement of a desire that had been flowing through the history of what we have come to call “modern Japanese literature.” This sentence is “historical” on two levels. First,through the Nobel Prize bestowed on the author in 1968, it helped establish an image of “Japanese litera-ture” as beautiful and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Naming and Historicity</title>
+                  </title-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>I begin to write (or am I speaking?). Immediately I become conscious of an inaudible voice within— an inchoate voice that issues forth from somewhere so unfamiliar yet so near, still too far from that which should be embedded in the phantasmal text in my mind, a barely audible lump of voice so close to my presence, my immediacy, my only certainty.¹ In this inescapable theater of dark immediacy, here and now, I need to write about beginnings, of openings. With my silent voice that began a discourse a moment ago, rescuing me, as usual, from the emasculated silence of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>The Singularity of Ecstasy in Furui Yoshikichi’s Yōko</title>
+                  </title-group>
+                  <fpage>92</fpage>
+                  <abstract>
+                     <p>杳子は深い谷底に一人で座っていた.(Furui 1979 )</p>
+                     <p>Yōko was sitting alone at the bottom of a deep ravine. (Furui 1997)*</p>
+                     <p>Thus began another obscure epoch in the history of Japanese literature, a defining moment marking a generation some critics dubbed<italic>naikō no sedai</italic>, the introspective generation, which surfaced in the early 1970s.¹ Kawabata Yasunari, a precursor of such an aesthetics of introversion, was to commit an ignoble suicide in 1972, one year after he voted for Furui Yoshikichi’s<italic>Yōko</italic>to receive the sixty-fourth Akutagawa Prize.² In this opening sentence, whose symbolic resonance seems to exceed its vessel, one may hear an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>To Slit the Beautiful Body/Text:</title>
+                     <subtitle>Mishima’s Jouissance to Death</subtitle>
+                  </title-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>Mishima Yukio (1925–70 ): How can we seize this bloody origin—the origin of so many luxurious texts that tightly surround it? “Mishima Yukio” is a textual product<italic>par excellence</italic>—his whole mode of being was dedicated to producing his own “self-text.” He never ceased to exhibit himself. Scattered around us are his words, his books, his images, his death. It seems that we are forced to read him endlessly. His texts are always outward bound, visible, and clear in their minutest details. Note, for example, the precision of his language and the superficial transparency of his poses in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Masturbation, the Emperor, and the Language of the Sublime in Ōe Kenzaburō</title>
+                  </title-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>Masturbation, the Emperor, and the language of the sublime: these rather disparate terms may be considered synecdoches for separate yet intricately linked discourses, namely, the sexual, the political, and the literary. It was the young Ōe Kenzaburō (b. 1935 ), barely out of college, who began to fuse these discourses in his fictional works during the period surrounding the politically turbulent year 1960. The most controversial work of this period was his novella “Sevunt i n” (“Seventeen”) along with its sequel “Seiji shōnen shisu” (“The political youth dies”) published in the January and February issues of the journal<italic>Bungakukai</italic>in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>A Historiography of the Blind:</title>
+                     <subtitle>History and Masochistic Ecstasy</subtitle>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>In 1963 , the same year “Seiteki ningen” (Sexual human being; English translation published under the title “J”) was published, one of the most significant events in Ōe Kenzaburō’s life took place: his son, Hikari, was born with severe brain damage. The next year he published his epoch-making<italic>Kojintekina taiken</italic>(A personal matter), in which he dramatized his “murderous” relationship with his newborn son. Ōe was to repeat and modulate this “personal” subject obsessively in his subsequent works. Although Hikari’s presence seemed to force Ōe to face his immediate social responsibilities (which are abruptly formulated in the conclusion of A</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>The Emergence of History in Natsume Sōseki’s Kokoro</title>
+                  </title-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>Something has broken—a thread of life, perhaps. Something horrifying, something irreversible, has happened. This is what many of us mumble to ourselves as we close Kokoro (1914). In the same breath, we say, something remains, something uncanny lives on, a ghostly presence, a spectral language of ethics.</p>
+                     <p>Thus Natsume S o seki (1867–1916 ), the figure of an exemplary<italic>sensei</italic>(teacher), remains, canonized in Japanese school textbooks, enshrined on the 1,000 -yen bill. In the classroom, we, the students, solemnly genuflect before the despairing words of Sensei, awed by the severity and spirituality of his ethics of death,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Criticism in Poetry:</title>
+                     <subtitle>Kobayashi Hideo as a Poet Manqué</subtitle>
+                  </title-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>How comforting it is to transliterate his name,小林秀雄, to Kobayashi Hideo (1902–83 ) and, by doing so, jarring, however slightly, a towering presence, dispersing it into the thin air of foreign alphabets, finally.¹ For he has resided at the very center of what we have come to call “Modern Japanese Literature” as its ghostly magistrate, its most masterly father, its first and foremost critic.² He was a poet manqué and a thief of poetry. But we should not resort to the past tense to describe him. Although he has been dead for some years, his discourse remains the most</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Home and History:</title>
+                     <subtitle>Kobayashi Hideo and Other Visionaries of the Past</subtitle>
+                  </title-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>We may feel a certain poverty in the English language when we try to translate the Japanese word 故郷 pregnant with so much cultural as well as personal resonance. It is a lovely word, the primary catalyst of our nostalgia. The first character 故 suggests a sense of the past and origin; the second 郷indicates a rural village. Thus we see in this word the temporal and the spatial being fused; an irretrievable past¹ and one’s place of origin are being juxtaposed. Together, they mean “one’s home village in the country.” Yet, there seems to be something inherently strange about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.13</book-part-id>
+                  <title-group>
+                     <title>Appendix</title>
+                     <subtitle>On Impermanence by Kobayashi Hideo</subtitle>
+                  </title-group>
+                  <fpage>261</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.14</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>267</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.15</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>299</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tg5mgb.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>305</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">manoa</journal-id>
+         <journal-id journal-id-type="jstor">j101402</journal-id>
+         <journal-title-group>
+            <journal-title>Manoa</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Hawaii Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">10457909</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4230011</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+               <subj-group>
+                  <subject>Fiction</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Suzanne Kamata</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>2001</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">13</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i395483</issue-id>
+         <fpage>200</fpage>
+         <lpage>201</lpage>
+         <page-range>200-201</page-range>
+         <product>
+            <source>The Cape and Other Stories from the Japanese Ghetto</source>
+            <string-name>Kenji Nakagami</string-name>
+            <string-name>
+               <given-names>Eve</given-names>
+               <surname>Zimmerman</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement> Copyright 2001 University of Hawaiʿi Press </copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4230011"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

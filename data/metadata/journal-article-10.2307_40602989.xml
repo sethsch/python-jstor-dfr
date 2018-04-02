@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">harvjasiastud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100449</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Harvard Journal of Asiatic Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Harvard-Yenching Institute</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00730548</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19446454</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">40602989</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J. Scott</given-names>
+                  <surname>Miller</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>6</month>
+            <year>2010</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">70</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40026367</issue-id>
+         <fpage>246</fpage>
+         <lpage>257</lpage>
+         <product>
+            <source>Murder Most Modern: Detective Fiction and Japanese Culture</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Sari</given-names>
+               <surname>Kawana</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Purloined Letters: Cultural Borrowing and Japanese Crime Literature, 1868-1937</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Mark</given-names>
+               <surname>Silver</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>© 2010 Harvard-Yenching Institute</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/40602989"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

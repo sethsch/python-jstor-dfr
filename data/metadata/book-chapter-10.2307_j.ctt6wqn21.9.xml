@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqn21</book-id>
+      <subj-group>
+         <subject content-type="call-number">BQ5020.D43 2008</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Funeral rites and ceremonies, Buddhist</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Future life</subject>
+         <subj-group>
+            <subject content-type="lcsh">Buddhism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Death and the Afterlife in Japanese Buddhism</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Stone</surname>
+               <given-names>Jacqueline I.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Walter</surname>
+               <given-names>Mariko Namba</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>20</day>
+         <month>08</month>
+         <year>2008</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824832049</isbn>
+      <isbn content-type="epub">9780824862152</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqn21"/>
+      <abstract abstract-type="short">
+         <p>For more than a thousand years, Buddhism has dominated Japanese death rituals and concepts of the afterlife. The nine essays in this volume, ranging chronologically from the tenth century to the present, bring to light both continuity and change in death practices over time. They also explore the interrelated issues of how Buddhist death rites have addressed individual concerns about the afterlife while also filling social and institutional needs and how Buddhist death-related practices have assimilated and refigured elements from other traditions, bringing together disparate, even conflicting, ideas about the dead, their postmortem fate, and what constitutes normative Buddhist practice. The idea that death, ritually managed, can mediate an escape from deluded rebirth is treated in the first two essays. Sarah Horton traces the development in Heian Japan (794–1185) of images depicting the Buddha Amida descending to welcome devotees at the moment of death, while Jacqueline Stone analyzes the crucial role of monks who attended the dying as religious guides. Even while stressing themes of impermanence and non-attachment, Buddhist death rites worked to encourage the maintenance of emotional bonds with the deceased and, in so doing, helped structure the social world of the living. This theme is explored in the next four essays. Brian Ruppert examines the roles of relic worship in strengthening family lineage and political power; Mark Blum investigates the controversial issue of religious suicide to rejoin one’s teacher in the Pure Land; and Hank Glassman analyzes how late medieval rites for women who died in pregnancy and childbirth both reflected and helped shape changing gender norms. The rise of standardized funerals in Japan’s early modern period forms the subject of the chapter by Duncan Williams, who shows how the Soto Zen sect took the lead in establishing itself in rural communities by incorporating local religious culture into its death rites. The final three chapters deal with contemporary funerary and mortuary practices and the controversies surrounding them. Mariko Walter uncovers a "deep structure" informing Japanese Buddhist funerals across sectarian lines—a structure whose meaning, she argues, persists despite competition from a thriving secular funeral industry. Stephen Covell examines debates over the practice of conferring posthumous Buddhist names on the deceased and the threat posed to traditional Buddhist temples by changing ideas about funerals and the afterlife. Finally, George Tanabe shows how contemporary Buddhist sectarian intellectuals attempt to resolve conflicts between normative doctrine and on-the-ground funerary practice, and concludes that human affection for the deceased will always win out over the demands of orthodoxy. Death and the Afterlife in Japanese Buddhism constitutes a major step toward understanding how Buddhism in Japan has forged and retained its hold on death-related thought and practice, providing one of the most detailed and comprehensive accounts of the topic to date.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Providing funeral and memorial services represents the major social role of Buddhist priests and temples in Japan today. For many people, death may be the only occasion when they turn to the family temple, or, indeed, learn much of anything about Buddhism. In his introductory study of contemporary Japanese religion, Ian Reader recounts a conversation between two university professors of his acquaintance; queried by one about his family’s Buddhist sectarian affiliation, the other replied, “I do not know: no one in our household has died yet.”¹ Japanese scholarly histories of Buddhist mortuary ritual have often taken a teleological approach, attempting</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Mukaekō:</title>
+                     <subtitle>Practice for the Deathbed</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Horton</surname>
+                           <given-names>Sarah Johanna</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>Belief that at death one could be born in the Pure Land of the buddha Amida (Skt. Amitābha, Amitāyus) became common in eleventh-century Japan and has remained so to the present day. This is a source of great comfort both to the dying and to those surrounding them. The popularity of the notion of Pure Land birth came about at least in part because of an increased focus on the welcoming or<italic>raigō</italic>scene, in which Amida and his attendants, including the bodhisattvas Kannon (Avalokiteśvara) and Seishi (Mahāstāmaprāpta), joyfully come to greet the dying person and escort her or him</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>With the Help of “Good Friends”:</title>
+                     <subtitle>Deathbed Ritual Practices in Early Medieval Japan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stone</surname>
+                           <given-names>Jacqueline I.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>With such words as these, suggests the monk Genshin (942–1017), the dying should be exhorted to focus their minds on the Buddha Amida (Skt. Amitābha, Amitāyus), in order to escape the round of rebirth and instead achieve birth in the Pure Land (<italic>ōjō</italic>). Genshin’s treatise<italic>Ōjō yōshū</italic>(Essentials of Pure Land birth), completed in 985, has already been introduced in Chapter 1 by Sarah Horton. In addition to its role in popularizing Pure Land devotion, it is famous for its detailed instructions—the first ever compiled in Japan—on Buddhist deathbed practice (<italic>rinjū gyōgi</italic>). The form of deathbed practice</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Beyond Death and the Afterlife:</title>
+                     <subtitle>Considering Relic Veneration in Medieval Japan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ruppert</surname>
+                           <given-names>Brian O.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>Although the cult of the saints in medieval Christianity is better known in the West, Buddhists likewise had their own saints.¹ Early Buddhism featured arhats (Jpn.<italic>rakan</italic>), who trod the eightfold path in the footsteps of the historical Buddha, Śākyamuni. Arhats, like the saints of Christian traditions, left bodily relics. However, while early Buddhists venerated the relics and reliquaries of arhats, their relic worship most commonly focused on the remains of the historical Buddha. In later, Mahāyāna Buddhist traditions, the remains of the Mahāyāna saints, or bodhisattvas, were also venerated, yet here, too, the worship of the Buddha’s relics remained</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Collective Suicide at the Funeral of Jitsunyo:</title>
+                     <subtitle>Mimesis or Solidarity?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blum</surname>
+                           <given-names>Mark L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>Jitsunyo (1458–1525) was the fifth son of Rennyo (1415–1499), and his reluctant successor as<italic>monshu</italic>(also called<italic>hossu</italic>), or head priest of the Honganji branch of Jōdo Shinshū, the True Pure Land sect. Jitsunyo was not his father’s initial choice of successor; that fell to the first son, but he died young. Jitsunyo did not receive the mantle of leadership from his father until 1489, when Rennyo was already seventy-five. This was a dozen years after the end of the devastating Ōnin War (1467–1477), which left not only the capital in ruins but the Ashikaga shogunate in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>At the Crossroads of Birth and Death:</title>
+                     <subtitle>The Blood Pool Hell and Postmortem Fetal Extraction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Glassman</surname>
+                           <given-names>Hank</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>In medieval Japanese Buddhism, the salvation of women increasingly came to be understood as the salvation of mothers.¹ In the following pages, I will explore the conditions surrounding that salvation and the gendered meaning of the damnation that made the drama of redemption necessary. This essay traces the development of the cult of the so-called “Blood Pool Hell” in Japan. As we shall see, doctrines and rituals relating to the funerary and memorial care of women underwent profound change over the centuries. The changes, while deeply meaningful for women and their families, also reflected upheavals in the terrain of medieval</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Funerary Zen:</title>
+                     <subtitle>Sōtō Zen Death Management in Tokugawa Japan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Williams</surname>
+                           <given-names>Duncan Ryūken</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>“Funerary Zen” emerged in the late medieval and early modern periods as a combination of Chinese Chan/Zen, esoteric, and Pure Land Buddhist elements, along with localized death ritual practices. These funerary practices found an institutional base in the government’s temple certification policy of the Tokugawa or Edo period (1603–1868), which required that all families register at a parish temple. At the same time the practice of funerals and memorial services for deceased relatives cannot simply be understood as a response to a government directive but must also be seen as a part of a deep human need for ritualizing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Structure of Japanese Buddhist Funerals</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Walter</surname>
+                           <given-names>Mariko Namba</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>It is often said, especially from a Western perspective, that modern Japanese hold ambivalent, even contradictory attitudes toward religion. Many Japanese go to a Shinto shrine to celebrate a birth and other rites of passage for their children, while young adults tend increasingly to have weddings in a Christian chapel, even if they themselves are not Christian. More than 65 percent of Japanese say they have no faith in a particular religion, and yet 94 percent of their funerals are conducted with Buddhist rites.¹ Other statistics show that while most people have a Buddhist altar at home, they visit temples</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Price of Naming the Dead:</title>
+                     <subtitle>Posthumous Precept Names and Critiques of Contemporary Japanese Buddhism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Covell</surname>
+                           <given-names>Stephen G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>Today, the sects of traditional Buddhism are facing perhaps the most serious threat to their existence since the government’s efforts during the Meiji period (1868–1912) to forcibly separate a “Buddhism” and a “Shinto” from the fabric of premodern Japanese religion. The contemporary threat is tied directly to the central role of funerals. Until the Meiji period, many temples relied on income-producing landholdings for their livelihood. One effect of Meiji-period reforms, however, was that many temples were stripped of their major landholdings and thereby deprived of a critical source of income. Half a century later, land reform efforts (<italic>nōchikaihō</italic>) in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Orthodox Heresy of Buddhist Funerals</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tanabe</surname>
+                           <given-names>George J.</given-names>
+                           <suffix>Jr.</suffix>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>325</fpage>
+                  <abstract>
+                     <p>The two legs on which Japanese Buddhism stands ritually and economically are funeral services and the practices of worldly benefits (<italic>genze riyaku</italic>), the one serving the dead, the other the living. Take away funerals, memorial rites, good luck charms, talismans, and prayers for good things, and Buddhism will topple over. In their low assessment of the role of religion in Japan, Edwin Reischauer and Marius Jansen fail to take into account the importance of Buddhist funerals and rituals for practical benefits, but apart from these two areas, their harsh evaluation applies. “Contemporary Japanese life,” they write, “is thus full of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.14</book-part-id>
+                  <title-group>
+                     <title>Glossary of Chinese and Japanese Characters</title>
+                  </title-group>
+                  <fpage>349</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.15</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>363</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqn21.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>365</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

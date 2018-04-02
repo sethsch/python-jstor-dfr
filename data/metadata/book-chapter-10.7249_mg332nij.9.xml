@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">mg332nij</book-id>
+      <subj-group>
+         <subject content-type="call-number">HV6431.A67 2005</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Terrorists</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Organizational learning</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Terrorism</subject>
+         <subj-group>
+            <subject content-type="lcsh">Prevention</subject>
+            <subj-group>
+               <subject content-type="lcsh">Government policy</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+         <subject>Transportation Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Aptitude for Destruction, Volume 2</book-title>
+         <subtitle>Case Studies of Organizational Learning in Five Terrorist Groups</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Jackson</surname>
+               <given-names>Brian A.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Baker</surname>
+               <given-names>John C.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib3">
+            <name name-style="western">
+               <surname>Cragin</surname>
+               <given-names>Kim</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib4">
+            <name name-style="western">
+               <surname>Parachini</surname>
+               <given-names>John</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib5">
+            <name name-style="western">
+               <surname>Trujillo</surname>
+               <given-names>Horacio R.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib6">
+            <name name-style="western">
+               <surname>Chalk</surname>
+               <given-names>Peter</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>05</day>
+         <month>05</month>
+         <year>2005</year>
+      </pub-date>
+      <isbn content-type="ppub">9780833037671</isbn>
+      <isbn content-type="ppub">0833037676</isbn>
+      <isbn content-type="epub">9780833040770</isbn>
+      <isbn content-type="epub">0833040774</isbn>
+      <publisher>
+         <publisher-name>RAND Corporation</publisher-name>
+         <publisher-loc>Santa Monica, CA; Arlington, VA; Pittsburgh, PA</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2005</copyright-year>
+         <copyright-holder>RAND Corporation</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7249/mg332nij"/>
+      <abstract abstract-type="short">
+         <p>Better ways are needed to understand how terrorist groups increase their effectiveness and become more dangerous. Learning is the link between what a group wants to do and its ability to actually do it; therefore, a better understanding of group learning might contribute to the design of better measures for combating terrorism. This study analyzes current understanding of group learning and the factors that influence it. It presents detailed case studies of learning in five terrorist organizations and develops a methodology for ascertaining what and why groups have learned, providing insights into their learning processes.</p>
+      </abstract>
+      <counts>
+         <page-count count="214"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.2</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.4</book-part-id>
+                  <title-group>
+                     <title>Figures and Tables</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.5</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.6</book-part-id>
+                  <title-group>
+                     <title>Abbreviations and Acronyms</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER ONE</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jackson</surname>
+                           <given-names>Brian A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In today’s environment, the threat of terrorism¹ and insurgent violence,² including high-impact and unconventional attacks, is constant. The evolving nature of this threat has created the need for new ways to examine the terrorism problem and to analyze the behavior of terrorist groups. Novel approaches can provide new insights into the level of threat a group poses, expose unanticipated vulnerabilities, help anticipate how the group might change over time, and suggest potentially effective countermeasures.</p>
+                     <p>One such innovative approach is to examine terrorist organizational learning. Terrorist groups are organizations that operate in volatile environments where the ability to change is the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.8</book-part-id>
+                  <title-group>
+                     <title>Prologue</title>
+                  </title-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>Chapters Two through Six present case studies of organizational learning in five terrorist organizations. The studies draw on information available in the literature and expert interviews to explore the groups’ motivations for learning, the areas in which they have chosen to learn, the outcomes of their learning efforts, and—to the extent possible—how they carried out those efforts. In each case study, the author discusses the background of the group, its operations and tactics, its training efforts, its logistics, and its intelligence and operational security practices.</p>
+                     <p>Although the selected terrorist organizations have been studied extensively elsewhere, the information that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER TWO</label>
+                     <title>Aum Shinrikyo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Parachini</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>In 1995, a group known as Aum Shinrikyo used the chemical nerve agent sarin in an attack on the Tokyo subway. The attack marked a fundamental shift in the threat posed by terrorist groups. Prior to this event, terrorists had rarely crossed the threshold of using chemical agents as a weapon to inflict indiscriminate mass casualties. Equally unexpected, the group responsible for the attack was not a recognized terrorist organization, but a religious group that many viewed as a cult. Japanese authorities were surprised by the scale and scope of the group’s criminal and terrorist activities. In many ways, these</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER THREE</label>
+                     <title>Hizballah, the Party of God</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cragin</surname>
+                           <given-names>Kim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>This chapter examines Hizballah’s organizational learning from the group’s inception in 1982 until the Israeli withdrawal from southern Lebanon in May 2000. Hizballah’s learning can be divided into three distinct phases. In the first phase, from 1983 to 1988, there was relatively limited incremental learning, most of which can be attributed to training from external actors or was unique to a few isolated militias. The second phase, from 1989 to 1995, was a time of substantial incremental<italic>and</italic>discontinuous or transformational learning. During this phase, Hizballah’s leadership re-organized its structure in response to Israeli counterterrorism successes, and it also established</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FOUR</label>
+                     <title>Jemaah Islamiyah</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Baker</surname>
+                           <given-names>John C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Jemaah Islamiyah (JI) is a militant Islamist group operating in Southeast Asia that uses terrorism to pursue its goal of creating a pan-Asian Islamic state centered in Indonesia. JI has been closely linked with al Qaeda, both before and since the 9/11 attacks. In recent years, JI operatives are suspected of having undertaken major bombing operations in Indonesia, the Philippines, and Singapore. Since 2001, many JI leaders and members have been arrested, convicted, and imprisoned, including the group’s spiritual leader, Abu Bakar Ba’asyir. Others have been killed resisting arrest. The remaining JI members have demonstrated a continuing ability to execute</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FIVE</label>
+                     <title>Provisional Irish Republican Army</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jackson</surname>
+                           <given-names>Brian A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>Even a cursory examination of the operational history of the Provisional Irish Republican Army (PIRA) reveals ample evidence of organizational change and evolution. Through its nearly 30-year history, the group has altered its tactics, manufactured new weapons, modified its targeting practices, and significantly changed its own structure to improve its security. PIRA has also devoted significant effort to circumventing or defeating systems and technologies deployed by security forces in their counterterrorism efforts.</p>
+                     <p>PIRA stands out from other terrorist organizations in both the quality and scope of its learning capabilities. Hogan and Taylor note that “the remarkable evolution of this organisation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER SIX</label>
+                     <title>The Radical Environmentalist Movement</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Trujillo</surname>
+                           <given-names>Horacio R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>The Earth Liberation Front (ELF), the Animal Liberation Front (ALF), and other elements of the radical environmentalist movement¹ are considered by the U.S. Federal Bureau of Investigation (FBI) to be the nation’s top domestic terrorism threat (Lewis, 2004). While the prominence of radical environmentalist organizations on the FBI watch list is reason in itself to be concerned with how these organizations learn and evolve, this concern is even more pressing in light of the increasing pace and destructiveness of attacks attributed to them each year.</p>
+                     <p>Understanding organizational learning among the ELF, the ALF, and other radical environmentalist elements is also</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.14</book-part-id>
+                  <title-group>
+                     <title>Prologue</title>
+                  </title-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>An understanding of how terrorist organizations change over time could make an important contribution to better characterization of the terrorist threat and to development of improved responses to the actions of these organizations. The five case studies presented in Part I provide an empirical foundation for that understanding. The case groups—chosen to cover the spectrum of terrorist and insurgent groups—vary in their characteristics, including religious, ethno-nationalist, single issue, and apocalyptic motivations. They range from large insurgencies to small clandestine groups; some are state-sponsored and some are not; some have pursued unconventional weapons. And they represent a range of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER SEVEN</label>
+                     <title>Theory:</title>
+                     <subtitle>Organizational Learning as a Four-Component Process</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Trujillo</surname>
+                           <given-names>Horacio R.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jackson</surname>
+                           <given-names>Brian A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>In research on the performance of organizations, significant attention has been devoted to examining the factors that make some organizations better learners than others. To better understand the factors that affect terrorist groups’ ability to learn, this study draws on the conceptual and analytical resources provided by the rich body of literature on organizational learning. This chapter reviews concepts and models drawn from that literature. In Chapter Eight, those concepts and models are applied to the results of the case studies of Part I.¹</p>
+                     <p>We have defined organizational learning as a process through which members of a group acquire new</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER EIGHT</label>
+                     <title>Application:</title>
+                     <subtitle>The Four Components of Organizational Learning in the Case Study Groups</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jackson</surname>
+                           <given-names>Brian A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>A complete understanding of organizational learning in terrorist groups requires going beyond simply describing their motivations for learning, the areas in which they learned, and how effectively they learned. Though such descriptions are the essential first step toward being able to understand how a group may evolve and adapt in the future, a fully educated assessment of that future behavior and the likelihood that a group will be successful in implementing its plans requires more. It requires an understanding of<italic>how</italic>these groups learn.</p>
+                     <p>The four-component organizational learning model—acquisition, interpretation, distribution, and storage—provides a useful way to break</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mg332nij.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER NINE</label>
+                     <title>Concluding Observations</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jackson</surname>
+                           <given-names>Brian A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>The terrorist groups examined in this study clearly illustrate the importance of organizational learning capability as a component in threat assessment. The danger posed by many of these groups was closely linked to their ability to learn, and learning failures in some of them bounded the level of damage and injury they could cause.</p>
+                     <p>The experience of the case study groups also demonstrates that organizational learning is not a simple process, for either the groups attempting to carry it out or the analysts seeking to understand their efforts to do so. The specific ways organizational learning is accommplished impose tradeoffs</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

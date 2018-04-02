@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqq5c</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL809.Z9A25 1996</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Izumi, Kyōka, 1873–1939</subject>
+         <subj-group>
+            <subject content-type="lcsh">Translations into English</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Japanese Gothic Tales</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Kyōka</surname>
+               <given-names>Izumi</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <role>Translated by</role>
+            <name name-style="western">
+               <surname>Inouye</surname>
+               <given-names>Charles Shirō</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>06</month>
+         <year>1996</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824817374</isbn>
+      <isbn content-type="epub">9780824863098</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1996</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqq5c"/>
+      <abstract abstract-type="short">
+         <p>Resisting the various forms of realism popular during the Meiji "enlightenment," Izumi Kyoka (1873-1939) was among the most popular writers who continued to work in the old-fashioned genres of fantasy, mystery, and romance. Gothic Tales makes available for the first time a collection of stories by this highly influential writer, whose decadent romanticism led him to envision an idiosyncratic world--a fictive purgatory --precious and bizarre though always genuine despite its melodramatic formality. The four stories presented here are among Kyoka's best-known works. They are drawn from four stages of the author's development, from the "conceptual novels" of 1895 to the fragmented romanticism of his mature work. In the way of introduction, Inouye presents a clear analysis of Kyoka's problematic stature as a "great gothic writer" and emphasizes the importance of Kyoka's work to the present reevaluation of literary history in general and modern Japanese literature in particular. The extensive notes that follow the translation serve as an intelligent guide for the reader, supplying details about each of the stories and how they fit into the pattern of mythic development that allowed Kyoka to deal with his fears in a way that sustained his life and, as Mishima Yukio put it, pushed the Japanese language to its highest potential.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqq5c.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqq5c.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqq5c.3</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>THE FAMILIARITY OF STRANGE PLACES</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The comparison can be misleading, but it is a useful one to make for those who are unfamiliar with the general contours of Japanese literature: in the way that American scholars have had to ponder the stature of Edgar Allan Poe, readers of Japanese literature have had to wonder about how best to understand the accomplishments of Izumi Kyōka (1873–1939), another writer whose influence seems out of proportion with the category he has been customarily allotted by literary history. Kyōka’s writing flows from assumptions very different from those that provide the bedrock for Poe’s dank and desolate creations, but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqq5c.4</book-part-id>
+                  <title-group>
+                     <title>The Surgery Room</title>
+                     <subtitle>(Gekashitsu, 1895)</subtitle>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>The surgery was to take place at a certain hospital in the Tokyo suburbs, and the Countess Kifune was the patient on whom my dear friend Doctor Takamine was to perform the operation. Driven by curiosity, I imposed upon Takamine to allow me to attend. In order to present my case as strongly as possible, I concocted an argument about my being an artist and why seeing the surgery would be useful to me. In the end, I prevailed.</p>
+                     <p>I left my house at a little after nine that morning and rushed by rickshaw to the hospital. Once inside the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqq5c.5</book-part-id>
+                  <title-group>
+                     <title>The Holy Man of Mount Kōya</title>
+                     <subtitle>(Kōya hijiri, 1900)</subtitle>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>“I knew it wouldn’t do much good to take another look. But because the road had become unimaginably difficult, I lifted the sleeves of my kimono, made hot to the touch by the sun’s rays, and reached in for the ordinance survey map that I had brought with me.</p>
+                     <p>“There I was on an isolated byway, making my way through the deep mountains between Hida and Shinshū. Not a single tree offered the comfort of its shade; and on both sides were nothing but mountains, rising so close and so steeply that it seemed as though I could reach out</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqq5c.6</book-part-id>
+                  <title-group>
+                     <title>One Day in Spring</title>
+                     <subtitle>(Shunchū and Shunchū gokoku, 1906)</subtitle>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>“Who, me?”</p>
+                     <p>The still of the spring day, no doubt, had made it possible for the reply to come so quickly, like an echo to the wanderer’s “Excuse me, sir.” How else could it be? The old man, wearing a loosely fitting headband on his wrinkled forehead, had a sleepy, almost drunken expression as he calmly worked the soft ground warmed by the sun. The damp and sweaty plum blossoms nearby, a flame ready to flutter away into the crimson sunset, swayed brilliantly with the chatter of small birds. Their voices sounded like conversation, but the old man, even in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqq5c.7</book-part-id>
+                  <title-group>
+                     <title>Osen and Sōkichi</title>
+                     <subtitle>(Baishoku kamonanban, 1920)</subtitle>
+                  </title-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>I’m embarrassed to say that the first thing that caught his eye was the scarlet of her crepe undergarment, bright as flame and dappled with cinnabar. Her skirts weren’t folded back but hiked up high and held between her knees, allowing the crepe slip to flow softly down, hugging her white ankles, which were apparently being spared the kimono’s unpleasant wetness. On her bare feet, so white they brightened the crimson around them, the woman wore thick, lacquered clogs, fastened with wisteria-colored thongs and splashed with mud. With one thigh twisted inward and feet slightly pigeon-toed, she sat in a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqq5c.8</book-part-id>
+                  <title-group>
+                     <title>Afterword:</title>
+                     <subtitle>A DISCUSSION OF THE TALES</subtitle>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>Kyōka’s first published work was<italic>Crowned Yazaemon (Kanmuri Yazaemon)</italic>, which appeared serially in the literary column of the<italic>Kyoto Morning News (Kyōtō hinode shinbun)</italic>. Beginning its run on October 1, 1892, it turned out to be far from the great success for which Kyōka had hoped. In fact, so poorly was the novella received that Iwaya Sazanami (1870–1933), a Ken’yūsha writer who had become the literary editor of the newspaper, immediately received over twenty letters from disappointed readers, all asking that the story be discontinued. Sazanami implored Ozaki Kōyō (1868–1903), who was Kyōka’s mentor and the one who</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqq5c.9</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jjapanesestudies</journal-id>
+         <journal-id journal-id-type="jstor">j100501</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Japanese Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Society for Japanese Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00956848</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/133313</article-id>
+         <title-group>
+            <article-title>Magical Realism and the Search for Identity in the Fiction of Murakami Haruki</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Matthew C.</given-names>
+                  <surname>Strecher</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1999</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">25</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i207560</issue-id>
+         <fpage>263</fpage>
+         <lpage>298</lpage>
+         <page-range>263-298</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1999 The Society for Japanese Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/133313"/>
+         <abstract>
+            <p>This article is concerned with how Murakami Haruki has used the techniques of "magical realism" to challenge and explore the concept of individual identity in Japan. It argues that Murakami's raison d'etre as a writer is to expose the steady decay of individual identity in members of the generation born immediately after the Second World War, and in each succeeding generation thereafter. In doing so, the article suggests a plausible explanation for the fact that while Murakami's works were initially aimed at his own generation-the youngest to participate in the Zenkyoto movement-they remain consistently popular with readers between the ages of 20 and 30.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

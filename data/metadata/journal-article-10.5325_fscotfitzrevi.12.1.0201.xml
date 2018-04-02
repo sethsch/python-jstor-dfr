@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="other" dtd-version="1.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">fscotfitzrevi</journal-id>
+         <journal-title-group>
+            <journal-title content-type="full">The F. Scott Fitzgerald Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Pennsylvania State University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">15433951</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">17556333</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">fscotfitzrevi.12.1.0201</article-id>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.5325/fscotfitzrevi.12.1.0201</article-id>
+         <title-group>
+            <article-title>Current Bibliography</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <surname>Alexander</surname>
+                  <given-names>Jeanne M.</given-names>
+               </string-name>
+            </contrib>
+            <bio xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+               <p>
+                  <bold>Jeanne M. Alexander</bold>,<italic>The F. Scott Fitzgerald Review</italic>'s bibliographer, worked for nearly a decade as editorial assistant on the Cambridge Edition of the Works of F. Scott Fitzgerald. She is currently an assistant editor for the Hemingway Letters Project.</p>
+            </bio>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>2014</year>
+            <string-date>2014</string-date>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink">12</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">fscotfitzrevi.12.1.issue-1</issue-id>
+         <fpage>201</fpage>
+         <lpage>206</lpage>
+         <permissions>
+            <copyright-statement>Copyright © 2014 by The Pennsylvania State University. All rights reserved.</copyright-statement>
+            <copyright-year>2014</copyright-year>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/10.5325/fscotfitzrevi.12.1.0201"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

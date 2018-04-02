@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">orth14674</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN3491.C626 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">Translations into English</subject>
+            <subj-group>
+               <subject content-type="lcsh">Bibliography</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Complete Review Guide to Contemporary World Fiction</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>ORTHOFER</surname>
+               <given-names>M. A.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>19</day>
+         <month>04</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="epub">9780231518505</isbn>
+      <isbn content-type="epub">0231518501</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>M. A. Orthofer</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/orth14674"/>
+      <abstract abstract-type="short">
+         <p>This user-friendly resource is the perfect reference for English-language readers who are eager to explore fiction from around the world. Profiling hundreds of titles and authors from 1945 to today, with an emphasis on fiction published in the past two decades, this guide introduces the styles, trends, and genres of the world's literatures, from Scandinavian crime thrillers and cutting-edge Chinese works to Latin American narco-fiction and award-winning French novels.</p>
+         <p>The book's critical selection of titles defines the arc of a country's literary development. Entries illuminate the fiction of individual nations, cultures, and peoples, while concise biographies sketch the careers of noteworthy authors. Compiled by M. A. Orthofer, an avid book reviewer and the founder of the literary review site the<italic>Complete Review</italic>, this reference is perfect for readers who wish to expand their reading choices and knowledge of contemporary world fiction.</p>
+      </abstract>
+      <counts>
+         <page-count count="496"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.3</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>More than anywhere else in the world, it is domestic fiction that dominates bookstore shelves, best-seller lists, and media and review coverage in the United States. Tens of thousands of new works of fiction are published annually here, the vast majority by American authors. Most of the rest were also originally written in English, and only a few hundred are translated works of fiction.¹ In almost every other country, foreign literature occupies a central and prominent position, but in the United States it seems to sit far more precariously on the fringes. Because American authors provide an enormous amount and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.4</book-part-id>
+                  <title-group>
+                     <title>France, Belgium, and Switzerland</title>
+                  </title-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>For more than a century, more literature has consistently been translated from French into English than from any other language. With Honoré de Balzac (1799–1850), Victor Hugo (1802–1885), Alexandre Dumas, père (1802–1870), Gustave Flaubert (1821–1880), and Emile Zola (1840–1902), as well as the science fiction pioneer Jules Verne (1828–1905), the French claimed many of the leading novelists of the nineteenth century. French authors have continued to play a significant and prominent role in the world republic of letters in the twentieth and twenty-first century, but in more recent times fewer individuals stand out, with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.5</book-part-id>
+                  <title-group>
+                     <title>Spain and Portugal</title>
+                  </title-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>Miguel de Cervantes’s (1547–1616) Don Quixote (1604/1615, most recently translated in English in 2003 and 2005) is widely considered the first novel of modern Western civilization and remains a cornerstone of contemporary fiction. Fiction flourished in the Spain of that time, with Cervantes just one of many prolific writers, but the mountain that is<italic>Don Quixote</italic>seems to have turned out to be as much a stumbling as a building block for subsequent Spanish authors.</p>
+                     <p>Much of the twentieth century was a relatively barren time in Spain and Portugal while both countries endured increasingly sclerotic authoritarian rule. One individual</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.6</book-part-id>
+                  <title-group>
+                     <title>Italy</title>
+                  </title-group>
+                  <fpage>70</fpage>
+                  <abstract>
+                     <p>Much of Italian fiction has been translated into English, but on the whole, Italian writers do not seem to have been able to establish themselves as firmly in the English-speaking world as have those from France, Germany, and Russia. Even the greatest prose classics, such as Alessandro Manzoni’s (1785–1873)<italic>The Betrothed</italic>(1827, English 1828 and numerous times since), are not widely read, and a prominent author like Luigi Pirandello (1867–1936) is best known for his plays while his worthwhile fiction is generally neglected. The range of novels, from the comic self-examination in Italo Svevo’s (1861–1928)<italic>Confessions of</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.7</book-part-id>
+                  <title-group>
+                     <title>Greece</title>
+                  </title-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>The ancient Greek classics remain foundations of Western literature, but more recent Greek literature has had a far smaller reach. Greek poetry did flourish in the twentieth century: both Giorgos Seferis (1900–1971) and Odysseas Elytis (1911–1996) were awarded Nobel Prizes, and other major figures included the great C. P. Cavafy (1863–1933) and Yannis Ritsos (1909–1990). While the work of major Greek poets has consistently been translated, much less attention has been paid to Greek novelists. Especially in recent decades, little of the leading fiction published in Greece has been visible abroad. Many contemporary authors still can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.8</book-part-id>
+                  <title-group>
+                     <title>Germany, Austria, and Switzerland</title>
+                  </title-group>
+                  <fpage>84</fpage>
+                  <abstract>
+                     <p>French and Russian fiction dominated nineteenth-century Continental European literature, and German fiction came into its own at the beginning of the twentieth century. Franz Kafka (1883–1924) and Thomas Mann (1875–1955) remain among the most influential writers in Germany and beyond, their distinctive styles still attracting many imitators. Hermann Hesse (1877–1962) no longer enjoys quite the popularity he did a few decades ago, though his work has qualities beyond the introspective spiritual aspects that accounted for much of their original appeal. The works by authors who captured the era that ended with the collapse of Central Europe held</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.9</book-part-id>
+                  <title-group>
+                     <title>Netherlands and Belgium</title>
+                  </title-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>Before World War II, few Dutch or Flemish authors figured prominently in the world republic of letters. The versatile Louis Couperus (1863–1923), who reveled in the fin de siècle and was arguably more attuned to English and French than Dutch tastes, was deservedly popular abroad, but the few authors whose works have endured are an eclectic bunch. Arguably the great Dutch novel of the nineteenth century, Multatuli’s (Eduard Douwes Dekker, 1820–1887)<italic>Max Havelaar</italic>(1860, English 1927, 1967) is a playfully subversive and stylistically very modern work of fiction. While its criticism of Dutch colonialism (in what is now</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.10</book-part-id>
+                  <title-group>
+                     <title>Scandinavia</title>
+                  </title-group>
+                  <fpage>108</fpage>
+                  <abstract>
+                     <p>Maybe it is the long winter nights and the cold, but a slightly gloomy pall seems to hang over the fiction from the Scandinavian countries, reinforced by the works of some of the region’s best-known artists: Ingmar Bergman’s black-and-white films, Edvard Munch’s paintings of<italic>The Scream</italic>, and plays and novels by writers such as Henrik Ibsen (1828–1906), August Strindberg (1849–1912), and Knut Hamsun (1859–1952). Even now, with a wave of crime fiction from the region appearing in translation, the focus is, as the genre demands, on the bleak and darker side of life.</p>
+                     <p>Despite their small populations—Sweden is the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.11</book-part-id>
+                  <title-group>
+                     <title>Baltic States</title>
+                  </title-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>In recent centuries, the small Baltic states have only enjoyed brief periods of independence: for about two decades between the two world wars and since the collapse of the Soviet Union. Until recently, aside from a few anthologies, very little fiction from the region had been translated into English, from either the Soviet period or afterward.</p>
+                     <p>Estonia is the smallest of the Baltic nations, but its fiction is the best represented in English, and Jaan Kross (1920–2007) is the region’s best-known author. His collection<italic>The Conspiracy and Other Stories</italic>(1988, English 1995) deals with hardships during World War II</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.12</book-part-id>
+                  <title-group>
+                     <title>Eastern Europe I</title>
+                  </title-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>After the collapse of Communism, Czechoslovakia, Hungary, and Poland made the transition to free-market democracies more smoothly than did most of the other former Sovietbloc nations. Here, too, the domestic literary marketplace was completely overturned as well. For four decades, the state’s control of publishing, from editorial decisions to the size of print runs, had been pervasive, albeit also affording writers who worked within the system considerable security. Books were inexpensive, and a literary culture was actively (if very circumspectly) fostered. Then with the collapse of the Communist regimes, many restrictions (and much support) fell away. Publishers flooded the market</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.13</book-part-id>
+                  <title-group>
+                     <title>Eastern Europe II</title>
+                  </title-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>Under the rule of Enver Hoxha from the end of World War II until his death in 1985, Albania was the most isolated nation in Europe, a totalitarian state essentially cut off from the rest of the world. Even its closest allies, the Soviet Union and then China, began to distance themselves when they began to liberalize after the deaths of Stalin and Mao. Perhaps not surprisingly, in Albania there was less emphasis on fostering the arts than in many Communist nations, but stricter adherence to socialist realism. Even in the post-Communist era, Albania supports only a relatively small literary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.14</book-part-id>
+                  <title-group>
+                     <title>Russia, Soviet Union, and Central Asia</title>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>The late nineteenth century may have been the heyday of Russian literature, with the novels of Fyodor Dostoyevsky (1821– 1881) and Leo Tolstoy (1828–1910) and the short stories of Anton Chekhov (1860–1904) on any short list of literary classics of the modern era. But even during the long Soviet period (1917–1991), a considerable amount of remarkable work was written. Dissident voices, in particular, attracted attention in the West, but since the collapse of the Soviet Union, few contemporary Russian authors besides Boris Akunin (b. 1956), with his historical detective fiction, and Victor Pelevin (b. 1962) are widely</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.15</book-part-id>
+                  <title-group>
+                     <title>United Kingdom and Ireland</title>
+                  </title-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>British fiction has always had great variety, even though much of it is Anglo-centric, usually English. Even when the colonial experience provided new perspectives, works such as E. M. Forster ’s (1879–1970) A Passage to India (1924), George Orwell’s (1903–1950)<italic>Burmese Days</italic>(1934), and Anglo-Irish author Joyce Cary ’s (1888–1957)<italic>Mister Johnson</italic>(1939) remained distinctly English at their hearts. In recent decades, however, the British retreat from colonial governance has invigorated writing throughout the Commonwealth, and British writing as a whole has become much less insular. Even though the colonial heritage is only slowly being shaken off,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.16</book-part-id>
+                  <title-group>
+                     <title>Southern Africa</title>
+                  </title-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Several of the nations in southern Africa were among the last on the continent to gain independence, Zimbabwe in 1980 and Namibia only in 1990. The largest country in the region, South Africa, remained a pariah state until 1994, when it finally ended its policy of racial segregation (apartheid). But even during apartheid, South Africa was a significant political, economic, and cultural power in the region and exerted considerable influence. The most developed regional book market was (and continues to be) in South Africa, but until 1994, due to apartheid, opportunities for authors who were not white were limited. Throughout</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.17</book-part-id>
+                  <title-group>
+                     <title>Central Africa</title>
+                  </title-group>
+                  <fpage>208</fpage>
+                  <abstract>
+                     <p>Conditions in Central Africa have rarely been conducive to the development of any sort of book culture. Dominated by the huge but war-wracked Democratic Republic of the Congo—the successor state to the Belgian Congo, where Joseph Conrad (1857–1924) set his<italic>Heart of Darkness</italic>(1902)—much of Central Africa remains unstable, as neighboring states are constantly pulled into the decadeold conflict in the Congo. Some of the nations further removed from those hostilities are arguably too stable, controlled by some of the world’s longest-serving autocrats: Equatorial Guinea’s Teodoro Obiang Nguema Mbasogo has led his nation since 1979, and Gabon’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.18</book-part-id>
+                  <title-group>
+                     <title>East Africa</title>
+                  </title-group>
+                  <fpage>216</fpage>
+                  <abstract>
+                     <p>In the 1960s, East Africa—particularly Kenya and Uganda—became a hub of early postcolonial literature in Africa. A local publishing industry and a relatively large readership helped foster a writing culture, and the University of East Africa, specifically the campus of what is now Makerere University, was a major African literary center at that time. In the late 1960s, the future Nobel laureate V. S. Naipaul was a writer in residence in Makerere, and Paul Theroux taught there. But now only a few writers from the region are well known outside Africa, principally Kenyan wa Thiong’o (b. 1938) and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.19</book-part-id>
+                  <title-group>
+                     <title>West Africa</title>
+                  </title-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>Nigeria is the dominant power in West Africa, in literary and in almost all other respects, but it is far from the only country in the area from which significant fiction has emerged. Political instability and undemocratic rule have obviously hindered economic and cultural development in many West African nations since independence and, in some cases, have completely stifled artistic work. Paris and London remain the literary conduits for the best-known writers from the region, but local publishers and cultural centers also are helping sustain writing there.</p>
+                     <p>Nigeria is by far Africa’s most populous nation and has long been one</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.20</book-part-id>
+                  <title-group>
+                     <title>Lusophone Africa</title>
+                  </title-group>
+                  <fpage>242</fpage>
+                  <abstract>
+                     <p>Long after most of the French and British colonies in Africa had gained independence, Portugal still clung to the scattered territories it nominally controlled. Guinea-Bissau was the first to break free, in 1973, and after the Portuguese Carnation Revolution of 1974 that finally saw the overthrow of the fascist government in Portugal, the other colonies also gained independence. Stability was more elusive. The insurgencies that had started in 1961 were succeeded by the devastating civil wars that persisted in Mozambique until 1992 and in Angola, with a brief hiatus after 1991, until 2002. Not surprisingly, under these conditions, these countries</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.21</book-part-id>
+                  <title-group>
+                     <title>Arabic-Speaking Countries</title>
+                  </title-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>Arabic is only one of the official languages in a wide corridor of countries stretching from Morocco to Iraq, and these countries’ cultural, historical, and political differences have, in turn, led to different literary traditions. Poetry was long the preferred literary form, and even though the region’s storytelling tradition extends far beyond the<italic>Arabian Nights</italic>, the novel is considered a relative upstart. Until recently, little contemporary fiction of any kind had emerged from the Arab Gulf States. In the nations of the Maghreb, French remains the dominant literary language in regard to the fiction that reaches Europe and America. Egypt,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.22</book-part-id>
+                  <title-group>
+                     <title>Israel</title>
+                  </title-group>
+                  <fpage>271</fpage>
+                  <abstract>
+                     <p>Fiction from Israel appears to be better represented, per capita, in English translation than that from any other country or language. The large English-speaking Jewish population that lives outside Israel but maintains close ties to it is a natural audience, but much of the literature also appeals to other readers.</p>
+                     <p>Hebrew became a medium for fiction only in the twentieth century, and in particular with the establishment of the Israeli state, creating a literature that, even with its frequent biblical references and echoes, often feels very young. With successive waves of immigration, most recently from the former Soviet Union, literary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.23</book-part-id>
+                  <title-group>
+                     <title>Turkey</title>
+                  </title-group>
+                  <fpage>278</fpage>
+                  <abstract>
+                     <p>Despite a long and rich literary tradition, little Turkish fiction seems to have made much impression abroad until the Nobel Prize in Literature was awarded to Orhan Pamuk (b. 1952) in 2006. A recent surge of translation has, however, made clear that a great deal of interesting literature has emerged in Turkey in recent decades.</p>
+                     <p>Among the best-known Turkish authors is the poet Nazým Hikmet (1902– 1963). His epic novel in verse,<italic>Human Landscapes from My Country</italic>(1967, English 2002), written while he was imprisoned in the 1940s but published posthumously, is a remarkable achievement, delivering on the promise of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.24</book-part-id>
+                  <title-group>
+                     <title>Iran and Afghanistan</title>
+                  </title-group>
+                  <fpage>284</fpage>
+                  <abstract>
+                     <p>A theocratic state and self-described Islamic republic since 1979, in which a single government ministry is responsible for (and presumably seeks to reconcile) culture and Islamic guidance, Iran is not a nation where Westerners would expect much artistic freedom or expression. Yet even though censorship and the withholding of publication permits continue to be pervasive, the Iranian literary scene is well developed and very active, especially compared with that of much of the Middle East and Central Asia. Moreover, the Iranian Revolution of 1979 did not mark an abrupt break and reactionary crackdown, just a shift in what would be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.25</book-part-id>
+                  <title-group>
+                     <title>Indian Subcontinent</title>
+                  </title-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>Since the publication of Salman Rushdie’s (b. 1947)<italic>Midnight’s Children</italic>(1981), English-language fiction by writers from the Indian subcontinent has enjoyed increasing popularity, but even before then, several authors from the region had become established internationally. Though the relatively widespread use of the colonial language has facilitated access to the wider markets, the first great twentieth-century authors from what was then British-ruled India did not write primarily in English. Bengali author and 1913 Nobel laureate Rabindranath Tagore (1861–1941) did translate some of his own work into English and was best known for his poetry, but he was also a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.26</book-part-id>
+                  <title-group>
+                     <title>Southeast Asia I</title>
+                  </title-group>
+                  <fpage>313</fpage>
+                  <abstract>
+                     <p>Almost no fiction from the Southeast Asian nations extending from Burma (Myanmar) to Vietnam is accessible to English-speaking readers, despite the strong literary traditions in several of these countries. Political isolation offers a partial explanation, as some of these countries have, to varying degrees, closed themselves off from engaging with the outside world for extended periods of time. Yet even fiction from Thailand, by far the most open of them, is seldom available in English translation. The publishing industry and writing culture are still underdeveloped in relatively small Laos and Cambodia, but both Myanmar and Vietnam have a very active</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.27</book-part-id>
+                  <title-group>
+                     <title>Southeast Asia II</title>
+                  </title-group>
+                  <fpage>321</fpage>
+                  <abstract>
+                     <p>Malaysia is a multiethnic nation in which a quarter of the population is of Chinese descent and which also has a significant Indian (mainly Tamil) minority. While Malay is the official language, English is widely spoken, and there also are numerous outlets for authors writing in Chinese and Indian languages. As with the writing from other countries in the region, fiction by authors who write in English and have spent significant time abroad dominates what is available to English-speaking readers outside Malaysia. Very little has been translated from the other widely spoken languages.</p>
+                     <p>English author<italic>Anthony Burgess</italic>(1917–1993) spent</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.28</book-part-id>
+                  <title-group>
+                     <title>China, Tibet, and Taiwan</title>
+                  </title-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>Mainland China has undergone several radical transformations in little more than a hundred years, from the collapse of its empire through periods of foreign occupation and international isolation to its reemergence as one of the world’s great economic powers. The post-Maoist years have seen what seems like nearly unfettered and still accelerating expansion in many spheres of life there. Rapid urban and economic growth are the most obvious manifestations, but this transformation also extends to film, the fine arts, and literature. For centuries, Chinese fiction has reached English-speaking readers only haphazardly, making it difficult to get much sense of this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.29</book-part-id>
+                  <title-group>
+                     <title>Japan</title>
+                  </title-group>
+                  <fpage>348</fpage>
+                  <abstract>
+                     <p>After centuries of self-imposed and almost complete isolation, Japan signed the first of several treaties in 1854 opening the country to both international trade and culture. By the early twentieth century, contemporary Japanese writing, often shaped by European and American influences, attracted considerable attention abroad. Among the literatures written in non-European languages, Japanese was easily the most prominent abroad during the twentieth century, and with authors ranging from Yukio Mishima (1925–1970) to Banana Yoshimoto (b. 1964) and Haruki Murakami (b. 1949), was the only one from which writers of both literary and popular fiction found large international audiences.</p>
+                     <p>With</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.30</book-part-id>
+                  <title-group>
+                     <title>South Korea and North Korea</title>
+                  </title-group>
+                  <fpage>363</fpage>
+                  <abstract>
+                     <p>A great deal of Korean literature remains inaccessible to English-speaking readers, and while the situation has begun to improve, the amount of modern fiction being translated conveys only a small sense of the very lively contemporary South Korean literary scene (and essentially none of the admittedly well-masked North Korean scene).</p>
+                     <p>Long overshadowed and often dominated by China and Japan, few of the classics from Korea have been able to compete with those of its neighbors for foreign interest.<italic>Three Generations</italic>(1931, English 2005), by Yom Sang-seop (1897–1963), one of the leading writers from the time of the Japanese occupation,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.31</book-part-id>
+                  <title-group>
+                     <title>Australia, New Zealand, and South Pacific</title>
+                  </title-group>
+                  <fpage>371</fpage>
+                  <abstract>
+                     <p>Australia now has a strong local publishing industry, but for a long time, many local authors depended on publishing abroad to reach a larger and more discerning readership. Indeed, many of the best-known Australian authors have benefited from living in proximity to the Englishspeaking publishing hubs of London and New York. Christina Stead (1902–1983), Shirley Hazzard (b. 1931), Janette Turner Hospital (b. 1942), and Peter Carey (b. 1943) all have spent much of their careers abroad. Even when writing about Australia, they and such bestselling authors as Colleen McCullough (1937–2015) and Morris West (1916–1999) often enjoyed their</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.32</book-part-id>
+                  <title-group>
+                     <title>Brazil</title>
+                  </title-group>
+                  <fpage>381</fpage>
+                  <abstract>
+                     <p>With a population as great as that of all the other South American nations combined and with the next largest, Argentina, having barely more than a fifth as many people, Brazil is the colossus of the continent; it also dwarfs Portugal, whose colony it once was. Despite sharing an Iberian heritage with many of its neighboring countries, Brazil’s official language is Portuguese, not Spanish. Demographically, Brazil was shaped by its legacy of historically being the largest importer of slaves in the Western Hemisphere. All these factors have helped develop a strong and self-sufficient literary culture and market.</p>
+                     <p>The Brazilian literary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.33</book-part-id>
+                  <title-group>
+                     <title>South America</title>
+                  </title-group>
+                  <fpage>388</fpage>
+                  <abstract>
+                     <p>Outside the continental giant, Portuguese-speaking Brazil, Spanish is the most widely spoken language in South America. The area has long had a rich literary tradition, though well into the twentieth century much of the fiction was regional (and often outright provincial). Jorge Luis Borges (1899–1986) was the first transcendent Spanish-writing author from this hemisphere, coming to international attention in the early 1960s, around the time the Latin American “Boom” began. Gabriel García Márquez’s (1927–2014)<italic>One Hundred Years of Solitude</italic>(1967, English 1970) is the landmark text of the Boom, and its magical realism spawned an enormous number of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.34</book-part-id>
+                  <title-group>
+                     <title>Mexico and Central America</title>
+                  </title-group>
+                  <fpage>410</fpage>
+                  <abstract>
+                     <p>Mexico is the northern giant of Latin American literature. Its sheer size, cultural and educational infrastructure, and comparatively stable and moderate political climate contribute to its dominant position in the region. Many authors from other Latin American countries, including the Colombians Gabriel García Márquez (1927–2014) and Álvaro Mutis (1923–2013), Honduras-born Guatemalan Augusto Monterroso (1921–2003), and Chilean Roberto Bolaño (1953–2003), settled there or had strong ties to the country, enhancing its position as a literary center.</p>
+                     <p>Although the much smaller Central American countries have long literary traditions, they have been much more isolated, with little available in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.35</book-part-id>
+                  <title-group>
+                     <title>Caribbean</title>
+                  </title-group>
+                  <fpage>419</fpage>
+                  <abstract>
+                     <p>With its many dispersed islands and languages, the literary world of the Caribbean—extending to the Dutch-, French-, and English-speaking outliers of South America (Suriname, French Guiana, and Guyana)—is an enormous hodgepodge. Although Cuban literature is a significant part of the Latin American tradition, until recently the country’s isolation from the United States has led to a relatively muted reception of Cuban fiction in the English-speaking world. Despite some sense of community in the Caribbean, fostered by regional publishers and organizations, its linguistic, cultural, and economic differences—in some instances, as in the case of Haiti and the Dominican</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.36</book-part-id>
+                  <title-group>
+                     <title>United States and Canada</title>
+                  </title-group>
+                  <fpage>433</fpage>
+                  <abstract>
+                     <p>In almost every nation in the world, fiction from other countries makes up a significant portion of the local market, but not so in the United States. Although English-language fiction from abroad, especially Great Britain, has a place, otherwise only a little foreign fiction is readily available or widely read. The vast annual output by American authors easily crowds out most foreign competition, and American fiction also thrives abroad, in both its most popular form—airport thrillers and the like—and more literarily demanding ones. The spread of English as the internationally most widely used language has also greatly increased</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.37</book-part-id>
+                  <title-group>
+                     <title>APPENDIX 1.</title>
+                     <subtitle>Translation into English, by the Numbers</subtitle>
+                  </title-group>
+                  <fpage>447</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.38</book-part-id>
+                  <title-group>
+                     <title>APPENDIX 2.</title>
+                     <subtitle>Supplemental Resources</subtitle>
+                  </title-group>
+                  <fpage>451</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">orth14674.39</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>465</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

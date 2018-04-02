@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="book-review"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">janimalethics</journal-id>
+         <journal-title-group>
+            <journal-title content-type="full">Journal of Animal Ethics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Illinois Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">21565414</issn>
+         <issn pub-type="epub">21601267</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">janimalethics.2.1.0107</article-id>
+         <article-id pub-id-type="doi">10.5406/janimalethics.2.1.0107</article-id>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Knight</surname>
+                  <given-names>Andrew</given-names>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>01</day>
+            <month>04</month>
+            <year>2012</year>
+            <string-date>Spring 2012</string-date>
+         </pub-date>
+         <volume>2</volume>
+         <issue>1</issue>
+         <issue-id>janimalethics.2.1.issue-1</issue-id>
+         <fpage>107</fpage>
+         <lpage>109</lpage>
+         <product>
+            <source>
+               <bold>The Three Rs and the Humanity Criterion: An Abridged Version of<italic>The Principles of Humane Experimental Technique</italic>
+               </bold>
+            </source>by<string-name>W. M. S. Russell and R. L. Burch</string-name>. By<string-name>Michael Balls</string-name>. (:<publisher-name>Fund for the Replacement of Animals in Medical Experiments</publisher-name>,<year>2009</year>.<fpage>131+xix</fpage>pp. Paperback.<price>£5</price>+ shipping:<price>£2–5</price>.<isbn>ISBN: 978-0-9501700-2-2</isbn>.)</product>
+         <permissions>
+            <copyright-statement>Copyright 2012 by the Board of Trustees of the University of Illinois</copyright-statement>
+            <copyright-year>2012</copyright-year>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.5406/janimalethics.2.1.0107"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="parsed-citations">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>Buchanan-Smith, H. M.</string-name>
+               </person-group>,<person-group person-group-type="author">
+                  <string-name>Rennie, A. E.</string-name>
+               </person-group>,<person-group person-group-type="author">
+                  <string-name>Vitale, A.</string-name>
+               </person-group>,<person-group person-group-type="author">
+                  <string-name>Pollo, S.</string-name>
+               </person-group>,<person-group person-group-type="author">
+                  <string-name>Prescott, M. J.</string-name>
+               </person-group>, &amp;<person-group person-group-type="author">
+                  <string-name>Morton, D. B.</string-name>
+               </person-group>(<year>2005</year>).<article-title>Harmonising the definition of refinement</article-title>.<source>
+                  <italic>Animal Welfare</italic>
+               </source>,<volume>14</volume>,<fpage>379</fpage>–<lpage>384</lpage>.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="journal">
+               <collab>European Union</collab>. (<year>2010</year>)<article-title>Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes</article-title>.<source>
+                  <italic>Official Journal of the European Union</italic>
+               </source>,<volume>276</volume>,<fpage>33</fpage>–<lpage>79</lpage>.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>Russell, W. M. S.</string-name>
+               </person-group>, &amp;<person-group person-group-type="author">
+                  <string-name>Burch, R. L.</string-name>
+               </person-group>(<year>1959</year>).<source>
+                  <italic>The principles of humane experimental technique</italic>
+               </source>.:<publisher-name>Methuen</publisher-name>.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">
+               <collab>U.S. Department of Agriculture, Animal and Plant Health Inspection Service, Animal Care</collab>. (<year>2011</year>).<article-title>Policy #12: Consideration of alternatives to painful/distressful procedures</article-title>. In<source>
+                  <italic>Animal care policy manual</italic>
+               </source>. Retrieved from<ext-link ext-link-type="uri"
+                         xlink:href="http://www.aphis.usda.gov/animal_welfare/policy.php">http://www.aphis.usda.gov/animal_welfare/policy.php</ext-link>.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

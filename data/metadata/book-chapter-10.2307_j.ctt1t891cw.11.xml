@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1t891cw</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Dark secrets of childhood</book-title>
+         <subtitle>Media power, child abuse and public scandals</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Powell</surname>
+               <given-names>Fred</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Scanlon</surname>
+               <given-names>Margaret</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>06</day>
+         <month>05</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9781447317876</isbn>
+      <isbn content-type="epub">1447317874</isbn>
+      <publisher>
+         <publisher-name>Policy Press</publisher-name>
+         <publisher-loc>Bristol</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Policy Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1t891cw"/>
+      <abstract abstract-type="short">
+         <p>Over the last few decades, public opinion has been traumatised by revelations of child abuse on a mass scale. It has become the major human rights story of the 21st century in Western society. This ground-breaking book explores the relationship between the media, child abuse and shifting adult–child power relations which, in Western countries, has spawned an ever-expanding range of laws, policies and procedures introduced to address the ‘explosion’ of interest in the issue of child abuse. Allegations of child sexual abuse by Roman Catholic clergy in Ireland – and its ‘cover-up’ by Church authorities – have given rise to one of the greatest institutional scandals of modern history. Through in-depth analysis of 20 years of media representation of the issue, the book draws significant insights on the media’s influence and its impact on civil society. Highly topical and of interest and relevance to lecturers and researchers in the areas of childhood studies, sociology of childhood, child protection and social work, social and public policy and human rights, as well as policymakers, this book provides an important contribution to the international debate about child abuse as reflected to the public through the power of the media.This ground-breaking book explores the relationship between the media, child abuse and shifting adult–child power relations which, in Western countries, has spawned an ever-expanding range of laws, policies and procedures introduced to address the ‘explosion’ of interest in the issue of child abuse.</p>
+      </abstract>
+      <counts>
+         <page-count count="256"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This classic fable tells us that child abuse is as old as civilisation itself. It also tells us that driven by emotion human beings are capable of transgressing the most deeply embedded cultural codes in society. Medea’s pursuit of revenge drove her to kill her innocent children. Her wanton violence amidst the pathos of this tragic tale is so shocking that it confronts us with deeply unsettling questions about humanity. It also highlights the uses and abuses of adult power over children. In doing so, the Medea fable touches on deeply embedded cultural taboos. Finally, the Medea narrative leaves us</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.5</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>The construction of child abuse as a social problem</title>
+                  </title-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>Over the last 50 years, there has been what is often described as an ‘explosion’ of interest in the issue of child abuse. In western countries an ever expanding range of laws, policies and procedures have been introduced to address this problem, while media coverage of child abuse scandals has at times reached saturation point. Revelations of child sexual abuse by Roman Catholic clergy – and its ‘cover-up’ by church authorities – have given rise to one of the greatest institutional scandals of modern history. Moreover, the paedophile has emerged as ‘the bogeyman of our age’ who inspires fear and public loathing,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.6</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>The public child</title>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>Over the last 40 years, public inquiries into welfare practice have become a familiar feature of western democracies, particularly in the field of child protection. While some of these are destined for relative obscurity, others become landmark cases, shaping policy and providing a benchmark for future inquiries. They become defining moments in our understanding of social issues, living on in popular memory long after the events themselves (Kitzinger, 2004). In this chapter, the discovery of child abuse in Ireland is explored through the lens of the Kilkenny incest case, which became a defining event in changing public discourse. We adopt</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.7</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>The Catholic Church, scandal and media</title>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Over the last 25 years, revelations of child sexual abuse by Roman Catholic clergy have given rise to one of the greatest institutional scandals of modern history. Sexual abuse by Catholic clergy has been reported across all five continents, though the countries that have received most attention are located in the ‘First World’, including the United States, Canada, Australia, the United Kingdom and Ireland, and more recently, Germany, Belgium, Austria, the Netherlands, France, Malta, Italy and Switzerland (Keenan, 2012: 3). The media played a key role in raising awareness of clerical child abuse in these countries by bringing this hitherto</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.8</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>The Ryan Report and the charity myth</title>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>The publication of the<italic>Report of the Commission to Inquire into Child Abuse</italic>(which will be referred to here as the Ryan Report) during 2009 was a seminal event, not only in the vindication of the human rights of survivors of child abuse in Irish reformatory and industrial schools, but also in the journey towards truth-telling about child abuse. The Ryan Report is 2,600 pages in length and is composed of five volumes. It contains the testimony of over 1,500 witnesses and when it was published it exposed a mephitic hole in Irish society. It is a powerfully revelatory document</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.9</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>Child abuse, cultural disbelief and the patriarchal family</title>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>These observations from the Ombudsman for Children in Ireland crystallise the public frustration and fatigue concerning child abuse reports. The paradox is that while child abuse reports expose deep flaws in the system of child protection, it doesn’t appear to improve – or does it? Are the tragedies that are investigated preventable? Do professionals, media and public hold shared understandings of who is responsible and what can be done to prevent child abuse? Is there a culture of disbelief about the social reality of child abuse? In this chapter, we seek answers from four Irish inquiries into child abuse by posing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.10</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>Rethinking children’s rights</title>
+                  </title-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>Professor Keane is widely regarded as one of the foremost authorities writing about civil society in the world. His argument that it is time to consider the emancipation of children from ‘age-patriarchy’ – involving an imbalance of power, control and resources between adults and children – therefore takes on a powerful resonance. John Keane’s argument also finds support among scholars working in the field of childhood studies. Chris Jenks (2005: 37) asserts that childhood is defined in terms of its ‘contingency’ (ie, power relationships between adult–child, parent–child, teacher–child and so on). David Buckingham (2000: 4) observes ‘the sacred garden</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.11</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>Child culture and risk society</title>
+                  </title-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>In the script of<italic>Monty Python and the Holy Grail</italic>(1975), fantasy and the surreal combine in an extraordinary comic satire. The film starts with King Arthur of the Britons recruiting knights to join him at Camelot. Arthur is joined by the wise Sir Bedemir and other ‘illustrious’ names follow, including: Sir Launcelot the Brave; Sir Galahad the Pure; and ‘Sir Robin the Not-quite-so-brave-as-Sir-Launcelot who had nearly fought the Dragon of Agnor, who nearly stood up to the Chicken of Bristol’. They are knights without horses and servants bang coconuts to imitate the sound of horses’ hooves. Instead of going</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.12</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>Angelmakers:</title>
+                     <subtitle>the hidden history of child abuse</subtitle>
+                  </title-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>The evidence cited in this quotation is from ‘the Disciplinarian’ at the notorious Letterfrack Industrial School, which also served as a ‘Junior Reformatory’. Located in the West of Ireland, Letterfrack is a classic example of the ‘othering’ of deprived children, in which the blame for child abuse is displaced on to the victim whose guilt arises from their stigma as ‘poor’. It is also, of course, an example of power dynamics, and a moral metaphor for the Irish Industrial and Reformatory School system. Michel Foucault (1967, 1980) exposed the power dynamics of ‘othering’ as a mechanism for legitimating abuse against</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.13</book-part-id>
+                  <title-group>
+                     <label>NINE</label>
+                     <title>The cultural politics of child abuse</title>
+                  </title-group>
+                  <fpage>265</fpage>
+                  <abstract>
+                     <p>This quotation, of words given as witness evidence to the Ryan Commission, testifies to the importance of the child’s voice or, in this case, its enforced silence. The Ryan Report (CICA, 2009: 4: 7.14 and 7.15) recommended that ‘children in care should be able to communicate without fear’, adding ‘childcare services depend on good communication’. The voice of the child is fundamental to good child protection practice. It is also a human rights concern that cannot be overstated. Child citizenship needs to be constitutionally acknowledged in a democratic society. Otherwise children become an oppressed minority, victimised by abuses of adult</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.14</book-part-id>
+                  <title-group>
+                     <label>TEN</label>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>277</fpage>
+                  <abstract>
+                     <p>Child abuse is not a recent phenomenon. The mistreatment of children – including infanticide, abandonment, severe physical punishment, prostitution and hard labour – has been recorded throughout history. While there is evidence to suggest that there has always been some degree of public and state concern over cruelty to children (Corby et al, 2012), this issue really only began to be recognised as a major social problem during the late 19th century. Philanthropic organisations in Britain and Ireland, most notably the National Society for the Prevention of Cruelty to Children (NSPCC), were set up to meet the needs of poorer children and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.15</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>283</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>297</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t891cw.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>310</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

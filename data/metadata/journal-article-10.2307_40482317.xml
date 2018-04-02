@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">perspecta</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100462</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Perspecta</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The MIT Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00790958</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">40482317</article-id>
+         <title-group>
+            <article-title>The Wrong Story</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Keller</given-names>
+                  <surname>Easterling</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2008</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">41</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40021196</issue-id>
+         <fpage>74</fpage>
+         <lpage>82</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2008 Perspecta, The Yale Architectural Journal, Inc., and Yale University</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/40482317"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1160e144a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1160e151" publication-type="other">
+Paul Virilio and Sylvère Lotringer,
+Pure War (New York: Semiotext(e), 1983
+and 1997), 14, 17.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1160e164a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1160e171" publication-type="other">
+Armand Mattelart, Mapping World Com-
+munication: War, Progress, Culture (London:
+University of Minnesota Press, 1994), 243.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1160e184a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1160e193" publication-type="other">
+Alfred D. Chandler Jr., The Visible
+Hand: The Managerial Revolution in Ameri-
+can Business (Cambridge, Mass.: Harvard
+University Press, 1977), 204-5</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1160e209a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1160e216" publication-type="other">
+Mattelart, Mapping World Communica-
+tion, 20.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

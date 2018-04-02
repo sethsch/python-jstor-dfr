@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1njj84</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1xwdz5</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Horror to the Extreme</book-title>
+         <subtitle>Changing Boundaries in Asian Cinema</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Choi</surname>
+               <given-names>Jinhee</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Wada-Marciano</surname>
+               <given-names>Mitsuyo</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>06</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9789622099722</isbn>
+      <isbn content-type="epub">9789888052370</isbn>
+      <publisher>
+         <publisher-name>Hong Kong University Press, HKU</publisher-name>
+         <publisher-loc>Aberdeen, Hong Kong</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>Hong Kong University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1xwdz5"/>
+      <abstract abstract-type="short">
+         <p>This book compares production and consumption of Asian horror cinemas in different national contexts and their multidirectional dialogues with Hollywood and neighboring Asian cultures. Individual essays highlight common themes including technology, digital media, adolescent audience sensibilities, transnational co-productions, pan-Asian marketing techniques, and variations on good vs. evil evident in many Asian horror films. Contributors include Kevin Heffernan, Adam Knee, Chi-Yun Shin, Chika Kinoshita, Robert Cagle, Emilie Yeh Yueh-yu, Neda Ng Hei-tung, Hyun-suk Seo, Kyung Hyun Kim, and Robert Hyland.</p>
+      </abstract>
+      <counts>
+         <page-count count="284"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.3</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Choi</surname>
+                           <given-names>Jinhee</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wada-Marciano</surname>
+                           <given-names>Mitsuyo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>One may be taken aback by the moral and visceral extremes manifest in recent Asian horror cinema. In <italic>Audition</italic> (<italic>Odishon</italic>, Miike Takashi, 1999), the female protagonist Asami amputates one of the male protagonist’s feet and tortures him with acupuncture needles. In <italic>Oldboy</italic> (Park Chan-wook, 2003), the character Dae-su cuts off his own tongue, both as penance for the indiscrete remarks he made in high school that led to someone’s death and in an attempt to prevent his daughter from learning of their incestuous relationship. In <italic>Dumplings</italic> (<italic>Gaau ji</italic>, Fruit Chan, 2004), the character Ching relishes dumplings made out of fetuses</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>J-horror:</title>
+                     <subtitle>New Media’s Impact on Contemporary Japanese Horror Cinema</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wada-Marciano</surname>
+                           <given-names>Mitsuyo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The main objective of this chapter¹ is to scrutinize new media’s effect on contemporary Japanese cinema, especially the horror film genre “J-horror.” In particular, I would like to examine the ongoing contestation and negotiation between cinema and new media in contemporary Japan by analyzing the impact of new media on the transnational horror boom from Japan to East Asia, and finally to Hollywood. As the case of contemporary J-horror films exemplifies, the new, digitalized, multimedia form of cinema is now a dispersed phenomenon, both ubiquitous and transnational as technology, yet regional in the economic, industrial, and cultural contingencies of its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>A Cinema of Girlhood:</title>
+                     <subtitle>
+                        <italic>Sonyeo</italic>Sensibility and the Decorative Impulse in the Korean Horror Cinema</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Choi</surname>
+                           <given-names>Jinhee</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Park Ki-hyeong’s surprise hit <italic>Whispering Corridors</italic> (<italic>Yeogo geodam</italic>, 1998), a horror film set in a girls’ high school, helped initiate the most recent horror cycle in the South Korean film industry. Highly successful at the box office, <italic>Whispering Corridors</italic> ranked third among domestically produced films for the year, following <italic>Letter</italic> (<italic>Pyeonji</italic>, Lee Jeong-kuk) and <italic>A Promise</italic> (<italic>Yaksok</italic>, Kim Yu-jin).¹ Three sequels have followed so far — <italic>Memento Mori</italic> (<italic>Yeogo Geodam II</italic>, Kim Tae-yong, Min Kyu-dong, 1999), <italic>Wishing Stairs</italic> (<italic>Yeogo Geodam III: Yeowoo Gyedan,</italic> Yun Jae-yeon, 2003) and <italic>Voice</italic> (<italic>Yeogo Geodam IV: Moksori</italic>, Choe Ik-hwan, 2005). The commercial success of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>
+                        <italic>Inner Senses</italic>and the Changing Face of Hong Kong Horror Cinema</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heffernan</surname>
+                           <given-names>Kevin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On April 1, 2003, Leslie Cheung Kwok-Wing, for decades one of the most popular movie stars in all of East Asia, leapt to his death from the Mandarin Oriental Hotel in Hong Kong. In the outpouring of grief and bewilderment which followed this loss to the movie world, many tabloid magazines, professional movie critics, and fans could not help but remember Leslie’s final film role the year before as the troubled psychiatrist Dr Jim Law in Lo Chi-Leung’s <italic>Inner Senses</italic> (<italic>Yee do hung gaan</italic>). The film had concluded with Leslie’s character poised to throw himself off of a high-rise building</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Pan-Asian Outlook of<italic>The Eye</italic>
+                     </title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Knee</surname>
+                           <given-names>Adam</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>The Eye</italic> (<italic>Gin Gwai</italic>, Danny Pang and Oxide Pang, 2002) stands as a particularly fruitful text to examine in terms of the increasingly pan-Asian (as well as more broadly transnational) nature of Asian horror production, inasmuch as it embodies contemporary regionalism and globalization at a range of intra-, inter-, and extra-textual levels. Indeed, the film’s substantial success across Asia, as well as subsequent global distribution and an adaptation by Hollywood, suggest that in some way it managed to tap into themes with strong resonances both regionally and internationally. This chapter will be interested in contributing to current discussions about the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Art of Branding:</title>
+                     <subtitle>Tartan “Asia Extreme” Films</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Shin</surname>
+                           <given-names>Chi-Yun</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>85</fpage>
+                  <abstract abstract-type="extract">
+                     <p>“Asia Extreme” is the first label created to specifically distribute East Asian film titles by London-based Tartan Films, which operated as Metro-Tartan Distribution between 1992 and 2003, before reverting back to the name Tartan Films.¹ Launched in 2001 as the first of its kind, Tartan Asia Extreme has successfully released a number of titles which include Japanese films such as <italic>Ringu</italic> (Nakata Hideo, 1998), <italic>Audition</italic> (<italic>Odishon</italic>, Miike Takashi, 1999), and <italic>Battle Royale</italic> (<italic>Batoru rowaiaru</italic>, Fukasaku Kinji, 2000); South Korean films such as <italic>The Isle</italic> (<italic>Seom</italic>, Kim Ki-duk, 2000), <italic>Oldboy</italic> (Park Chan-wook, 2003) and <italic>A Tale of Two Sisters</italic> (<italic>Janghwa, Hongryeon,</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Mummy Complex:</title>
+                     <subtitle>Kurosawa Kiyoshi’s<italic>Loft</italic>and J-horror</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kinoshita</surname>
+                           <given-names>Chika</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the fall of 2006, as part of the publicity campaign for his latest feature <italic>Loft</italic> (filmed and completed in 2005 and released in September 2006), the director Kurosawa Kiyoshi spelled out his vision in making this horror film centering on a mummy and a ghost:</p>
+                     <p>These days, “Japanese horror” [<italic>Japanizu hora</italic>] in which everyday objects like the telephone and videotapes generate terror is in fashion. This film [<italic>Loft</italic>] is a fiction that deconstructs [<italic>sakate ni toru</italic>] this genre. Originally, the horror genre included a number of elements, like love story. Settings also varied; horror films were set in forests</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Good, the Bad, and the South Korean:</title>
+                     <subtitle>Violence, Morality, and the South Korean Extreme Film</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cagle</surname>
+                           <given-names>Robert L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Two days after the April 16, 2007 shootings at Virginia Tech University, the focus of news coverage abruptly shifted from details of the tragedy itself to reports of a possible link between the actions of Seung Cho (referred to in news coverage by his full name, rendered Korean style as “Cho Seunghui”), the young man identified as the lone gunman, and images from Park Chan-wook’s 2003 film, <italic>Oldboy</italic>. The decidedly tenuous logic that transformed Park’s film into Cho’s motivation hinged solely on similarities between two (of more than twenty) photographs sent by Cho to NBC network headquarters and two images</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Magic, Medicine, Cannibalism:</title>
+                     <subtitle>The China Demon in Hong Kong Horror</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yeh</surname>
+                           <given-names>Emilie Yueh-yu</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ng</surname>
+                           <given-names>Neda Hei-tung</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Horror, or ghost film, has a long standing in Hong Kong cinema. Since the 1970s, the film industry in Hong Kong has steadily churned out horror/ghost films for audiences in the region and horror has become a staple in Hong Kong cinema.¹ We can identify at least two narrative prototypes in Hong Kong horror. The first is called the ghost erotica, referring to romances between female spirits and male scholars. Based on the well-known Chinese classic <italic>Strange Stories from a Chinese Studio</italic> (Liaozhai zhiyi) written by Pu Songling in the seventeenth century, this type of story delineates the return of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>That Unobscure Object of Desire and Horror:</title>
+                     <subtitle>On Some Uncanny Things in Recent Korean Horror Films</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Seo</surname>
+                           <given-names>Hyun-suk</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The list of recent Korean films that made the industry more visible includes titles that ought to sound familiar to any movie-goer: <italic>Zero for Conduct, Public Enemy, Vengeance Is Mine, La Dolce Vita, The Scarlet Letter, Mean Streets, The Red Shoes,</italic> and so on.¹ The young consumers that make up the majority of the domestic marketing targets today are not likely to have seen Jean Vigo’s legendary boarding school comedy or Warner Brothers’ landmark crime drama, which is precisely why this fashionable mimicry can work as an effective marketing scheme. Bordering on remembrance and oblivion of the mass, the ghostly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>“Tell the Kitchen That There’s Too Much<italic>Buchu</italic>in the Dumpling”:</title>
+                     <subtitle>Reading Park Chan-wook’s “Unknowable”<italic>Oldboy</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kim</surname>
+                           <given-names>Kyung Hyun</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Oldboy</italic> is one of a slew of Korean films recently distributed in the United States (a list that includes <italic>Chunhyang, Memories of Murder, Spring, Summer, Fall, Winter, and Spring, Tae Guk Gi: the Brotherhood of War, Take Care of My Cat, Tell Me Something, Untold Scandal</italic>, and <italic>Way Home</italic> among many others) — but, unlike the others, it has been met with surprisingly negative reviews.¹ <italic>New York Times</italic> critic, Manohla Dargis, acknowledged <italic>Oldboy</italic>’s director Park Chan-wook as “some kind of virtuoso [of cool],” but she also wrote that the film is “symptomatic of a bankrupt, reductive postmodernism: one that promotes a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>A Politics of Excess:</title>
+                     <subtitle>Violence and Violation in Miike Takashi’s<italic>Audition</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hyland</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In recent critical scholarship of Asian cinema and in Asian cinema fandom, much attention has been devoted to the phenomenon colloquially known as Asia Extreme cinema. While most can identify a film which is considered to qualify as “Asia Extreme,” little has been done to create a system of genre classification. The general categorization is that if a film originates from Asia and looks extreme, then it must be exemplary of Asia Extreme. Yet, as Carolus Linnaeus argued in the eighteenth century, in order for something to be accurately studied, it must first be classified.</p>
+                     <p>The project of organizing films</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.16</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>219</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.17</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>249</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwdz5.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>261</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

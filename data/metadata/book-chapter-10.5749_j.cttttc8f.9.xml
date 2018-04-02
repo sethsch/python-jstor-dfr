@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.cttttc8f</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL747.57.S3R63 2007</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Science fiction, Japanese</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Robot Ghosts and Wired Dreams</book-title>
+         <subtitle>Japanese Science Fiction from Origins to Anime</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>BOLTON</surname>
+               <given-names>CHRISTOPHER</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>CSICSERY-RONAY</surname>
+               <given-names>ISTVAN</given-names>
+               <suffix>JR.</suffix>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>TATSUMI</surname>
+               <given-names>TAKAYUKI</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">EDITORS</role>
+      </contrib-group>
+      <pub-date>
+         <day>16</day>
+         <month>11</month>
+         <year>2007</year>
+      </pub-date>
+      <isbn content-type="ppub">9780816649730</isbn>
+      <isbn content-type="ppub">0816649731</isbn>
+      <isbn content-type="epub">9780816653904</isbn>
+      <isbn content-type="epub">0816653909</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>Minneapolis; London</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>the Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.5749/j.cttttc8f"/>
+      <abstract abstract-type="short">
+         <p>Robot Ghosts and Wired Dreams is a rich exploration of the genre that connects prose science fiction to contemporary anime. Bringing together Western scholars and leading Japanese critics, this groundbreaking work traces the beginnings, evolution, and future direction of science fiction in Japan. Contributors: Hiroki Azuma, Hiroko Chiba, Naoki Chiba, William O. Gardner, Mari Kotani, Livia Monnet, Miri Nakamura, Susan Napier, Sharalyn Orbaugh, Tamaki Saitô; Thomas Schnellbächer.</p>
+      </abstract>
+      <counts>
+         <page-count count="296"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.3</book-part-id>
+                  <title-group>
+                     <title>Introduction.</title>
+                     <subtitle>Robot Ghosts and Wired Dreams Japanese Science Fiction from Origins to Anime</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bolton</surname>
+                           <given-names>Christopher</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Csicsery-Ronay</surname>
+                           <given-names>Istvan</given-names>
+                           <suffix>Jr.</suffix>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tatsumi</surname>
+                           <given-names>Takayuki</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+                  <abstract>
+                     <p>Since the end of World War II, Japanese science fiction has been as much a world cultural presence as U.S. science fiction was after World War I, and for many of the same reasons. But Japanese science fiction did not arrive on the world scene by way of prose literature. The translation of Japanese prose science fiction into English was extremely limited through the end of the twentieth century; the situation was somewhat better for languages like French and Russian, but by and large Japanese science fiction entered global culture through new media. Like the pulp magazines that made science</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.4</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Horror and Machines in Prewar Japan</title>
+                     <subtitle>The Mechanical Uncanny in Yumeno Kyūsaku’s Dogura magura</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nakamura</surname>
+                           <given-names>Miri</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Images of machines were ubiquitous in the literary landscape of Taishō (1912–26) and early Shōwa (1926–89) Japan. Some writers praised the beauty of machines and others explored their darkness. Yumeno Kyūsaku (1889–1936), a detective fiction writer known for his bizarre narratives and avant-gardism, belonged to the latter category. He envisioned machines as fearful entities tearing apart human bodies, and he often invoked mechanical imagery to strike fear into the heart of the reader. This chapter focuses on the discourse of horror and the mode of the uncanny that govern one of Yumeno’s last novels,<italic>Dogura magura</italic>(1935).¹</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.5</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Has the Empire Sunk Yet?</title>
+                     <subtitle>The Pacific in Japanese Science Fiction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schnellbächer</surname>
+                           <given-names>Thomas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>The sea as a narrative space pervades the genealogy of science fiction, from fantastic voyages in the<italic>Odyssey</italic>tradition to the adventure stories of the nineteenth century. But the oceans ceased to be the great unknown around the time of science fiction’s immediate precursors in scientific romance. In hard science fiction, the oceans were long ago preempted by interstellar space, more recently by cyberspace. It is interesting, therefore, that in Japanese science fiction after 1945, a number of major works focus on the ocean surrounding Japan. In fact, from 1945 through the mid-1970s, the Pacific Ocean acquired the status of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.6</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>Alien Spaces and Alien Bodies in Japanese Women’s Science Fiction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mari</surname>
+                           <given-names>Kotani</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Nakamura</surname>
+                           <given-names>Miri</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>What were the circumstances that led to the discovery of femininity (<italic>joseisei</italic>) by Japanese women?¹ The 1970s science fiction boom in Japan has been attributed to the importation and complete assimilation of Western science fiction. If so, can we also attribute the birth of women’s science fiction to the worldwide women’s liberation movement that accompanied the counterculture movement in the late 1960s? The emergence of Japanese women’s science fiction would then coincide with the rise of Western feminist science fiction. But unlike its foreign counterpart, Japanese women’s science fiction is not governed by a strictly political agenda. In fact, it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.7</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>SF as Hamlet</title>
+                     <subtitle>Science Fiction and Philosophy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hiroki</surname>
+                           <given-names>Azuma</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Nakamura</surname>
+                           <given-names>Miri</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>This is an essay on science fiction and philosophy. The word<italic>philosophy</italic>is an ambiguous term, however. It actually has two different usages: a quotidian one and a technical one. If, for example, you use the word to mean “a way to think about the world” or “a way to think about the meaning of life,” then this is the everyday usage. No specialized knowledge or professional experience is needed for that kind of inquiry; anyone can become a philosopher if one has some life experience, and an exceptional work in any genre would qualify as philosophical.</p>
+                     <p>Science fiction and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.8</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>Tsutsui Yasutaka and the Multimedia Performance of Authorship</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gardner</surname>
+                           <given-names>William O.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>In the summer of 1996 the prolific author Tsutsui Yasutaka helped found JALInet, a Web site hosting several writers that claims to be the “first literary server in Japan.”¹ Irrespective of the site’s claim to chronological primacy, Tsutsui’s involvement with this project was a significant literary event, coming as it did in the third year of the author’s highly publicized self-imposed cessation of print publishing. Rather than mark an entry into electronic media, however, the launching of this site marked a new phase in Tsutsui’s already extensive and controversial work across the boundaries of several media forms, electronic and otherwise</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.9</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>When the Machines Stop</title>
+                     <subtitle>Fantasy, Reality, and Terminal Identity in Neon Genesis Evangelion and Serial Experiments: Lain</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Napier</surname>
+                           <given-names>Susan J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>In 1909 the British writer E. M. Forster published the short story “The Machine Stops,” a bleak vision of the far future in which what is left of humanity lives below the earth, connected through a worldwide communications system that allows them never to leave their rooms or engage in direct contact with anyone else. All human life is organized by an entity known simply as the “Machine.” At the story’s end the Machine malfunctions and finally stops. Abandoned and helpless, the humans begin to die in a scene that interlaces apocalyptic imagery with an extremely tenuous note of hope</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.10</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>The Mecha’s Blind Spot</title>
+                     <subtitle>Patlabor 2 and the Phenomenology of Anime</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bolton</surname>
+                           <given-names>Christopher</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>In the opening sequence of Oshii Mamoru’s animated film<italic>Kidō keisatsu patoreibaa</italic>(1989,<italic>Patlabor: The Movie</italic>), a small army of men and machines hunts down an elusive quarry, but what they finally capture is an absence that lies at the heart of the film’s fears. The hunters are a mixed group of soldiers, tanks, and the “labors” of the film’s title—giant human-shaped robots with living pilots. Their target is a rogue labor, but when they finally capture it and open its hatch to apprehend the pilot, they find only an empty cockpit. The labor is unmanned.</p>
+                     <p>The scene encapsulates</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.11</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>Words of Alienation, Words of Flight</title>
+                     <subtitle>Loanwords in Science Fiction Anime</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chiba</surname>
+                           <given-names>Naoki</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chiba</surname>
+                           <given-names>Hiroko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>148</fpage>
+                  <abstract>
+                     <p>Watching science fiction anime in the original Japanese language, one is certain to encounter many loanwords and non-Japanese expressions. In Japan, loanwords, especially those taken from English, are commonly used in daily conversations as well as in written texts. Although this helps explain the profusion of loans in science fiction anime, their employment is often more conscious and radical. Indeed, some are used creatively with unconventional meanings (“<italic>gōsuto</italic>” in the first epigraph), some are not expected to be understood by the audience (Sharon Apple’s song),¹ and some familiar expressions are employed to give a scene a comical touch (“<italic>gōsuto</italic>” in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.12</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>Sex and the Single Cyborg</title>
+                     <subtitle>Japanese Popular Culture Experiments in Subjectivity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Orbaugh</surname>
+                           <given-names>Sharalyn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>172</fpage>
+                  <abstract>
+                     <p>As Jennifer Gonzalez contends, cyborgs are not about the future, they are about contemporary society and its current transformations. Claudia Springer concurs, writing that “what is really being debated in the discourse surrounding a cyborg future are contemporary disputes concerning gender and sexuality, with the future providing a clean slate, or a blank screen, onto which we can project our fascination fears.”¹ In this chapter I discuss recent Japanese narratives that use figure of the cyborg to explore new paradigms of subjectivity, as the advanced nations of the world become increasingly postmodern, postnational, postindustrial, and even posthuman. In particular, I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.13</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>Invasion of the Woman Snatchers</title>
+                     <subtitle>The Problem of A-Life and the Uncanny in Final Fantasy: The Spirits Within</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Monnet</surname>
+                           <given-names>Livia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>The first entirely computer-animated, photorealistic feature-length film based on the principles of live-action cinema,<italic>Final Fantasy: The Spirits Within</italic>(2001), was a commercial failure. Produced by Square USA, Inc., and directed by Sakaguchi Hironobu, the award-winning executive producer of the popular interactive game software<italic>Final Fantasy</italic>series, the film was praised for the beauty and technological achievement of its computer graphics, but widely derided for its uninspired screenplay and a failure at the box office.¹</p>
+                     <p>This chapter argues that<italic>Final Fantasy</italic>is a transitional film that marks a turning point in the history of moving-image media, as well as in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.14</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>Otaku Sexuality</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tamaki</surname>
+                           <given-names>Saitō</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Bolton</surname>
+                           <given-names>Christopher</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>As fan cultures centered on Japanese media grow and spread internationally, critics inside and outside Japan have shown greater interest in these communities, particularly the subculture of zealous fans known as<italic>otaku</italic>. Saitō Tamaki is among the leading Japanese scholars working in this area. A practicing therapist who has long been recognized for his research on introverted youth, he has more recently become known for his psychoanalytic studies of sexuality, media, and imagination— starting with a celebrated book on male<italic>otaku</italic>desire,<italic>Sentō bishō jo no seishin bunseki</italic>(2001, Armored cuties: A psychoanalysis). This chapter is adapted from his second</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.15</book-part-id>
+                  <title-group>
+                     <title>Afterword.</title>
+                     <subtitle>A Very Soft Time Machine From Translation to Transfiguration</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tatsumi</surname>
+                           <given-names>Takayuki</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>250</fpage>
+                  <abstract>
+                     <p>The first science fiction writer I met in my life wrote under the name Bien Fu. This was Princess Asaka Fukuko, a member of the Japanese imperial family who published numerous fantasy and science fiction stories throughout the late 1960s. Her work appeared in Japan’s inaugural fanzine, Shibano Takumi’s<italic>Uchūjin</italic>(Cosmic dust), and she also produced comic strips for a variety of fanzines and semi-prozines.</p>
+                     <p>One beautiful afternoon in Tokyo in the autumn of 1969, Bien Fu, who was then in her late twenties, invited some junior high school students—that is, my classmate and me—to her huge and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.16</book-part-id>
+                  <title-group>
+                     <title>PUBLICATION HISTORY</title>
+                  </title-group>
+                  <fpage>261</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.17</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>263</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttc8f.18</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>265</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

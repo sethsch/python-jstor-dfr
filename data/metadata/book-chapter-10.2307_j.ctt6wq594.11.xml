@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt6nwr0t</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wq594</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN3383.S42B43 2008</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Setting (Literature)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Space and time in literature</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">National characteristics in literature</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Nation and Region in Modern American and European Fiction</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Beebee</surname>
+               <given-names>Thomas O.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>12</month>
+         <year>2008</year>
+      </pub-date>
+      <isbn content-type="ppub">9781557534989</isbn>
+      <isbn content-type="epub">9781612490304</isbn>
+      <publisher>
+         <publisher-name>Purdue University Press</publisher-name>
+         <publisher-loc>West Lafayette, Indiana</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2008</copyright-year>
+         <copyright-holder>Purdue University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wq594"/>
+      <abstract abstract-type="short">
+         <p>In his book Nation and Region in Modern American and European Fiction, Thomas O. Beebee analyzes fictional texts as a "discursive territoriality" that shape readers' notions of (and ambivalence about) national and regional belonging. Several canonical works of literary fiction have provided their readers with verbal maps that in their depictions of boundary spaces construct indirect images of national territory and geography.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.4</book-part-id>
+                  <title-group>
+                     <label>Chapter One</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In this book I explore comparatively the role of literature in the production of national, regional, local, global, and glocal mental maps. (On the concept of the glocal, see below, 175). The time frame for investigation is, roughly, modernity, defined as having "the core feature that the world is divided into sovereign nation-states with no remainder" (During 98). Literature has had a role to play in how that division is made, perceived, communicated, and deconstructed. Literature has also questioned whether there is indeed "no remainder." In moving through the scales mentioned above, then, for our purposes the nation-state will remain</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.5</book-part-id>
+                  <title-group>
+                     <label>Chapter Two</label>
+                     <title>Landscapes of Nation in Goethe's Italienische Reise and its Counter-Narratives</title>
+                  </title-group>
+                  <fpage>24</fpage>
+                  <abstract>
+                     <p>Since the publication of Goethe's<italic>Italian Journey</italic>(<italic>Italienische Reise; IR</italic>) in 1816/17, the Italian landscape has been extraordinarily important—more important, perhaps, than the German landscape—for German intellectuals' understanding of themselves, of history, and of culture. The heterogeneity of the text that came to be known as Goethe's<italic>Italian Journey</italic>derives in part from a complexity of its author's position vis-à-vis the two cultures in question—the Italian one which is its subject, and the German one which is its object—a complexity that transcends the aphoristic summations of his twentieth-century avatars. Goethe's cultural and political conservatism are well</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.6</book-part-id>
+                  <title-group>
+                     <label>Chapter Three</label>
+                     <title>Diataxes of Lostness, Russian Imperial Geography, and Gogol and Turgenev</title>
+                  </title-group>
+                  <fpage>46</fpage>
+                  <abstract>
+                     <p>Although both Gogol and Turgenev spent more time away from Russia than Goethe from Germany, neither produced a work similar to the<italic>Italian Journey</italic>(the closest work to Goethe's text in Russian literature may be Nikolai Karamzin's<italic>Letters of a Russian Traveller</italic>of 1789–90). The prose fiction of Gogol and Turgenev is set almost entirely in the Russian empire. The heterotopic element of this Russia is not so much its contrast with other nations as the instabilities of its own territorialization and the uncertainty of its imperial ambitions. As different in their literary style as these two authors are—</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.7</book-part-id>
+                  <title-group>
+                     <label>Chapter Four</label>
+                     <title>Region and Revolution in Benet's Volverás a Región and da Cunha's Os Sertões</title>
+                  </title-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>The term "splendor" originally refers to a phenomenon of light, and as I look down on the watery surface edged in green that covers the ruins of Canudos, splendor in this optical sense reverberates to my eyes and blinds me. Splendor that occultates misery and violence. I am in the same geographical position that a soldier fighting for the Brazilian Republic would have taken in 1897, looking down from this height on the thousands of mud huts of insurgent Canudos, located more or less in the center of the Bahian backlands, that needed to be eliminated in order to allow</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.8</book-part-id>
+                  <title-group>
+                     <label>Chapter Five</label>
+                     <title>Solipsistic Regions, Fogo morto, and The Sound and the Fury</title>
+                  </title-group>
+                  <fpage>96</fpage>
+                  <abstract>
+                     <p>In this chapter I begin with two interludes based on my own exploratory experience of the regions written about by Faulkner and Lins do Rego, in an attempt to ground the similarities of their regionalisms in the particularities of geography.</p>
+                     <p>From Oxford to Jefferson and Lafayette to Yoknapatawpha: it is well known that the hotel Faulkner refers to is the Peabody, in the heart of downtown Memphis. No need to check that out, then. Instead, I point my rental car south and head for Clarksdale, Mississippi. My plan is to approach Yoknapatawpha from the West across the Delta, to see</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.9</book-part-id>
+                  <title-group>
+                     <label>Chapter Six</label>
+                     <title>About Roads and Rivers and Arguedas's Ethnogeographies</title>
+                  </title-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>Something curious happens in the following passage from the Peruvian José María Arguedas's (1911–1997) apology for how he came to be a writer: "I began to write when I read the first narratives about Indians, which described them in such a false way. … In those stories the Indian was so disfigured, and the landscape so silly and saccharine or so foreign that I said: 'No, I must write this as it is, because I have enjoyed it, I have suffered it'" ("Yo comencé a escribir cuando leí las primeras narraciones sobre los indios, los describían de una forma</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.10</book-part-id>
+                  <title-group>
+                     <label>Chapter Seven</label>
+                     <title>Voces Clamantes and the Desert Landscapes of Austin, Brossard, and Harjo</title>
+                  </title-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>In the last three chapters, I have argued that the tortuous narratives of José Maria Arguedas, Juan Benet, Euclides da Cunha, and William Faulkner arise out of these authors' problematic, divided, or contradictory conceptions of nation, and its entanglements with regionalism. The other authors considered so far have almost insisted on the stability of their true imaginary places, although one might question their readers' ability to move from these authors' mimeses of place to their own lived reality within the referred nation or region. This last chapter compares three works that deconstruct such notions of landscape's stability. Not surprisingly, they</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.11</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>By examining a series of fictions through a chronological sequence, this book has shown how canonical literary texts from a number of different languages and cultures of Europe and the Americas contributed, through their drawing of mental maps, to both the construction and contestation of national identity. As verbal maps of territorial, societal, and cultural boundaries, these texts stand in complex relationships to the problems of identity and nationalism prevalent at their time of writing. The balance of myth (the imaginary) and reality in these texts can be arranged along a continuum, from the Dikanka stories of Gogol that invoke</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.12</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>174</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.13</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>193</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wq594.14</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>202</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

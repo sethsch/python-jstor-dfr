@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">esprit</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50016602</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Esprit (1940-)</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Esprit</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00140759</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">24271395</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ENTRE RÉVOLUTIONS ET CATASTROPHES: VAGUE ARABE, TSUNAMI JAPONAIS</subject>
+               <subj-group>
+                  <subject>Le Japon dans la catastrophe</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Pour le Japon meurtri</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Maurice</given-names>
+                  <surname>Mourier</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2011</year>
+         </pub-date>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">374 (5)</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i24271363</issue-id>
+         <fpage>44</fpage>
+         <lpage>49</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/24271395"/>
+         <abstract>
+            <p>Comment les Japonais font-ils face à l'enchaînement des catastrophes depuis le tsunami du 11 mars ? Si la géographie du pays explique une grande adaptation historique aux risques naturels, il ne faut pas croire pour autant au cliché du fatalisme japonais. Mais comment la culture japonaise exprime-t-elle, dans le roman ou le cinéma, le sentiment de la fragilité du monde et de la précarité de toute chose ?</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>fre</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d330e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d330e130" publication-type="other">
+Maurice Pinguet, la Mort volontaire au Japon, Paris, Gallimard, 1984.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

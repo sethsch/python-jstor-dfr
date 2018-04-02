@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9df0</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7ztd65</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Business</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Economy and the Future</book-title>
+         <subtitle>A Crisis of Faith</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Dupuy</surname>
+               <given-names>Jean-Pierre</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <role>Translated by</role>
+            <name name-style="western">
+               <surname>DeBevoise</surname>
+               <given-names>M. B.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>10</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9781611861464</isbn>
+      <isbn content-type="epub">9781609174330</isbn>
+      <publisher>
+         <publisher-name>Michigan State University Press</publisher-name>
+         <publisher-loc>East Lansing</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Michigan State University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.14321/j.ctt7ztd65"/>
+      <abstract abstract-type="short">
+         <p>A monster stalks the earth-a sluggish, craven, dumb beast that takes fright at the slightest noise and starts at the sight of its own shadow. This monster is the market. The shadow it fears is cast by a light that comes from the future: the Keynesian crisis of expectations. It is this same light that causes the world's leaders to tremble before the beast. They tremble, Jean-Pierre Dupuy says, because they have lost faith in the future. What Dupuy calls Economy has degenerated today into a mad spectacle of unrestrained consumption and speculation. But in its positive form-a truly political economy in which politics, not economics, is predominant-Economy creates not only a sense of trust and confidence but also a belief in the open-endedness of the future without which capitalism cannot function. In this devastating and counterintuitive indictment of the hegemonic pretensions of neoclassical economic theory, Dupuy argues that the immutable and eternal decision of God has been replaced with the unpredictable and capricious judgment of the crowd. The future of mankind will therefore depend on whether it can see through the blindness of orthodox economic thinking.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.3</book-part-id>
+                  <title-group>
+                     <title>Introduction.</title>
+                     <subtitle>The Bewilderment of Politics</subtitle>
+                  </title-group>
+                  <fpage>ix</fpage>
+                  <abstract>
+                     <p>A sense of shame led me to write this book. Shame at seeing politics allow itself to be humiliated by economics, at seeing political authority disgraced by managerialism, by the cult of business management.</p>
+                     <p>Authority, managerialism—these are abstractions. A somewhat ridiculous allegorical image comes to mind: the sovereign people, pictured in the same manner as the multitude of citizens that fills out the body of Leviathan in the frontispiece to the first edition of Hobbes’s famous work of that name, only now the giant figure has lost his crown and bows his head before the chief executive officer of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Economy and the Problem of Evil</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>There is no better way to understand how Economy has come to take up an unreasonably large place in our lives than to begin by considering the sense in which it constitutes a solution to the problem of evil. Just as the history of modern philosophy can be interpreted as a succession of replies given to this problem,¹ so too the history of modern economic thought can be regarded as having followed a parallel course.</p>
+                     <p>There was a time, not so very long ago, when human beings believed that death, sickness, and accidental injury are rightfully inflicted by God on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Self-Transcendence</title>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>It was in the course of examining the parallel destinies of economic theory and philosophy in relation to the problem of evil that we first encountered the concept of self-transcendence. As it happens, this same concept—even if it is not part of the usual repertoire of economists—is indispensable to an understanding of how market mechanisms operate. The notion of an invisible hand alone is not enough: a market is able to be self-organizing because it undergoes a process of self-transcendence, by projecting itself outside of itself. This exteriority assumes the form of something that each agent takes to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>The Economics of the End and the End of Economics</title>
+                  </title-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>For better or for worse, Economy is propelled into the future by the force of self-transcendence. When Economy succeeds in going beyond the pitiable condition of mere managerialism, letting itself be carried away by the transcendent power offered to it by politics, it is for the better. But when it drags politics down to its own level, and converts leaders into servants, Economy loses the exteriority it must have in order to flourish and signs its own death warrant.</p>
+                     <p>Capitalism can avoid extinction only by persuading economic agents that an indefinitely long future stretches before them. If the future were</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Critique of Economic Reason</title>
+                  </title-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>Economy is in danger of losing forever the very qualities that might make it a moral and political economy. In its contest of strength with politics, each victory economics achieves is a Pyrrhic victory. In its determination to conquer positions of power in the name of expertise, each one more elevated than the last, it sacrifices to a collective tutelary deity, the markets. But how many former heads of Goldman Sachs will have to be installed as chiefs of state in order to slake this nervous and insecure god’s unquenchable thirst for reassurance? It is, as I have said, a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.8</book-part-id>
+                  <title-group>
+                     <title>CONCLUSION.</title>
+                     <subtitle>The Way Out from Fatalism</subtitle>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>Fatalists, in Max Weber’s problem, are believers who exercise their freedom of choice by being rational. In doing this they understand rationality in the same way that economists do, and they respect an axiom that economists take to be indispensable, the dominant strategy principle. Th is sort of freedom leads them to act in a way that makes it clear to them that they are damned and that there is nothing they can do to change this state of affairs. It is the same freedom exercised by people who choose to take what is in both boxes in Newcomb’s problem</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.9</book-part-id>
+                  <title-group>
+                     <title>APPENDIX.</title>
+                     <subtitle>Time, Paradox</subtitle>
+                  </title-group>
+                  <fpage>131</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.10</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>147</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7ztd65.11</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>163</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

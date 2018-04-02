@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">jasianstudies</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100207</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Journal of Asian Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00219118</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">17520401</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43553400</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Review Essay</subject>
+               <subj-group>
+                  <subject>JAPAN</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A New Social History of Occupied Japan</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Franziska</given-names>
+                  <surname>Seraphim</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>2</month>
+            <year>2014</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">73</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40141279</issue-id>
+         <fpage>187</fpage>
+         <lpage>198</lpage>
+         <product>
+            <source>Celebrity Gods: New Religions, Media, and Authority in Occupied Japan</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Benjamin</given-names>
+               <surname>Dorman</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Love, Sex, and Democracy in Japan During the American Occupation</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Mark</given-names>
+               <surname>McLelland</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Occupying Power: Sex Workers and Servicemen in Postwar Japan</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Sarah</given-names>
+               <surname>Kovner</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright © 2014 Association for Asian Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43553400"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

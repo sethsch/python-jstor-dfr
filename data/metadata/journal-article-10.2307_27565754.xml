@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">aviandiseases</journal-id>
+         <journal-id journal-id-type="jstor">j100098</journal-id>
+         <journal-title-group>
+            <journal-title>Avian Diseases</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association of Avian Pathologists</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00052086</issn>
+         <issn pub-type="epub">19384351</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">27565754</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Case Reports</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Upper Respiratory Tract Infection Caused by Cryptosporidium baileyi in Three Mixed-Bred Falcons (Falco rusticolus × Falco cherrug)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Y. R. A.</given-names>
+                  <surname>van Zeeland</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>N. J.</given-names>
+                  <surname>Schoemaker</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>M. J. L.</given-names>
+                  <surname>Kik</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>J. W. B.</given-names>
+                  <surname>van der Giessen</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>2008</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">52</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i27565727</issue-id>
+         <fpage>357</fpage>
+         <lpage>363</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2008 American Association of Avian Pathologists, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/27565754"/>
+         <abstract>
+            <p>Three mixed-bred raptors (Falco rusticolus × Falco cherrug) from a German falcon breeder were presented with a history of respiratory distress. In one bird a laryngeal stridor was noted, and oral examination revealed an epiglottal swelling. In the other two birds, nasal discharge and sneezing were the main clinical symptoms. Nasal flushing samples and biopsies were collected for pathologic, bacteriologic, and parasitologic examination. Results confirmed a cryptosporidial infection. Polymerase chain reaction (PCR) and DNA analysis identified the causative agent to be Cryptosporidium baileyi. No cryptosporidia were detected in fecal samples, indicating the infection was confined to the respiratory system. Analysis of prey animals (pigeons, quail) failed to identify the source of infection. Treatment was initiated with paromomycin in all three birds, whereas in two birds an additional therapy with azithromycin was given. However, no clinical improvement was seen after several weeks of treatment, and the birds either died or were euthanatized. To the authors' knowledge, these are the first confirmed cases of disease caused by cryptosporidia in the order of Falconiformes. Tres halcones mestizos (Falco rusticolus × Falco cherrug) provenientes de un criador Alemán, fueron presentados con una historia de dificultad respiratoria. En una de las aves se evidenciaron ruidos laríngeos y el examen oral reveló inflamación de la epiglotis. En las otras dos aves, los principales signos clínicos fueron descargas nasales y estornudos. Se tomaron muestras de lavados nasales y biopsias para evaluación patológica, bacteriológica y parasitológica. Los resultados confirmaron la infección por Cryptosporidium. La prueba de reacción en cadena por la polimerasa y el análisis del ADN identificaron el agente causal como Cryptosporidium baileyi. No se detectó Cryptosporidium en muestras de heces, indicando que la infección estaba confinada al tracto respiratorio. El análisis de los animales presa de los halcones (palomas, codornices) no permitió la identificación de la fuente de infección. En las tres aves se inició tratamiento con paromomicina, mientras que en dos de las aves se adicionó terapia con azitromicina. Sin embargo, después de varias semanas de tratamiento las aves no mejoraron y murieron o fueron sacrificadas. Estos son los primeros casos confirmados de enfermedad causada por Cryptosporidium en el orden de los Falconiformes.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>gyrfalcon</kwd>
+            <kwd>Falco rusticolus</kwd>
+            <kwd>raptor</kwd>
+            <kwd>cryptosporidiosis</kwd>
+            <kwd>Cryptosporidium baileyi</kwd>
+            <kwd>dyspnea</kwd>
+            <kwd>respiratory tract</kwd>
+            <kwd>glottis</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d815e207a1310">
+            <label>1</label>
+            <mixed-citation id="d815e214" publication-type="other">
+Abbassi, H., M. Wyers, J. Cabaret, and M. Naciri. Rapid detection
+and quantification of Cryptosporidium baileyi oocysts in feces and organs of
+chickens using a microscopic slide flotation method. Parasitol. Res.
+86:179–187. 2000.</mixed-citation>
+         </ref>
+         <ref id="d815e230a1310">
+            <label>2</label>
+            <mixed-citation id="d815e237" publication-type="other">
+Anderson, B. C. Cryptosporidiosis: a review. J. Am. Vet. Med. Assoc.
+180:1455–1457. 1982.</mixed-citation>
+         </ref>
+         <ref id="d815e247a1310">
+            <label>3</label>
+            <mixed-citation id="d815e254" publication-type="other">
+Betancourt, W. Q., and J. B. Rose. Drinking water treatment
+processes for removal of Cryptosporidium and Giardia. Vet. Parasitol.
+126:219–234. 2004.</mixed-citation>
+         </ref>
+         <ref id="d815e267a1310">
+            <label>4</label>
+            <mixed-citation id="d815e274" publication-type="other">
+Bissuel, F., L. Cotte, M. de Montelos, M. Rabodonirina, and C.
+Trepo. Absence of systemic absorption of oral paromomycin during long-
+term, high-dose treatment for cryptosporidiosis in AIDS. J. Inf. Dis.
+170:549–550. 1994.</mixed-citation>
+         </ref>
+         <ref id="d815e291a1310">
+            <label>5</label>
+            <mixed-citation id="d815e298" publication-type="other">
+Blagburn, B. L. Avian cryptosporidiosis. In: Proc. 1st Int. Workshop
+on Cryptosporidiosis. K. W. Angus, and D. A. Blewett, eds. Edinburgh,
+Scotland, pp. 28–42. 1988.</mixed-citation>
+         </ref>
+         <ref id="d815e311a1310">
+            <label>6</label>
+            <mixed-citation id="d815e318" publication-type="other">
+Blagburn, B. L., D. A. Lindsay, F. J. Hoerr, A. L. Atlas, and M.
+Toivio-Kinnucan. Cryptosporidium sp. infection in the proventriculus of an
+Australian diamond firetail finch (Stagonopleura bella: passeriformes,
+estrildidae). Avian Dis. 34:1027–1030. 1990.</mixed-citation>
+         </ref>
+         <ref id="d815e334a1310">
+            <label>7</label>
+            <mixed-citation id="d815e341" publication-type="other">
+Blagburn, B. L., D. S. Lindsay, F. J. Hoerr, J. F. Davis, and J. J.
+Giambrone. Pathobiology of cryptosporidiosis (C. baileyi) in broiler
+chickens. J. Protozool. 38:25S–27S. 1991.</mixed-citation>
+         </ref>
+         <ref id="d815e354a1310">
+            <label>8</label>
+            <mixed-citation id="d815e361" publication-type="other">
+Clubb, S. L., C. Cray, E. Greiner, and K. S. Latimer. Cryptospo-
+ridiosis in a psittacine nursery. In: Proc. Association of Avian Veterinarians,
+pp. 177–185. 1996.</mixed-citation>
+         </ref>
+         <ref id="d815e374a1310">
+            <label>9</label>
+            <mixed-citation id="d815e381" publication-type="other">
+Current, W. L., S. J. Upton, and T. B. Haynes. The life cycle of
+Cryptosporidium baileyi n. sp. (Apicomplexa, Cryptosporiidae) infecting
+chickens. J. Protozool. 33:289–296. 1986.</mixed-citation>
+         </ref>
+         <ref id="d815e394a1310">
+            <label>10</label>
+            <mixed-citation id="d815e401" publication-type="other">
+Fayer, R. Cryptosporidium: a water-borne zoonotic parasite. Vet.
+Parasitol. 126:37–56. 2004.</mixed-citation>
+         </ref>
+         <ref id="d815e412a1310">
+            <label>11</label>
+            <mixed-citation id="d815e419" publication-type="other">
+Fujino, T., T. Matsui, F. Kobayashi, K. Haruki, Y. Yoshino, J.
+Kajima, and M. Tsuji. The effect of heating against Cryptosporidium oocysts.
+J. Vet. Med. Sci. 64:199–200. 2002.</mixed-citation>
+         </ref>
+         <ref id="d815e432a1310">
+            <label>12</label>
+            <mixed-citation id="d815e439" publication-type="other">
+Gajadhar, A. A. Host specificity studies and oocyst description of a
+Cryptosporidium sp. isolated from ostriches. Parasitol. Res. 80:316–319. 1994.</mixed-citation>
+         </ref>
+         <ref id="d815e449a1310">
+            <label>13</label>
+            <mixed-citation id="d815e456" publication-type="other">
+Gardiner, C. H., and G. D. Imes. Cryptosporidium sp in the kidneys
+of a black-throated finch. J. Am. Vet. Med. Assoc. 185:1401–1402. 1984.</mixed-citation>
+         </ref>
+         <ref id="d815e466a1310">
+            <label>14</label>
+            <mixed-citation id="d815e473" publication-type="other">
+Glisson, J. R., T. P. Brown, M. Brugh, R. K. Page, S. H. Kleven, and
+R. B. Davis. Sinusitis in turkeys associated with respiratory cryptosporidiosis.
+Avian Dis. 28:783–790. 1984.</mixed-citation>
+         </ref>
+         <ref id="d815e486a1310">
+            <label>15</label>
+            <mixed-citation id="d815e493" publication-type="other">
+Goodwin, M. A. Small-intestinal cryptosporidiosis in a chicken.
+Avian Dis. 32:844–848. 1988.</mixed-citation>
+         </ref>
+         <ref id="d815e503a1310">
+            <label>16</label>
+            <mixed-citation id="d815e510" publication-type="other">
+Goodwin, M. A., and J. Brown. Intestinal cryptosporidiosis in
+chickens. Avian Dis. 33:770–777. 1989.</mixed-citation>
+         </ref>
+         <ref id="d815e521a1310">
+            <label>17</label>
+            <mixed-citation id="d815e528" publication-type="other">
+Goodwin, M. A., and J. Brown. Incidence of respiratory cryptospo-
+ridiosis in Georgia broilers: 1987–92. Avian Dis. 38:358–360. 1994.</mixed-citation>
+         </ref>
+         <ref id="d815e538a1310">
+            <label>18</label>
+            <mixed-citation id="d815e545" publication-type="other">
+Goodwin, M. A., J. Brown, R. S. Resurreccion, and J. A. Smith.
+Respiratory coccidiosis (Cryptosporidium baileyi) among northern Georgia
+broilers in one company. Avian Dis. 40:572–575. 1996.</mixed-citation>
+         </ref>
+         <ref id="d815e558a1310">
+            <label>19</label>
+            <mixed-citation id="d815e565" publication-type="other">
+Goodwin, M. A., and V. A. Krabill. Diarrhea associated with small-
+intestinal cryptosporidiosis in a budgerigar and in a cockatiel. Avian Dis.
+33:829–933. 1989.</mixed-citation>
+         </ref>
+         <ref id="d815e578a1310">
+            <label>20</label>
+            <mixed-citation id="d815e585" publication-type="other">
+Goodwin, M. A., K. S. Larimer, J. Brown, W. L. Steffens, P. W.
+Martin, R. S. Resurreccion, M. A. Smeltzer, and T. G. Dickson. Respiratory
+cryptosporidiosis in chickens. Poultry Sci. 67:1684–1693. 1987.</mixed-citation>
+         </ref>
+         <ref id="d815e598a1310">
+            <label>21</label>
+            <mixed-citation id="d815e605" publication-type="other">
+Hatkin, J., J. J. Giambrone, and B. L. Blagburn. Correlation of
+circulating antibody and cellular immunity with resistance against
+Cryptosporidium baileyi in broiler chickens. Avian Dis. 37:800–804. 1993.</mixed-citation>
+         </ref>
+         <ref id="d815e618a1310">
+            <label>22</label>
+            <mixed-citation id="d815e625" publication-type="other">
+Hornok, S., J. F. Heijmans, L. Beseki, H. W. Peek, M. Dobos-
+Kovacs, C. N. Dren, and I. Varga. Interaction of chicken anaemia virus and
+Cryptosporidium baileyi in experimentally infected chickens. Vet. Parasitol.
+76:43–55. 1998.</mixed-citation>
+         </ref>
+         <ref id="d815e642a1310">
+            <label>23</label>
+            <mixed-citation id="d815e649" publication-type="other">
+Hornok, S., Z. Szell, J. Nieuwenhuijs, M. G. Nieuwland, A. W.
+Cornelissen, and I. Varga. Immunogenicity of three oocyst extracts of
+Cryptosporidium baileyi in experimentally infected chickens. Parasitol. Res.
+85:71–77. 1999.</mixed-citation>
+         </ref>
+         <ref id="d815e665a1310">
+            <label>24</label>
+            <mixed-citation id="d815e672" publication-type="other">
+Jennings, I. V. Haematology. In: Manual of raptors, pigeons and
+waterfowl. P. H. Beynon, ed. British Small Animal Veterinary Association,
+Quedgeley, Gloucestershire, United Kingdom, pp. 68–78. 1996.</mixed-citation>
+         </ref>
+         <ref id="d815e685a1310">
+            <label>25</label>
+            <mixed-citation id="d815e692" publication-type="other">
+Latimer, K. S., M. A. Goodwin, and M. Kathy-Davis. Rapid
+cytologic diagnosis of respiratory cryptosporidiosis in chickens. Avian Dis.
+32:826–830. 1988.</mixed-citation>
+         </ref>
+         <ref id="d815e705a1310">
+            <label>26</label>
+            <mixed-citation id="d815e712" publication-type="other">
+Latimer, K. S., W. L. Steffens, P. M. Rakich, B. W. Ritchie, F. D.
+Niagro, I. M. Kirchner, and P. D. Lukert. Cryptosporidiosis in four
+cockatoos with psittacine beak and feather disease. J. Am. Vet. Med. Assoc.
+200:707–710. 1992.</mixed-citation>
+         </ref>
+         <ref id="d815e728a1310">
+            <label>27</label>
+            <mixed-citation id="d815e735" publication-type="other">
+Leng, X., D. A. Mosier, and R. D. Oberst. Differentiation of
+Cryptosporidium parvum, C. muris, and C. baileyi by PCR-RFLP analysis of
+the 18S rRNA gene. Vet. Parasitol. 62:1–7. 1996.</mixed-citation>
+         </ref>
+         <ref id="d815e748a1310">
+            <label>28</label>
+            <mixed-citation id="d815e755" publication-type="other">
+Lindsay, D. S., B. L. Blagburn, and F. J. Hoerr. Small intestinal
+cryptosporidiosis in cockatiels associated with Cryptosporidium baileyi-like
+oocysts. Avian Dis. 34:791–793. 1990.</mixed-citation>
+         </ref>
+         <ref id="d815e769a1310">
+            <label>29</label>
+            <mixed-citation id="d815e776" publication-type="other">
+Lindsay, D. S., B. L. Blagburn, F. J. Hoerr, and P. C. Smith.
+Cryptosporidiosis in zoo and pet birds. J. Protozool. 38:180S–181S. 1990.</mixed-citation>
+         </ref>
+         <ref id="d815e786a1310">
+            <label>30</label>
+            <mixed-citation id="d815e793" publication-type="other">
+Lumeij, J. T. Avian clinical biochemistry. In: Clinical biochemistry of
+domestic animals, 5th ed. J. J. Kaneko, J. W. Harvey, and M. L. Bruss, eds.
+Academic Press, London, pp. 857–883. 1997.</mixed-citation>
+         </ref>
+         <ref id="d815e806a1310">
+            <label>31</label>
+            <mixed-citation id="d815e813" publication-type="other">
+Morgan, U. M., P. T. Monis, L. Xiao, J. Limor, I. Sulaiman, S.
+Raidal, P. O'Donoghue, R. Glasser, A. Murray, R. Fayer, B. L. Blagburn, A.
+A. Lai, and R. C. A. Thompson. Molecular and phylogenetic characterisa-
+tion of Cryptosporidium from birds. Int. J. Parasitol. 31:289–296. 2001.</mixed-citation>
+         </ref>
+         <ref id="d815e829a1310">
+            <label>32</label>
+            <mixed-citation id="d815e836" publication-type="other">
+Morgan, U. M., L. Xiao, J. Limor, S. Gelis, S. R. Raidal, R. Fayer, A.
+Lai, A. Elliot, and R. C. A. Thompson. Cryptosporidium meleagridis in an
+Indian ring-necked parrot (Psittacula krameri). Aust. Vet. J. 78:182–183.
+2000.</mixed-citation>
+         </ref>
+         <ref id="d815e852a1310">
+            <label>33</label>
+            <mixed-citation id="d815e861" publication-type="other">
+Murakami, S., M. Miyama, A. Ogawa, J. Shimada, and T. Nakane.
+Occurrence of conjunctivitis, sinusitis and upper region tracheitis in Japanese
+quail (Coturnix coturnix japonica), possibly caused by Mycoplasma
+gallisepticum accompanied by Cryptosporidium sp. infection. Avian Pathol.
+31:363–370. 2002.</mixed-citation>
+         </ref>
+         <ref id="d815e880a1310">
+            <label>34</label>
+            <mixed-citation id="d815e887" publication-type="other">
+O'Donoghue, P. J. Cryptosporidium infections in man, animals, birds
+and fish. Aust. Vet. J. 62:253–258. 1995.</mixed-citation>
+         </ref>
+         <ref id="d815e898a1310">
+            <label>35</label>
+            <mixed-citation id="d815e905" publication-type="other">
+Penrith, M. L., A. J. Bezuidenhout, W. P. Burger, and J. F. Putterill.
+Evidence for cryptosporidial infection as a cause of prolapse of the phallus
+and cloaca in ostrich chicks (Struthio camelus). Onderstepoort J. Vet. Res.
+61:283–289. 1994.</mixed-citation>
+         </ref>
+         <ref id="d815e921a1310">
+            <label>36</label>
+            <mixed-citation id="d815e928" publication-type="other">
+Randall, C. J. Renal and nasal cryptosporidiosis in a junglefowl
+(Gallus sonneratii). Vet Rec. 119:130–131. 1986.</mixed-citation>
+         </ref>
+         <ref id="d815e938a1310">
+            <label>37</label>
+            <mixed-citation id="d815e945" publication-type="other">
+Ritchie, B. W., and G. J. Harrison. Formulary. In: Avian medicine:
+principles and application. B. W. Ritchie, G. J. Harrison, and L. R.
+Harrison, eds. Wingers, Lake Worth, Florida, pp. 227–253. 1997.</mixed-citation>
+         </ref>
+         <ref id="d815e958a1310">
+            <label>38</label>
+            <mixed-citation id="d815e965" publication-type="other">
+Ritter, G. D., D. H. Ley, M. Levy, J. Guy, and H. J. Barnes.
+Intestinal cryptosporidiosis and reovirus isolation from bobwhite quail
+(Colinus virginianus) with enteritis. Avian Dis. 30:603–608. 1985.</mixed-citation>
+         </ref>
+         <ref id="d815e978a1310">
+            <label>39</label>
+            <mixed-citation id="d815e985" publication-type="other">
+Rodriguez, A., and N. Forbes. Use of paromomycin in the treatment
+of a cryptosporidium infection in a gyr falcon (Falco rusticolus) and a hybrid
+gyr/saker falcon (Falco rusticolus X Falco cherrug. Proc. 9th European
+Association of Avian Veterinarians Conference, Zurich, Switzerland,
+pp. 191–197. 2007.</mixed-citation>
+         </ref>
+         <ref id="d815e1004a1310">
+            <label>40</label>
+            <mixed-citation id="d815e1011" publication-type="other">
+Rodriguez, F., J. Oros, L. Rodriguez, J. Gonzalez, P. Castro, and A.
+Fernandez. Intestinal cryptosporidiosis in pigeons (Columba livid). Avian
+Dis. 41:748–750. 1997.</mixed-citation>
+         </ref>
+         <ref id="d815e1025a1310">
+            <label>41</label>
+            <mixed-citation id="d815e1032" publication-type="other">
+Slavin, D. Cryptosporidium meleagridis (sp. nov.). J. Comp. Pathol.
+65:262–266. 1955.</mixed-citation>
+         </ref>
+         <ref id="d815e1042a1310">
+            <label>42</label>
+            <mixed-citation id="d815e1049" publication-type="other">
+Sréter, T., and I. Varga. Cryptosporidiosis in birds—a review. Vet.
+Parasitol. 87:261–279. 2000.</mixed-citation>
+         </ref>
+         <ref id="d815e1059a1310">
+            <label>43</label>
+            <mixed-citation id="d815e1066" publication-type="other">
+Sréter, T., I. Varga, and L. Bekesi. Effects of bursectomy and
+thymectomy on the development of resistance to Cryptosporidium baileyi in
+chickens. Parasitol. Res. 82:174–177. 1996.</mixed-citation>
+         </ref>
+         <ref id="d815e1079a1310">
+            <label>44</label>
+            <mixed-citation id="d815e1086" publication-type="other">
+Sundermann, C. A., D. S. Lindsay, and B. L. Blagburn. Evaluation of
+disinfectants for ability to kill avian Cryptosporidium oocysts. Comp. Anim.
+Pract. pp. 36–39. 1987.</mixed-citation>
+         </ref>
+         <ref id="d815e1099a1310">
+            <label>45</label>
+            <mixed-citation id="d815e1106" publication-type="other">
+Suri, C. G., S. M. Kim, and H. C. Kim. Viability of preserved
+Cryptosporidium baileyi oocysts. Korean J. Parasitol. 41:197–201. 2003.</mixed-citation>
+         </ref>
+         <ref id="d815e1116a1310">
+            <label>46</label>
+            <mixed-citation id="d815e1123" publication-type="other">
+Tyzzer, E. E. Coccidiosis in gallinaceous birds. Am. J. Hygiene
+10:269–383. 1929.</mixed-citation>
+         </ref>
+         <ref id="d815e1134a1310">
+            <label>47</label>
+            <mixed-citation id="d815e1141" publication-type="other">
+White, A. C., Jr., C. L. Chappell, C. S. Hayat, K. T. Kimball, T. P.
+Flanigan, and R. W. Goodgame. Paromomycin for cryptosporidiosis in
+AIDS: a prospective, double-blind trial. J. Inf. Dis. 170:419–424. 1994.</mixed-citation>
+         </ref>
+         <ref id="d815e1154a1310">
+            <label>48</label>
+            <mixed-citation id="d815e1161" publication-type="other">
+Xiao, L., I. Sulaiman, R. Fayer, and A. A. Lai. Species and strain-
+specific typing of Cryptosporidium parasites in clinical and environmental
+samples. Mem. Inst. Oswaldo Cruz 93:687–692. 1988.</mixed-citation>
+         </ref>
+         <ref id="d815e1174a1310">
+            <label>49</label>
+            <mixed-citation id="d815e1181" publication-type="other">
+Zu, S. X., G. D. Fang, R. Fayer, and R. L. Guerrant.
+Cryptosporidiosis: pathogenesis and immunology. Parasitol. Today
+8:24–27. 1992.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

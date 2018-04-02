@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1tfj8m3</collection-id>
+      <volume>188</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1tg5nmw</book-id>
+      <subj-group>
+         <subject content-type="call-number">BQ924.R86 2000</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Gautama Buddha</subject>
+         <subj-group>
+            <subject content-type="lcsh">Relics</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Anthropology</subject>
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Jewel in the Ashes</book-title>
+         <subtitle>Buddha Relics and Power in Early Medieval Japan</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Ruppert</surname>
+               <given-names>Brian D.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>29</day>
+         <month>06</month>
+         <year>2000</year>
+      </pub-date>
+      <isbn content-type="ppub">9780674002456</isbn>
+      <isbn content-type="epub">9781684173389</isbn>
+      <isbn content-type="epub">1684173388</isbn>
+      <publisher>
+         <publisher-name>Harvard University Asia Center</publisher-name>
+         <publisher-loc>Cambridge (Massachusetts); London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2000</copyright-year>
+         <copyright-holder>the President and Fellows of Harvard College</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1tg5nmw"/>
+      <abstract abstract-type="short">
+         <p>Focusing on the ninth to the fourteenth centuries, this study analyzes the ways in which relics functioned as material media for the interactions of Buddhist clerics, the imperial family, lay aristocrats, and warrior society and explores the multivocality of relics by dealing with specific historical examples. Brian Ruppert argues that relics offered means for reinforcing or subverting hierarchical relations. The author's critical literary and anthropological analyses attest to the prominence of relic veneration in government, in lay practice associated with the maintenance of the imperial line and warrior houses, and in the promotion of specific Buddhist sects in Japan.</p>
+      </abstract>
+      <counts>
+         <page-count count="536"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.3</book-part-id>
+                  <title-group>
+                     <title>Tables and Figures</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations and Conventions</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction:</title>
+                     <subtitle>Buddha Relics, Exchange, and the Value of Death</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Throughout Asia, Buddhists have both revered and fought over the remains of the Buddha. Only recent1y, however, have scholars in Japan and the West begun to take their role within the development of Buddhist culture seriously. In Japan, the study of Buddha relics was generally confined to the field of art history.¹ In Europe and America, the study of relics was usually subsumed within the larger archaeological project of Indologists to study the remains of reliquaries, or<italic>stüpas</italic>; as a rule, such studies were concerned more with classifying remains of the Buddha as one of a variety of “relics”</p>
+                     <p>a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Continental Context:</title>
+                     <subtitle>Buddha Relics in India and China</subtitle>
+                  </title-group>
+                  <fpage>16</fpage>
+                  <abstract>
+                     <p>In Buddhism, as in Christianity, relics were objects of patronage and contention. The epigraph to Chapter 1 illustrates the disputes that arose over the distribution of the relics of the historical Buddha following his cremation. Resolution came only when the relics were bestowed on rulers, a solution that suggests the indispensability of sovereigns to the proper protection of the Buddha’s remains.</p>
+                     <p>The earliest Indian sources for the treatment of relics are not literary but artistic and archaeological. Many stūpas dating from the fourth and third centuries BCE have relief carvings depicting the life of the Buddha as well as scenes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Buddha Relics as Imperial Treasures:</title>
+                     <subtitle>‘Ichidai ichido busshari hōken’</subtitle>
+                  </title-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>The ninth century marked a new era in the history of the Japanese imperial court. The Ritsuryō system, which was largely patterned after Tang legal codes, became increasingly frail. Although the system continued to exist, the growing power of the Fujiwara clan over the government meant that the<italic>tennō</italic>—a term sometimes translated “emperor”—was an increasingly passive figure.¹ Thus, the Japanese political situation, always quite different from that in China, began to take on a coloring all its own, marked by a regency (<italic>sesshō</italic>) and chancellorship (<italic>kanpaku</italic>) controlled by the Fujiwaras. Moreover, the Fujiwaras routinely married their daughters to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Buddha Relics as Esoteric Treasures:</title>
+                     <subtitle>The Latter Seven-Day Rite and the Inventory of Buddha Relics</subtitle>
+                  </title-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>The Heian court did not limit its appropriation of Buddha relics to the offering made in honor of the imperial accession. Between the mid-ninth and the mid-tenth centuries, it began to sponsor the worship of relics as part of the Latter Seven-Day Rite (go-shichinichi mishiho). This ritual was conducted by monks of the Shingon temple Tōji for the regeneneration of the emperor, state, and realm in the Shingon chapel (Shingon’in) of the greater imperial palace from the eighth to the fourteenth days of the first month of each year.</p>
+                     <p>Kūkai founder of the Shingon school, proposed and conducted the rite</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Buddha Relics as Objects of Contention:</title>
+                     <subtitle>Wish Fulfilling Jewel Worship and the Genealogy of Relic Theft</subtitle>
+                  </title-group>
+                  <fpage>142</fpage>
+                  <abstract>
+                     <p>As noted in Chapter 2, Japanese Buddhists inherited narratives from the continent depicting competitions to acquire relics for worship. The story of the rivalries between humans and other beings for possession of the relics of the Buddha following his pari-nirvāna provided a model for the proper cycle of adoration, conflict, and resolution in their distribution. A variation of this sequence was rehearsed, for example, in the story of how the disciple Ānanda prevented war through his ritual self-immolation and the subsequent distribution of his remains to two kings vying for his relics.¹ All believers, with the help of the ruler</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Lineage and Gender in the Economy of Relics</title>
+                  </title-group>
+                  <fpage>192</fpage>
+                  <abstract>
+                     <p>Previous chapters have shown that a variety of socia1 groups developed rites of Buddha relic veneration for a number of reasons. The imperial court’s regular offering of Buddha relics on the accession of a new emperor legitimated successive reigns and thereby reconfirmed relations with large shrines throughout the realm. The Shingon school’s Latter Seven-Day Rite and traditions of wish-fulfilling jewel worship improved its relations with the court. Relic veneration was not limited to the court and the Shingon school, however. The aristocrat Ōe no Chikamichi was heavily involved in a mode of popular relic veneration that transcended the schools of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Rebirth of the Warrior-King:</title>
+                     <subtitle>Samurai Society and the Powers of Buddha Relics</subtitle>
+                  </title-group>
+                  <fpage>230</fpage>
+                  <abstract>
+                     <p>The preceding chapters have explored the roles of aristocrats, members of the imperial family, and monks in relic acquisition and veneration in early medieval Japan. This chapter considers relics in relation to a fourth social group—warriors (<italic>bushi</italic>). Given the devotion of the aristocratic and imperial houses to relic worship during the late Heian period, warriors living in or near the capital must have witnessed examples of such rituals. Yet because early records were written by members of the court for other members of the court, few mention the activities of warriors. It is not until the bushi gain ascendancy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Conclusion:</title>
+                     <subtitle>Buddha Relics and the Ritual Economy in Early Medieval Japan</subtitle>
+                  </title-group>
+                  <fpage>261</fpage>
+                  <abstract>
+                     <p>Buddha relics were among the most valued of Objects in early medieval Japan and continued to be so throughout the medieval and modern eras. The modes of veneration, distribution, and theft of relics outlined in this book provided patterns for their use that believers appropriated repeatedly thereafter.</p>
+                     <p>As we have seen, the veneration of Buddha relics did not begin to flourish in the epoch of “Kamakura Buddhism.” Such rituals, as well as efforts to acquire Buddha relics, were common preoccupations of the court and Buddhist clerics throughollt the Heian era. Figures such as Chien-chen had imported quantities of Buddha relics</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.13</book-part-id>
+                  <title-group>
+                     <title>Appendix A</title>
+                     <subtitle>Scripture of the Golden-Wheel Dhāranī King’s Secret Transformation into a Buddha in This Body Through Turning the Wheel of the Wish-Fulfilling Jewel</subtitle>
+                  </title-group>
+                  <fpage>283</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.14</book-part-id>
+                  <title-group>
+                     <title>Appendix B</title>
+                     <subtitle>Excerpts from the “Relics” (“Shari”) and “Additional Teachings on Jewels” (“Hōju yū setsu”) Chapters of Kakuzen’s Notes (Kakuzen shō)</subtitle>
+                  </title-group>
+                  <fpage>287</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.15</book-part-id>
+                  <title-group>
+                     <title>Glossary</title>
+                  </title-group>
+                  <fpage>315</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.16</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>383</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.17</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>461</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>489</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tg5nmw.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>507</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

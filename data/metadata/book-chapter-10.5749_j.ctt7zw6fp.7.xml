@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7zw6fp</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL856.U673Z864 2014</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Murakami, Haruki, born 1949</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Forbidden Worlds of Haruki Murakami</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>STRECHER</surname>
+               <given-names>MATTHEW CARL</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>10</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780816691982</isbn>
+      <isbn content-type="epub">9781452943053</isbn>
+      <isbn content-type="epub">1452943052</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>Minneapolis; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.5749/j.ctt7zw6fp"/>
+      <abstract abstract-type="short">
+         <p>In an "other world" composed of language-it could be a fathomless Martian well, a labyrinthine hotel or forest-a narrative unfolds, and with it the experiences, memories, and dreams that constitute reality for Haruki Murakami's characters and readers alike. Memories and dreams in turn conjure their magical counterparts-people without names or pasts, fantastic animals, half-animals, and talking machines that traverse the dark psychic underworld of this writer's extraordinary fiction.</p>
+         <p>Fervently acclaimed worldwide, Murakami's wildly imaginative work in many ways remains a mystery, its worlds within worlds uncharted territory. Finally in this book readers will find a map to the strange realm that grounds virtually every aspect of Murakami's writing. A journey through the enigmatic and baffling innermost mind, a metaphysical dimension where Murakami's most bizarre scenes and characters lurk,<italic>The Forbidden Worlds of Haruki Murakami</italic>exposes the psychological and mythological underpinnings of this other world. Matthew Carl Strecher shows how these considerations color Murakami's depictions of the individual and collective soul, which constantly shift between the tangible and intangible but in this literary landscape are undeniably real.</p>
+         <p>Through these otherworldly depths<italic>The Forbidden Worlds of Haruki Murakami</italic>also charts the writer's vivid "inner world," whether unconscious or underworld (what some Japanese critics call<italic>achiragawa</italic>, or "over there"), and its connectivity to language. Strecher covers all of Murakami's work-including his efforts as a literary journalist-and concludes with the first full-length close reading of the writer's newest novel,<italic>Colorless Tsukuru Tazaki and His Years of Pilgrimage.</italic>
+         </p>
+      </abstract>
+      <counts>
+         <page-count count="296"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.4</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                     <subtitle>The Power of the “Story”</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>It has now been more than three decades since novelist Murakami Haruki (born 1949) made his debut on the Japanese literary stage with the publication of his brief, almost laconic novella<italic>Kaze no uta o kike</italic>(1979; translated as<italic>Hear the Wind Sing</italic>). This work, along with his second, 1973-<italic>nen no pinbōru</italic>(1980; translated as<italic>Pinball</italic>, 1973), has in fact been translated into English, but neither has been released outside Japan—according to popular rumor, because the author preferred it that way. His initial reception as a writer was somewhat mixed, despite his winning the Gunzō Prize for new writers</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.6</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>New Words, New Worlds</title>
+                  </title-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>In one of his very first short stories, “Binbō na obasan no hanashi” (translated by Jay Rubin as “A Poor Aunt’s Story”), Murakami Haruki’s ubiquitous nameless protagonist “Boku” explains the pale image of a middle-aged woman clinging to his back as<italic>tada no kotoba</italic>, or “just words.” In this one brief statement, Murakami sums up a facet of his fiction that is both simple and yet deceptively complex. It is simple in the same sense that God’s declaration in the opening lines of Genesis is simple: “Let there be light,” says God, and sure enough, light comes into being. But</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.7</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Into the Mad, Metaphysical Realm</title>
+                  </title-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>Supernatural or metaphysical elements have been an integral part of Murakami Haruki’s fiction from the beginning of his career. In those early days, however, those elements, which are widely understood to be associated with that type of writing known as magical realist, presented themselves as peripheral to the principal narratives being told. They were, rather, a means or a tool by which the Murakami hero gained access to his inner mind, the metaphysical realm. It is even possible that the author himself, as he learned through practice the craft of writing in these early works, was not wholly aware of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.8</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Gods and Oracles, Fate and Mythology</title>
+                  </title-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>In chapter 1 we explored how language constitutes realities, as well as the rather vexing question of “who speaks,” that is, who rightfully wields the power of creation through language. Murakami once said that he feels “like a god” when he writes, and the comparison is an apt one, for the creation of worlds is often regarded as the work of divinity. It is time, therefore, that we confront the appearance of the gods in Murakami’s fictional universe, why they have appeared, and what they mean to his overall agenda as a writer.</p>
+                     <p>We might begin by imagining how early</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.9</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>Murakami Haruki as Literary Journalist</title>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>To this point we have explored, through the metaphysical Murakami landscape, how language as narrative constitutes and shapes not only the realities external to the subject but those that lurk within the mind, in dreams and the imagination, even in the realm of the gods themselves. It is time, then, to bring the discussion back down to terra firma and, returning to our opening theme of constructed realities, test some of our hypotheses on those texts in the Murakami repertoire that touch upon current events. The purpose of this discussion is twofold: first, to examine Murakami’s experiments with hybrid modes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.10</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>Forbidden Dreams from “Over There”</title>
+                  </title-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>Having spent the past four chapters examining how language constitutes realities and what sorts of realities are created, not only in the fictional framework but through actual world examples of literary journalism and journalistic fiction, I will end this volume with a close reading of Murakami’s most recent work,<italic>Shikisai o motanai Tazaki Tsukuru to, kare no junrei no toshi</italic>(2013), for which Murakami conveniently appends the English title, “Colorless Tsukuru Tazaki and his years of pilgrimage.”¹ As we will see, this work is structurally most similar to<italic>Norwegian Wood</italic>, in that the “other world” never makes a full-blown appearance</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.11</book-part-id>
+                  <title-group>
+                     <title>EPILOGUE</title>
+                     <subtitle>The Roads Taken</subtitle>
+                  </title-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>In addition to his work as a novelist, Murakami is a widely acclaimed writer of nonfiction as well as a highly prolific translator. Aside from the works of literary journalism discussed in chapter 4 (which clearly have social and political agendas attached), his nonfiction output includes travelogues, collections of essays, miscellanies, and even a literary guide for young readers; his work as a translator focuses on English-language texts by recent or contemporary authors, from F. Scott Fitzgerald to John Irving. Since in this epilogue I intend to make a few remarks about these and other genres that did not make</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.12</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.13</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>253</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.14</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>271</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zw6fp.15</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>277</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

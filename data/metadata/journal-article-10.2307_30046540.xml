@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">englishj</journal-id>
+         <journal-id journal-id-type="jstor">j100151</journal-id>
+         <journal-title-group>
+            <journal-title>The English Journal</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>National Council of Teachers of English</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00138274</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">30046540</article-id>
+         <title-group>
+            <article-title>Where in the World Is My English Teacher? Travel as Professional Development</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Leilani</given-names>
+                  <surname>Barnett Kesner</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>11</month>
+            <year>2005</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">95</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i30046530</issue-id>
+         <fpage>25</fpage>
+         <lpage>29</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2005 National Council of Teachers of English</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/30046540"/>
+         <abstract>
+            <p>Leilani Barnett Kesner describes how she has made international travel a part of her continuing development as a teacher. By applying for funding and organizing group travel with students, she has made her lifelong dream an important influence in her classroom.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Works Cited</title>
+         <ref id="d848e114a1310">
+            <mixed-citation id="d848e118" publication-type="other">
+Bitter, Gary G., and Melissa E. Pierson. Using Technology in
+the Classroom. 5th ed. Boston: Allyn, 2002.</mixed-citation>
+         </ref>
+         <ref id="d848e128a1310">
+            <mixed-citation id="d848e132" publication-type="other">
+Kogawa, Joy. Obasan. New York: Anchor, 1994.</mixed-citation>
+         </ref>
+         <ref id="d848e139a1310">
+            <mixed-citation id="d848e143" publication-type="other">
+Murakami, Haruki. A Wild Sheep Chase. New York: Vin-
+tage, 2002.</mixed-citation>
+         </ref>
+         <ref id="d848e153a1310">
+            <mixed-citation id="d848e157" publication-type="other">
+Nye, Naomi Shihab. 19 Varieties of Gazelle: Poems of the Mid-
+dle East. New York: Greenwillow, 2002.</mixed-citation>
+         </ref>
+         <ref id="d848e168a1310">
+            <mixed-citation id="d848e172" publication-type="other">
+Otsuka, Julie. When the Emperor Was Divine. New York:
+Anchor, 2002.</mixed-citation>
+         </ref>
+         <ref id="d848e182a1310">
+            <mixed-citation id="d848e186" publication-type="other">
+Walker, Alice. "The Universe Responds: Or, How I Learned
+We Can Have Peace on Earth." In Living by the Word:
+Selected Writings 1973-1987. San Diego: Harcourt,
+1988.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

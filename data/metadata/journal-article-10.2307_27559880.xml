@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="misc">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">harvardreview</journal-id>
+         <journal-id journal-id-type="jstor">j50000171</journal-id>
+         <journal-title-group>
+            <journal-title>Harvard Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>President and Fellows of Harvard College</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">10772901</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">27559880</article-id>
+         <title-group>
+            <article-title>Front Matter</article-title>
+         </title-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1993</year>
+         </pub-date>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i27559879</issue-id>
+         <permissions>
+            <copyright-statement>Copyright 1993 President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/27559880"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

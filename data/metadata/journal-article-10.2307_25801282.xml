@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">jworlprehist</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50001107</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Journal of World Prehistory</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Springer</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">08927537</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15737802</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">25801282</article-id>
+         <title-group>
+            <article-title>Early West African Metallurgies: New Data and Old Orthodoxy</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Augustin F. C.</given-names>
+                  <surname>Holl</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>2009</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">22</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i25801277</issue-id>
+         <fpage>415</fpage>
+         <lpage>438</lpage>
+         <permissions>
+            <copyright-statement>© 2009 Springer Science+Business Media, LLC</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/25801282"/>
+         <abstract>
+            <p>The debate on West African metallurgies cannot be properly understood without reference to the colonial template that featured Africa as the receiving partner in all crucial social, economic, and technological development. The interesting debate that took place in West Africa during the Colonial Period was more meta-theoretical than factual. These conflicting glosses, despite their lack of empirical foundations, have constrained the nature of archaeological research and oversimplified the dynamics of the many facets of technological innovation. The relative boom in archaeological research that took place from the 1960s onwards resulted in an exponential growth of factual information. Challenging evidence has emerged from Niger, Nigeria, Burkina Faso, Cameroon, Central African Republic, Gabon, Togo, and Senegal. The picture that emerges from this survey calls for more sophisticated explanations for the origins of West African metallurgies away from the single non-African source hypothesis.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d552e228a1310">
+            <mixed-citation id="d552e232" publication-type="other">
+Adams, R. Mc C. (1996). Paths of fire: An anthropologist's inquiry into western technology. Princeton:
+Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e242a1310">
+            <mixed-citation id="d552e246" publication-type="other">
+Alpern, S. (2005). Did they or didn't they invent it? Iron in Sub-Saharan Africa. History in Africa, 32,41-94.</mixed-citation>
+         </ref>
+         <ref id="d552e253a1310">
+            <mixed-citation id="d552e257" publication-type="other">
+Arnold, D. E. (1985). Ceramic theory and cultural process. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e264a1310">
+            <mixed-citation id="d552e268" publication-type="other">
+Aubet, M. E. (2001). The Phoenicians and the West: Politics, colonies, and trade. Cambridge: Cambridge
+University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e279a1310">
+            <mixed-citation id="d552e283" publication-type="other">
+de Barros, P. (2003). Recent early Iron Age research in Bassar, Togo. Nyame Akuma, 59, 76-78.</mixed-citation>
+         </ref>
+         <ref id="d552e290a1310">
+            <mixed-citation id="d552e294" publication-type="other">
+de Barros, P. (2006). The surprising early Iron Age site of Dekpassanware (Togo). Paper presented at the
+Society of Africanist Archaeologists, Calgary, 22-26 June 2006.</mixed-citation>
+         </ref>
+         <ref id="d552e304a1310">
+            <mixed-citation id="d552e308" publication-type="other">
+Benoit, P., Coulibaly, E., &amp; Fluzin, P. (2004). Le laboratoire, lieu de cooperation. In A. Bazzana &amp; H.
+Bocoum (Eds.), Du nord au sud du Sahara: Cinquante ans d'archeologie franqaise en Afrique de
+VOuest et au Maghreb (pp. 325-330). Paris: Editions Sepia.</mixed-citation>
+         </ref>
+         <ref id="d552e321a1310">
+            <mixed-citation id="d552e325" publication-type="other">
+Bernus, S., &amp; Echard, N. (1992). La Region d'In-Gall-Teggida-n-Tesemt (Niger) V: Les Populations ac-
+tuelles. Niamey: Etudes Nigeriennes No 52.</mixed-citation>
+         </ref>
+         <ref id="d552e335a1310">
+            <mixed-citation id="d552e339" publication-type="other">
+Bernus, S., &amp; Gouletquer, P. L. (1976). Du cuivre au sel: Recherches ethnoarcheologiques sur la region
+d'Azelik (Campagnes 1973-1975). Journal des Africanistes, 46(1-2), 7-68.</mixed-citation>
+         </ref>
+         <ref id="d552e349a1310">
+            <mixed-citation id="d552e353" publication-type="other">
+Bisson, M. S., Childs, S. T., de Barros, P., &amp; Holl, A. F. C. (2000). Ancient African metallurgy: The
+sociocultural context. Walnut Creek: AltaMira Press.</mixed-citation>
+         </ref>
+         <ref id="d552e364a1310">
+            <mixed-citation id="d552e368" publication-type="other">
+Bocoum, H. (2000). VAge dufer au Senegal: Histoire et archeologie. Dakar/Nouakchott: JFAN/CRIAA.</mixed-citation>
+         </ref>
+         <ref id="d552e375a1310">
+            <mixed-citation id="d552e379" publication-type="other">
+Bocoum, H. (2006). Histoire technique et sociale de la metallurgie du fer dans la vallee moyenne du
+Senegal. Doctorat d'Etat thesis. University Cheikh Anta Diop, Dakar.</mixed-citation>
+         </ref>
+         <ref id="d552e389a1310">
+            <mixed-citation id="d552e393" publication-type="other">
+Bocoum, H. (ed.). (2002). Aux origines de la metallurgie du fer en Afrique: Une anciennete meconnue.
+Paris: Editions de 1' UNESCO.</mixed-citation>
+         </ref>
+         <ref id="d552e403a1310">
+            <mixed-citation id="d552e407" publication-type="other">
+Bourdieu, P. (1979). Im distinction: Critique sociale du jugement. Paris: Editions de Minuit.</mixed-citation>
+         </ref>
+         <ref id="d552e414a1310">
+            <mixed-citation id="d552e418" publication-type="other">
+Childs, S. T., &amp; Herbert, E. W. (2005). Metallurgy and its consequences. In A. B. Stahl (Ed.), African
+archaeology: A critical introduction (pp. 276-300). Oxford: Blackwell Publishing.</mixed-citation>
+         </ref>
+         <ref id="d552e428a1310">
+            <mixed-citation id="d552e432" publication-type="other">
+Childs, S. T., &amp; Killick, D. (1993). Indigenous African metallurgy: Nature and culture. Annual Review of
+Anthropology, 22, 317-337.</mixed-citation>
+         </ref>
+         <ref id="d552e443a1310">
+            <mixed-citation id="d552e447" publication-type="other">
+Clist, B. (1989). Archaeology in Gabon 1986-1988. The African Archaeological Review, 7, 59-96.</mixed-citation>
+         </ref>
+         <ref id="d552e454a1310">
+            <mixed-citation id="d552e458" publication-type="other">
+Cook, A. C, Southon, J. R., &amp; Wadsworth, J. (2003). Using radiocarbon dating to establish the age of iron-
+based artifacts. http://www.tms.org/pubs/journals/JOM/0205/Cook-0305.html.</mixed-citation>
+         </ref>
+         <ref id="d552e468a1310">
+            <mixed-citation id="d552e472" publication-type="other">
+Coulibaly, E. (2006). Savoir et savoir-faire des anciens metallurgistes d'Afrique. Paris: Karthala.</mixed-citation>
+         </ref>
+         <ref id="d552e479a1310">
+            <mixed-citation id="d552e483" publication-type="other">
+Deme, A. (2003). Archaeological investigations of settlement and emerging complexity in the Middle
+Senegal Valley. Unpublished Ph.D. Thesis, Rice University, Houston.</mixed-citation>
+         </ref>
+         <ref id="d552e493a1310">
+            <mixed-citation id="d552e497" publication-type="other">
+Deme, A., &amp; Mclntosh, S. K. (2006). Excavations at Walalde: New light on the settlement of the Middle
+Senegal Valley by iron using peoples. Journal of African Archaeology, 4(2), 317-347.</mixed-citation>
+         </ref>
+         <ref id="d552e507a1310">
+            <mixed-citation id="d552e511" publication-type="other">
+Dupuy, C, Fluzin, P., Ploquin, A., Durand, A., &amp; Rolando, C. (2001-2002). Nouvelles donnees sur Page
+ancien des metaux au Mali. Sahara 13, 61-90.</mixed-citation>
+         </ref>
+         <ref id="d552e522a1310">
+            <mixed-citation id="d552e526" publication-type="other">
+Echard, N. (Ed.). (1983). Metallurgies africaines: Nouvelles contributions. Paris: Memoire de la Societe des
+Africanistes.</mixed-citation>
+         </ref>
+         <ref id="d552e536a1310">
+            <mixed-citation id="d552e540" publication-type="other">
+Essomba, J. M. (1993). Le fer dans le passe'des societes du sud Cameroun. Paris: L'Harmattan.</mixed-citation>
+         </ref>
+         <ref id="d552e547a1310">
+            <mixed-citation id="d552e551" publication-type="other">
+Essomba, J. M. (2002). Bilan de l'archeologie de l'age du fer au Cameroun meridional. In H. Bocoum (Ed.),
+Aux origines de la metallurgie du fer en Afrique (pp. 133-146). Paris: Editions de l'UNESCO.</mixed-citation>
+         </ref>
+         <ref id="d552e561a1310">
+            <mixed-citation id="d552e565" publication-type="other">
+Eze-Uzomaka, P. (2008). New dates for iron smelting in Lejja, Nigeria. Paper read at the biannual con-
+ference of the Society of Africanist Archaeologists, September 2008, J.W. Goethe Universitat,
+Frankfurt, Germany.</mixed-citation>
+         </ref>
+         <ref id="d552e578a1310">
+            <mixed-citation id="d552e582" publication-type="other">
+Eze-Uzomaka, P. (2009). Iron and its influence on the prehistoric site of Lejja. Paper read at the world of
+iron conference, February 16-20, 2009, University College London, United Kingdom.</mixed-citation>
+         </ref>
+         <ref id="d552e592a1310">
+            <mixed-citation id="d552e596" publication-type="other">
+Fluzin, P. (2002). La chaine operatoire en siderurgie: Materiaux archeologiques et precedes. Apport des
+etudes metallographiques. In H. Bocoum (Ed.), Aux origines de la metallurgie du fer en Afrique
+(pp. 59-92). Paris: Editions de l'UNESCO.</mixed-citation>
+         </ref>
+         <ref id="d552e610a1310">
+            <mixed-citation id="d552e614" publication-type="other">
+Fluzin, P. (2007a). Les analyses metallographiques. In E. Zangato (Ed.), Les ateliers d'Oboui: Premieres
+communautes metallurgistes dans le nord-ouest du Centrafrique (pp. 72-77). Paris: Recherches sur les
+Civilisations.</mixed-citation>
+         </ref>
+         <ref id="d552e627a1310">
+            <mixed-citation id="d552e631" publication-type="other">
+Fluzin, P. (2007b). Les analyses metallographiques. In E. Zangato (Ed.), Les ateliers d'Oboui: Premieres
+communautes metallurgistes dans le nord-ouest du Centrafrique (pp. 60-67). Paris: Recherches sur les
+Civilisations.</mixed-citation>
+         </ref>
+         <ref id="d552e644a1310">
+            <mixed-citation id="d552e648" publication-type="other">
+Grebenart, D. (1983). Les metallurgies du cuivre et du fer autour d'Agades (Niger) des origines au debut de
+la periode medievale: Vues generates. In N. Echard (Ed.), Metallurgies africaines: Nouvelles contri-
+butions (pp. 109-125). Paris: Memoire de la Societe des Africanistes.</mixed-citation>
+         </ref>
+         <ref id="d552e661a1310">
+            <mixed-citation id="d552e665" publication-type="other">
+Grebenart, D. (1985). La region d'In-Gall - Tegidda-n-Tesemt (Niger), II: Le neolithique final et les debuts
+de la metallurgie. Etudes nigeriennes 49, Niamey.</mixed-citation>
+         </ref>
+         <ref id="d552e675a1310">
+            <mixed-citation id="d552e679" publication-type="other">
+Grebenart, D. (1988). Les premiers metallurgistes en Afrique occidentale. Paris: Editions Errance.</mixed-citation>
+         </ref>
+         <ref id="d552e686a1310">
+            <mixed-citation id="d552e690" publication-type="other">
+Herbert, E. W. (1993). Iron, gender, and power: Rituals of transformation in African societies. Bloom-
+ington/Indianapolis: Indiana University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e701a1310">
+            <mixed-citation id="d552e705" publication-type="other">
+Holl, A. F. C. (1997). Metallurgy, iron technology and African late holocene societies. In R. Klein-Arendt
+(Ed.), Traditionelles Eisenhandwerk in Afrika (pp. 13-54). Koln: Heinrich Barth Institut.</mixed-citation>
+         </ref>
+         <ref id="d552e715a1310">
+            <mixed-citation id="d552e719" publication-type="other">
+Holl, A. F. C. (2000). Metal and precolonial African society. In J. O. Vogel (Ed.), Ancient African met-
+allurgy (pp. 1-83). Walnut Creek: Altamira Press.</mixed-citation>
+         </ref>
+         <ref id="d552e729a1310">
+            <mixed-citation id="d552e733" publication-type="other">
+Holl, A. F. C. (2004). Holocene Saharans: An anthropological perspective. New York/London: Continuum.</mixed-citation>
+         </ref>
+         <ref id="d552e740a1310">
+            <mixed-citation id="d552e744" publication-type="other">
+Holl, A. F. C, &amp; Kote, L. (2000). Settlement patterns, food production, and craft specialization in the
+Mouhoun Bend (NW Burkina Faso: Preliminary results of the MOBAP 1997-1999 field seasons. West
+African Journal of Archaeology, 30(1), 69-108.</mixed-citation>
+         </ref>
+         <ref id="d552e757a1310">
+            <mixed-citation id="d552e761" publication-type="other">
+Kiethega, J. B. (2006). La metallurgie lourde du fer au Burkina Faso. Une technologie a Vepoque pre-
+coloniale. Paris: Karthala.</mixed-citation>
+         </ref>
+         <ref id="d552e771a1310">
+            <mixed-citation id="d552e775" publication-type="other">
+Killick, D. (2001). Science, speculation and the origins of extractive metallurgy. In D. R. Brothwell &amp; A. M.
+Pollard (Eds.), Handbook of archaeological sciences (pp. 479-488). London: Wiley.</mixed-citation>
+         </ref>
+         <ref id="d552e786a1310">
+            <mixed-citation id="d552e790" publication-type="other">
+Killick, D. (2004). Review essay: What do we know about African iron working? Journal of African
+Archaeology, 2(1), 97-112.</mixed-citation>
+         </ref>
+         <ref id="d552e800a1310">
+            <mixed-citation id="d552e804" publication-type="other">
+Killick, D., van der Merwe, N. J., Gordon, R. B., &amp; Grebenart, D. (1988). Reassessment of the evidence for
+early metallurgy in Niger, West Africa. Journal of Archaeological Science, 15, 367-394.</mixed-citation>
+         </ref>
+         <ref id="d552e814a1310">
+            <mixed-citation id="d552e818" publication-type="other">
+Lambert, N. (1975). Mines et metallurgie antiques dans la region d'Akjoujt. Annales de VInstitut Mauri-
+tanien de la Recherche Scientifique, 1, 6-24.</mixed-citation>
+         </ref>
+         <ref id="d552e828a1310">
+            <mixed-citation id="d552e832" publication-type="other">
+Lambert, N. (1983). Nouvelle contribution a l'etude du chalcolithique mauritanien. In N. Echard (Ed.),
+Metallurgies africaines: Nouvelles contributions (pp. 63-87). Paris: Memoires de la Societe des
+Africanistes.</mixed-citation>
+         </ref>
+         <ref id="d552e845a1310">
+            <mixed-citation id="d552e849" publication-type="other">
+Latour, B. (1993). Ethnography of a 'high-tech' case: About Aramis. In P. Lemonnier (Ed.), Technical
+choices (pp. 372-398). London: Routledge.</mixed-citation>
+         </ref>
+         <ref id="d552e859a1310">
+            <mixed-citation id="d552e863" publication-type="other">
+Lavachery, P., MacEachern, S., &amp; Gouem Gouem, D. (forthcoming). The Chad export project: Archaeo-
+logical report. Journal of African Archaeology Monograph Series.</mixed-citation>
+         </ref>
+         <ref id="d552e874a1310">
+            <mixed-citation id="d552e878" publication-type="other">
+Lemonnier, P. (1992). Elements for an anthropology of technology. Ann Arbor: University of Michigan
+Museum of Anthropology.</mixed-citation>
+         </ref>
+         <ref id="d552e888a1310">
+            <mixed-citation id="d552e892" publication-type="other">
+Lemonnier, P. (1993). Introduction. In P. Lemonnier (Ed.), Technical choices (pp. 1-35). London:
+Routledge.</mixed-citation>
+         </ref>
+         <ref id="d552e902a1310">
+            <mixed-citation id="d552e906" publication-type="other">
+Levy, T. E., &amp; Holl, A. (1988). Les premieres chefferies de Palestine. La Recherche, 203, 1166-1174.</mixed-citation>
+         </ref>
+         <ref id="d552e913a1310">
+            <mixed-citation id="d552e917" publication-type="other">
+Lhote, H. (1952). La connaissance du fer en Afrique occidentale. Encyclopedic Mensuelle d'Outre-Mer,
+269-272.</mixed-citation>
+         </ref>
+         <ref id="d552e927a1310">
+            <mixed-citation id="d552e931" publication-type="other">
+MacDonald, K. C. (1998). Before the Empire of Ghana: Pastoralism and the origins of cultural complexity in
+the Sahel. In G. Connah (Ed.), Transformations in Africa: Essays on Africa's later past (pp. 71-103).
+London: Leicester University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e944a1310">
+            <mixed-citation id="d552e948" publication-type="other">
+MacEachern, S. (1996). Iron Age beginnings north of the Mandara mountains, Cameroon and Nigeria. In
+G. Pwiti &amp; R. Soper (Eds.), Aspects of African archaeology (pp. 489-496). Harare: University of
+Zimbabwe Publications.</mixed-citation>
+         </ref>
+         <ref id="d552e962a1310">
+            <mixed-citation id="d552e966" publication-type="other">
+de Maret, P. (2002). L' Afrique centrale: Le 'savoir-fer'. In H. Bocoum (Ed.), Aux origines de la metallurgie
+dufer en Afrique (pp. 123-132). Paris: Editions UNESCO.</mixed-citation>
+         </ref>
+         <ref id="d552e976a1310">
+            <mixed-citation id="d552e980" publication-type="other">
+Mauny, R. (1952) Essai sur l'histoire des metaux en Afrique occidentale. Bulletin de I'IFAN, 14(2), 545-
+595.</mixed-citation>
+         </ref>
+         <ref id="d552e990a1310">
+            <mixed-citation id="d552e994" publication-type="other">
+Mauny, R. (1953). Autourde I'introduction du fer en Afrique occidentale. Encyclopedic Mensuelle d'Outre-
+Mer, pp. 109-110.</mixed-citation>
+         </ref>
+         <ref id="d552e1004a1310">
+            <mixed-citation id="d552e1008" publication-type="other">
+Mclntosh, S. K., &amp; Mclntosh, R. J. (1988). From stone to metal: New perspectives on the later prehistory of
+West Africa. Journal of World Prehistory, 2(1), 89-133.</mixed-citation>
+         </ref>
+         <ref id="d552e1018a1310">
+            <mixed-citation id="d552e1022" publication-type="other">
+Mitchell, P. (2005). African connections: Archaeological perspectives on Africa and the wider world.
+Lanham: AltaMira Press.</mixed-citation>
+         </ref>
+         <ref id="d552e1032a1310">
+            <mixed-citation id="d552e1036" publication-type="other">
+Okafor, E. (1993). New evidence on early iron-smelting in Southeastern Nigeria. In T. Shaw, P. Sinclair,
+B. Andah, &amp; A. Okpoko (Eds.), The archaeology of Africa: Food, metals, and towns (pp. 432-448).
+London: Routledge.</mixed-citation>
+         </ref>
+         <ref id="d552e1050a1310">
+            <mixed-citation id="d552e1054" publication-type="other">
+Okafor, E. E. (2002). La reduction du fer dans les Bas-Foumeaux—Une industrie vieille de 2500 ans au
+Nigeria. In H. Bocoum (Ed.), Aux origines de la metallurgie du fer en Afrique (pp. 35-48). Paris:
+Editions UNESCO.</mixed-citation>
+         </ref>
+         <ref id="d552e1067a1310">
+            <mixed-citation id="d552e1071" publication-type="other">
+Okafor, E. E., &amp; Phillips, P. (1992). New I4C ages from Nsukka, Nigeria and the origins of African
+Metallurgy. Antiquity, 66, 686-688.</mixed-citation>
+         </ref>
+         <ref id="d552e1081a1310">
+            <mixed-citation id="d552e1085" publication-type="other">
+Person, A., &amp; Quechon, G. (2002). Donnees chronometriques et chronologiques de la metallurgie a
+Termit—Materiaux graphiques pour 1'etude des ages anciens du fer. In H. Bocoum (Ed.), Aux origines
+de la metallurgie dufer en Afrique (pp. 115-122). Paris: Editions UNESCO.</mixed-citation>
+         </ref>
+         <ref id="d552e1098a1310">
+            <mixed-citation id="d552e1102" publication-type="other">
+Prigogine, I., &amp; Stengers, E. (1984). Order out of chaos. New York: Bantam Books.</mixed-citation>
+         </ref>
+         <ref id="d552e1109a1310">
+            <mixed-citation id="d552e1113" publication-type="other">
+Pringle, H. (2009). Seeking Africa's first iron men. Science, 323, 200-202.</mixed-citation>
+         </ref>
+         <ref id="d552e1120a1310">
+            <mixed-citation id="d552e1124" publication-type="other">
+Quechon, G. (2002). Les datations de la metallurgie du fer a Termit (Niger): Leur fiabilite, leur signification.
+In H. Bocoum (Ed.), Aux origines de la metallurgie du fer en Afrique (pp. 105-114). Paris: Editions
+UNESCO.</mixed-citation>
+         </ref>
+         <ref id="d552e1138a1310">
+            <mixed-citation id="d552e1142" publication-type="other">
+Quechon, G., Paris, F., Saliege, J.-F., &amp; Person, A. (1992). Les debuts de la metallurgie au Niger septen-
+trional. Journal des Africanistes, 62, 55-68.</mixed-citation>
+         </ref>
+         <ref id="d552e1152a1310">
+            <mixed-citation id="d552e1156" publication-type="other">
+Saliege, J.-F. (2007). Apport de la chronologie 14C, la methode et ses limites. In E. Zangato (Ed.),
+Les ateliers d'Oboui: Premieres communautes metallurgistes dans le nord-ouest du Centrafrique
+(pp. 131-135). Paris: Recherches sur les Civilisations.</mixed-citation>
+         </ref>
+         <ref id="d552e1169a1310">
+            <mixed-citation id="d552e1173" publication-type="other">
+Schmidt, P. R. (Ed.). (1996). The culture and technology of African iron production. Gainesville: University
+Presses of Florida.</mixed-citation>
+         </ref>
+         <ref id="d552e1183a1310">
+            <mixed-citation id="d552e1187" publication-type="other">
+Schmidt, P. R. (1997). Iron technology in East Africa: Symbolism, science, and archaeology. Bloomington:
+Indiana University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e1197a1310">
+            <mixed-citation id="d552e1201" publication-type="other">
+Schmidt, P. R. (2006). Historical archaeology in Africa: Representation, social memory, and oral traditions.
+Lanham: AltaMira Press.</mixed-citation>
+         </ref>
+         <ref id="d552e1211a1310">
+            <mixed-citation id="d552e1215" publication-type="other">
+Shinnie, P. L. (1985). Iron working at Meroe. In R. Haaland &amp; P. L. Shinnie (Eds.), African iron working:
+Ancient and traditional (pp. 28-35). Oslo: Norwegian University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e1226a1310">
+            <mixed-citation id="d552e1230" publication-type="other">
+Tainter, J. A. (1988). The collapse of complex societies. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e1237a1310">
+            <mixed-citation id="d552e1241" publication-type="other">
+Tamari, T. (1995). Linguistic evidence for the history of West African 'castes'. In D. C. Conrad &amp;
+B. E. Frank (Eds.), Status and identity in West Africa: Nyamakalaw of Mande (pp. 61-85). Bloom-
+ington: Indiana University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e1254a1310">
+            <mixed-citation id="d552e1258" publication-type="other">
+Trigger, B. G. (1969). The myth of Meroe and the African Iron Age. African Historical Studies, 2, 23-50.</mixed-citation>
+         </ref>
+         <ref id="d552e1265a1310">
+            <mixed-citation id="d552e1269" publication-type="other">
+Van Der Merwe, N. J. (1980). The advent of iron in Africa. In T. A. Wertime &amp; J. D. Muhly (Eds.), The
+coming of the age of iron (pp. 463-506). New Haven: Yale University Press.</mixed-citation>
+         </ref>
+         <ref id="d552e1279a1310">
+            <mixed-citation id="d552e1283" publication-type="other">
+Vansina, J. (1990). Paths in the rainforests: Toward a history of political tradition in equatorial Africa.
+Madison: University of Wisconsin Press.</mixed-citation>
+         </ref>
+         <ref id="d552e1293a1310">
+            <mixed-citation id="d552e1297" publication-type="other">
+Welsby, D. A. (1998). Soba II: Renewed excavations within the metropolis of the Kingdom of Aiwa in
+Central Sudan. British Institute in Eastern Africa Memoir 15. London: British Museum Press.</mixed-citation>
+         </ref>
+         <ref id="d552e1308a1310">
+            <mixed-citation id="d552e1312" publication-type="other">
+Welsby, D. A., &amp; Daniels, C. M. (1991). Soba: Archaeological research at a medieval capital on the Blue
+Nile. Memoir 12. London: British Institute in Eastern Africa.</mixed-citation>
+         </ref>
+         <ref id="d552e1322a1310">
+            <mixed-citation id="d552e1326" publication-type="other">
+Zangato, E. (1999). Societes prehistoriques et megalithes dans le nord-ouest de la Republique centrafricaine
+[BAR International Series 768]. Oxford: BAR.</mixed-citation>
+         </ref>
+         <ref id="d552e1336a1310">
+            <mixed-citation id="d552e1340" publication-type="other">
+Zangato, E. (2007). Les ateliers d'Oboui: Premieres communautes metallurgistes dans le nord-ouest du
+Centrafrique. Paris: Editions Recherches sur les Civilizations.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

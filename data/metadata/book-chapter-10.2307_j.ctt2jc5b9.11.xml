@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt2jc5b9</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Feeling Asian Modernities</book-title>
+         <subtitle>Transnational Consumption of Japanese TV Dramas</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Iwabuchi</surname>
+               <given-names>Koichi</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>03</month>
+         <year>2004</year>
+      </pub-date>
+      <isbn content-type="ppub">9789622096318</isbn>
+      <isbn content-type="epub">9789882201309</isbn>
+      <publisher>
+         <publisher-name>Hong Kong University Press, HKU</publisher-name>
+         <publisher-loc>Aberdeen, Hong Kong</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2004</copyright-year>
+         <copyright-holder>Hong Kong University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt2jc5b9"/>
+      <abstract abstract-type="short">
+         <p>The recent transnational reach of Japanese television dramas in East and Southeast Asia is unprecedented, and not simply in terms of the range and scale of diffusion, but also of the intense sympathy many young Asians feel toward the characters in Japanese dramas, so that they cope with their own modern lives by emulating the lives on screen. Through the empirical analysis of how Japanese youth dramas are (re)produced, circulated, regulated, and consumed in East and Southeast Asia, each chapter in this volume variously explores the ways in which intra-Asian cultural flows highlight cultural resonance and asymmetry in the region under the decentering processes of globalization. Key questions include: What is the nature of Japanese cultural power and influence in the region and how is it historically overdetermined? How is it similar to and different from "Americanization" and other Asian cultural sub-centers? What kinds of images and sense of intimacy and distance are perceived through the reception of Japanese youth dramas?</p>
+      </abstract>
+      <counts>
+         <page-count count="340"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.4</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.5</book-part-id>
+                  <title-group>
+                     <title>Note on Japanese Names</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.6</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Cultural Globalization and Asian Media Connections</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Iwabuchi</surname>
+                           <given-names>Koichi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the latter decades of the twentieth century, the drastic development of communication technologies and the concurrent emergence of global media corporations have facilitated the simultaneous transnational circulation of information, images, and texts on a global scale. Various (national) media markets have been penetrated and integrated by the powerful missionaries of global consumer culture such as News Corp., Disney and Sony. However, cultural globalization does not just mean the spread of the same products of Western (mostly American) origin all over the world through these media conglomerates. The development of new patterns of regional media consumption has become no less</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Representation of Femininity in Japanese Television Dramas of the 1990s</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mamoru</surname>
+                           <given-names>Ito</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Kaori</surname>
+                           <given-names>Tsurumoto</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the 1990s, the Japanese media industry grew rapidly, both in terms of the range of consumable media and the number of choices within these media products. Within this development of Japan’s information environment, there was a downward trend in the audience ratings television programs received, to the extent that the number of so-called “mega hit” programs that attained high ratings declined in numbers (See Tomura 1991; Ito and Fujita 1999). Due to the diversification of viewer lifestyles, tastes and interests, and, above all, to the multiplication of media products, the audience became segmented and fragmented. Programs that transcended gender</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Empowering Love:</title>
+                     <subtitle>The Intertextual Author of Ren’ai Dorama</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tsai</surname>
+                           <given-names>Eva</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Scenes from the prime-time television dramas in Japan synchronize with the rhythms of the larger cultural milieu. They represent rituals, trends, and sentiments in real time, sometimes at a hyper-real speed. The hectic schedule of new drama production and syndication restrictions make television dramas in Japan abundant and yet, paradoxically, transient. In a discussion about Japan’s strict copyright laws, dramas are likened to ephemeral goods and described as <italic>shōmohin</italic> (goods to be consumed) and <italic>kieyukumono</italic> (things to vanish) (Suzuki and Maeda 1997). However, as technology (e.g., VCR, VCD, internet), business (e.g., video rental, DVD sales), and circumstantial changes (e.g., regional</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Producing (Post-)Trendy Japanese TV Dramas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tōru</surname>
+                           <given-names>Ōta</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Madori</surname>
+                           <given-names>Nasu</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Ōta Tōru is a prominent television drama producer at Fuji TV. He has produced many phenomenally popular dramas, such as <italic>Tokyo Love Story, The 101st Proposal,</italic> and <italic>All Under One Roof.</italic> This chapter is an edited composition of his speech on 23 November 2001 at the International Conference, “Feeling Asian Modernities: Transnational TV Consumption in East/Southeast Asia,” which was held at International Christian University, Tokyo.</p>
+                     <p>I am Ōta Tōru from Fuji TV. Thank you for inviting me. Today, I’d like to focus on three points in my talk. My first point will be on how the “trendy drama” came to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>
+                        <italic>Ganbaru</italic>and Its Transcultural Audience:</title>
+                     <subtitle>Imaginary and Reality of Japanese TV Dramas in Hong Kong</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leung</surname>
+                           <given-names>Lisa Yuk-ming</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The “Japanese wave” has been a euphemism for the recent success of Japanese media products across Asia. Ever since the release of phenomenally popular television programs such as <italic>Tokyo Love Story</italic> and <italic>Long Vacation,</italic> Japanese idol dramas have swept throughout Asia — Hong Kong, Taiwan, Korea, China, Singapore, and Thailand. This chapter examines the reasons for this transnational popularity, which has been unconvincingly likened to a “Japanization” of Asian cultures, as well as the effects the dramas have on their local audiences in various countries. Rather than employing the lines of traditional “cultural imperialism” theories, this chapter employs audience studies to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Desired Form:</title>
+                     <subtitle>Japanese Idol Dramas in Taiwan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ko</surname>
+                           <given-names>Yu-fen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Following the 1991 broadcast in Taiwan of <italic>Tokyo Love Story,</italic> a Japanese television drama series commonly referred to as an idol drama, contemporary Japanese culture has come to be a dominant influence over Taiwan’s youth culture. Images of Japanese pop stars and singers were soon to crowd Taiwan’s television screens and record stores in the years that followed. Within a decade, the term <italic>ha-ri</italic> (Japan-mania or Japanese fever) has turned into an everyday word that indicates a formation of consumer culture: fashion, commodities, tourism, <italic>manga</italic> (comic books), magazines, and television shows. On the one hand, Japanese culture is hailed as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Traveling With Japanese TV Dramas:</title>
+                     <subtitle>Cross-cultural Orientation and Flowing Identification of Contemporary Taiwanese Youth</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lee</surname>
+                           <given-names>Ming-tsung</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Ying, a 19 year-old female undergraduate, was watching a new VCD of a Japanese TV drama with a friend when I visited her. I looked around her room. There were Sanrio dolls on her TV set, a big poster of Takenouchi Yutaka, and two photos of Hokkaido’s lavender field torn from magazine pages on the wall. Aside from textbooks, her shelf displayed magazines such as <italic>More, With,</italic> and <italic>Taipei Walker,</italic> several <italic>manga</italic> (Japanese comic books), as well as CDs of Japanese TV drama soundtracks. In addition, some Japanese traditional decorations such as <italic>noren</italic> (door screens), <italic>furin</italic> (wind bells), and <italic>omamori</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Defining Asian Femininity:</title>
+                     <subtitle>Chinese Viewers of Japanese TV Dramas in Singapore</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MacLachlan</surname>
+                           <given-names>Elizabeth</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chua</surname>
+                           <given-names>Geok-lian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The tendency of popular culture forms to spread to areas within geo-cultural — rather than simply regional — markets is commonly attributed to what Straubhaar calls “cultural proximity.” Cultural proximity is the notion that cultural similarities, including “shared identity, gestures and non-verbal communication; what is considered funny or serious or even sacred; clothing styles; living patterns; climate influences and other relationships with the environment” are key elements in determining preference patterns of certain imported cultural forms over others (Straubhaar 1997, p. 291). With regard to the popularity of Japanese dramas in Asia, this notion is recalled in terms such as “shared sensibilities”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Popular Culture and Youth Consumption:</title>
+                     <subtitle>Modernity, Identity and Social Transformation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Siriyuvasak</surname>
+                           <given-names>Ubonrat</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The globalization of popular culture is central to the rapid growth of consumerism worldwide. In Thailand, young people are attracted to Hollywood films, billboard chart music, world class sports, Japanese comic books and cartoons on television, and, not least, to Korean and Japanese television drama. As we move towards a new informationbased economy and digital technology, we begin to witness the magnitude of the flow of these cultural goods, which rise in conjunction with the multiple channels of distribution of large global media conglomerates. In this chapter I will focus the discussion on the increasing influence of Japanese popular culture</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Chinese Re-makings of Pirated VCDs of Japanese TV Dramas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hu</surname>
+                           <given-names>Kelly</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract abstract-type="extract">
+                     <p>What is a VCD? Most people living outside Asia are not familiar with this form of video technology. The appearance of a VCD is exactly like that of a music CD, although a VCD movie will normally require two discs, each with up to 74 minutes of playing time. Since the mid-1990s, VCDs have been widely marketed in most Asian countries, excluding Japan. Invented in 1993 and developed by a number of transnational electronics companies, including Sony, Panasonic, Philips, and Matsushita, etc., VCDs emerged in the Asian market earlier than the official release of DVDs in 1997 in the global</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>VCD as Programmatic Technology:</title>
+                     <subtitle>Japanese Television Drama in Hong Kong</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Davis</surname>
+                           <given-names>Darrell William</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yeh</surname>
+                           <given-names>Emilie Yueh-yu</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>227</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Whether tourist or resident, one confronts a surprising amount of Japanese commodity culture in Hong Kong: Japanese supermarkets, Japanese comics (<italic>manga</italic>) on newsstands, Japanese fast food, pop music, and ubiquitous Hello Kitty shops selling every kind of trinket imaginable. In electronic media, there is a huge selection of Japanese computer games, toys, and <italic>anime</italic> (animation) as well as Japanese films screening at multiplexes. In video and record shops, there are not only large sections of “J-pop,” but also handsome box sets of Japanese prime-time television called simply “yat-kek” (Japanese drama) in Cantonese.</p>
+                     <p>One feature of all this stands out: it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Cultural Contact With Japanese TV Dramas:</title>
+                     <subtitle>Modes of Reception and Narrative Transparency</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lee</surname>
+                           <given-names>Dong-Hoo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The Korean government has banned the import of Japanese popular culture since its liberation from Japanese colonial rule in 1945. It was not until the late 1990s that Korea finally declared its open door policy to Japanese popular culture. Even so, Japanese TV programs, such as dramas and variety shows, are still not allowed to be broadcast in Korea. For Korea, Japan has been regarded as a “close but distant” other/oppressor. Japan’s economic success has been envied as the model or manual for incorporating Western capitalism, but Korea’s painful experience with the Japanese as colonialists cannot been easily forgotten. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.18</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Korean American Youths’ Consumption of Korean and Japanese TV Dramas and Its Implications</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Park</surname>
+                           <given-names>Jung-Sun</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The rapid expansion of global capitalism, combined with technological development and the demise of the Cold War confrontation, has fundamentally transformed the global landscape. The ways individuals identify themselves and relate to one another have become much more complicated and multi-faceted as incessant, massive, fast, and multidirectional flows of people, materials and information across borders have tremendously increased. The growing mobility and interconnectedness of the world have challenged the notion of culture understood as the shared meanings, values and ways of life of people who live within bounded territories. Hence, the “assumed isomorphism of space, place, and culture” (Gupta and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.19</book-part-id>
+                  <title-group>
+                     <title>The Cultural Intimacy of TV Drama</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ang</surname>
+                           <given-names>len</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>303</fpage>
+                  <abstract abstract-type="extract">
+                     <p>TV dramas are an integral and ubiquitous staple of the cultural diet everywhere in the world where there is a sizable television industry. In any given country around the world, dozens of TV dramas are shown on TV screens each year. They are one of the most popular television genres around, and thus the industry likes to produce and broadcast them — in the knowledge that they are able to attract large audiences. However, not all TV dramas are the same, nor are they all similarly well received. Some of them fail and are forgotten soon after. Most manage to gain</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jc5b9.20</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>311</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

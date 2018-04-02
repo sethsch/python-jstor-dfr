@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqsgm</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL726.65.G23 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Showa period, 1926–1989</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Heisei period, 1989</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Religion and literature</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Spirit Matters</book-title>
+         <subtitle>The Transcendant in Modern Japanese Literature</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Gabriel</surname>
+               <given-names>Philip</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>28</day>
+         <month>02</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824829742</isbn>
+      <isbn content-type="epub">9780824864439</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqsgm"/>
+      <abstract abstract-type="short">
+         <p>Spirit Matters is a ground-breaking work, the first to explore a broad range of writings on spirituality in contemporary Japanese literature. It draws on a variety of literary works, from enormously popular fiction (Miura Ayako’s Hyôten and Shirokari Pass and the novels of Murakami Haruki) to more problematic "serious" fiction (Ôe Kenzaburô’s Somersault) to nonfiction meditations on martyrdom and miracles (Sono Ayako’s Kiseki) and the dynamics of religious cults (Murakami’s interviews with members of Aum Shinrikyô in Underground). The first half of the volume focuses on the work of two women Christian writers, Miura Ayako and Sono Ayako. Combining a decidedly evangelistic bent with the formulas of the popular novel, Miura’s 1964 novel Hyôten (Freezing Point) and its sequel are entertaining perennial bestsellers but also treat spiritual issues—like original sin—that are largely unexplored in modern Japanese literature. Sono’s Kiseki (Miracles) and Miura’s Shiokari Pass focus on the meaning of self-sacrifice and the miraculous and survey both the paths by which people come to faith and the spiritual doubts that assail them. Perhaps most striking for Western readers, Gabriel reveals how Miura’s novel shows the lingering resistance to Christianity and its oppositional nature in Japan, and how in Kiseki Sono considers the kind of spiritual struggles many Japanese Christians experience as they try to reconcile their belief in a minority faith.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>For many years I was enamored of the type of literature that goes by the name “postmodernist.” I wrote my first book on the novelist Shimao Toshio, but I dreamed of someday doing a study of Japanese postmodern writers, a work that would examine the writings of Shimada Masahiko, Takahashi Genichirō, Kobayashi Kyōji, Ogino Anna, Tsutsui Yasutaka, and others.¹ To this end I translated Shimada’s novel<italic>Yumetsukai</italic>(as<italic>Dream Messenger</italic>), wrote essays on Shimada and Takahashi, read extensively in postmodern theory, and taught seminars on Japan and the postmodern. In a word, I was thoroughly fascinated by these writers’ lightning</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER ONE</label>
+                     <title>The Frozen Soul:</title>
+                     <subtitle>Sin and Forgiveness in Miura Ayako’s Freezing Point</subtitle>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>On the first of January, 1963, the Asahi newspaper company announced a series of five prizes to commemorate the eighty-fifth and seventy-fifth anniversaries of, respectively, its Osaka and Tokyo offices, including a prize for the best serialized novel.¹ Though such a prize was certainly not unknown (the practice dates back to 1904), what captured the attention of the literary world was the fact that the competition was open to both amateurs and professionals, and that it offered an astounding amount of prize money for the winner, ten million yen.² The selection committee received 731 novels, of which they chose an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER TWO</label>
+                     <title>The Seed Must Fall:</title>
+                     <subtitle>Two Tales of Self-Sacrifice</subtitle>
+                  </title-group>
+                  <fpage>48</fpage>
+                  <abstract>
+                     <p>Sono Ayako (1931–), after Endō Shūsaku Japan’s leading Catholic novelist, is also known as one of its most peripatetic. Her journeys have taken her to all corners of the globe, to Southeast Asia, Europe, India, both Americas, and the Middle East, and have inspired a steady succession of works with themes on a wide variety of topics—the Arab world<italic>(Arabu no kokoro),</italic>the story of Japanese migrants to the Americas<italic>(Rio Grande),</italic>and the life of Jesus<italic>(Sono hito no na wa Yoshua);</italic>she has also written on such varied topics as life in a nunnery, the construction</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER THREE</label>
+                     <title>Aum, Underground, and Murakami Haruki’s Other Side</title>
+                  </title-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>Just as September 11, 2001, is a date seared in the collective memory of Americans, so the Japanese will not soon forget the events of March 20, 1995. In his 1997 book<italic>Underground</italic>, the novelist Murakami Haruki describes the day this way:</p>
+                     <p>The date is Monday, March 20, 1995. It is a beautiful clear spring morning. There is still a brisk breeze and people are bundled up in coats. Yesterday was Sunday, tomorrow is the Spring Equinox, a national holiday. Sandwiched right in the middle of what should have been a long weekend, you’re probably thinking, “I wish I didn’t</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FOUR</label>
+                     <title>Literature of the Soul:</title>
+                     <subtitle>Ōe Kenzaburō’s Somersault</subtitle>
+                  </title-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>In September 1994, after he completed the third and final volume of his massive novel<italic>Moeagaru midori no ki</italic>(The Flaming Green Tree; hereafter<italic>Moeagaru</italic>), Ōe Kenzaburō declared that his long career was over and that he would not be writing any more novels. Since Ōe had been making similar statements since the mid-1980s, many editors and critics did not take him seriously.¹ Clearly, though, Ōe felt he had reached a turning point in his career. He had noted his desire to finish writing novels at the age of sixty (1995),² and with the completion of the<italic>Moeagaru</italic>trilogy in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.9</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>Of Christian writers in Japan Mark Williams speaks of the “generation of postwar writers, epitomized by Endō, who remain determined to address in their fiction the issues raised by their faith,” but the ones he lists—Endō Shūsaku, Shimao Toshio, Shiina Rinzō, Miura Shūmon, Miura Ayako, Sono Ayako, Takahashi Takako, Yasuoka Shōtarō, and Ariyoshi Sawako (to which I would add Ogawa Kunio and Kaga Otohiko)—are either now dead or in the twilight of their careers, with no successors in sight.¹ These writers have made enormous contributions; as an important minority voice they have added to the vocabulary of Japanese</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.10</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>179</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.11</book-part-id>
+                  <title-group>
+                     <title>Select Bibliography</title>
+                  </title-group>
+                  <fpage>193</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.12</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>201</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqsgm.13</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>209</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

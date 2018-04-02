@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">newphytologist</journal-id>
+         <journal-id journal-id-type="jstor">j100301</journal-id>
+         <journal-title-group>
+            <journal-title>The New Phytologist</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Academic Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0028646X</issn>
+         <issn pub-type="epub">14698137</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2434205</article-id>
+         <title-group>
+            <article-title>Effects of Cycloheximide and Chloramphenicol on Chloroplast Replication in Synchronously Dividing Cultured Cells of Euglena gracilis</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Haruki</given-names>
+                  <surname>Hashimoto</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Satoru</given-names>
+                  <surname>Murakami</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>8</month>
+            <year>1983</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">94</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i318924</issue-id>
+         <fpage>521</fpage>
+         <lpage>529</lpage>
+         <page-range>521-529</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1983 The New Phytologist</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2434205"/>
+         <abstract>
+            <p>Chloroplast replication and division of Euglena gracilis Z cells cultured synchronoulsy under a diurnal light-dark regime (14:10 h light:dark) proceeded in the dark period and were completely inhibited by 5 μ g ml<sup>-1</sup>cycloheximide (CHI) added during the dark period. In the presence of 2 μ g ml<sup>-1</sup>CHI, chloroplast replication slowed but could be accomplished by the end of a prolonged 24 h dark period, while both the cell and nuclear division were completely inhibited. Chloroplast replication in the presence of 2 μ g ml<sup>-1</sup>CHI was completely inhibited if the dark period was replaced by a light period. Chloramphenicol (CAP) (1 to 2 mg ml<sup>-1</sup>) slightly inhibited chloroplast replication while accumulation of chlorophyll and total cellular protein were considerably reduced. From the results presented it is concluded that chloroplast replication in synchronously cultured cells of Euglena gracilis is dependent on cytoplasmic protein synthesis that takes place during the dark period rather than chloroplastic protein synthesis, and that a putative protein(s) involved in chloroplast replication is inactivated by light.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

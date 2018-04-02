@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.3998/mpub.3867115</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL493.T48 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">East Asian literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Environmentalism in literature</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ecology in literature</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Environmental Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Ecoambiguity</book-title>
+         <subtitle>Environmental Crises and East Asian Literatures</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Thornber</surname>
+               <given-names>Karen Laura</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>02</day>
+         <month>03</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780472118069</isbn>
+      <isbn content-type="epub">9780472028146</isbn>
+      <publisher>
+         <publisher-name>University of Michigan Press</publisher-name>
+         <publisher-loc>Ann Arbor</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>the University of Michigan</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.3998/mpub.3867115"/>
+      <abstract abstract-type="short">
+         <p>East Asian literatures are famous for celebrating the beauties of nature and depicting people as intimately connected with the natural world. But in fact, because the region has a long history of transforming and exploiting nature, much of the fiction and poetry in the Chinese, Japanese, and Korean languages portrays people as damaging everything from small woodlands to the entire planet. These texts seldom talk about environmental crises straightforwardly. Instead, like much creative writing on degraded ecosystems, they highlight what Karen Laura Thornber calls<italic>ecoambiguity</italic>-the complex, contradictory interactions between people and the nonhuman environment.<italic>Ecoambiguity</italic>is the first book in any language to analyze Chinese, Japanese, Korean, and Taiwanese literary treatments of damaged ecosystems. Thornber closely examines East Asian creative portrayals of inconsistent human attitudes, behaviors, and information concerning the environment and takes up texts by East Asians who have been translated and celebrated around the world, including Gao Xingjian, Ishimure Michiko, Jiang Rong, and Ko Un, as well as fiction and poetry by authors little known even in their homelands.<italic>Ecoambiguity</italic>addresses such environmental crises as deforesting, damming, pollution, overpopulation, species eradication, climate change, and nuclear apocalypse. This book opens new portals of inquiry in both East Asian literatures and ecocriticism (literature and environment studies), as well as in comparative and world literature.</p>
+      </abstract>
+      <counts>
+         <page-count count="688"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.2</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.4</book-part-id>
+                  <title-group>
+                     <title>Conventions</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.5</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Environments, Environmental Ambiguities, and Literatures</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>“We’d like to cut down the trees with nature in mind.” So declared Suzuki Takehiko, director of the Shōsenkyō Kankō Kyōkai (Shōsen Gorge Tourism Association), in August 2008. Part of Japan’s Chichibu-Tama-Kai National Park, Shōsen Gorge has for decades been labeled the country’s “most beautiful valley.” Years of deforesting meant that when the park was founded in 1950, little stood between tourists and the majestic rock formations for which the gorge is most famous. But by the turn of the twenty-first century visitors were frustrated that trees were now blocking much of the view. The park’s laissez-faire approach to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.6</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Environmental Degradation and Literature in East Asia</title>
+                  </title-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>More so than their counterparts in other areas of the world, premodern East Asian literatures, fine arts, religions, and philosophies frequently idealized abstract visions of the natural world and of human interactions with it.² But as<italic>Theory of Heaven,</italic>one of East Asia’s first radically environmental texts suggests, these representations more often defied than reflected empirical reality. This chapter highlights trajectories of environmental problems and literary engagements with them in China, Japan, Korea, and Taiwan from premodern times to the present, providing the ecological and creative contexts for the texts given closer readings in chapters 2–7. East Asian environmental</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.7</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Accentuating Ambivalence</title>
+                  </title-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>At once amusingly flippant and disturbingly serious, “Let’s Eat Stars” parodies religious and other forms of anthropocentrism; it mocks the belief—articulated in Genesis 1:1 and elsewhere—that a heavenly being created earth’s ecosystems entirely for human use and that this deity expects people to conquer (i.e., exploit) them.³ Even more important from an ecological standpoint is the text’s striking portrayal of environmental ambivalence: anxiety over human behaviors virtually certain to degrade the earth’s landscapes is accompanied by a call to destroy ecosystems outside the planet’s biosphere. The poem suggests that one of the very people uneasy with human reshaping</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.8</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Underlining Uncertainty</title>
+                  </title-group>
+                  <fpage>156</fpage>
+                  <abstract>
+                     <p>Ours is not the first age to feel flooded by information. Ecclesiastes 12: 2 (dating to the fourth or third century B.C.E.) laments, “Of making books there is no end,” while in the first century, Seneca declared “the abundance of books is distraction” (<italic>distringit librorum multitudo</italic>).¹ The sixteenth-century humanist Erasmus likewise despaired about the growing profusion of printed matter circulating in Europe, asking, “Is there anywhere on earth exempt from these swarms of new books?” “ Information overload” is a buzzword of our times, with the amount of information on the planet’s electronic devices soon to surpass the zettabyte mark.²</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.9</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>Capitalizing on Contradiction</title>
+                  </title-group>
+                  <fpage>214</fpage>
+                  <abstract>
+                     <p>Although increasingly conscious of environmental degradation, we remain remarkably unaware of how our behaviors affect ecosystems near and far. We know surprisingly little about the effect of human actions on the etiologies, the patterns of progression and regression, and the consequences of damaged environments. Felling trees clearly kills them, but to what extent does felling trees injure the flora and fauna that live in them or rely on them for sustenance? How much do these injuries matter? How many dead trees does it take to matter? If trees are left where they fall, their bodies can provide homes for other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.10</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>Acquiescing</title>
+                  </title-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>The lights [on the river from nearby buildings] were only surface reflections and had no connection with the river itself. Still, reflecting the lights, the river was beautiful. Likewise, the lights reflected on the surface of the river were beautiful. The filth at the bottom of the river was hidden from sight. Ichiko believed all that mattered was that the river appeared beautiful.</p>
+                     <p>光は水の表面に映っているだけで川そのものとは何の関係もない。それ でも、光の映っている川は美しい。川に映っている光も美しい。川の底 に積もったきたないものは人の目には映らないのだ。見かけが美しけれ ばいいではないかと衣千子は思う¹</p>
+                     <p>The narrator of the Japanese writer Masuda Mizuko’s short story “Kagami” (Mirror, 1996) here depicts a young woman admiring a polluted river that by day is repulsive but by night is glorious. Reflections</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.11</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>Illusions and Delusions</title>
+                  </title-group>
+                  <fpage>328</fpage>
+                  <abstract>
+                     <p>Some of literature’s most incisive commentaries on human abuse of the nonhuman arise in texts that appear to have very little to do with ecodegradation. Writings such as Bai Xianyong’s “Anlexiang de yi ri” (A Day in Pleasantville, 1964), for instance, would not seem to hold much of interest to the ecocritic. This short story describes the oppressive uniformity of American suburbia and the challenges faced by an immigrant Chinese housewife thrust into such a milieu. But conformity, this story suggests, harms animals, plants, and the abiotic nonhuman as much as it does people. Conformity also creates the illusion of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.12</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>Green Paradoxes</title>
+                  </title-group>
+                  <fpage>380</fpage>
+                  <abstract>
+                     <p>One of the oddities of people’s interactions with their surroundings is that individuals who love, respect, or show fascination with nature often contribute, deliberately or inadvertently, to damaging or destroying it. Navajo spiritual guides have claimed that “digging up the earth to retrieve resources like coal and uranium . . . is tantamount to cutting skin and represents a betrayal of a duty to protect the land.” Anthony Lee Sr., president of the Diné Hataalii Association, a group of about one hundred Navajo healers, has put it more bluntly: “As medicine people, we don’t extract resources.”¹ And yet coal and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>437</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.14</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>569</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.3998/mpub.3867115.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>645</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13wzzbd</book-id>
+      <subj-group>
+         <subject content-type="call-number">BD436.P425 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Love</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Technology</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Civilization, Modern</subject>
+         <subj-group>
+            <subject content-type="lcsh">21st century</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Love and Other Technologies: Retrofitting Eros for the Information Age</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Pettman</surname>
+               <given-names>Dominic</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>12</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823226689</isbn>
+      <isbn content-type="epub">9780823248131</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt13wzzbd"/>
+      <abstract abstract-type="short">
+         <p>Can love really be considered another form of technology?Dominic Pettman says it can-although not before carefully redefining technology as a cultural challenge to what we mean by the humanin the information age. Using the writings of such important thinkers as Giorgio Agamben, Jean-Luc Nancy, and Bernard Stiegler as a springboard, Pettman explores the techtonicmovements of contemporary culture, specifically in relation to the language of eros. Highly ritualized expressions of desire-love, in other words-always reveal an era's attitude toward what it means to exist as a self among others. For Pettman, the articulation of love is a technique of belonging: a way of responding to the basic plurality of everyone's identity, a process that becomes increasingly complex as the forms of mediated communication, from cell phone and text messaging to the mass media, multiply and mesh together.Wresting the idea of love from the arthritic hands of Romanticism, Pettman demonstrates the ways in which this dynamic assemblage-the stirrings of the soul-have always been a matter of tools, devices, prosthetics, and media. Love is, after all, something we make. And, love, this book argues, is not eternal, but external.</p>
+      </abstract>
+      <counts>
+         <page-count count="256"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.4</book-part-id>
+                  <title-group>
+                     <title>PREFACE:</title>
+                     <subtitle>A NEW KIND OF LOVE</subtitle>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>There is a scene in Tom Tykwer’s rather pedestrian film<italic>Run Lola Run</italic>(1998)¹ when the two protagonists—Lola (Franka Potente) and her boyfriend, Manni (Moritz Bleibtreu)—lie in bed discussing the random nature of love and existence. Lola asks Manni that age-old question which lovers often pose their partners: “Why me? Of all the people in the world, why did you pick me?” As we know, one of the main functions of romantic narrative is to weave all the strands of coincidence and contingency together in such a way that the lovers feel compelled to believe in the benign</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.6</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Love and Other Technologies</title>
+                  </title-group>
+                  <fpage>16</fpage>
+                  <abstract>
+                     <p>Let us imagine the first handshake. This gesture, ubiquitous in the West and therefore increasingly common throughout the world, extends back into the mythological mists of commerce and community. The handshake signals a greeting, an introduction, a contract made, and an understanding achieved. In a quotidian version of Michelangelo’s finger-touch between God and Adam on the ceiling of the Sistine Chapel, one being confronts another and makes<italic>contact</italic>. A border is crossed (the gulf separating two persons) and is simultaneously affirmed (since the two pressed palms continue to mark the point at which one person is distinguished from the other).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.7</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>The Storable Future and the Stored Past</title>
+                  </title-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>In the mid-1990s a new technology debuted on our screens. Known colloquially as Bullet Time,¹ it employs a full 360-degree ring of cameras which simultaneously capture an object and moment from all angles. This effectively “freezes time,” so that the spectator can virtually move around a person spilling a glass of orange juice or (in the case of one Nike advertisement) a bicycle falling and-yet not falling. It suddenly became possible to freeze the exact moment of a glass exploding, each fragment caught perfectly in the timeless moment of combustion. Or of a woman throwing a pillow at her lover</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.8</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>In the Artificial Gardens of Eden-Olympia</title>
+                  </title-group>
+                  <fpage>70</fpage>
+                  <abstract>
+                     <p>J. G. Ballard’s business park for the technocratic elite, Eden-Olympia, has its own grinning Cheshire cat, a psychiatrist by the name of Dr. Wilder Penrose, whose “grimace of pleasure seemed to migrate around his face, colonizing new areas of amiability” (171). Penrose oversees the general well-being of the talented and highly paid workaholics who comprise the population of this “virtual city conjured into the pine-scented air like a<italic>sonet-lumière</italic>vision of a new Versailles” (8)—a “humane version of Corbusier’s radiant city” (5). As such, Penrose takes it upon himself to engineer a suitable set of living arrangements for this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.9</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>Facing the Interface</title>
+                  </title-group>
+                  <fpage>84</fpage>
+                  <abstract>
+                     <p>I am sitting on a stationary bus, leaning my head against the window and feeling pensive; as people often do when they are alone on public transport. Presently, another bus pulls up right beside me, forcing a stranger’s face directly into my field of vision, only three feet away and in a similar pensive, head-leaning position. She is rather indistinct, but her presence is undeniable, and there follows an extended moment of awkwardness as we wait for the lights to change. We exchange glances but can’t very well continue staring into each other’s eyes, at least not without doing some</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.10</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>“How Was It For Me?” Not-Seeing the Non-Spaces of Pornography</title>
+                  </title-group>
+                  <fpage>108</fpage>
+                  <abstract>
+                     <p>In Stanley Kubrick’s final film,<italic>Eyes Wide Shut</italic>(1999), the protagonist, Dr. Bill Harford (played by Tom Cruise), requires a password to enter the Bletchly Manor. This password is “Fidelio.” He has been banished into the night by his own jealous demons, unleashed by his wife’s confession that she fantasizes about other men. The specter of the third term (in this case, a phantasmatic “man in uniform”) prompts a sexual panic, and Harford wanders New York on his own libidinal odyssey, hoping to recover his wounded masculine vanity. Once inside the mansion, Harford witnesses an elaborate orgy, conducted by anonymous</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.11</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>A Self of One’s Own?</title>
+                  </title-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>Consider the little games lovers play with each other. You know the kind: “Would you still love me if I was in a horrible accident and lost both my legs? Or if my face became paralyzed and I always spoke like<italic>this</italic>? Or if I lost my job and had to clean toilets? Or if I suddenly started wearing those jeans with the transparent pockets we saw yesterday in that shop window?” The perfectly reasonable assumption is that beneath this litany of horrors is a unique being worthy of being loved, a being immune from physical distortion or fashion disasters.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.12</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>Mind the Gap</title>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>At Waterloo underground station in London, all commuters are warned repeatedly by loudspeakers to “mind the gap” when a train approaches the station, a reference to the rather large space between the platform and the carriage. This piece of advice is just as useful when considering the various gaps between the self and the other, as when stepping from the platform onto the tube.</p>
+                     <p>Take, for instance, this extract from Jean-Paul Sartre’s Being and<italic>Nothingness</italic>:</p>
+                     <p>I experience myself as any transcendence: to go from the subway station at “Tracadéro” to “Sévres-Babylon,” “They” change at “La Motte-Picquet.” This change is foreseen,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.13</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>Asymptotic Encounters:</title>
+                     <subtitle>Love Freed from Itself</subtitle>
+                  </title-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>In that particular genealogy linking Baudelaire to Michel de Certeau via Benjamin, Musil, and<italic>The Man with a Movie Camera</italic>(1929), the city is figured through a kind of semichoreographed<italic>ballet mécanique</italic>. While we may not be able to talk of harmony, there is certainly some kind of order in the to-ings and fro-ings of the city, especially when viewed from the 110th floor of the World Trade Center.¹ Various patterns emerge, which may or may not be predictable but whose flux can be traced through the dynamic assemblages that comprise the condition of their movement. Specific strange attractors come</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.14</book-part-id>
+                  <title-group>
+                     <title>Conclusion:</title>
+                     <subtitle>Of Mice and Multitudes</subtitle>
+                  </title-group>
+                  <fpage>198</fpage>
+                  <abstract>
+                     <p>We have covered a lot of territory since the opening pages of this book.</p>
+                     <p>From the outset, we noted that technology is, above all, a set of relations. We then established, even more strikingly, that technology underpins the<italic>will</italic>to relations themselves (even if such a will is initiated for self-seeking purposes). Those discourses which support, mediate, and transmit “love” and “community” were then<italic>re</italic>-presented as technological forms—not in the instrumentalist sense of<italic>Technik</italic>, but rather in the spirit of<italic>techne</italic>and<italic>poiesis</italic>, as a mode of revealing or “bringing forth.”</p>
+                     <p>But the question remains: What exactly is brought</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.15</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>209</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.16</book-part-id>
+                  <title-group>
+                     <title>WORKS CITED</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzzbd.17</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>251</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

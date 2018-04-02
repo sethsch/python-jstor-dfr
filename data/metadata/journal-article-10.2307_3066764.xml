@@ -1,0 +1,2777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">philtranbiolscie</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100835</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Philosophical Transactions: Biological Sciences</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Royal Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">09628436</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">3066764</article-id>
+         <title-group>
+            <article-title>Tiptoeing to Chromosome Tips: Facts, Promises and Perils of Today's Human Telomere Biology</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J.</given-names>
+                  <surname>Fajkus</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>M.</given-names>
+                  <surname>Šimíčková</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J.</given-names>
+                  <surname>Maláska</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>29</day>
+            <month>4</month>
+            <year>2002</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">357</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1420</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i354807</issue-id>
+         <fpage>545</fpage>
+         <lpage>562</lpage>
+         <page-range>545-562</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2001-2002 The Royal Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/3066764"/>
+         <abstract>
+            <p>The past decade has witnessed an explosion of knowledge concerning the structure and function of chromosome terminal structures-telomeres. Today's telomere research has advanced from a pure descriptive approach of DNA and protein components to an elementary understanding of telomere metabolism, and now to promising applications in medicine. These applications include 'passive' ones, among which the use of analysis of telomeres and telomerase (a cellular reverse transcriptase that synthesizes telomeres) for cancer diagnostics is the best known. The 'active' applications involve targeted downregulation or upregulation of telomere synthesis, either to mortalize immortal cancer cells, or to rejuvenate mortal somatic cells and tissues for cellular transplantations, respectively. This article reviews the basic data on structure and function of human telomeres and telomerase, as well as both passive and active applications of human telomere biology.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Human Telomere</kwd>
+            <kwd>Telomerase Regulation</kwd>
+            <kwd>Cancer</kwd>
+            <kwd>Inhibition</kwd>
+            <kwd>Cell Engineering</kwd>
+            <kwd>Tissue Engineering</kwd>
+         </kwd-group>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1275e266a1310">
+            <mixed-citation id="d1275e270" publication-type="journal">
+Abdul-Ghani, R. (and 11 others) 2000 Use of transcriptional
+regulatory sequences of telomerase (hTER and hTERT) for
+selective killing of cancer cells. Mol. Ther.2, 539-544.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Abdul-Ghani</surname>
+                  </string-name>
+               </person-group>
+               <fpage>539</fpage>
+               <volume>2</volume>
+               <source>Mol. Ther.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e305a1310">
+            <mixed-citation id="d1275e309" publication-type="journal">
+Akiyama, M., Iwase, S., Horiguchi-Yamada, J., Saito, S.,
+Furukawa, Y., Yamada, 0., Mizoguchi, H., Ohno, T. &amp;
+Yamada, H. 1999 Interferon-alpha repressed telomerase
+along with G1 -accumulation of Daudi cells. Cancer Lett.142,
+23-30.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Akiyama</surname>
+                  </string-name>
+               </person-group>
+               <fpage>23</fpage>
+               <volume>142</volume>
+               <source>Cancer Lett.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e350a1310">
+            <mixed-citation id="d1275e356" publication-type="journal">
+Albanell, J., Han, W., Mellado, B., Gunawardane, R., Scher,
+H. I., Dmitrovsky, E. &amp; Moore, M. A. 1996 Telomerase
+activity is repressed during differentiation of maturation-
+sensitive but not resistant human tumor cell lines. Cancer
+Res.56, 1503-1508.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Albanell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1503</fpage>
+               <volume>56</volume>
+               <source>Cancer Res.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e397a1310">
+            <mixed-citation id="d1275e401" publication-type="journal">
+Arai, Y. (and 10 others) 2000 Limitations of urinary telomer-
+ase activity measurement in urothelial cancer. Clin. Chim.
+Acta296, 35-44.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Arai</surname>
+                  </string-name>
+               </person-group>
+               <fpage>35</fpage>
+               <volume>296</volume>
+               <source>Clin. Chim. Acta</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e437a1310">
+            <mixed-citation id="d1275e441" publication-type="journal">
+Arinaga, M., Shimizu, S., Gotoh, K., Haruki, N., Takahashi,
+T. &amp; Mitsudomi, T. 2000 Expression of human telomerase
+subunit genes in primary lung cancer and its clinical signifi-
+cance. Ann. Thorac. Surg.70, 401-405; discussion 405-406.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Arinaga</surname>
+                  </string-name>
+               </person-group>
+               <fpage>401</fpage>
+               <volume>70</volume>
+               <source>Ann. Thorac. Surg.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e479a1310">
+            <mixed-citation id="d1275e483" publication-type="journal">
+Baumann, P. &amp; Cech, T. R. 2001 Potl, the putative telomere
+end-binding protein in fission yeast and humans. Science292,
+1171-1175.<object-id pub-id-type="jstor">10.2307/3083666</object-id>
+               <fpage>1171</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e502a1310">
+            <mixed-citation id="d1275e506" publication-type="journal">
+Bieche, I., Nogues, C., Paradis, V., Olivi, M., Bedossa, P.,
+Lidereau, R. &amp; Vidaud, M. 2000 Quantitation of hTERT
+gene expression in sporadic breast tumors with a real-time
+reverse transcription-polymerase chain reaction assay. Clin.
+Cancer Res.6, 452-459.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bieche</surname>
+                  </string-name>
+               </person-group>
+               <fpage>452</fpage>
+               <volume>6</volume>
+               <source>Clin. Cancer Res.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e547a1310">
+            <mixed-citation id="d1275e551" publication-type="journal">
+Biessmann, H. &amp; Mason, J. M. 1997 Telomere maintenance
+without telomerase. Chromosoma106, 63-69.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Biessmann</surname>
+                  </string-name>
+               </person-group>
+               <fpage>63</fpage>
+               <volume>106</volume>
+               <source>Chromosoma</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e583a1310">
+            <mixed-citation id="d1275e587" publication-type="journal">
+Bisoffi, M., Chakerian, A. E., Fore, M. L., Bryant, J. E., Her-
+nandez, J. P., Moyzis, R. K. &amp; Griffith, J. K. 1998 Inhibition
+of human telomerase by a retrovirus expressing telomeric
+antisense RNA. Eur. J. Cancer34, 1242-1249.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bisoffi</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1242</fpage>
+               <volume>34</volume>
+               <source>Eur. J. Cancer</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e625a1310">
+            <mixed-citation id="d1275e629" publication-type="journal">
+Bodnar, A. G., Ouellette, M., Frolkis, M., Holt, S. E., Chiu,
+C. P., Morin, G. B., Harley, C. B., Shay, J. W., Lichtsteiner,
+S. &amp; Wright, W. E. 1998 Extension of life-span by introduc-
+tion of telomerase into normal human cells. Science279,
+349-352.<object-id pub-id-type="jstor">10.2307/2894563</object-id>
+               <fpage>349</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e656a1310">
+            <mixed-citation id="d1275e660" publication-type="journal">
+Broccoli, D., Smogorzewska, A., Chong, L. &amp; De Lange, T.
+1997 Human telomeres contain two distinct Myb-related
+proteins, TRF1 and TRF2. Nature Genet.17, 231-235.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Broccoli</surname>
+                  </string-name>
+               </person-group>
+               <fpage>231</fpage>
+               <volume>17</volume>
+               <source>Nature Genet.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e695a1310">
+            <mixed-citation id="d1275e699" publication-type="journal">
+Brown II, B. A., Li, Y., Roberts, J. F. &amp; Hardin, C. C. 1995
+Antibodies specific for the DNA quadruplex [d(CGC G4
+GCG)4] isolated from autoimmune mice. Nucleic Acids
+Symp. Ser.96, 134-136.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Brown II</surname>
+                  </string-name>
+               </person-group>
+               <fpage>134</fpage>
+               <volume>96</volume>
+               <source>Nucleic Acids Symp. Ser.</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e737a1310">
+            <mixed-citation id="d1275e741" publication-type="journal">
+Brown II, B. A., Li, Y., Brown, J. C., Hardin, C. C., Roberts,
+J. F., Pelsue, S. C. &amp; Shultz, L. D. 1998 Isolation and
+characterization of a monoclonal anti-quadruplex DNA anti-
+body from autoimmune 'viable motheaten' mice. Biochemis-
+try37, 16325-16 337.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Brown II</surname>
+                  </string-name>
+               </person-group>
+               <fpage>16325</fpage>
+               <volume>37</volume>
+               <source>Biochemistry</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e782a1310">
+            <mixed-citation id="d1275e786" publication-type="journal">
+Bryan, T. M., Englezou, A., Dalla-Pozza, L., Dunham,
+M. A. &amp; Reddel, R. R. 1997 Evidence for an alternative
+mechanism for maintaining telomere length in human
+tumors and tumor-derived cell lines. Nature Med.3, 1271-
+1274.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bryan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1271</fpage>
+               <volume>3</volume>
+               <source>Nature Med.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e827a1310">
+            <mixed-citation id="d1275e831" publication-type="journal">
+Bryce, L. A., Morrison, N., Hoare, S. F., Muir, S. &amp; Keith,
+W. N. 2000 Mapping of the gene for the human telomerase
+reverse transcriptase, hTERT, to chromosome 5p15.33 by
+fluorescence in situ hybridization. Neoplasia2, 197-201.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bryce</surname>
+                  </string-name>
+               </person-group>
+               <fpage>197</fpage>
+               <volume>2</volume>
+               <source>Neoplasia</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e869a1310">
+            <mixed-citation id="d1275e873" publication-type="journal">
+Cardenas, M. E., Bianchi, A. &amp; De Lange, T. 1993 A Xenopus
+egg factor with DNA-binding properties characteristic of ter-
+minus-specific telomeric proteins. Genes Dev.7, 883-894.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Cardenas</surname>
+                  </string-name>
+               </person-group>
+               <fpage>883</fpage>
+               <volume>7</volume>
+               <source>Genes Dev.</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e909a1310">
+            <mixed-citation id="d1275e913" publication-type="journal">
+Carey, L. A., Hedican, C. A., Henderson, G. S., Umbricht,
+C. B., Dome, J. S., Varon, D. &amp; Sukumar, S. 1998 Careful
+histological confirmation and microdissection reveal telo-
+merase activity in otherwise telomerase-negative breast can-
+cers. Clin. Cancer Res.4, 435-440.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Carey</surname>
+                  </string-name>
+               </person-group>
+               <fpage>435</fpage>
+               <volume>4</volume>
+               <source>Clin. Cancer Res.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e954a1310">
+            <mixed-citation id="d1275e958" publication-type="journal">
+Catapano, C. V., Pacheco, D., Carbone, G. M. R. &amp; McGuf-
+fie, E. M. 1999 Inhibition of human telomerase activity by
+foldback triplex-forming oligonucleotides (FTFOs). Proc.
+Am. Assoc. Cancer Res.40, 134.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Catapano</surname>
+                  </string-name>
+               </person-group>
+               <fpage>134</fpage>
+               <volume>40</volume>
+               <source>Proc. Am. Assoc. Cancer Res.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e996a1310">
+            <mixed-citation id="d1275e1000" publication-type="journal">
+Chen, Q., Ijpma, A. &amp; Greider, C. W. 2001 Two survivor
+pathways that allow growth in the absence of telomerase are
+generated by distinct telomere recombination events. Mol.
+Cell. Biol.21, 1819-1827.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Chen</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1819</fpage>
+               <volume>21</volume>
+               <source>Mol. Cell. Biol.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1038a1310">
+            <mixed-citation id="d1275e1042" publication-type="journal">
+Cheng, C. W., Chueh, S. C. &amp; Chern, H. D. 2000 Diagnosis
+of bladder cancer using telomerase activity in voided urine.
+J. Formos. Med. Assoc.99, 920-925.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Cheng</surname>
+                  </string-name>
+               </person-group>
+               <fpage>920</fpage>
+               <volume>99</volume>
+               <source>J. Formos. Med. Assoc.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1077a1310">
+            <mixed-citation id="d1275e1081" publication-type="journal">
+Clark, G. M., Osborne, C. K., Levitt, D., Wu, F. &amp; Kim,
+N. W. 1997 Telomerase activity and survival of patients with
+node-positive breast cancer. J. Natl Cancer Inst.89, 1874-
+1881.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Clark</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1874</fpage>
+               <volume>89</volume>
+               <source>J. Natl Cancer Inst.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1119a1310">
+            <mixed-citation id="d1275e1123" publication-type="journal">
+Colgin, L. M., Wilkinson, C., Englezou, A., Kilian, A., Robin-
+son, M. 0. &amp; Reddel, R. R. 2000 The hTERT alpha splice
+variant is a dominant negative inhibitor of telomerase
+activity. Neoplasia2, 426-432.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Colgin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>426</fpage>
+               <volume>2</volume>
+               <source>Neoplasia</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1162a1310">
+            <mixed-citation id="d1275e1166" publication-type="journal">
+Cong, Y. S. &amp; Bacchetti, S. 2000 Histone deacetylation is
+involved in the transcriptional repression of hTERT in nor-
+mal human cells. J. Biol. Chem.275, 35665-35 668.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Cong</surname>
+                  </string-name>
+               </person-group>
+               <fpage>35665</fpage>
+               <volume>275</volume>
+               <source>J. Biol. Chem.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1201a1310">
+            <mixed-citation id="d1275e1205" publication-type="journal">
+Devereux, T. R., Horikawa, I., Anna, C. H., Annab, L. A.,
+Afshari, C. A. &amp; Barrett, J. C. 1999 DNA methylation analy-
+sis of the promoter region of the human telomerase reverse
+transcriptase (hTERT) gene. Cancer Res.59, 6087-6090.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Devereux</surname>
+                  </string-name>
+               </person-group>
+               <fpage>6087</fpage>
+               <volume>59</volume>
+               <source>Cancer Res.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1243a1310">
+            <mixed-citation id="d1275e1247" publication-type="journal">
+Ebina, Y., Yamada, H., Fujino, T., Furuta, I., Sakuragi, N.,
+Yamamoto, R., Katoh, M., Oshimura, M. &amp; Fujimoto, S.
+1999 Telomerase activity correlates with histo-pathological
+factors in uterine endometrial carcinoma. Int. J. Cancer84,
+529-532.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ebina</surname>
+                  </string-name>
+               </person-group>
+               <fpage>529</fpage>
+               <volume>84</volume>
+               <source>Int. J. Cancer</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1288a1310">
+            <mixed-citation id="d1275e1292" publication-type="journal">
+Fajkus, J. &amp; Trifonov, E. N. 2001 Columnar packing of telo-
+meric nucleosomes. Biochem. Biophys. Res. Commun.280,
+961-963.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Fajkus</surname>
+                  </string-name>
+               </person-group>
+               <fpage>961</fpage>
+               <volume>280</volume>
+               <source>Biochem. Biophys. Res. Commun.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1327a1310">
+            <mixed-citation id="d1275e1331" publication-type="journal">
+Fajkus, J., Kovarik, A., Kralovics, R. &amp; Bezdek, M. 1995
+Organization of telomeric and subtelomeric chromatin in the
+higher plant Nicotiana tabacum. Mol. Gen. Genet.247,
+633-638.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Fajkus</surname>
+                  </string-name>
+               </person-group>
+               <fpage>633</fpage>
+               <volume>247</volume>
+               <source>Mol. Gen. Genet.</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1369a1310">
+            <mixed-citation id="d1275e1373" publication-type="journal">
+Fang, G. &amp; Cech, T. R. 1993 Characterization of a G-quartet
+formation reaction promoted by the beta-subunit of the Oxy-
+tricha telomere-binding protein. Biochemistry32, 11646-
+11 657.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Fang</surname>
+                  </string-name>
+               </person-group>
+               <fpage>11646</fpage>
+               <volume>32</volume>
+               <source>Biochemistry</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1412a1310">
+            <mixed-citation id="d1275e1416" publication-type="journal">
+Faraoni, I., Graziani, G., Turriziani, M., Masci, G., Mezzetti,
+M., Testori, A., Veronesi, U. &amp; Bonmassar, E. 1999 Sup-
+pression of telomerase activity as an indicator of drug-
+induced cytotoxicity against cancer cells: in vitro studies with
+fresh human tumor samples. Lab. Invest.79, 993-1005.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Faraoni</surname>
+                  </string-name>
+               </person-group>
+               <fpage>993</fpage>
+               <volume>79</volume>
+               <source>Lab. Invest.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1457a1310">
+            <mixed-citation id="d1275e1461" publication-type="journal">
+Farwell, D. G., Shera, K. A., Koop, J. I., Bonnet, G. A., Mat-
+thews, C. P., Reuther, G. W., Coltrera, M. D., McDougall,
+J. K. &amp; Klingelhutz, A. J. 2000 Genetic and epigenetic
+changes in human epithelial cells immortalized by telomer-
+ase. Am. J. Pathol.156, 1537-1547.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Farwell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1537</fpage>
+               <volume>156</volume>
+               <source>Am. J. Pathol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1502a1310">
+            <mixed-citation id="d1275e1506" publication-type="journal">
+Fedoroff, 0. Y., Salazar, M., Han, H., Chemeris V, V., Ker-
+win, S. M. &amp; Hurley, L. H. 1998 NMR-based model of a
+telomerase-inhibiting compound bound to G-quadruplex
+DNA. Biochemistry37, 12367-12 374.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Fedoroff</surname>
+                  </string-name>
+               </person-group>
+               <fpage>12367</fpage>
+               <volume>37</volume>
+               <source>Biochemistry</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1544a1310">
+            <mixed-citation id="d1275e1548" publication-type="journal">
+Feng, J. (and 15 others) 1995 The RNA component of human
+telomerase. Science269, 1236-1241.<object-id pub-id-type="jstor">10.2307/2888003</object-id>
+               <fpage>1236</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1564a1310">
+            <mixed-citation id="d1275e1568" publication-type="journal">
+Ferlicot, S., Paradis, V., Dargere, D., Monges, G. &amp; Bedossa,
+P. 1999 Detection of telomerase in hepatocellular carci-
+nomas using a PCR ELISA assay: comparison with hTR
+expression. J. Clin. Pathol.52, 725-729.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ferlicot</surname>
+                  </string-name>
+               </person-group>
+               <fpage>725</fpage>
+               <volume>52</volume>
+               <source>J. Clin. Pathol.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1606a1310">
+            <mixed-citation id="d1275e1610" publication-type="journal">
+Folini, M., Colella, G., Villa, R., Lualdi, S., Daidone, M. G. &amp;
+Zaffaroni, N. 2000a Inhibition of telomerase activity by a
+hammerhead ribozyme targeting the RNA component of tel-
+omerase in human melanoma cells. J. Invest. Dermatol.114,
+259-267.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Folini</surname>
+                  </string-name>
+               </person-group>
+               <fpage>259</fpage>
+               <volume>114</volume>
+               <source>J. Invest. Dermatol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1652a1310">
+            <mixed-citation id="d1275e1656" publication-type="journal">
+Folini, M., De Marco, C., Orlandi, L., Daidone, M. G. &amp; Zaf-
+faroni, N. 2000b Attenuation of telomerase activity does not
+increase sensitivity of human melanoma cells to anticancer
+agents. Eur. J. Cancer36, 2137-2145.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Folini</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2137</fpage>
+               <volume>36</volume>
+               <source>Eur. J. Cancer</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1694a1310">
+            <mixed-citation id="d1275e1698" publication-type="journal">
+Ford, L. P., Zou, Y., Pongracz, K., Gryaznov, S. M., Shay,
+J. W. &amp; Wright, W. E. 2001 Telomerase can inhibit the
+recombination-based pathway of telomere maintenance in
+human cells. J. Biol. Chem.276, 32198-32 203.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ford</surname>
+                  </string-name>
+               </person-group>
+               <fpage>32198</fpage>
+               <volume>276</volume>
+               <source>J. Biol. Chem.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1736a1310">
+            <mixed-citation id="d1275e1740" publication-type="journal">
+Forsythe, H. L., Jarvis, J. L., Turner, J. W., Elmore, L. W. &amp;
+Holt, S. E. 2001 Stable association of hsp90 and p23, but
+not hsp70, with active human telomerase. J. Biol. Chem.276,
+15571-15 574.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Forsythe</surname>
+                  </string-name>
+               </person-group>
+               <fpage>15571</fpage>
+               <volume>276</volume>
+               <source>J. Biol. Chem.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1778a1310">
+            <mixed-citation id="d1275e1782" publication-type="journal">
+Fossel, M.1998 Telomerase and the aging cell: implications
+for human health. J. Am. Med. Assoc.279, 1732-1735.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Fossel</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1732</fpage>
+               <volume>279</volume>
+               <source>J. Am. Med. Assoc.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1814a1310">
+            <mixed-citation id="d1275e1818" publication-type="journal">
+Fujimoto, K., Kyo, S., Takakura, M., Kanaya, T., Kitagawa,
+Y., Itoh, H., Takahashi, M. &amp; Inoue, M. 2000 Identification
+and characterization of negative regulatory elements of the
+human telomerase catalytic subunit (hTERT) gene pro-
+moter: possible role of MZF-2 in transcriptional repression
+of hTERT. Nucleic Acids Res.28, 2557-2562.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Fujimoto</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2557</fpage>
+               <volume>28</volume>
+               <source>Nucleic Acids Res.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1862a1310">
+            <mixed-citation id="d1275e1866" publication-type="journal">
+Fujioka, T., Hasegawa, M., Suzuki, Y., Suzuki, T., Sugimura,
+J., Tanji, S. &amp; Koike, H. 2000 Telomerase activity in human
+renal cell carcinoma. Int. J. Urol.7, 16-21.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Fujioka</surname>
+                  </string-name>
+               </person-group>
+               <fpage>16</fpage>
+               <volume>7</volume>
+               <source>Int. J. Urol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1902a1310">
+            <mixed-citation id="d1275e1906" publication-type="journal">
+Fuxe, J., Akusjarvi, G., Goike, H. M., Roos, G., Collins,
+V. P. &amp; Pettersson, R. F. 2000 Adenovirus-mediated over-
+expression of p15INK4B inhibits human glioma cell growth,
+induces replicative senescence, and inhibits telomerase
+activity similarly to p1 6INK4A. Cell Growth Differ.11,
+373-384.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Fuxe</surname>
+                  </string-name>
+               </person-group>
+               <fpage>373</fpage>
+               <volume>11</volume>
+               <source>Cell Growth Differ.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1950a1310">
+            <mixed-citation id="d1275e1954" publication-type="journal">
+Glukhov, A. I., Zimnik, 0. V., Gordeev, S. A. &amp; Severin, S. E.
+1998 Inhibition of telomerase activity of melanoma cells in
+vitro by antisense oligonucleotides. Biochem. Biophys. Res.
+Commun.248, 368-371.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Glukhov</surname>
+                  </string-name>
+               </person-group>
+               <fpage>368</fpage>
+               <volume>248</volume>
+               <source>Biochem. Biophys. Res. Commun.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e1992a1310">
+            <mixed-citation id="d1275e1996" publication-type="journal">
+Gomez, D. E., Tejera, A. M. &amp; Olivero, 0. A. 1998 Irrevers-
+ible telomere shortening by 3'-azido-2',3'-dideoxythymidine
+(AZT) treatment. Biochem. Biophys. Res. Commun.246,
+107-110.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Gomez</surname>
+                  </string-name>
+               </person-group>
+               <fpage>107</fpage>
+               <volume>246</volume>
+               <source>Biochem. Biophys. Res. Commun.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2034a1310">
+            <mixed-citation id="d1275e2038" publication-type="journal">
+Greider, C. W.1998 Telomerase activity, cell proliferation,
+and cancer. Proc. Natl Acad. Sci. USA95, 90-92.<object-id pub-id-type="jstor">10.2307/44419</object-id>
+               <fpage>90</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2054a1310">
+            <mixed-citation id="d1275e2058" publication-type="journal">
+Greider, C. W. &amp; Blackburn, E. H. 1985 Identification of a
+specific telomere terminal transferase activity in Tetrahymena
+extracts. Cell43, 405-413.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Greider</surname>
+                  </string-name>
+               </person-group>
+               <fpage>405</fpage>
+               <volume>43</volume>
+               <source>Cell</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2093a1310">
+            <mixed-citation id="d1275e2097" publication-type="journal">
+Griffith, J. D., Comeau, L., Rosenfield, S., Stansel, R. M.,
+Bianchi, A., Moss, H. &amp; De Lange, T. 1999 Mammalian
+telomeres end in a large duplex loop. Cell97, 503-514.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Griffith</surname>
+                  </string-name>
+               </person-group>
+               <fpage>503</fpage>
+               <volume>97</volume>
+               <source>Cell</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2133a1310">
+            <mixed-citation id="d1275e2137" publication-type="journal">
+Gu, J., Kagawa, S., Takakura, M., Kyo, S., Inoue, M., Roth,
+J. A. &amp; Fang, B. 2000 Tumor-specific transgene expression
+from the human telomerase reverse transcriptase promoter
+enables targeting of the therapeutic effects of the Bax gene
+to cancers. Cancer Res.60, 5359-5364.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Gu</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5359</fpage>
+               <volume>60</volume>
+               <source>Cancer Res.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2178a1310">
+            <mixed-citation id="d1275e2182" publication-type="journal">
+Guiducci, C., Cerone, M. A. &amp; Bacchetti, S. 2001 Expression
+of mutant telomerase in immortal telomerase-negative
+human cells results in cell cycle deregulation, nuclear and
+chromosomal abnormalities and rapid loss of viability. Onco-
+gene20, 714-725.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Guiducci</surname>
+                  </string-name>
+               </person-group>
+               <fpage>714</fpage>
+               <volume>20</volume>
+               <source>Oncogene</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2223a1310">
+            <mixed-citation id="d1275e2227" publication-type="journal">
+Hahn, W. C., Stewart, S. A., Brooks, M. W., York, S. G.,
+Eaton, E., Kurachi, A., Beijersbergen, R. L., Knoll, J. H.,
+Meyerson, M. &amp; Weinberg, R. A. 1999 Inhibition of telo-
+merase limits the growth of human cancer cells. Nature Med.
+5, 1164-1170.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Hahn</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1164</fpage>
+               <volume>5</volume>
+               <source>Nature Med.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2268a1310">
+            <mixed-citation id="d1275e2272" publication-type="journal">
+Haik, S., Gauthier, L. R., Granotier, C., Peyrin, J. M., Lages,
+C. S., Dormont, D. &amp; Boussin, F. D. 2000 Fibroblast
+growth factor 2 upregulates telomerase activity in neural pre-
+cursor cells. Oncogene19, 2957-2966.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Haik</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2957</fpage>
+               <volume>19</volume>
+               <source>Oncogene</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2310a1310">
+            <mixed-citation id="d1275e2314" publication-type="journal">
+Hamilton, S. E., Simmons, C. G., Kathiriya, I. S. &amp; Corey,
+D. R. 1999 Cellular delivery of peptide nucleic acids and
+inhibition of human telomerase. Chem. Biol.6, 343-351.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Hamilton</surname>
+                  </string-name>
+               </person-group>
+               <fpage>343</fpage>
+               <volume>6</volume>
+               <source>Chem. Biol.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2349a1310">
+            <mixed-citation id="d1275e2353" publication-type="journal">
+Harrison, R. J., Gowan, S. M., Kelland, L. R. &amp; Neidle, S.
+1999 Human telomerase inhibition by substituted acridine
+derivatives. Bioorg. Med. Chem. Lett.9, 2463-2468.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Harrison</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2463</fpage>
+               <volume>9</volume>
+               <source>Bioorg. Med. Chem. Lett.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2389a1310">
+            <mixed-citation id="d1275e2393" publication-type="journal">
+Henriksson, M. &amp; Luscher, B. 1996 Proteins of the Myc net-
+work: essential regulators of cell growth and differentiation.
+Adv. Cancer Res.68, 109-182.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Henriksson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>109</fpage>
+               <volume>68</volume>
+               <source>Adv. Cancer Res.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2428a1310">
+            <mixed-citation id="d1275e2432" publication-type="journal">
+Herbert, B., Pitts, A. E., Baker, S. I., Hamilton, S. E., Wright,
+W. E., Shay, J. W. &amp; Corey, D. R. 1999 Inhibition of human
+telomerase in immortal human cells leads to progressive telo-
+mere shortening and cell death. Proc. Natl Acad. Sci. USA
+96, 14276-14 281.<object-id pub-id-type="jstor">10.2307/121395</object-id>
+               <fpage>14276</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2458a1310">
+            <mixed-citation id="d1275e2462" publication-type="journal">
+Herbert, B. S., Wright, W. E. &amp; Shay, J. W. 2001 Telomerase
+and breast cancer. Breast Cancer Res.3, 146-149.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Herbert</surname>
+                  </string-name>
+               </person-group>
+               <fpage>146</fpage>
+               <volume>3</volume>
+               <source>Breast Cancer Res.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2494a1310">
+            <mixed-citation id="d1275e2500" publication-type="journal">
+Hoare, S. F., Bryce, L. A., Wisman, G. B., Bumns, S., Going,
+J. J., Van der Zee, A. G. &amp; Keith, W. N. 2001 Lack of telo-
+merase RNA gene hTERC expression in alternative length-
+ening of telomeres cells is associated with methylation of the
+hTERC promoter. Cancer Res.61, 27-32.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Hoare</surname>
+                  </string-name>
+               </person-group>
+               <fpage>27</fpage>
+               <volume>61</volume>
+               <source>Cancer Res.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2541a1310">
+            <mixed-citation id="d1275e2545" publication-type="journal">
+Holt, S. E., Shay, J. W. &amp; Wright, W. E. 1996 Refining the
+telomere-telomerase hypothesis of aging and cancer. Nature
+Biotechnol.14, 836-839.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Holt</surname>
+                  </string-name>
+               </person-group>
+               <fpage>836</fpage>
+               <volume>14</volume>
+               <source>Nature Biotechnol.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2580a1310">
+            <mixed-citation id="d1275e2584" publication-type="journal">
+Holt, S. E., Aisner, D. L., Shay, J. W. &amp; Wright, W. E. 1997
+Lack of cell cycle regulation of telomerase activity in human
+cells. Proc. Natl Acad. Sci. USA94, 10687 -10 692.<object-id pub-id-type="jstor">10.2307/43399</object-id>
+               <fpage>10687</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2604a1310">
+            <mixed-citation id="d1275e2608" publication-type="journal">
+Holt, S. E. (and 11 others) 1999 Functional requirement of
+p23 and Hsp90 in telomerase complexes. Genes Dev.13,
+817-826.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Holt</surname>
+                  </string-name>
+               </person-group>
+               <fpage>817</fpage>
+               <volume>13</volume>
+               <source>Genes Dev.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2643a1310">
+            <mixed-citation id="d1275e2647" publication-type="journal">
+Horikawa, I., Oshimura, M. &amp; Barrett, J. C. 1998 Repression
+of the telomerase catalytic subunit by a gene on human chro-
+mosome 3 that induces cellular senescence. Mol. Carcinog.
+22, 65-72.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Horikawa</surname>
+                  </string-name>
+               </person-group>
+               <fpage>65</fpage>
+               <volume>22</volume>
+               <source>Mol. Carcinog.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2685a1310">
+            <mixed-citation id="d1275e2689" publication-type="journal">
+Hsu, H. L., Gilley, D., Blackburn, E. H. &amp; Chen, D. J. 1999
+Ku is associated with the telomere in mammals. Proc. Natl
+Acad. Sci. USA96, 12454-12 458.<object-id pub-id-type="jstor">10.2307/49368</object-id>
+               <fpage>12454</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2708a1310">
+            <mixed-citation id="d1275e2712" publication-type="journal">
+Hsu, H. L., Gilley, D., Galande, S. A., Hande, M. P., Allen,
+B., Kim, S. H., Li, G. C., Campisi, J., Kohwi-Shigematsu,
+T. &amp; Chen, D. J. 2000 Ku acts in a unique way at the mam-
+malian telomere to prevent end joining. Genes Dev.14,
+2807-2812.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Hsu</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2807</fpage>
+               <volume>14</volume>
+               <source>Genes Dev.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2753a1310">
+            <mixed-citation id="d1275e2757" publication-type="journal">
+Huang, P., Pryde, F. E., Lester, D., Maddison, R. L., Borts,
+R. H., Hickson, I. D. &amp; Louis, E. J. 2001 SGS1 is required
+for telomere elongation in the absence of telomerase. Curr.
+Biol.11, 125-129.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Huang</surname>
+                  </string-name>
+               </person-group>
+               <fpage>125</fpage>
+               <volume>11</volume>
+               <source>Curr. Biol.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2795a1310">
+            <mixed-citation id="d1275e2799" publication-type="journal">
+Izbicka, E., Wheelhouse, R. T., Raymond, E., Davidson,
+K. K., Lawrence, R. A., Sun, D., Windle, B. E., Hurley,
+L. H. &amp; Von Hoff, D. D. 1999 Effects of cationic porphyrins
+as G-quadruplex interactive agents in human tumor cells.
+Cancer Res.59, 639-644.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Izbicka</surname>
+                  </string-name>
+               </person-group>
+               <fpage>639</fpage>
+               <volume>59</volume>
+               <source>Cancer Res.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2841a1310">
+            <mixed-citation id="d1275e2845" publication-type="journal">
+Jiang, X. R. (and 10 others) 1999 Telomerase expression in
+human somatic cells does not induce changes associated
+with a transformed phenotype. Nature Genet.21, 111-114.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Jiang</surname>
+                  </string-name>
+               </person-group>
+               <fpage>111</fpage>
+               <volume>21</volume>
+               <source>Nature Genet.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2880a1310">
+            <mixed-citation id="d1275e2884" publication-type="journal">
+Kakeji, Y., Maehara, Y., Koga, T., Shibahara, K., Kabashima,
+A., Tokunaga, E. &amp; Sugimachi, K. 2001 Gastric cancer with
+high telomerase activity shows rapid development and invas-
+iveness. Oncol. Rep.8, 107-110.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kakeji</surname>
+                  </string-name>
+               </person-group>
+               <fpage>107</fpage>
+               <volume>8</volume>
+               <source>Oncol. Rep.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2922a1310">
+            <mixed-citation id="d1275e2926" publication-type="journal">
+Kanaya, T., Kyo, S., Hamada, K., Takakura, M., Kitagawa,
+Y., Harada, H. &amp; Inoue, M. 2000 Adenoviral expression of
+p53 represses telomerase activity through down-regulation
+of human telomerase reverse transcriptase transcription.
+Clin. Cancer Res.6, 1239-1247.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kanaya</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1239</fpage>
+               <volume>6</volume>
+               <source>Clin. Cancer Res.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e2967a1310">
+            <mixed-citation id="d1275e2971" publication-type="journal">
+Kanazawa, Y., Ohkawa, K., Ueda, K., Mita, E., Takehara, T.,
+Sasaki, Y., Kasahara, A. &amp; Hayashi, N. 1996 Hammerhead
+ribozyme-mediated inhibition of telomerase activity in
+extracts of human hepatocellular carcinoma cells. Biochem.
+Biophys. Res. Commun.225, 570-576.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kanazawa</surname>
+                  </string-name>
+               </person-group>
+               <fpage>570</fpage>
+               <volume>225</volume>
+               <source>Biochem. Biophys. Res. Commun.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3012a1310">
+            <mixed-citation id="d1275e3016" publication-type="journal">
+Kerwin, S. M.2000 G-Quadruplex DNA as a target for drug
+design. Curr. Pharm. Des.6, 441-478.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kerwin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>441</fpage>
+               <volume>6</volume>
+               <source>Curr. Pharm. Des.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3048a1310">
+            <mixed-citation id="d1275e3052" publication-type="journal">
+Kharbanda, S. (and 11 others) 2000 Regulation of the hTERT
+telomerase catalytic subunit by the c-Abl tyrosine kinase.
+Curr. Biol.10, 568-575.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kharbanda</surname>
+                  </string-name>
+               </person-group>
+               <fpage>568</fpage>
+               <volume>10</volume>
+               <source>Curr. Biol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3088a1310">
+            <mixed-citation id="d1275e3092" publication-type="journal">
+Kickhoefer, V. A., Liu, Y., Kong, L. B., Snow, B. E., Stewart,
+P. L., Harrington, L. &amp; Rome, L. H. 2001 The
+Telomerase/vault-associated protein TEP1 is required for
+vault RNA stability and its association with the vault particle.
+J. Cell Biol.152, 157-164.<object-id pub-id-type="jstor">10.2307/1620270</object-id>
+               <fpage>157</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3118a1310">
+            <mixed-citation id="d1275e3122" publication-type="journal">
+Kim, N. W., Piatyszek, M. A., Prowse, K. R., Harley, C. B.,
+West, M. D., Ho, P. L., Coviello, G. M., Wright, W. E.,
+Weinrich, S. L. &amp; Shay, J. W. 1994 Specific association of
+human telomerase activity with immortal cells and cancer.
+Science266, 2011-2015.<object-id pub-id-type="jstor">10.2307/2885288</object-id>
+               <fpage>2011</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3148a1310">
+            <mixed-citation id="d1275e3152" publication-type="journal">
+Kim, S. H., Kaminker, P. &amp; Campisi, J. 1999 TIN2, a new
+regulator of telomere length in human cells. Nature Genet.
+23, 405-412.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kim</surname>
+                  </string-name>
+               </person-group>
+               <fpage>405</fpage>
+               <volume>23</volume>
+               <source>Nature Genet.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3187a1310">
+            <mixed-citation id="d1275e3191" publication-type="journal">
+Koeneman, K. S., Pan, C. X., Jin, J. K., Pyle, J. M., Flanigan,
+R. C., Shankey, T. V. &amp; Diaz, M. 0. 1998 Telomerase
+activity, telomere length, and DNA ploidy in prostatic
+intraepithelial neoplasia (PIN). J. Urol.160, 1533-1539.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Koeneman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1533</fpage>
+               <volume>160</volume>
+               <source>J. Urol.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3229a1310">
+            <mixed-citation id="d1275e3233" publication-type="journal">
+Koga, S., Hirohata, S., Kondo, Y., Komata, T., Takakura, M.,
+Inoue, M., Kyo, S. &amp; Kondo, S. 2000 A novel telomerase-
+specific gene therapy: gene transfer of caspase-8 utilizing the
+human telomerase catalytic subunit gene promoter. Hum.
+Gene Ther.11, 1397-1406.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Koga</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1397</fpage>
+               <volume>11</volume>
+               <source>Hum. Gene Ther.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3274a1310">
+            <mixed-citation id="d1275e3278" publication-type="journal">
+Komata, T. (and 14 others) 2001 Treatment of malignant gli-
+oma cells with the transfer of constitutively active caspase-
+6 using the human telomerase catalytic subunit (human telo-
+merase reverse transcriptase) gene promoter. Cancer Res.61,
+5796-5802.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Komata</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5796</fpage>
+               <volume>61</volume>
+               <source>Cancer Res.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3320a1310">
+            <mixed-citation id="d1275e3324" publication-type="journal">
+Kondo, S., Kondo, Y., Li, G., Silverman, R. H. &amp; Cowell,
+J. K. 1998a Targeted therapy of human malignant glioma in
+a mouse model by 2-5A antisense directed against telomer-
+ase RNA. Oncogene16, 3323-3330.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kondo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3323</fpage>
+               <volume>16</volume>
+               <source>Oncogene</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3362a1310">
+            <mixed-citation id="d1275e3366" publication-type="journal">
+Kondo, S. (and 11 others) 1998b Antisense telomerase treat-
+ment: induction of two distinct pathways, apoptosis and dif-
+ferentiation. FASEB J.12, 801-811.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kondo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>801</fpage>
+               <volume>12</volume>
+               <source>FASEB J.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3401a1310">
+            <mixed-citation id="d1275e3405" publication-type="journal">
+Kondo, Y., Kondo, S., Tanaka, Y., Haqqi, T., Barna, B. P. &amp;
+Cowell, J. K. 1998c Inhibition of telomerase increases the
+susceptibility of human malignant glioblastoma cells to cis-
+platin-induced apoptosis. Oncogene16, 2243-2248.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kondo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2243</fpage>
+               <volume>16</volume>
+               <source>Oncogene</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3443a1310">
+            <mixed-citation id="d1275e3447" publication-type="journal">
+Kondo, Y., Koga, S., Komata, T. &amp; Kondo, S. 2000 Treat-
+ment of prostate cancer in vitro and in vivo with 2-5A-anti-
+telomerase RNA component. Oncogene19, 2205-2211.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kondo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2205</fpage>
+               <volume>19</volume>
+               <source>Oncogene</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3482a1310">
+            <mixed-citation id="d1275e3486" publication-type="journal">
+Koscielny, S., Fiedler, W., Dahse, R. &amp; Beleites, E. 2000 Reac-
+tivation of telomerase in squamous epithelial carcinomas in
+the area of the head and neck. Laryngorhinootologie79,
+551-556.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Koscielny</surname>
+                  </string-name>
+               </person-group>
+               <fpage>551</fpage>
+               <volume>79</volume>
+               <source>Laryngorhinootologie</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3524a1310">
+            <mixed-citation id="d1275e3528" publication-type="journal">
+Kumaki, F., Kawai, T., Hiroi, S., Shinomiya, N., Ozeki, Y.,
+Ferrans, V. J. &amp; Torikata, C. 2001 Telomerase activity and
+expression of human telomerase RNA component and
+human telomerase reverse transcriptase in lung carcinomas.
+Hum. Pathol.32, 188-195.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kumaki</surname>
+                  </string-name>
+               </person-group>
+               <fpage>188</fpage>
+               <volume>32</volume>
+               <source>Hum. Pathol.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3570a1310">
+            <mixed-citation id="d1275e3574" publication-type="journal">
+Kushner, D. M., Paranjape, J. M., Bandyopadhyay, B.,
+Cramer, H., Leaman, D. W., Kennedy, A. W., Silverman,
+R. H. &amp; Cowell, J. K. 2000 2-5A antisense directed against
+telomerase RNA produces apoptosis in ovarian cancer cells.
+Gynecol. Oncol.76, 183-192.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kushner</surname>
+                  </string-name>
+               </person-group>
+               <fpage>183</fpage>
+               <volume>76</volume>
+               <source>Gynecol. Oncol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3615a1310">
+            <mixed-citation id="d1275e3619" publication-type="journal">
+Kyo, S., Takakura, M., Kanaya, T., Zhuo, W., Fujimoto, K.,
+Nishio, Y., Orimo, A. &amp; Inoue, M. 1999 Estrogen activates
+telomerase. Cancer Res.59, 5917-5921.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kyo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5917</fpage>
+               <volume>59</volume>
+               <source>Cancer Res.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3654a1310">
+            <mixed-citation id="d1275e3658" publication-type="journal">
+Kyo, S., Takakura, M., Taira, T., Kanaya, T., Itoh, H., Yut-
+sudo, M., Ariga, H. &amp; Inoue, M. 2000 Spl cooperates with
+c-Myc to activate transcription of the human telomerase
+reverse transcriptase gene (hTERT). Nucleic Acids Res.28,
+669-677.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Kyo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>669</fpage>
+               <volume>28</volume>
+               <source>Nucleic Acids Res.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3699a1310">
+            <mixed-citation id="d1275e3703" publication-type="journal">
+Laroche, T., Martin, S. G., Gotta, M., Gorham, H. C., Pryde,
+F. E., Louis, E. J. &amp; Gasser, S. M. 1998 Mutation of yeast
+Ku genes disrupts the subnuclear organization of telomeres.
+Curr. Biol.8, 653-656.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Laroche</surname>
+                  </string-name>
+               </person-group>
+               <fpage>653</fpage>
+               <volume>8</volume>
+               <source>Curr. Biol.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3741a1310">
+            <mixed-citation id="d1275e3745" publication-type="journal">
+Le, S., Moore, J. K., Haber, J. E. &amp; Greider, C. W. 1999
+RAD50 and RAD51 define two pathways that collaborate
+to maintain telomeres in the absence of telomerase. Genetics
+152, 143-152.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Le</surname>
+                  </string-name>
+               </person-group>
+               <fpage>143</fpage>
+               <volume>152</volume>
+               <source>Genetics</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3783a1310">
+            <mixed-citation id="d1275e3787" publication-type="journal">
+Li, H., Zhao, L. L., Funder, J. W. &amp; Liu, J. P. 1997 Protein
+phosphatase 2A inhibits nuclear telomerase activity in
+human breast cancer cells. J. Biol. Chem.272, 16729-
+16 732.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Li</surname>
+                  </string-name>
+               </person-group>
+               <fpage>16729</fpage>
+               <volume>272</volume>
+               <source>J. Biol. Chem.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3826a1310">
+            <mixed-citation id="d1275e3830" publication-type="journal">
+Lingner, J. &amp; Cech, T. R. 1998 Telomerase and chromosome
+end maintenance. Curr. Opin. Genet. Dev.8, 226-232.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Lingner</surname>
+                  </string-name>
+               </person-group>
+               <fpage>226</fpage>
+               <volume>8</volume>
+               <source>Curr. Opin. Genet. Dev.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3862a1310">
+            <mixed-citation id="d1275e3866" publication-type="journal">
+Makarov, V. L., Lejnine, S., Bedoyan, J. &amp; Langmore, J. P.
+1993 Nucleosomal organization of telomere-specific
+chromatin in rat. Cell73, 775-787.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Makarov</surname>
+                  </string-name>
+               </person-group>
+               <fpage>775</fpage>
+               <volume>73</volume>
+               <source>Cell</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3901a1310">
+            <mixed-citation id="d1275e3907" publication-type="journal">
+Mata, J. E., Joshi, S. S., Palen, B., Pirruccello, S. J., Jackson,
+J. D., Elias, N., Page, T. J., Medlin, K. L. &amp; Iversen, P. L.
+1997 A hexameric phosphorothioate oligonucleotide telo-
+merase inhibitor arrests growth of Burkitt's lymphoma cells
+in vitro and in vivo. Toxicol Appl. Pharmacol.144, 189-197.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Mata</surname>
+                  </string-name>
+               </person-group>
+               <fpage>189</fpage>
+               <volume>144</volume>
+               <source>Toxicol Appl. Pharmacol.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3948a1310">
+            <mixed-citation id="d1275e3952" publication-type="journal">
+Mehle, C., Piatyszek, M. A., Ljungberg, B., Shay, J. W. &amp;
+Roos, G. 1996 Telomerase activity in human renal cell carci-
+noma. Oncogene13, 161-166.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Mehle</surname>
+                  </string-name>
+               </person-group>
+               <fpage>161</fpage>
+               <volume>13</volume>
+               <source>Oncogene</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e3987a1310">
+            <mixed-citation id="d1275e3991" publication-type="journal">
+Mergny, J. L., Mailliet, P., Lavelle, F., Riou, J. F., Laoui, A. &amp;
+Helene, C. 1999 The development of telomerase inhibitors:
+the G-quartet approach. Anticancer Drug Des.14, 327-339.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Mergny</surname>
+                  </string-name>
+               </person-group>
+               <fpage>327</fpage>
+               <volume>14</volume>
+               <source>Anticancer Drug Des.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4026a1310">
+            <mixed-citation id="d1275e4030" publication-type="journal">
+Meyerson, M. (and 12 others) 1997 hEST2, the putative
+human telomerase catalytic subunit gene, is up-regulated in
+tumor cells and during immortalization. Cell90, 785-795.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Meyerson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>785</fpage>
+               <volume>90</volume>
+               <source>Cell</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4066a1310">
+            <mixed-citation id="d1275e4070" publication-type="journal">
+Minev, B., Hipp, J., Firat, H., Schmidt, J. D., Langlade-
+Demoyen, P. &amp; Zanetti, M. 2000 Cytotoxic T cell immunity
+against telomerase reverse transcriptase in humans. Proc.
+Natl Acad. Sci. USA97, 4796-4801.<object-id pub-id-type="jstor">10.2307/122471</object-id>
+               <fpage>4796</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4093a1310">
+            <mixed-citation id="d1275e4097" publication-type="journal">
+Misiti, S. (and 10 others) 2000 Induction of hTERT expression
+and telomerase activity by estrogens in human ovary epi-
+thelium cells. Mol. Cell. Biol.20, 3764-3771.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Misiti</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3764</fpage>
+               <volume>20</volume>
+               <source>Mol. Cell. Biol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4132a1310">
+            <mixed-citation id="d1275e4136" publication-type="journal">
+Mitchell, J. R., Wood, E. &amp; Collins, K. 1999 A telomerase
+component is defective in the human disease dyskeratosis
+congenita. Nature402, 551-555.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Mitchell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>551</fpage>
+               <volume>402</volume>
+               <source>Nature</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4171a1310">
+            <mixed-citation id="d1275e4175" publication-type="journal">
+Morales, C. P., Burdick, J. S., Saboorian, M. H., Wright,
+W. E. &amp; Shay, J. W. 1998 In situ hybridization for telomerase
+RNA in routine cytologic brushings for the diagnosis of pan-
+creaticobiliary malignancies. Gastrointest. Endosc.48, 402-
+405.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Morales</surname>
+                  </string-name>
+               </person-group>
+               <fpage>402</fpage>
+               <volume>48</volume>
+               <source>Gastrointest. Endosc.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4216a1310">
+            <mixed-citation id="d1275e4220" publication-type="journal">
+Morales, C. P., Holt, S. E., Ouellette, M., Kaur, K. J., Yan,
+Y., Wilson, K. S., White, M. A., Wright, W. E. &amp; Shay,
+J. W. 1999 Absence of cancer-associated changes in human
+fibroblasts immortalized with telomerase. Nature Genet.21,
+115-118.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Morales</surname>
+                  </string-name>
+               </person-group>
+               <fpage>115</fpage>
+               <volume>21</volume>
+               <source>Nature Genet.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4261a1310">
+            <mixed-citation id="d1275e4265" publication-type="journal">
+Muniyappa, K., Anuradha, S. &amp; Byers, B. 2000 Yeast meiosis-
+specific protein Hopl binds to G4 DNA and promotes its
+formation. Mol. Cell. Biol.20, 1361-1369.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Muniyappa</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1361</fpage>
+               <volume>20</volume>
+               <source>Mol. Cell. Biol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4301a1310">
+            <mixed-citation id="d1275e4305" publication-type="journal">
+Murakami, J., Nagai, N. &amp; Ohama, K. 1998 Telomerase
+activity in body cavity fluid and peritoneal washings in uter-
+ine and ovarian cancer. J. Int. Med. Res.26, 129-139.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Murakami</surname>
+                  </string-name>
+               </person-group>
+               <fpage>129</fpage>
+               <volume>26</volume>
+               <source>J. Int. Med. Res.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4340a1310">
+            <mixed-citation id="d1275e4344" publication-type="journal">
+Naasani, I., Seimiya, H. &amp; Tsuruo, T. 1998 Telomerase inhi-
+bition, telomere shortening, and senescence of cancer cells
+by tea catechins. Biochem. Biophys. Res. Commun.249,
+391-396.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Naasani</surname>
+                  </string-name>
+               </person-group>
+               <fpage>391</fpage>
+               <volume>249</volume>
+               <source>Biochem. Biophys. Res. Commun.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4382a1310">
+            <mixed-citation id="d1275e4386" publication-type="journal">
+Naasani, I., Seimiya, H., Yamori, T. &amp; Tsuruo, T. 1999
+FJ5002: a potent telomerase inhibitor identified by
+exploiting the disease-oriented screening program with
+COMPARE analysis. Cancer Res.59, 4004-4011.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Naasani</surname>
+                  </string-name>
+               </person-group>
+               <fpage>4004</fpage>
+               <volume>59</volume>
+               <source>Cancer Res.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4424a1310">
+            <mixed-citation id="d1275e4428" publication-type="journal">
+Naka, K., Yokozaki, H., Yasui, W., Tahara, H. &amp; Tahara, E.
+1999 Effect of antisense human telomerase RNA transfec-
+tion on the growth of human gastric cancer cell lines.
+Biochem. Biophys. Res. Commun.255, 753-758.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Naka</surname>
+                  </string-name>
+               </person-group>
+               <fpage>753</fpage>
+               <volume>255</volume>
+               <source>Biochem. Biophys. Res. Commun.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4466a1310">
+            <mixed-citation id="d1275e4470" publication-type="journal">
+Nakabayashi, K., Ogino, H., Michishita, E., Satoh, N. &amp; Ayus-
+awa, D. 1999 Introduction of chromosome 7 suppresses tel-
+omerase with shortening of telomeres in a human
+mesothelial cell line. Exp. Cell Res.252, 376-382.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Nakabayashi</surname>
+                  </string-name>
+               </person-group>
+               <fpage>376</fpage>
+               <volume>252</volume>
+               <source>Exp. Cell Res.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4508a1310">
+            <mixed-citation id="d1275e4512" publication-type="journal">
+Neidle, S. &amp; Kelland, L. R. 1999 Telomerase as an anti-cancer
+target: current status and future prospects. Anti-cancer Drug
+Des.14, 341-347.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Neidle</surname>
+                  </string-name>
+               </person-group>
+               <fpage>341</fpage>
+               <volume>14</volume>
+               <source>Anti-cancer Drug Des.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4548a1310">
+            <mixed-citation id="d1275e4552" publication-type="journal">
+Nishimoto, A. (and 10 others) 2001 Functional evidence for a
+telomerase repressor gene on human chromosome 1 Opi 5.1.
+Oncogene20, 828-835.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Nishimoto</surname>
+                  </string-name>
+               </person-group>
+               <fpage>828</fpage>
+               <volume>20</volume>
+               <source>Oncogene</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4587a1310">
+            <mixed-citation id="d1275e4591" publication-type="journal">
+Norton, J. C., Piatyszek, M. A., Wright, W. E., Shay, J. W. &amp;
+Corey, D. R. 1996 Inhibition of human telomerase activity
+by peptide nucleic acids. Nature Biotechnol.14, 615-619.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Norton</surname>
+                  </string-name>
+               </person-group>
+               <fpage>615</fpage>
+               <volume>14</volume>
+               <source>Nature Biotechnol.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4626a1310">
+            <mixed-citation id="d1275e4630" publication-type="journal">
+Oh, S., Song, Y. H., Yim, J. &amp; Kim, T. K. 2000 Identification
+of Mad as a repressor of the human telomerase (hTERT)
+gene. Oncogene19, 1485-1490.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Oh</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1485</fpage>
+               <volume>19</volume>
+               <source>Oncogene</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4665a1310">
+            <mixed-citation id="d1275e4669" publication-type="journal">
+O'Hare, M. J. (andl11others) 2001 Conditional immortaliz-
+ation of freshly isolated human mammary fibroblasts and
+endothelial cells. Proc. Natl Acad. Sci. USA98, 646-651.<object-id pub-id-type="jstor">10.2307/3054738</object-id>
+               <fpage>646</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4688a1310">
+            <mixed-citation id="d1275e4692" publication-type="journal">
+Ohnuma, T., Li, F. L. &amp; Holland, J. F. 1997 Inhibitory effects
+of telomere-mimic phosphorothioate oligonucleotides on
+various human tumor cells in vitro. Anticancer Res.17,
+2455-2458.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ohnuma</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2455</fpage>
+               <volume>17</volume>
+               <source>Anticancer Res.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4730a1310">
+            <mixed-citation id="d1275e4734" publication-type="journal">
+Olovnikov, A. M.1973 A theory of marginotomy. The incom-
+plete copying of template margin in enzymic synthesis of
+polynucleotides and biological significance of the phenom-
+enon. J. Theor. Biol.41, 181-190.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Olovnikov</surname>
+                  </string-name>
+               </person-group>
+               <fpage>181</fpage>
+               <volume>41</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4773a1310">
+            <mixed-citation id="d1275e4777" publication-type="journal">
+Ouellette, M. M., Liao, M., Herbert, B. S., Johnson, M., Holt,
+S. E., Liss, H. S., Shay, J. W. &amp; Wright, W. E. 2000a Sub-
+senescent telomere lengths in fibroblasts immortalized by
+limiting amounts of telomerase. J. Biol. Chem.275,
+10072-10 076.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ouellette</surname>
+                  </string-name>
+               </person-group>
+               <fpage>10072</fpage>
+               <volume>275</volume>
+               <source>J. Biol. Chem.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4818a1310">
+            <mixed-citation id="d1275e4822" publication-type="journal">
+Ouellette, M. M., McDaniel, L. D., Wright, W. E., Shay,
+J. W. &amp; Schultz, R. A. 2000b The establishment of telomer-
+ase-immortalized cell lines representing human chromosome
+instability syndromes. Hum. Mol. Genet.9, 403-411.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ouellette</surname>
+                  </string-name>
+               </person-group>
+               <fpage>403</fpage>
+               <volume>9</volume>
+               <source>Hum. Mol. Genet.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4860a1310">
+            <mixed-citation id="d1275e4864" publication-type="journal">
+Park, T. W., Riethdorf, S., Riethdorf, L., Loning, T. &amp; Jan-
+icke, F. 1999 Differential telomerase activity, expression of
+the telomerase catalytic sub-unit and telomerase-RNA in
+ovarian tumors. Int. J. Cancer84, 426-431.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Park</surname>
+                  </string-name>
+               </person-group>
+               <fpage>426</fpage>
+               <volume>84</volume>
+               <source>Int. J. Cancer</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4902a1310">
+            <mixed-citation id="d1275e4906" publication-type="journal">
+Perrem, K., Bryan, T. M., Englezou, A., HackI, T., Moy,
+E. L. &amp; Reddel, R. R. 1999 Repression of an alternative
+mechanism for lengthening of telomeres in somatic cell
+hybrids. Oncogene18, 3383-3390.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Perrem</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3383</fpage>
+               <volume>18</volume>
+               <source>Oncogene</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4944a1310">
+            <mixed-citation id="d1275e4948" publication-type="journal">
+Perrem, K., Colgin, L. M., Neumann, A. A., Yeager, T. R. &amp;
+Reddel, R. R. 2001 Coexistence of alternative lengthening
+of telomeres and telomerase in hTERT-transfected GM847
+cells. Mol. Cell. Biol.21, 3862-3875.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Perrem</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3862</fpage>
+               <volume>21</volume>
+               <source>Mol. Cell. Biol.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e4986a1310">
+            <mixed-citation id="d1275e4990" publication-type="journal">
+Perry, P. J. &amp; Jenkins, T. C. 1999 Recent advances in the
+development of telomerase inhibitors for the treatment of
+cancer. Expert Opin. Investig. Drugs8, 1981-2008.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Perry</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1981</fpage>
+               <volume>8</volume>
+               <source>Expert Opin. Investig. Drugs</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5026a1310">
+            <mixed-citation id="d1275e5030" publication-type="journal">
+Perry, P. J., Gowan, S. M., Reszka, A. P., Polucci, P., Jenkins,
+T. C., Kelland, L. R. &amp; Neidle, S. 1998a 1,4- and 2,6-disub-
+stituted amidoanthracene-9,10-dione derivatives as inhibi-
+tors of human telomerase. J. Med. Chem.41, 3253-3260.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Perry</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3253</fpage>
+               <volume>41</volume>
+               <source>J. Med. Chem.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5068a1310">
+            <mixed-citation id="d1275e5072" publication-type="journal">
+Perry, P. J., Reszka, A. P., Wood, A. A., Read, M. A., Gowan,
+S. M., Dosanjh, H. S., Trent, J. 0., Jenkins, T. C., Kelland,
+L. R. &amp; Neidle, S. 1998b Human telomerase inhibition by
+regioisomeric disubstituted amidoanthracene-9, 1 0-diones.
+J. Med. Chem.41, 4873-4884.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Perry</surname>
+                  </string-name>
+               </person-group>
+               <fpage>4873</fpage>
+               <volume>41</volume>
+               <source>J. Med. Chem.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5113a1310">
+            <mixed-citation id="d1275e5117" publication-type="journal">
+Perry, P. J., Read, M. A., Davies, R. T., Gowan, S. M.,
+Reszka, A. P., Wood, A. A., Kelland, L. R. &amp; Neidle, S.
+1999 2,7-Disubstituted amidofluorenone derivatives as
+inhibitors of human telomerase. J. Med. Chem.42, 2679-
+2684.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Perry</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2679</fpage>
+               <volume>42</volume>
+               <source>J. Med. Chem.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5158a1310">
+            <mixed-citation id="d1275e5162" publication-type="journal">
+Pitts, A. E. &amp; Corey, D. R. 1998 Inhibition of human telomer-
+ase by 2'-O-methyl-RNA. Proc. Natl Acad. Sci. USA95,
+11549-11 554.<object-id pub-id-type="jstor">10.2307/49225</object-id>
+               <fpage>11549</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5181a1310">
+            <mixed-citation id="d1275e5185" publication-type="journal">
+Price, C. M.1990 Telomere structure in Euplotes crassus:
+characterization of DNA-protein interactions and isolation
+of a telomere-binding protein. Mol. Cell. Biol.10, 3421-
+3431.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Price</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3421</fpage>
+               <volume>10</volume>
+               <source>Mol. Cell. Biol.</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5223a1310">
+            <mixed-citation id="d1275e5227" publication-type="journal">
+Price, C. M. &amp; Cech, T. R. 1989 Properties of the telomeric
+DNA-binding protein from Oxytricha nova. Biochemistry28,
+769-774.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Price</surname>
+                  </string-name>
+               </person-group>
+               <fpage>769</fpage>
+               <volume>28</volume>
+               <source>Biochemistry</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5263a1310">
+            <mixed-citation id="d1275e5267" publication-type="journal">
+Ramirez, R. D., D'Atri, S., Pagani, E., Faraggiana, T., Lacal,
+P. M., Taylor, R. S. &amp; Shay, J. W. 1999 Progressive increase
+in telomerase activity from benign melanocytic conditions to
+malignant melanoma. Neoplasia1, 42-49.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ramirez</surname>
+                  </string-name>
+               </person-group>
+               <fpage>42</fpage>
+               <volume>1</volume>
+               <source>Neoplasia</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5305a1310">
+            <mixed-citation id="d1275e5309" publication-type="journal">
+Ray, A. &amp; Norden, B. 2000 Peptide nucleic acid (PNA): its
+medical and biotechnical applications and promise for the
+future. FASEB J.14, 1041-1060.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ray</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1041</fpage>
+               <volume>14</volume>
+               <source>FASEB J.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5344a1310">
+            <mixed-citation id="d1275e5348" publication-type="journal">
+Raymond, E., Soria, J. C., Lzbicka, E., Boussin, F., Hurley,
+L. &amp; Von Hoff, D. D. 2000 DNA G-quadruplexes, telo-
+mere-specific proteins and telomere-associated enzymes as
+potential targets for new anticancer drugs. Invest. New Drugs
+18, 123-137.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Raymond</surname>
+                  </string-name>
+               </person-group>
+               <fpage>123</fpage>
+               <volume>18</volume>
+               <source>Invest. New Drugs</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5389a1310">
+            <mixed-citation id="d1275e5395" publication-type="journal">
+Reddel, R. R., Bryan, T. M. &amp; Murnane, J. P. 1997 Immor-
+talized cells with no detectable telomerase activity. A review.
+Biochemistry (Mosc.)62, 1254-1262.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Reddel</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1254</fpage>
+               <volume>62</volume>
+               <source>Biochemistry (Mosc.)</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5430a1310">
+            <mixed-citation id="d1275e5434" publication-type="journal">
+Riethman, H. C., Xiang, Z., Paul, S., Morse, E., Hu, X. L.,
+Flint, J., Chi, H. C., Grady, D. L. &amp; Moyzis, R. K. 2001
+Integration of telomere sequences with the draft human gen-
+ome sequence. Nature409, 948-951.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Riethman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>948</fpage>
+               <volume>409</volume>
+               <source>Nature</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5472a1310">
+            <mixed-citation id="d1275e5476" publication-type="journal">
+Riha, K., McKnight, T. D., Fajkus, J., Vyskot, B. &amp; Shippen,
+D. E. 2000 Analysis of the G-overhang structures on plant
+telomeres: evidence for two distinct telomere architectures.
+Plant J.23, 633-641.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Riha</surname>
+                  </string-name>
+               </person-group>
+               <fpage>633</fpage>
+               <volume>23</volume>
+               <source>Plant J.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5515a1310">
+            <mixed-citation id="d1275e5519" publication-type="journal">
+Rossetti, L., Cacchione, S., Fua, M. &amp; Savino, M. 1998
+Nucleosome assembly on telomeric sequences. Biochemistry
+37, 6727-6737.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Rossetti</surname>
+                  </string-name>
+               </person-group>
+               <fpage>6727</fpage>
+               <volume>37</volume>
+               <source>Biochemistry</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5554a1310">
+            <mixed-citation id="d1275e5558" publication-type="journal">
+Rudolph, P., Schubert, C., Tamm, S., Heidorn, K., Hausch-
+ild, A., Michalska, I., Majewski, S., Krupp, G., Jablonska,
+S. &amp; Parwaresch, R. 2000 Telomerase activity in mel-
+anocytic lesions: a potential marker of tumor biology. Am.
+J. Pathol.156, 1425-1432.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Rudolph</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1425</fpage>
+               <volume>156</volume>
+               <source>Am. J. Pathol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5599a1310">
+            <mixed-citation id="d1275e5603" publication-type="journal">
+Sakamoto, M., Toyoizumi, T., Kikuchi, Y., Okamoto, A.,
+Nakayama, H., Aoki, D., Yamamoto, K., Hata, H., Sugish-
+ita, T. &amp; Tenjin, Y. 2000 Telomerase activity in gynecologi-
+cal tumors. Oncol. Rep.7, 1003-1009.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Sakamoto</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1003</fpage>
+               <volume>7</volume>
+               <source>Oncol. Rep.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5641a1310">
+            <mixed-citation id="d1275e5645" publication-type="journal">
+Samper, E., Goytisolo, F. A., Slijepcevic, P., Van Buul, P. P. &amp;
+Blasco, M. A. 2000 Mammalian Ku86 protein prevents telo-
+meric fusions independently of the length of TTAGGG
+repeats and the G-strand overhang. EMBO Rep.1, 244-252.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Samper</surname>
+                  </string-name>
+               </person-group>
+               <fpage>244</fpage>
+               <volume>1</volume>
+               <source>EMBO Rep.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5683a1310">
+            <mixed-citation id="d1275e5687" publication-type="journal">
+Saretzki, G., Sitte, N., Merkel, U., Wurm, R. E. &amp; Von Zglin-
+icki, T. 1999 Telomere shortening triggers a p53-dependent
+cell cycle arrest via accumulation of G-rich single stranded
+DNA fragments. Oncogene18, 5148-5158.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Saretzki</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5148</fpage>
+               <volume>18</volume>
+               <source>Oncogene</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5725a1310">
+            <mixed-citation id="d1275e5729" publication-type="journal">
+Shammas, M. A., Simmons, C. G., Corey, D. R. &amp; Reis, R. J.
+1999 Telomerase inhibition by peptide nucleic acids reverses
+'immortality' of transformed human cells. Oncogene18,
+6191-6200.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Shammas</surname>
+                  </string-name>
+               </person-group>
+               <fpage>6191</fpage>
+               <volume>18</volume>
+               <source>Oncogene</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5768a1310">
+            <mixed-citation id="d1275e5772" publication-type="journal">
+Shay, J. W. &amp; Bacchetti, S. 1997 A survey of telomerase
+activity in human cancer. Eur. J. Cancer33, 787-791.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Shay</surname>
+                  </string-name>
+               </person-group>
+               <fpage>787</fpage>
+               <volume>33</volume>
+               <source>Eur. J. Cancer</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5804a1310">
+            <mixed-citation id="d1275e5808" publication-type="journal">
+Shay, J. W. &amp; Wright, W. E. 1999 Telomeres and telomerase
+in the regulation of human cellular aging. Mol. Biol. Aging.
+Alfred Benzon Symp.44, 148-158.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Shay</surname>
+                  </string-name>
+               </person-group>
+               <fpage>148</fpage>
+               <volume>44</volume>
+               <source>Mol. Biol. Aging. Alfred Benzon Symp.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5843a1310">
+            <mixed-citation id="d1275e5847" publication-type="journal">
+Shay, J. W. &amp; Wright, W. E. 2001 Telomeres and telomerase:
+implications for cancer and aging. Radiat. Res.155, 188-
+193.<object-id pub-id-type="jstor">10.2307/3580401</object-id>
+               <fpage>188</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5866a1310">
+            <mixed-citation id="d1275e5870" publication-type="journal">
+Shay, J. W., Zou, Y., Hiyama, E. &amp; Wright, W. E. 2001 Telo-
+merase and cancer. Hum. Mol. Genet.10, 677-685.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Shay</surname>
+                  </string-name>
+               </person-group>
+               <fpage>677</fpage>
+               <volume>10</volume>
+               <source>Hum. Mol. Genet.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5902a1310">
+            <mixed-citation id="d1275e5906" publication-type="journal">
+Simickova, M., Nekulova, M., Pecen, L., Cernoch, M.,
+Vagundova, M. &amp; Pacovsky, Z. 2001 Quantitative determi-
+nation of telomerase activity in breast cancer and benign
+breast diseases. Neoplasma48, 267-733.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Simickova</surname>
+                  </string-name>
+               </person-group>
+               <fpage>267</fpage>
+               <volume>48</volume>
+               <source>Neoplasma</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5944a1310">
+            <mixed-citation id="d1275e5948" publication-type="journal">
+Smith, S. &amp; De Lange, T. 2000 Tankyrase promotes telomere
+elongation in human cells. Curr. Biol.10, 1299-1302.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Smith</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1299</fpage>
+               <volume>10</volume>
+               <source>Curr. Biol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e5981a1310">
+            <mixed-citation id="d1275e5985" publication-type="journal">
+Smith, S., Giriat, I., Schmitt, A. &amp; De Lange, T. 1998 Tankyr-
+ase, a poly(ADP-ribose) polymerase at human telomeres.
+Science282, 1484-1487.<object-id pub-id-type="jstor">10.2307/2897076</object-id>
+               <fpage>1484</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6004a1310">
+            <mixed-citation id="d1275e6008" publication-type="journal">
+Smogorzewska, A., Van Steensel, B., Bianchi, A., Oelmann,
+S., Schaefer, M. R., Schnapp, G. &amp; De Lange, T. 2000 Con-
+trol of human telomere length by TRF1 and TRF2. Mol.
+Cell. Biol.20, 1659-1668.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Smogorzewska</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1659</fpage>
+               <volume>20</volume>
+               <source>Mol. Cell. Biol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6046a1310">
+            <mixed-citation id="d1275e6050" publication-type="journal">
+Soder, A. I., Hoare, S. F., Muir, S., Going, J. J., Parkinson,
+E. K. &amp; Keith, W. N. 1997 Amplification, increased dosage
+and in situ expression of the telomerase RNA gene in human
+cancer. Oncogene14, 1013-1021.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Soder</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1013</fpage>
+               <volume>14</volume>
+               <source>Oncogene</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6088a1310">
+            <mixed-citation id="d1275e6092" publication-type="journal">
+Song, K., Jung, D., Jung, Y., Lee, S. G. &amp; Lee, I. 2000 Interac-
+tion of human Ku7O with TRF2. FEBS Lett.481, 8 1-85.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Song</surname>
+                  </string-name>
+               </person-group>
+               <fpage>8</fpage>
+               <volume>481</volume>
+               <source>FEBS Lett.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6124a1310">
+            <mixed-citation id="d1275e6128" publication-type="journal">
+Soria, J. C., Gauthier, L. R., Raymond, E., Granotier, C.,
+Morat, L., Armand, J. P., Boussin, F. D. &amp; Sabatier, L.
+1999 Molecular detection of telomerase-positive circulating
+epithelial cells in metastatic breast cancer patients. Clin.
+Cancer Res.5, 971-975.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Soria</surname>
+                  </string-name>
+               </person-group>
+               <fpage>971</fpage>
+               <volume>5</volume>
+               <source>Clin. Cancer Res.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6169a1310">
+            <mixed-citation id="d1275e6175" publication-type="journal">
+Steinert, S., Shay, J. W. &amp; Wright, W. E. 2000 Transient
+expression of human telomerase extends the life span of nor-
+mal human fibroblasts. Biochem. Biophys. Res. Commun.273,
+1095-1098.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Steinert</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1095</fpage>
+               <volume>273</volume>
+               <source>Biochem. Biophys. Res. Commun.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6214a1310">
+            <mixed-citation id="d1275e6218" publication-type="journal">
+Strahl, C. &amp; Blackburn, E. H. 1996 Effects of reverse tran-
+scriptase inhibitors on telomere length and telomerase
+activity in two immortalized human cell lines. Mol. Cell. Biol.
+16, 53-65.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Strahl</surname>
+                  </string-name>
+               </person-group>
+               <fpage>53</fpage>
+               <volume>16</volume>
+               <source>Mol. Cell. Biol.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6256a1310">
+            <mixed-citation id="d1275e6260" publication-type="journal">
+Tabata, Y., Ikegami, S., Yaguchi, T., Sasaki, T., Hoshiko, S.,
+Sakuma, S., Shin-Ya, K. &amp; Seto, H. 1999 Diazaphilonic
+acid, a new azaphilone with telomerase inhibitory activity.
+J. Antibiot. (Tokyo)52, 412-414.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Tabata</surname>
+                  </string-name>
+               </person-group>
+               <fpage>412</fpage>
+               <volume>52</volume>
+               <source>J. Antibiot. (Tokyo)</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6298a1310">
+            <mixed-citation id="d1275e6302" publication-type="journal">
+Tahara, H., Yasui, W., Tahara, E., Fujimoto, J., Ito, K.,
+Tamai, K., Nakayama, J., Ishikawa, F. &amp; Ide, T. 1999
+Immuno-histochemical detection of human telomerase cata-
+lytic component, hTERT, in human colorectal tumor and
+non-tumor tissue sections. Oncogene18, 1561-1567.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Tahara</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1561</fpage>
+               <volume>18</volume>
+               <source>Oncogene</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6343a1310">
+            <mixed-citation id="d1275e6347" publication-type="journal">
+Tanaka, H., Shimizu, M., Horikawa, I., Kugoh, H., Yokota, J.,
+Barrett, J. C. &amp; Oshimura, M. 1998 Evidence for a putative
+telomerase repressor gene in the 3p 14.2-p2 1.1 region. Genes
+Chromosomes Cancer23, 123-133.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Tanaka</surname>
+                  </string-name>
+               </person-group>
+               <fpage>123</fpage>
+               <volume>23</volume>
+               <source>Genes Chromosomes Cancer</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6385a1310">
+            <mixed-citation id="d1275e6389" publication-type="journal">
+Tatsumoto, N., Hiyama, E., Murakami, Y., Imamura, Y.,
+Shay, J. W., Matsuura, Y. &amp; Yokoyama, T. 2000 High telo-
+merase activity is an independent prognostic indicator of
+poor outcome in colorectal cancer. Clin. Cancer Res.6,
+2696-2701.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Tatsumoto</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2696</fpage>
+               <volume>6</volume>
+               <source>Clin. Cancer Res.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6430a1310">
+            <mixed-citation id="d1275e6434" publication-type="journal">
+Thomas, M., Yang, L. &amp; Hornsby, P. J. 2000 Formation of
+functional tissue from transplanted adrenocortical cells
+expressing telomerase reverse transcriptase. Nature Biotech-
+nol.18, 39-42.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Thomas</surname>
+                  </string-name>
+               </person-group>
+               <fpage>39</fpage>
+               <volume>18</volume>
+               <source>Nature Biotechnol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6473a1310">
+            <mixed-citation id="d1275e6477" publication-type="journal">
+Tommerup, H., Dousmanis, A. &amp; De Lange, T. 1994 Unusual
+chromatin in human telomeres. Mol. Cell. Biol.14, 5777-
+5785.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Tommerup</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5777</fpage>
+               <volume>14</volume>
+               <source>Mol. Cell. Biol.</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6512a1310">
+            <mixed-citation id="d1275e6516" publication-type="journal">
+Ulaner, G. A., Hu, J. F., Vu, T. H., Giudice, L. C. &amp; Hoff-
+man, A. R. 1998 Telomerase activity in human development
+is regulated by human telomerase reverse transcriptase
+(hTERT) transcription and by alternate splicing of hTERT
+transcripts. Cancer Res.58, 4168-4172.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ulaner</surname>
+                  </string-name>
+               </person-group>
+               <fpage>4168</fpage>
+               <volume>58</volume>
+               <source>Cancer Res.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6557a1310">
+            <mixed-citation id="d1275e6561" publication-type="journal">
+Van Steensel, B., Smogorzewska, A. &amp; De Lange, T. 1998
+TRF2 protects human telomeres from end-to-end fusions.
+Cell92, 401-413.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Van Steensel</surname>
+                  </string-name>
+               </person-group>
+               <fpage>401</fpage>
+               <volume>92</volume>
+               <source>Cell</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6596a1310">
+            <mixed-citation id="d1275e6600" publication-type="journal">
+Veldman, T., Horikawa, I., Barrett, J. C. &amp; Schlegel, R. 2001
+Transcriptional activation of the telomerase hTERT gene by
+human papillomavirus type 16 E6 oncoprotein. J. Virol.75,
+4467-4472.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Veldman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>4467</fpage>
+               <volume>75</volume>
+               <source>J. Virol.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6638a1310">
+            <mixed-citation id="d1275e6642" publication-type="journal">
+Vonderheide, R. H., Hahn, W. C., Schultze, J. L. &amp; Nadler,
+L. M. 1999 The telomerase catalytic subunit is a widely
+expressed tumor-associated antigen recognized by cytotoxic
+T lymphocytes. Immunity10, 673-679.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Vonderheide</surname>
+                  </string-name>
+               </person-group>
+               <fpage>673</fpage>
+               <volume>10</volume>
+               <source>Immunity</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6680a1310">
+            <mixed-citation id="d1275e6684" publication-type="journal">
+Wan, M. S., Fell, P. L. &amp; Akhtar, S. 1998 Synthetic 2'-O-
+methyl-modified hammerhead ribozymes targeted to the
+RNA component of telomerase as sequence-specific inhibi-
+tors of telomerase activity. Antisense Nucleic Acid Drug Dev.
+8, 309-317.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Wan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>309</fpage>
+               <volume>8</volume>
+               <source>Antisense Nucleic Acid Drug Dev.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6726a1310">
+            <mixed-citation id="d1275e6730" publication-type="journal">
+White, L. K., Wright, W. E. &amp; Shay, J. W. 2001 Telomerase
+inhibitors. Trends Biotechnol.19, 114-120.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>White</surname>
+                  </string-name>
+               </person-group>
+               <fpage>114</fpage>
+               <volume>19</volume>
+               <source>Trends Biotechnol.</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6762a1310">
+            <mixed-citation id="d1275e6766" publication-type="journal">
+Wisman, G. B., De Jong, S., Meersma, G. J., Helder, M. N.,
+Hollema, H., De Vries, E. G., Keith, W. N. &amp; Van der Zee,
+A. G. 2000 Telomerase in (pre)neoplastic cervical disease.
+Hum. Pathol.31, 1304-1312.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Wisman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1304</fpage>
+               <volume>31</volume>
+               <source>Hum. Pathol.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6804a1310">
+            <mixed-citation id="d1275e6808" publication-type="journal">
+Wright, J. H., Gottschling, D. E. &amp; Zakian, V. A. 1992 Sac-
+charomyces telomeres assume a non-nucleosomal chromatin
+structure. Genes Dev.6, 197-210.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <fpage>197</fpage>
+               <volume>6</volume>
+               <source>Genes Dev.</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6843a1310">
+            <mixed-citation id="d1275e6847" publication-type="journal">
+Wright, W. E., Shay, J. W. &amp; Piatyszek, M. A. 1995 Modifi-
+cations of a telomeric repeat amplification protocol (TRAP)
+result in increased reliability, linearity and sensitivity. Nucleic
+Acids Res.23, 3794-3795.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3794</fpage>
+               <volume>23</volume>
+               <source>Nucleic Acids Res.</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6885a1310">
+            <mixed-citation id="d1275e6889" publication-type="journal">
+Wright, W. E., Tesmer, V. M., Huffman, K. E., Levene,
+S. D. &amp; Shay, J. W. 1997 Normal human chromosomes have
+long G-rich telomeric overhangs at one end. Genes Dev.11,
+2801-2809.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2801</fpage>
+               <volume>11</volume>
+               <source>Genes Dev.</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6927a1310">
+            <mixed-citation id="d1275e6931" publication-type="journal">
+Wright, W. E., Tesmer, V. M., Liao, M. L. &amp; Shay, J. W. 1999
+Normal human telomeres are not late replicating. Exp. Cell
+Res.251, 492-499.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <fpage>492</fpage>
+               <volume>251</volume>
+               <source>Exp. Cell Res.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e6967a1310">
+            <mixed-citation id="d1275e6971" publication-type="journal">
+Wu, H. L., Hsu, C. Y., Liu, W. H. &amp; Yung, B. Y. 1999 Ber-
+berine-induced apoptosis of human leukemia HL-60 cells is
+associated with down-regulation of nucleophosmin/B23 and
+telomerase activity. Int. J. Cancer81, 923-929.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Wu</surname>
+                  </string-name>
+               </person-group>
+               <fpage>923</fpage>
+               <volume>81</volume>
+               <source>Int. J. Cancer</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e7009a1310">
+            <mixed-citation id="d1275e7013" publication-type="journal">
+Xu, D., Wang, Q., Gruber, A., Bjorkholm, M., Chen, Z., Zaid,
+A., Selivanova, G., Peterson, C., Wiman, K. G. &amp; Pisa, P.
+2000 Downregulation of telomerase reverse transcriptase
+mRNA expression by wild type p53 in human tumor cells.
+Oncogene19, 5123-5133.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Xu</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5123</fpage>
+               <volume>19</volume>
+               <source>Oncogene</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e7054a1310">
+            <mixed-citation id="d1275e7058" publication-type="journal">
+Yamaguchi, F., Morrison, R. S., Takahashi, H. &amp; Teramoto,
+A. 1999 Anti-telomerase therapy suppressed glioma prolifer-
+ation. Oncol. Rep.6, 773-776.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Yamaguchi</surname>
+                  </string-name>
+               </person-group>
+               <fpage>773</fpage>
+               <volume>6</volume>
+               <source>Oncol. Rep.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e7093a1310">
+            <mixed-citation id="d1275e7097" publication-type="journal">
+Yashima, K., Ashfaq, R., Nowak, J., Von Gruenigen, V.,
+Milchgrub, S., Rathi, A., Albores-Saavedra, J., Shay, J. W. &amp;
+Gazdar, A. F. 1998a Telomerase activity and expression of
+its RNA component in cervical lesions. Cancer82, 1319-
+1327.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Yashima</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1319</fpage>
+               <volume>82</volume>
+               <source>Cancer</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e7138a1310">
+            <mixed-citation id="d1275e7142" publication-type="journal">
+Yashima, K., Milchgrub, S., Gollahon, L. S., Maitra, A., Sabo-
+orian, M. H., Shay, J. W. &amp; Gazdar, A. F. 1998b Telomerase
+enzyme activity and RNA expression during the multistage
+pathogenesis of breast carcinoma. Clin. Cancer Res.4,
+229-234.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Yashima</surname>
+                  </string-name>
+               </person-group>
+               <fpage>229</fpage>
+               <volume>4</volume>
+               <source>Clin. Cancer Res.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e7183a1310">
+            <mixed-citation id="d1275e7187" publication-type="journal">
+Yegorov, Y. E., Chernov, D. N., Akimov, S. S., Bolsheva,
+N. L., Krayevsky, A. A. &amp; Zelenin, A. V. 1996 Reverse tran-
+scriptase inhibitors suppress telomerase function and induce
+senescence-like processes in cultured mouse fibroblasts.
+FEBS Lett.389, 115-118.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Yegorov</surname>
+                  </string-name>
+               </person-group>
+               <fpage>115</fpage>
+               <volume>389</volume>
+               <source>FEBS Lett.</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e7229a1310">
+            <mixed-citation id="d1275e7233" publication-type="journal">
+Yi, X., White, D. M., Aisner, D. L., Baur, J. A., Wright,
+W. E. &amp; Shay, J. W. 2000 An alternate splicing variant of
+the human telomerase catalytic subunit inhibits telomerase
+activity. Neoplasia2, 433-440.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Yi</surname>
+                  </string-name>
+               </person-group>
+               <fpage>433</fpage>
+               <volume>2</volume>
+               <source>Neoplasia</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e7271a1310">
+            <mixed-citation id="d1275e7275" publication-type="journal">
+Yokoyama, Y., Takahashi, Y., Shinohara, A., Lian, Z., Wan,
+X., Niwa, K. &amp; Tamaya, T. 1998 Attenuation of telomerase
+activity by a hammerhead ribozyme targeting the template
+region of telomerase RNA in endometrial carcinoma cells.
+Cancer Res.58, 5406-5410.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Yokoyama</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5406</fpage>
+               <volume>58</volume>
+               <source>Cancer Res.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e7316a1310">
+            <mixed-citation id="d1275e7320" publication-type="journal">
+Zhang, X., Mar, V., Zhou, W., Harrington, L. &amp; Robinson,
+M. 0. 1999 Telomere shortening and apoptosis in telomer-
+ase-inhibited human tumor cells. Genes Dev.13, 2388-2399.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Zhang</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2388</fpage>
+               <volume>13</volume>
+               <source>Genes Dev.</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1275e7355a1310">
+            <mixed-citation id="d1275e7359" publication-type="journal">
+Zhao, J. Q., Glasspool, R. M., Hoare, S. F., Bilsland, A., Szat-
+mari, I. I. &amp; Keith, W. N. 2000 Activation of telomerase
+RNA gene promoter activity by NF-Y, Spl, and the retino-
+blastoma protein and repression by Sp3. Neoplasia2, 531-
+539.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Zhao</surname>
+                  </string-name>
+               </person-group>
+               <fpage>531</fpage>
+               <volume>2</volume>
+               <source>Neoplasia</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

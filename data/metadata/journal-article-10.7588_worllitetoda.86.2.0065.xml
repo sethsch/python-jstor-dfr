@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="book-review" dtd-version="1.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">worllitetoda</journal-id>
+         <journal-title-group>
+            <journal-title content-type="full">WORLD LITERATURE TODAY</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oklahoma</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01963570</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19458134</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">worllitetoda.86.2.0065</article-id>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.7588/worllitetoda.86.2.0065</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>World Literature in Review</subject>
+               <subj-group>
+                  <subject>Fiction</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Armando Celayo</string-name>
+               <aff>Norwich, United Kingdom</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">
+            <day>1</day>
+            <month>3</month>
+            <year>2012</year>
+            <string-date>March/April 2012</string-date>
+         </pub-date>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2012</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink">86</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">worllitetoda.86.issue-2</issue-id>
+         <fpage>65</fpage>
+         <lpage>65</lpage>
+         <product>
+            <source>
+               <bold>Vertical Motion</bold>
+            </source>. Karen Gernant &amp; Chen Zeping, tr. Rochester, New York. Open Letter. 2011.<sc>isbn</sc>9781934824375.<string-name>Can Xue</string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 2012 World Literature Today</copyright-statement>
+            <copyright-year>2012</copyright-year>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/10.7588/worllitetoda.86.2.0065"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

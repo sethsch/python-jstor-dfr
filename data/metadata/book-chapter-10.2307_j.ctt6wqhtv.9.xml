@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqhtv</book-id>
+      <subj-group>
+         <subject content-type="call-number">GF666.K57 2011</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Human ecology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">Environmental conditions</subject>
+            <subj-group>
+               <subject content-type="lcsh">Public opinion</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Waste products</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">Public opinion</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Pollution</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">Public opinion</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Public opinion</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Urban ecology (Sociology)</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">Tokyo</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Troubled Natures</book-title>
+         <subtitle>Waste, Environment, Japan</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Kirby</surname>
+               <given-names>Peter Wynn</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>01</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824834289</isbn>
+      <isbn content-type="epub">9780824860776</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqhtv"/>
+      <abstract abstract-type="short">
+         <p>What does "environment" really mean in the complex, non-Western milieu of present-day Tokyo? How can anthropology contribute to the technical discussions and quantitative measures typically found in environmental studies? Author Peter Wynn Kirby explores these questions through a deep cultural analysis of waste in contemporary Japan. His parameters are intentionally broad—encompassing ideas of "nature," attitudes toward hygiene, notions of health and illness, problems with vermin and toxic waste, processes of social exclusion, and reproductive threats. Troubled Natures concludes that how surroundings are conceived, invoked, and enacted is subjective, highly contextual, and under continual negotiation—with suggestive implications for anthropology, social science, and environmental studies generally. Kirby casts his anthropological lens over two Tokyo neighborhoods, comparing environmental consciousness and conduct in communities facing specific toxic threats (real or perceived). In each fieldsite, the tension between lofty rhetoric and daily practices helps highlight the practical ambivalence of Japanese environmental consciousness. Waste practices and ideas of pollution in Tokyo tie clearly into broader social issues such as exclusionary practices, emergent lifestyle changes, recycling efforts, and novel forms of energy production. Throughout, waste and environmental health problems in Tokyo collide against diverse cultural elements linked to nature(s)—uneasy relations between animals and humans; "native" conceptions of the "foreign" and the "polluted"; reproductive challenges in the face of a plunging fertility rate; and changing attitudes toward illness and health. The book’s thoughtful inquiry into the ways in which environmental questions circulate throughout Japanese society furnishes insight into central elements of contemporary Japanese life. As for the pivotal question of how to shape environmental policy internationally, Troubled Natures reminds us that efforts to influence a society’s waste shadow must unfold over a distinctive sociocultural topography where attitudes to garbage, health, purity, pollution, and excess can impact environmental priorities in profound ways.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Introduction:</title>
+                     <subtitle>Japan’s Waste Shadow</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Our world is engulfed by discourse on environment. While a discrete realm of study in its own right, the environment has also become the backdrop to what many people think about when they conceive of the present, the future, and the recent past. Yet amid all this environmental attention, the variety and complexity of conceptions of “environment” remain frequently downplayed, even ignored. Throughout the world, how surroundings are conceived, invoked, and enacted is highly contextual. Nevertheless, still pervasive is the notion that environmental conditions, perhaps like meteorological conditions, are more or less universal and therefore comparable—one hotspot, rainforest, city,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Perils of Proximity:</title>
+                     <subtitle>An Invisible Scourge</subtitle>
+                  </title-group>
+                  <fpage>28</fpage>
+                  <abstract>
+                     <p>One night in May 1996, Tsubō Yūko awoke unable to breathe. Frightened and basically incapacitated, she managed to find help until the ambulance arrived. But even though Tsubō-san—a plucky, diminutive woman then in her sixties—was able, under care, to recover somewhat, she felt a strong sense of foreboding, for this was only the most acute episode of a condition that had been worsening for about a month. “It was like a bomb had exploded in the middle of my life. Until you’ve felt [such a thing], you can’t imagine what it’s like.” In the aftermath of that explosion,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Mediated Anxieties:</title>
+                     <subtitle>Nowhere to Hide</subtitle>
+                  </title-group>
+                  <fpage>50</fpage>
+                  <abstract>
+                     <p>The vituperative protest over the troubled Izawa waste facility serves as a telling case of conflict in response to waste and toxic damage, but it is hardly representative of environmental engagement in the thousands of other communities dotting Tokyo’s varied wastescape. This is not to say that waste dilemmas did not impinge upon life in these less overtly polarized settings. Residents of Horiuchi, my other primary ethnographic fieldsite, had far less in particular to complain about regarding toxic pollution and problems of waste, and yet they were exposed to a barrage of mass media that gave them ample reason for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>The Cult(ures) of Japanese Nature</title>
+                  </title-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>Chapter 3 focused on attitudes toward environmental risk among my informants in Horiuchi. Though this portrait of everyday environmental attitudes and behavior provides a contrast to the somewhat more charged political space of my Izawa fieldsite, it furnished only one, albeit important, ethnographic dimension of life in community Tokyo. For much of what shapes environmental engagement in Japan derives from conceptions of nature and interventions into natural-cultural landscapes there.</p>
+                     <p>In Japan codified nature-focused activities and eco-symbols— manicured gardens,<italic>ikebana</italic>flower arrangement, paper houses, and so forth—give a veneer of apparent ecological sensitivity to Japanese social life. Occasionally they flag</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Tokyo’s Vermin Menace</title>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Though Japanese urbanites are not “unique” in their desire for (socially construed) order in their communities, they tend to be fastidious, and their communities do tend to be orderly. It therefore comes as no surprise that an enduring blight of scavenging crows (<italic>karasu</italic>) appalled Tokyo residents. In a society with highly normative ideas about nature,<italic>karasu</italic>, swooping black birds with seemingly relentless hunger and jarring cries, became a part of Tokyo’s environment that most residents would have preferred to edit out of the ecology. Significantly, the population of<italic>karasu</italic>had ballooned largely in proportion to the sharp rise of community</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Pure Obsession:</title>
+                     <subtitle>Pollution, Outcasts, and Exclusion</subtitle>
+                  </title-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>The conceit of Japanese homogeneity finds considerable traction among Japanese in a rather inwardly oriented nation, but it is nevertheless an illusion (Tsuda 2003; Davis 2000; Eades, Gill, and Yamashita 2000; Dale 1986; Befu 1993, 2001). One characteristic of this ideological chimera is that the normative spin put on emblematically Japanese traits by conservative elements in Japanese society leaves out numerous social groups in Japan that do not meet rigid (if largely unspoken) membership criteria. Belonging and its pursuit drive much of Japanese social life—probably even more than in most other complex, developed societies—and boundary maintenance along the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Growth, Sex, Fertility, and Decline</title>
+                  </title-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>Present-day Tokyo contrasts markedly with the idealized constructs of traditional community life that circulate throughout Japanese social discourse and mass culture. While some communities are bound together with close-knit family ties and imbued with warmth, fertility, and a cooperative ethic—thereby approaching the nostalgic Japanese ideal—present-day Tokyo betrays tension between affective relations and the divisive pressures of contemporary life in the Japanese megalopolis. This chapter scrutinizes the slippage between these community ideals and the comparatively fragmented, insalubrious urban lives of many Tokyo residents, in particular how anxieties and resentments over fertility, sex, and family health are ignited by toxic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Constructing Sustainable Japan</title>
+                  </title-group>
+                  <fpage>160</fpage>
+                  <abstract>
+                     <p>In a nation of avid golfers, Wakasu Golf Links has the distinction of being the only golf course in the core twenty-three wards of Tokyo. It is also unusual in that, until not long ago, cigarettes, pipes, and cigars were ruled out of bounds there. Perched on an island in Tokyo Bay, Wakasu forbade smoking because methane and other highly flammable gases diffuse out of the ground beneath the course from the decomposition of the 18.44 million tons of waste interred there (Yokoyama 2007; see figure 14). Indeed, before 1990 Wakasu was known as Reclaimed Lot 15, a destination for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.12</book-part-id>
+                  <title-group>
+                     <title>Conclusions</title>
+                  </title-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>The idea that one nation’s environmental situation can be measured and compared with another rests upon the assumption that environmental “data” from one part of the world can be identified and made compatible with those from another. Certainly, this is true in some cases. Yet environmental engagement in complex societies is an intricate, nuanced phenomenon and resists such easy comparison. This book, for one, demonstrates that the “environment” in Japan, while offering numerous facets that shed light on other parts of the world, nevertheless remains intensely Japanese. In order to understand what environment in Japan really<italic>means</italic>, we must probe</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>201</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.14</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>221</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqhtv.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>251</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

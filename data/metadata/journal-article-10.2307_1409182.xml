@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">wicazosareview</journal-id>
+         <journal-id journal-id-type="jstor">j100756</journal-id>
+         <journal-title-group>
+            <journal-title>Wicazo Sa Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Native American Studies, University of California, Davis</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">07496427</issn>
+         <issn pub-type="epub">15337901</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1409182</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Literary Criticism</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The American Indian Fiction Writer: "Cosmopolitanism, Nationalism, the Third World, and First Nation Sovereignty"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Elizabeth</given-names>
+                  <surname>Cook-Lynn</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1993</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">9</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i261454</issue-id>
+         <fpage>26</fpage>
+         <lpage>36</lpage>
+         <page-range>26-36</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1993 Indian Studies, Eastern Washington University and Native American Studies, University of California, Davis</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1409182"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Major sources</title>
+         <ref id="d1485e123a1310">
+            <mixed-citation id="d1485e127" publication-type="book">
+Brennan, Timothy. Salmon Rushdie and the Third World, 1989. St. Martin's Press, 175 Fifth Ave., New York NY.<person-group>
+                  <string-name>
+                     <surname>Brennan</surname>
+                  </string-name>
+               </person-group>
+               <source>Salmon Rushdie and the Third World</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1485e149a1310">
+            <mixed-citation id="d1485e153" publication-type="book">
+Owens, Louis. Other Destines, 1993. Oklahoma University Press, Norman, Oklahoma.<person-group>
+                  <string-name>
+                     <surname>Owens</surname>
+                  </string-name>
+               </person-group>
+               <source>Other Destines</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1485e175a1310">
+            <mixed-citation id="d1485e179" publication-type="book">
+Pearlman, Mickey and Henderson, KatherineUsher. Inter/View: Talks With America's Writing Women, 1990.
+The University of Kentucky Press. Lexington, Ky.<person-group>
+                  <string-name>
+                     <surname>Pearlman</surname>
+                  </string-name>
+               </person-group>
+               <source>Inter/View: Talks With America's Writing Women</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1485e204a1310">
+            <mixed-citation id="d1485e208" publication-type="book">
+Williams, Raymond. The Year 2000. 1983. New York. Pantheon Bpoks, NY.<person-group>
+                  <string-name>
+                     <surname>Williams</surname>
+                  </string-name>
+               </person-group>
+               <source>The Year 2000</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

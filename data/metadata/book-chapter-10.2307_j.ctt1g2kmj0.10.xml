@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1g2kmj0</book-id>
+      <subj-group>
+         <subject content-type="call-number">PS3566.Y55 Z5768 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Pynchon, Thomas</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Politics in literature</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Government, Resistance to, in literature</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Occupy Pynchon</book-title>
+         <subtitle>Politics after Gravity's Rainbow</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Carswell</surname>
+               <given-names>Sean</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>05</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="epub">9780820350899</isbn>
+      <isbn content-type="epub">0820350893</isbn>
+      <publisher>
+         <publisher-name>University of Georgia Press</publisher-name>
+         <publisher-loc>Athens</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>University of Georgia Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1g2kmj0"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Occupy Pynchon</italic>examines power and resistance in the writer's post-<italic>Gravity's Rainbow</italic>novels. As Sean Carswell shows, Pynchon's representations of global power after the neoliberal revolution of the 1980s shed the paranoia and meta­physical bent of his first three novels and share a great deal in common with the work of Michael Hardt and Antonio Negri's critical trilogy,<italic>Empire</italic>,<italic>Multitude</italic>, and<italic>Commonwealth</italic>. In both cases, the authors describe global power as a horizontal network of multinational corporations, national governments, and supranational institutions. Pynchon, as do Hardt and Negri, theorizes resistance as a horizontal network of individuals who work together, without sacrificing their singularities, to resist the political and economic exploitation of empire.</p>
+         <p>Carswell enriches this examination of Pynchon's politics-as made evident in<italic>Vineland</italic>(1990),<italic>Mason &amp; Dixon</italic>(1997),<italic>Against the Day</italic>(2006),<italic>Inherent Vice</italic>(2009), and<italic>Bleeding Edge</italic>(2013)-by reading the novels alongside the global resistance movements of the early 2010s. Beginning with the Arab Spring and progressing into the Occupy Movement, political activists engaged in a global uprising. The ensuing struggle mirrored Pynchon's concepts of power and resistance, and Occupy activists in particular constructed their movement around the same philosophical tradition from which Pynchon, as well as Hardt and Negri, emerges. This exploration of Pynchon shines a new light on Pynchon studies, recasting his post-1970s fiction as central to his vision of resisting global neoliberal capitalism.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>[i]</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>[vii]</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.3</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Pynchon in Zuccotti Park:</title>
+                     <subtitle>An Introduction</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>On september 17, 2011, a group of activists responded to a call from<italic>Adbusters</italic>to assemble on Wall Street and bring a tent. Originally, protestors planned to encamp in Chase Manhattan Plaza. Police were informed of the protest, so when the activists arrived, they found the area behind barricades and police protection. An alternate plan had been made. Word got around that activists should reconvene in Zuccotti Park. It was a pleasant day. Activists gathered around the park, talked about economics, democracy, injustice, and other issues. Astra Taylor, in her piece “Scenes from an Occupation,” reflects, “It was kind of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Vineland and the Insomniac Unavenged</title>
+                  </title-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>The final pages of<italic>Vineland</italic>(1990) mark a shift in Thomas Pynchon’s oeuvre. Relative to his first three novels,<italic>Vineland</italic>ends on a more hopeful note. Protagonist Prairie Wheeler has successfully completed her search for her mother, despite the interference of the diabolical federal agent Brock Vond. In a playful allusion to<italic>Star Wars</italic>, the Darth Vader–like Brock descends from the sky and tells Prairie, “I’m your father.” Prairie quips back, “But you can’t be my father … my blood type is A. Yours is preparation H” (376). This exchange immediately precedes the end of Brock’s power and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Mason &amp; Dixon and the Ghastly Fop</title>
+                  </title-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Mason &amp; Dixon</italic>(1997) continues the shift in Thomas Pynchon’s oeuvre initiated by<italic>Vineland</italic>. The novel’s narrator, the Reverend Wicks Cherrycoke, tells the story of astronomer Charles Mason and land surveyor Jeremiah Dixon constructing the border between Pennsylvania and Maryland, the border that would bear their names and go on to become the infamous dividing line between the North and South or, as Dixon phrases it in the novel, the “Line between their Slave-Keepers, and their Wage-Payers” (692). The story begins with Mason and Dixon’s time in South Africa, recording the first transit of Venus in 1761 for the British Royal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Against the Day and a World Like Ours, with One or Two Adjustments</title>
+                  </title-group>
+                  <fpage>80</fpage>
+                  <abstract>
+                     <p>In<italic>Mason &amp; Dixon</italic>, Thomas Pynchon infuses his historical novel with clever anachronisms—not limited to but mostly comprising technologies or allusions that would not have been available for his eighteenth-century characters. These anachronisms serve as a means of tying the historical text to the time when the novel was written. They signal to the reader that<italic>Mason &amp; Dixon</italic>is as much a text about America in the late twentieth century as it is about an astronomer and a surveyor traveling through the empires of the Enlightenment. It is simultaneously a text about America’s past, present, and future. These anachronisms are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Inherent Vice and Being in Place</title>
+                  </title-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>In her 2008 documentary<italic>The Examined Life</italic>, Astra Taylor interviews Michael Hardt as he rows the two of them around a pond in Central Park. Hardt discusses notions of revolution and democracy. He addresses the common notion of revolution: when one elite regime is forcefully removed and replaced by a new, hopefully better regime. He largely dismisses this notion, and he posits a second possibility, an idea “of revolution as just the removal of all of those forms of authority—state power, the power of capital—that stop people from expressing their natural abilities to rule themselves.”</p>
+                     <p>Hardt goes on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Bleeding Edge and Getting Constructively Lost</title>
+                  </title-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>During an early scene in<italic>Bleeding Edge</italic>(2013), protagonist Maxine Turnow hears about an Internet space called DeepArcher. Justin, her friend Vyrva’s husband, is one of the developers of the space. Maxine and Vyrva discuss Internet mogul Gabriel Ice’s pursuit of the site and the major decision that Justin and his business partner, Lucas, must make between selling out or making DeepArcher open source. These conversations go far deeper than issues of how much money they can accumulate, descending into ideological territory about neoliberalism and accumulation on the one hand and participatory democracy on the other. Later, Justin invites Maxine</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>A Snappy ’Ukulele Accompaniment</title>
+                  </title-group>
+                  <fpage>158</fpage>
+                  <abstract>
+                     <p>In one of the early biographical sources on Thomas Pynchon, author Jules Siegel details his friendship with Pynchon. As a narrator, Siegel is questionable at best. He recounts events for which he had no firsthand knowledge. He frequently has difficulties remembering what exactly happened. He blames his own selfishness and his heavy drug use for these lapses in memory. In the end, he presents a wonderful bit of memoir that paints a vivid portrait of Jules Siegel and keeps Pynchon shrouded in a veil of mystery.</p>
+                     <p>Siegel also provides one specific description that is very useful to understanding Pynchon’s work.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Occupy the Novel:</title>
+                     <subtitle>A Conclusion</subtitle>
+                  </title-group>
+                  <fpage>176</fpage>
+                  <abstract>
+                     <p>In<italic>Vineland</italic>, Pynchon creates his own type of supernatural—or, perhaps, preternatural—being: the Thanatoid. Thanatoids are the dead who walk among us. They are not ghosts. When dl makes the mistake of referring to them as such, Takeshi is quick to correct her. He tells her, “That word—around here it’s a no-no” (173). Like ghosts, Thanatoids have been prevented from “their daily expeditions on into the interior of Death” (173). Unlike ghosts, Thanatoids are corporeal. The Thanatoid Ortho Bob eats a plate of ribs. Thanatoids have their own apartments, apartment complexes, villages, comedy roasts, and formal dances. They</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.11</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>187</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.12</book-part-id>
+                  <title-group>
+                     <title>WORKS CITED</title>
+                  </title-group>
+                  <fpage>191</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g2kmj0.13</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt4z6xh</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7t4tv</book-id>
+      <subj-group>
+         <subject content-type="call-number">BQ4570.W6 F38 2003</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Women</subject>
+         <subj-group>
+            <subject content-type="lcsh">Religious aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">Buddhism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Sex</subject>
+         <subj-group>
+            <subject content-type="lcsh">Religious aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">Buddhism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Buddhism</subject>
+         <subj-group>
+            <subject content-type="lcsh">Doctrines</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Power of Denial</book-title>
+         <subtitle>Buddhism, Purity, and Gender</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>FAURE</surname>
+               <given-names>BERNARD</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>10</day>
+         <month>01</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780691091716</isbn>
+      <isbn content-type="ppub">0691091714</isbn>
+      <isbn content-type="epub">9781400825615</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON; OXFORD</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2003</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt7t4tv"/>
+      <abstract abstract-type="short">
+         <p>Innumerable studies have appeared in recent decades about practically every aspect of women's lives in Western societies. The few such works on Buddhism have been quite limited in scope. In<italic>The Power of Denial</italic>, Bernard Faure takes an important step toward redressing this situation by boldly asking: does Buddhism offer women liberation or limitation? Continuing the innovative exploration of sexuality in Buddhism he began in<italic>The Red Thread</italic>, here he moves from his earlier focus on male monastic sexuality to Buddhist conceptions of women and constructions of gender. Faure argues that Buddhism is neither as sexist nor as egalitarian as is usually thought. Above all, he asserts, the study of Buddhism through the gender lens leads us to question what we uncritically call Buddhism, in the singular.</p>
+         <p>Faure challenges the conventional view that the history of women in Buddhism is a linear narrative of progress from oppression to liberation. Examining Buddhist discourse on gender in traditions such as that of Japan, he shows that patriarchy--indeed, misogyny--has long been central to Buddhism. But women were not always silent, passive victims. Faure points to the central role not only of nuns and mothers (and wives) of monks but of female mediums and courtesans, whose colorful relations with Buddhist monks he considers in particular.</p>
+         <p>Ultimately, Faure concludes that while Buddhism is, in practice, relentlessly misogynist, as far as misogynist discourses go it is one of the most flexible and open to contradiction. And, he suggests, unyielding in-depth examination can help revitalize Buddhism's deeper, more ancient egalitarianism and thus subvert its existing gender hierarchy. This groundbreaking book offers a fresh, comprehensive understanding of what Buddhism has to say about gender, and of what this really says about Buddhism, singular or plural.</p>
+      </abstract>
+      <counts>
+         <page-count count="480"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This book is the second part of a project on the place of sexuality and gender in Buddhism. The first part, published under the title<italic>The Red Thread</italic>, dealt with the question of monastic discipline, especially the rule against illicit sex and its transgression. It also addressed the question of the so-called degeneration of the monastic order in Japan, in particular with the widespread practice of monks marrying or having concubines, and the equally prevalent monastic homosexuality (or rather pedophilia). Sexuality, denied in principle, became crucial, and Buddhism attempted to coopt or transform local cults (in which women played a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.5</book-part-id>
+                  <title-group>
+                     <label>Chapter One</label>
+                     <title>THE SECOND ORDER</title>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>Buddhist gender discrimination is usually traced back to the founding story of the female saṅgha, in which Śākyamuni repeatedly denied entrance into his community to his own aunt and adoptive mother, Mahāprajāpaī Gotamī, arguing that it would bring about the decline of his teaching.¹ The historicity of this well-known episode is quite dubious, if only because of its parallelism with that of the foundation of the Jain female order, initiated by Mahāvira’s aunt Canda. At any rate, this precedent has set the tone of many tales about nuns. There are of course exceptions, like those recorded in the<italic>Therīgātha</italic>, but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.6</book-part-id>
+                  <title-group>
+                     <label>Chapter Two</label>
+                     <title>THE RHETORIC OF SUBORDINATION</title>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>In his<italic>Mirror for Women</italic>(<italic>Tsuma kagami</italic>), Mujū Ichien provides a good summary of the Buddhist grievances toward the “weaker sex.” He lists as the “seven vices” of women their lack of compunction about arousing sexual desire in men, constant jealousy, deceitful ways, frivolous attachment to their own appearance, duplicity, shameless desire, and, last but not least, their defilement by menstrual blood and blood of childbirth.¹ Mujū’s enumeration is actually borrowed from the Chinese Vinaya reformer Daoxuan, who, in his “Rules to Purify Mind and Maintain Insight,” also observed: “The four hundred and four grave illnesses have their origin in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.7</book-part-id>
+                  <title-group>
+                     <label>Chapter Three</label>
+                     <title>THE RHETORIC OF SALVATION</title>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>The nō play<italic>Genzai Shichimen</italic>describes the encounter between the holy monk Nichiren and a female<italic>nāga</italic>on Mount Minobu. A woman regularly comes to listen to Nichiren’s teaching and to make offerings to the Buddha. One day, as Nichiren resorts to the exemplum of the<italic>nāga</italic>-girl to illustrate the possibility of female buddhahood, she expresses her gratitude for the fact that she, too, will now be able to free herself from the “Three Fevers.” As these Three Fevers precisely refer to the sufferings of the<italic>nāga</italic>, Nichiren realizes that she is no ordinary woman and asks her to reveal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.8</book-part-id>
+                  <title-group>
+                     <label>Chapter Four</label>
+                     <title>THE RHETORIC OF EQUALITY</title>
+                  </title-group>
+                  <fpage>119</fpage>
+                  <abstract>
+                     <p>According to Max Weber, the “equalization of the sexes in principle . . . may coexist with the complete monopolization by men of the priestly functions, of law, and of the right to active participation in community affairs; men only are admitted to special professional training or assumed to possess the necessary qualifications.”¹ The same view can be found among feminist historians like Joan Kelly, who sees the notion of sexual parity as a mere alibi for patriarchy, rather than a potential threat to it.² At the other end, the anthropologist Susan Sered is disappointed to find that the so-called</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.9</book-part-id>
+                  <title-group>
+                     <label>Chapter Five</label>
+                     <title>MONKS, MOTHERS, AND MOTHERHOOD</title>
+                  </title-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>One type of woman that the Buddhist monk could not simply ignore or debase was his mother. The feeling of guilt or longing toward the woman he had left behind to enter the Buddhist order forced him to confront the issue of motherhood. Maternal imagery, of the type found in Christian monachism, where the abbot of a monastery often described himself as a “mother,” is not totally absent in Buddhist monachism. As the monk Zhiwei put it, “My father and mother engendered my physical body, my Dharma-Master engendered my Dharma-body.”¹ The relationship between a monk and his master was described</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.10</book-part-id>
+                  <title-group>
+                     <label>Chapter Six</label>
+                     <title>CONFLICTING IMAGES</title>
+                  </title-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>The various forms of Buddhist rhetoric discussed so far represent aspects of the normative discourse of canonical Buddhism. Parallel to this, popular tradition offers a slightly different, and at first glance more positive, attitude toward women.¹ Thus, after discussing the theoretical Buddhist discourse about gender, we need to examine emblematic representations of women. Whereas normative theories attempt to constrain the interpretation of gender symbolism, these popular representations tend to acquire a dynamic of their own. Thus, they sometimes reinforce the doctrinal rhetoric, and at other times undermine it. Both movements may even be simultaneous. To give just an example, we</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.11</book-part-id>
+                  <title-group>
+                     <label>Chapter Seven</label>
+                     <title>CROSSING THE LINE</title>
+                  </title-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>One of the major components in the Buddhist rhetoric of inequality was the belief that women should be excluded from sacred places (<italic>nyonin kekkai</italic>). Indeed, the evolution of this belief constitutes a good index of the changing perceptions of women during the medieval period. The locus classicus for the description of this<italic>locus purissimus</italic>called<italic>kekkai</italic>(restricted area) can be found in Hōnen’s commentary on the<italic>Guan wuliangshou jing</italic>, and it deserves to be quoted at length:</p>
+                     <p>In Japan too, woman is refused admission to holy places and buildings. Around the sacred places on Mount Hiei, founded by Dengyō Daishi,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.12</book-part-id>
+                  <title-group>
+                     <label>Chapter Eight</label>
+                     <title>WOMEN ON THE MOVE</title>
+                  </title-group>
+                  <fpage>250</fpage>
+                  <abstract>
+                     <p>During a journey from Nagasaki to Edo in 1692, the Dutch doctor Engelbert Kaempfer came across a group of “singing nuns” who, despite their shaven heads, behaved like prostitutes:</p>
+                     <p>To this shav’d begging tribe belongs a certain remarkable religious order of young Girls, call’d Bikuni, which is as much as to say, Nuns. They live under the protection of the Nunneries at Kamakura and Miaco [Miyako; that is, Kyoto], to whom they pay a certain sum a year, of what they get by begging, as an acknowledgement of their authority. Some pay besides a sort of tribute, or contribution, to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.13</book-part-id>
+                  <title-group>
+                     <label>Chapter Nine</label>
+                     <title>THE POWER OF WOMEN</title>
+                  </title-group>
+                  <fpage>287</fpage>
+                  <abstract>
+                     <p>In a seminal work entitled<italic>The Power of the Younger Sister</italic>(<italic>Imōto no chikara</italic>), Yanagita Kunio discusses the religious situation in contemporary Japan:</p>
+                     <p>Although world religions [like Buddhism and Christianity] have been brought in on a large scale, when it comes to the insecurity of our life and our doubts and anxiety regarding the future, there is something lacking in them. They have proved to be insufficient as methods of happiness in this world. Thus, the task of filling these lacks has been since remote antiquity the preserve of the women of the lineage. When the festival of Yamatohime degenerated</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.14</book-part-id>
+                  <title-group>
+                     <title>AFTERTHOUGHTS</title>
+                  </title-group>
+                  <fpage>325</fpage>
+                  <abstract>
+                     <p>Starting from the most visible female group, that of the regular nuns, we ended up with wayward “nuns” and other unruly females. The brief history of the female order, and cursory survey of the various motivations of the female ordination, has revealed that it was a polymorphous group, neither as pure in its intentions nor as “regular” as has been claimed. From that standpoint, the “Kumano nuns” constitute an interesting case, a transition between regular nuns and the wandering female mediums of popular culture. As we have seen, however, their sermons conveyed an essentially male, and sometimes exceedingly sexist, discourse.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.15</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>341</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.16</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>401</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.17</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>459</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t4tv.18</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>467</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

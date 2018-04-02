@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1pnqdx</book-id>
+      <subj-group>
+         <subject content-type="call-number">QE522.V92 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Volcanoes</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Geology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Volcanoes of the World</book-title>
+         <subtitle>Third Edition</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>SIEBERT</surname>
+               <given-names>LEE</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>SIMKIN</surname>
+               <given-names>TOM</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib3">
+            <name name-style="western">
+               <surname>KIMBERLY</surname>
+               <given-names>PAUL</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>09</day>
+         <month>02</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780520268777</isbn>
+      <isbn content-type="epub">9780520947931</isbn>
+      <isbn content-type="epub">0520947932</isbn>
+      <publisher>
+         <publisher-name>University of California Press</publisher-name>
+         <publisher-loc>Berkeley; Los Angeles; London</publisher-loc>
+      </publisher>
+      <edition>3</edition>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Smithsonian Institution</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.1525/j.ctt1pnqdx"/>
+      <abstract abstract-type="short">
+         <p>This impressive scientific resource presents up-to-date information on ten thousand years of volcanic activity on Earth. In the decade and a half since the previous edition was published new studies have refined assessments of the ages of many volcanoes, and several thousand new eruptions have been documented. This edition updates the book’s key components: a directory of volcanoes active during the Holocene; a chronology of eruptions over the past ten thousand years; a gazetteer of volcano names, synonyms, and subsidiary features; an extensive list of references; and an introduction placing these data in context. This edition also includes new photographs, data on the most common rock types forming each volcano, information on population densities near volcanoes, and other features, making it the most comprehensive source available on Earth’s dynamic volcanism.</p>
+      </abstract>
+      <counts>
+         <page-count count="568"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.4</book-part-id>
+                  <title-group>
+                     <title>Data Criteria and Context</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+                  <abstract>
+                     <p>Volcanoes and their eruptions are among the most awe-inspiring expressions of the natural world. Volcanic activity has shaped the history of many different worlds, Earth as well as other planets and moons in our Solar System. Volcanic eruptions have played a major role in the evolution of Earth, creating the first crust of our planet 4.54 billion years ago; degassing of the Earth led to formation of the atmosphere, water, and life itself. Volcanoes provide both a window into the deep Earth, bringing mantle xenoliths to the surface, and explosive eruptions that impact the atmosphere above the Earth. These fundamental</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.5</book-part-id>
+                  <title-group>
+                     <title>Directory of Volcanoes</title>
+                  </title-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>This is the first of 19 regions covered in the classic<italic>Catalog of Active Volcanoes of the World</italic>(CAVW) published by the International Association of Volcanology and Chemistry of the Earth’s Interior (IAVCEI) beginning in the mid-20<sup>th</sup>century. Two-color maps such as the ones on the facing page and the inside covers delineate volcanic regions and serve as a graphic guide to the global numbering scheme originating with the CAVW. The CAVW began with Italian volcanoes and included those in Greece, Turkey, and the Caucasus. We have subsequently added Holocene volcanoes to this region in West Germany, France, and Spain</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.6</book-part-id>
+                  <title-group>
+                     <title>Chronology of Eruptions</title>
+                  </title-group>
+                  <fpage>215</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.7</book-part-id>
+                  <title-group>
+                     <title>Large-Volume Holocene Eruptions</title>
+                  </title-group>
+                  <fpage>319</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.8</book-part-id>
+                  <title-group>
+                     <title>Fatalities and Evacuations</title>
+                  </title-group>
+                  <fpage>329</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.9</book-part-id>
+                  <title-group>
+                     <title>Preliminary List of Pleistocene Volcanoes</title>
+                  </title-group>
+                  <fpage>349</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.10</book-part-id>
+                  <title-group>
+                     <title>Preliminary List of Large-Volume Pleistocene Eruptions</title>
+                  </title-group>
+                  <fpage>361</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.11</book-part-id>
+                  <title-group>
+                     <title>Gazetteer</title>
+                  </title-group>
+                  <fpage>373</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pnqdx.12</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>479</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

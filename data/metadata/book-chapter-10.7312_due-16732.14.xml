@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/due-16732</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Film Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Love in Motion</book-title>
+         <subtitle>Erotic Relationships in Film</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>DUE</surname>
+               <given-names>REIDAR</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>12</day>
+         <month>11</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="epub">9780231850513</isbn>
+      <isbn content-type="epub">0231850514</isbn>
+      <publisher>
+         <publisher-name>Wallflower Press</publisher-name>
+         <publisher-loc>LONDON; NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Reidar Due</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/due-16732"/>
+      <abstract abstract-type="short">
+         <p>This is a book about how film encountered love in the course of its history. It is also a book about the philosophy of love. Since Plato, erotic love has been praised for leading the soul to knowledge. The vast tradition of poetry devoted to love has emphasized that love is a feeling.<italic>Love in Motion</italic>presents a new metaphysics and ontology of love as a reciprocal erotic relationship. The book argues that film has been particularly well suited for depicting love in this way, in virtue of its special narrative language. This is a language of expression that has developed in the course of film history. The book spans this history from early silent directors such as Joseph von Sternberg to contemporary filmmakers like Sophia Coppola. At the centre of this study is a comparison between Classical French and American love films of the forties and a series of modernist films by Luis Buñuel, François Truffaut and Wong Kar Wai.</p>
+      </abstract>
+      <counts>
+         <page-count count="192"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.3</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Due</surname>
+                           <given-names>Reidar</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+                  <abstract>
+                     <p>This book has been a long time in the making. It started its life as a graduate seminar at Oxford University in 2003. My thought then was very simple: why have so few philosophers after Plato written on love? I also had another thought, which was that Hollywood narrative style imposes on couples a very definite, very rigid structure of meaning or content, a structure, which can be spelled out in long lists of moral and social dichotomies.</p>
+                     <p>I thought that love is something fundamentally different from this sort of meaningful transaction, that love is something that for very deep</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This is a book about love, about the philosophy of love and the aesthetics of love in film. One of the difficulties in thinking about love is that one very quickly begins to think about<italic>something else</italic>– about sexuality, or marriage, or morality; what loves are good, what less good, for what reason; or one thinks that the desire for beauty and sex is perhaps a veiled desire for God. This book presents a philosophy of love according to its universal essence, that is, a theory of what love is in itself. This theory does show that love<italic>involves</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.5</book-part-id>
+                  <title-group>
+                     <title>Ego Love and Melodrama</title>
+                  </title-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>Film melodrama is an aesthetic interpretation of a subject that is first of all concerned with itself, with its feelings and self-esteem. It is constantly given to itself in introspection. Following the phenomenology of Jean-Paul Sartre we can call this ‘subject-object’ the<italic>ego</italic>. This psychological ego is never completely accessible. In other words, we are not completely conscious of and masters of the ego. But the ego is also not unconscious. It is a web of emotions, volitions and character traits that presents itself to the subject as a constant enigma, and a source of intrinsic psychological interest, indeed fascination.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.6</book-part-id>
+                  <title-group>
+                     <title>Categories of Film Love</title>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>Michael Powell and Emeric Pressburger’s World War II film<italic>A Matter of Life and Death</italic>opens dramatically and in Technicolor with a fighter pilot, played by David Niven, talking to a woman in a control tower. Assuming that he will die in the next few minutes, he addresses his last words to her. As if by a miracle, he does not die but is washed up on a beach in England. He wakes up close to the airfield where the woman works. When he discovers that he is not dead, and not in heaven but alive, he also realises that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.7</book-part-id>
+                  <title-group>
+                     <title>Making Sense</title>
+                  </title-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>Love enters cinema as a material for stories and as a domain of expression in all periods of cinema, but not in the same way. Film has known two fundamentally opposing presentations of love: love as<italic>determination</italic>and love as<italic>self-determination</italic>. Semiotically, this difference can be defined in the following way: the love relation can be presented in relation to a surrounding world according to different kinds and criteria of intelligibility. Now, these kinds and criteria of intelligibility do in fact vary and evolve in the course of film history. To put it crudely,<italic>it is not the same things</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.8</book-part-id>
+                  <title-group>
+                     <title>The Ontology of Love</title>
+                  </title-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>Love is a universal and intimate, a banal and interesting part of human life. Universally longed for, often the subject of gossip, banter and mockery, love is at the core of all social life and a pervasive theme in world literature. Yet the immense literary tradition of love stands in a strange asymmetry to the extreme poverty of philosophical reflection upon love. As much as love has served as an inexhaustible material for poetry, drama and novels, love has for philosophy remained a sort of afterthought. Why should this be so? Plato formulated a nuanced account of love in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.9</book-part-id>
+                  <title-group>
+                     <title>Eros in History</title>
+                  </title-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>The history of love is the history of its articulations and categorisations; the articulations of love in literature, philosophy, theology and science always imply a possibility of discourse and therefore a categorisation of some kind. We shall now, in this and the following chapter, look at three broad categorisations of love: love as eros, love as an object of judgement, and love as marriage and Romantic feeling.</p>
+                     <p>A modernist conception of history would suggest that love was invented quite recently, that in earlier times individuals would have defined their erotic choices primarily in terms of family interest and not on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.10</book-part-id>
+                  <title-group>
+                     <title>The Social Paradigm</title>
+                  </title-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>When we enter the modern period of Romanticism, individualism, the rise of the bourgeoisie and industrialisation, the ancient and classical conceptions of love based on eros or judgement are left behind. The modern conception of love construes the intelligibility of love primarily in terms of the bourgeois family, conceived as a social locus of reproduction and emotion on the one hand and as an obstacle to erotic passion on the other. The family in modernity is ethically and logically a space in which the subject defines and<italic>positions</italic>itself: this is my freedom, this is my desire, this is my</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.11</book-part-id>
+                  <title-group>
+                     <title>American Cinema of Choice</title>
+                  </title-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>This and the next chapter are devoted to classical narrative cinema of the 1940s and 1950s. This chapter examines examples from Hollywood filmmaking. The next chapter studies examples of French cinema. The reason for this focus on France and the US is that these countries were able, during this period, to establish their own style and canon of filmmaking. Both of these styles obey robust norms of narrative clarity. In both traditions entrenched principles of characterisation, style, plot structure and theme cut across genres and are shared by many directors. It is perhaps just this fusion of scope and uniformity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.12</book-part-id>
+                  <title-group>
+                     <title>French Cinema of Place</title>
+                  </title-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>At the core of the classical Hollywood film is a claim to<italic>moral intelligibility</italic>. French classical love films also possess a moral core, but the structure of morality in classic French cinema is very different from that of American films. This morality is rarely dichotomic and almost never related to a significant<italic>choice</italic>that the characters have to make. Morality in French film is often embedded in a social world shown to be more or less corrupt. French cinema also displays a subtler and, most of all, less<italic>verbal</italic>eroticism than that of the classical American film. This eroticism is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.13</book-part-id>
+                  <title-group>
+                     <title>Hitchcock and Lang</title>
+                  </title-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>Fantasy spectacle is a tradition of film which liberates the erotic relationship from its cultural intelligibility. It develops in parallel with classical cinema. Hitchcock’s elegant thriller from 1935,<italic>The 39 Steps</italic>, is loosely based on a World War I spy thriller by James Buchanan. The novel is typical of early spy stories, and is similar for instance to Maugham’s<italic>Ashenden</italic>, in that realist detail and nuanced character psychology flood the text to the point of obscuring the structure of the plot. Hitchcock, on the other hand, privileges plot over all other components of the film spectacle and thus substantially transforms</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.14</book-part-id>
+                  <title-group>
+                     <title>Love in the World</title>
+                  </title-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>When filmmakers from roughly the mid-1970s onwards have sought new ways of depicting love, they have often developed perspectives that combine meticulous social realism with aesthetic and imaginative freedom.</p>
+                     <p>Withdrawing both from the classical language of moral interpretation and from the sexual politics of the late 1960s, the filmmakers discussed in this section belong to different traditions and do not form one school. Indeed, one could see them as belonging to rival aesthetic movements. What they have in common is that they present original formal means of addressing the dual perspective, the subjective and the cultural, that is constitutive of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.15</book-part-id>
+                  <title-group>
+                     <title>Conclusion:</title>
+                     <subtitle>On Method</subtitle>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>The method of this aesthetic enquiry into the history of film form is grounded in ethical, ontological and semiotic considerations that have been spelled out along the way. It was important to the phenomenological premise of this enquiry that the analysis and interpretation of films should both speak for themselves and speak to a set of problems, but that there should be no underlying specification of traits or themes that one would look for in each film.</p>
+                     <p>The analysis of individual directors and films has taken an interpretative form, that is, it was not always exactly the same expressive or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.16</book-part-id>
+                  <title-group>
+                     <title>FILMOGRAPHY</title>
+                  </title-group>
+                  <fpage>167</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.17</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>173</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">due-16732.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>179</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

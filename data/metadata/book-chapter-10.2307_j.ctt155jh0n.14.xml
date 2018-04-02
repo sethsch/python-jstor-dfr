@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1551m91</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt155jh0n</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>A.S. Byatt</book-title>
+         <subtitle>Critical storytelling</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Alfer</surname>
+               <given-names>Alexa</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>de Campos</surname>
+               <given-names>Amy J. Edwards</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>18</day>
+         <month>01</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780719066535</isbn>
+      <isbn content-type="epub">9781847792594</isbn>
+      <publisher>
+         <publisher-name>Manchester University Press</publisher-name>
+         <publisher-loc>Manchester; New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Alexa Alfer</copyright-holder>
+         <copyright-holder>Amy J. Edwards de Campos</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt155jh0n"/>
+      <abstract abstract-type="short">
+         <p>This comprehensive study of A. S. Byatt’s work spans virtually her entire career and offers insightful readings of all of Byatt’s works of fiction up to and including her Man-Booker-shortlisted novel The Children’s Book (2009). The authors combine an accessible overview of Byatt’s œuvre to date with close critical analysis of all her major works. Uniquely, the book also considers Byatt’s critical writings and journalism, situating her beyond the immediate context of her fiction. The authors argue that Byatt is not only important as a storyteller, but also as an eminent critic and public intellectual. Advancing the concept of ‘critical storytelling’ as a hallmark of Byatt’s project as a writer, the authors retrace Byatt’s wide-ranging engagement with both literary and critical traditions. This results in positioning Byatt in the wider literary landscape. This book has broad appeal, including fellow researchers, undergraduate and postgraduate students, plus general enthusiasts of Byatt’s work.</p>
+      </abstract>
+      <counts>
+         <page-count count="202"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.3</book-part-id>
+                  <title-group>
+                     <title>Series editor’s preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lea</surname>
+                           <given-names>Daniel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alfer</surname>
+                           <given-names>Alexa</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Campos</surname>
+                           <given-names>Amy J. Edwards</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.5</book-part-id>
+                  <title-group>
+                     <title>Copyright acknowledgements</title>
+                  </title-group>
+                  <fpage>x</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.6</book-part-id>
+                  <title-group>
+                     <title>A. S. Byatt:</title>
+                     <subtitle>biographical outline</subtitle>
+                  </title-group>
+                  <fpage>xii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.7</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xiv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.8</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>‘I select and confect’, the narrator of A. S. Byatt’s 1987 short story ‘Sugar’ states, for ‘[w]hat is all this, all this story so far, but a careful selection of things that can be told, things that can be arranged in the light of day?’ (<italic>S:</italic>241). ‘Sugar’, the last and eponymous piece in Byatt’s first collection of short stories, is essentially a story about the act of storytelling – about its place in and its shaping of our everyday lives, our individual and collective identities, and our complicated sense of what, if anything, can be said to constitute a ‘truth’</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.9</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Fathers, sisters and the anxiety of influence:</title>
+                     <subtitle>The Shadow of the Sun and The Game</subtitle>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>To latter-day readers and critics, the early works of any established writer undoubtedly hold a special kind of attraction. Do their first forays into fiction ‘reveal’, as Kuno Schuhmann (2001: 75) puts it, ‘a personality that may be more carefully hidden in later texts? Does the first shaping of themes throw additional light on the later novels?’ In relation to A. S. Byatt’s early work, Kathleen Coyne Kelly (1996: 14), in her monograph on the author, provides at least a partial answer to these questions when she remarks that ‘[w]hile Byatt’s art has certainly matured over the past thirty years,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.10</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Writing the contemporary:</title>
+                     <subtitle>The Virgin in the Garden and Still Life</subtitle>
+                  </title-group>
+                  <fpage>36</fpage>
+                  <abstract>
+                     <p>In her 1979 survey of contemporary fiction, ‘People in Paper Houses’, A. S. Byatt ponders the ‘curiously symbiotic relationship between old realism and new experiment’ perceived to be at the heart of the English postwar novel (<italic>PM:</italic>170). The conflict between literary experimentation and realist allegiances, with all its connotations of avant-garde innovation and linguistic astuteness on the one hand, and the socio-political impulse to return to a portrayal of ‘understandable characters in a reasonably straightforward style: no tricks, no experimental foolery’ (Kingsley Amis qtd in Morrison, 1980: 299) on the other, had become something of a commonplace in criticism</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.11</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Two cultures:</title>
+                     <subtitle>Babel Tower and A Whistling Woman</subtitle>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>The ending of<italic>Still Life</italic>and the start of<italic>Babel Tower</italic>both feature surprise events which shift the plot of the Quartet in unexpected directions, and make manifest a quality that Iris Murdoch (1961: 23), in her seminal essay ‘Against Dryness’, proposed as an essential characteristic of realist prose: ‘contingency’.<italic>Still Life</italic>ends with the sudden death of one of its main characters, an event avowedly designed to simulate the emotional impact caused by a real-life accident. Six years further on in the story of the Quartet,<italic>Babel Tower</italic>begins with a surprise reunion as the poet Hugh Pink stumbles</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.12</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Tradition and transformation:</title>
+                     <subtitle>Possession and fairytales</subtitle>
+                  </title-group>
+                  <fpage>92</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Possession: A Romance</italic>came as a surprise to many of Byatt’s longstanding readers and critics when it was published in 1990 and won the Booker Prize that same year. Those who had expected another meditative study of life in 1950s Yorkshire were either bemused or delighted to discover that a strange and colourful new hybrid – part contemporary campus comedy, part historical romance, part literary detective story – had been added to Byatt’s oeuvre. By 1990, Byatt had gained a reputation as a traditional, academically minded novelist, whose work embodied a Leavisite vision of English culture and Arnoldian standards of ‘high seriousness’.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.13</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The dark side of the tale:</title>
+                     <subtitle>The Children’s Book, The Biographer’s Tale and Angels and Insects</subtitle>
+                  </title-group>
+                  <fpage>116</fpage>
+                  <abstract>
+                     <p>As the previous chapter has shown, many of A. S. Byatt’s stories and tales offer their subjects and, one might add, their readers, the possibility of empowerment and liberation. And yet, not all of Byatt’s tales prove a liberating force for good. Indeed, Byatt also often chooses to foreground the darker side of the storytelling imagination – the part which is concerned, to quote Rifat Orhan from ‘The Djinn in the Nightingale’s Eye’, ‘with Fate, with Destiny, with what is prepared for human beings’ (<italic>DNE: 125</italic>). Inevitably, this prepared fate is not always a happy one. Characters such as Daphne Gulver-Robinson</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.14</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Critical storytelling:</title>
+                     <subtitle>peopling the paper house</subtitle>
+                  </title-group>
+                  <fpage>138</fpage>
+                  <abstract>
+                     <p>Throughout her writing career, A. S. Byatt’s fictional output has been matched, in both scope and in volume, by her work as a literary and cultural commentator. Indeed, Byatt has embraced the full spectrum of contemporary critical activities, from the scholarly editions, monographs and essays one might expect of a former university lecturer, through an impressive amount of reviews and commentary in newspapers and journals, to participating in television and radio debates and ad-hoc literary discussions at festivals and live events. Assuming the role not of reclusive writer but of public intellectual, A. S. Byatt has never disappeared neatly under</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.15</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>157</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jh0n.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>192</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">foreignpolicy</journal-id>
+         <journal-id journal-id-type="jstor">j100163</journal-id>
+         <journal-title-group>
+            <journal-title>Foreign Policy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Carnegie Endowment for International Peace</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00157228</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/4147556</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>In Other Words: Reviews of the World's Most Noteworthy Books</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Angola's Lost City</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Phyllis</given-names>
+                  <surname>Peres</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>2004</year>
+         
+            <day>1</day>
+            <month>4</month>
+            <year>2004</year>
+         </pub-date>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">141</issue>
+         <issue-id>i387868</issue-id>
+         <fpage>86</fpage>
+         <lpage>88</lpage>
+         <page-range>86-88</page-range>
+         <product>
+            <source> Tempos Sem Véu (Unveiled Times) </source>
+            <string-name>Roderick Nehone</string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 2004 Carnegie Endowment for International Peace</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4147556"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">hudsonreview</journal-id>
+         <journal-id journal-id-type="jstor">j101056</journal-id>
+         <journal-title-group>
+            <journal-title>The Hudson Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Hudson Review, Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0018702X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/3853080</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Armchair Traveler</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Alan</given-names>
+                  <surname>Davis</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1998</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">51</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i372168</issue-id>
+         <fpage>433</fpage>
+         <lpage>439</lpage>
+         <page-range>433-439</page-range>
+         <product>
+            <source>The House Gun</source>
+            <string-name>
+               <given-names>Nadine</given-names>
+               <surname>Gordimer</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Paradise</source>
+            <string-name>
+               <given-names>Toni</given-names>
+               <surname>Morrison</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Plays Well with Others</source>
+            <string-name>Allan Gurganus</string-name>
+         </product>
+         <product>
+            <source>Raki</source>
+            <string-name>B. Wongar</string-name>
+         </product>
+         <product>
+            <source>The Wind-up Bird Chronicles</source>
+            <string-name>Haruki Murakami</string-name>
+            <string-name>
+               <given-names>Jay</given-names>
+               <surname>Rubin</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>The God of Small Things</source>
+            <string-name>
+               <given-names>Arundhati</given-names>
+               <surname>Roy</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>A Change of Gravity</source>
+            <string-name>
+               <given-names>George V.</given-names>
+               <surname>Higgins</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1998 The Hudson Review, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3853080"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

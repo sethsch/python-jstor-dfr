@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqj35</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL725.W66 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Women authors</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Women authors, Japanese</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Woman Critiqued</book-title>
+         <subtitle>Translated Essays on Japanese Women's Writing</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>COPELAND</surname>
+               <given-names>REBECCA L.</given-names>
+            </name>
+            <role>editor</role>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>05</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824829582</isbn>
+      <isbn content-type="epub">9780824865627</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt6wqj35"/>
+      <abstract abstract-type="short">
+         <p>Over the past thirty years translations of Japanese women’s writing and biographies of women writers have enriched and expanded our understanding of modern Japanese literature. But how have women writers been received and read in Japan? To appreciate the subterfuges, strategies, and choices that the modern Japanese woman writer has faced, readers must consider the criticisms leveled against her, the expectations and admonitions that have been whispered in her ear, and pay attention to the way she herself has responded. What did it mean to be a woman writer in twentieth-century Japan? How was she defined and how did this definition limit her artistic sphere? Woman Critiqued builds on existing scholarship by offering English-language readers access to some of the more salient critiques that have been directed at women writers, on the one hand, and reactions to these by women writers, on the other. The grouping of the essays into chapters organized by theme clarifies how the discussion in Japan has been framed by certain assumptions and how women have repeatedly tried to intervene by playing with, undercutting, or attempting to exceed these assumptions. Chapter introductions contextualize the translated essays historically and draw out aspects that warrant particular scrutiny or explication. Although the translators do not cover all aspects or genres identified with women’s literary endeavors in the twentieth-century, they provide a significant understanding of the evaluative systems under which Japanese women writers have worked. Woman Critiqued will be eagerly read by specialists in modern Japanese literature and those interested in comparative literature, women’s studies, gender studies, and history.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.4</book-part-id>
+                  <title-group>
+                     <title>A CENTURY OF READING WOMEN’S WRITING IN JAPAN:</title>
+                     <subtitle>An Introduction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Copeland</surname>
+                           <given-names>Rebecca L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In her story “Godaido” (The Temple Godai), published posthumously in 1896, Tazawa Inabune depicted the way literary criticism directed and inhibited women’s written expression: “These women writers are certainly pitiful creatures. Whenever they allow themselves to describe even a little of their own thoughts, they are immediately derided as hussies. Fearing just this sort of reaction, they avoid writing what they really want to, both hoping to be praised as feminine and lacking the courage to go against public opinion.”¹</p>
+                     <p>Inabune knew of what she spoke. A year earlier she had been the target of a harsh critical review when</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>THE FEMININE CRITIQUE:</title>
+                     <subtitle>“Womanliness” and the Woman Writer</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Copeland</surname>
+                           <given-names>Rebecca L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>On a spring day in 1908, five Japanese male writers sat down to a<italic>zadankai</italic>, or roundtable discussion. The<italic>zadankai</italic>was quickly becoming a favored format in Japanese journalism because it allowed critics and other experts to share their thoughts on current concerns in a casual and interactive manner.¹ Organized by the journal<italic>Shincho</italic>(New currents) under the title “Conversations in a Room,” this particular roundtable had been meeting monthly since January of that year. The panelists were the same each time: Oguri Fūyō, Yanagawa Shun’yō, Tokuda Shūkō (also known as Chikamatsu Shūkō), Ikuta Chōkō, and Mayama Seika. All five</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>THE ESSENTIAL WOMAN WRITER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bardsley</surname>
+                           <given-names>Jan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>In chapter 1, we saw how Kobayashi Hideo expressed his dislike for the term “woman writer,” arguing that gifted writers are precisely “those who know what it means to abandon their human nature.” The three essays in this chapter continue the discussion by considering the woman writer as just that—a<italic>woman</italic>writer. That this remains a topic in the 1960s and 1970s shows the uneasy relationship the words continue to have to each other, as if one should still be surprised to find “woman” and “writer” paired in the same conversation. A sense of competition is at work here</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>THE NARCISSISTIC WOMAN WRITER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aoyama</surname>
+                           <given-names>Tomoko</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hartley</surname>
+                           <given-names>Barbara</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>76</fpage>
+                  <abstract>
+                     <p>Chapter 1 of this volume saw a coterie of critics active in the nascent modern literary community accuse women who wrote of a “lack of womanliness.” So outraged were these critics by this alleged lack that they refused to read the work of women writers of the time. Members of this coterie would undoubtedly have been shocked had they read Setouchi Harumi’s later declaration, featured in chapter 2, that the writing woman must be manly and immodest. The position taken by these male commentators confirms Yukiko Tanaka’s belief that the woman who writes performs “an act of self-assertion” that marks</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>THE RESISTING WOMAN WRITER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ericson</surname>
+                           <given-names>Joan E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>114</fpage>
+                  <abstract>
+                     <p>In the middle of the twentieth century, most women writers of modern Japanese literature confronted critical condescension that categorized much of their work as “<italic>joryū bungaku</italic>” (women’s literature) and that, if not explicitly disparaging, effectively segregated it from the modern canon.¹ These gender-based literary categorizations were thoroughly revised from the late 1980s, partly in response to a series of feminist critiques and partly as a result of a less-well-perceived, somewhat prior shift in the social dynamics of authorship that undermined the gendered conventions of the Japanese literary establishment (<italic>bundan</italic>). This latter process is both reflected in the three articles in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>WOMEN WRITERS AND ALTERNATIVE CRITIQUES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Seaman</surname>
+                           <given-names>Amanda</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>The four essays in this chapter are representative of the exciting trends in late-twentieth-century writing on Japanese women’s literature and literature in general. Encompassing the works of internationally known scholars and writers, these pieces take the study of literature beyond the normal parameters of what is thought of as literary criticism in Japan. The authors not only integrate international discussions of critical theory into their analyses of Japanese literary and historical tropes, but also create a new language to write about their literary bodies and lives. It is significant that each author focuses on literary works or literary approaches outside</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>WOMEN CRITIQUING MEN:</title>
+                     <subtitle>Watching the Ripples on the Pond</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Copeland</surname>
+                           <given-names>Rebecca L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>206</fpage>
+                  <abstract>
+                     <p>On an autumn day in 1989, three women sat down to discuss what would become a topic of literary debate—“the man writer.” Their meetings on the subject continued for the next seven months and culminated in the book<italic>Danryū bungakuron</italic>(On men’s literature) in 1992, sparking considerable debate. Of course, this was not the first time women had discussed male-authored literature publicly. Women have been critiquing male authors all along. Miyamoto Yuriko published studies of Natsume Sōseki in the 1930s and Kōno Taeko of Tanizaki Jun’ichirō in the 1970s, to cite but two examples. Any woman who wished to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.11</book-part-id>
+                  <title-group>
+                     <title>GLOSSARY OF NAMES AND TERMS</title>
+                  </title-group>
+                  <fpage>235</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.12</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>253</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.13</book-part-id>
+                  <title-group>
+                     <title>RECOMMENDED FURTHER READING</title>
+                  </title-group>
+                  <fpage>259</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.14</book-part-id>
+                  <title-group>
+                     <title>ABOUT THE CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>273</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.15</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>275</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqj35.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>282</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

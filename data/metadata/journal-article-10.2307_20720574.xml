@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">japalanglite</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100985</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Japanese Language and Literature</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Teachers of Japanese</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">15367827</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23264586</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">20720574</article-id>
+         <title-group>
+            <article-title>&lt;italic&gt;JLL&lt;/italic&gt; FORUM: Reading Literature in Japanese: Practical Strategies for Instruction</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Julia C.</given-names>
+                  <surname>Bullock</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>10</month>
+            <year>2009</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">43</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i20720567</issue-id>
+         <fpage>453</fpage>
+         <lpage>460</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/20720574"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>NOTES</title>
+         <ref id="d1049e101a1310">
+            <label>2</label>
+            <mixed-citation id="d1049e108" publication-type="other">
+Hideko Shimizu and Kathy E. Green. 2002.</mixed-citation>
+            <mixed-citation id="d1049e114" publication-type="other">
+Modern
+Language Journal 86(2): 238).</mixed-citation>
+         </ref>
+         <ref id="d1049e124a1310">
+            <label>3</label>
+            <mixed-citation id="d1049e131" publication-type="other">
+William Grabe. 1991.</mixed-citation>
+            <mixed-citation id="d1049e137" publication-type="other">
+TESOL Quarterly 25(3): 379.</mixed-citation>
+         </ref>
+         <ref id="d1049e144a1310">
+            <label>4</label>
+            <mixed-citation id="d1049e151" publication-type="other">
+Sean Devitt. 1997</mixed-citation>
+            <mixed-citation id="d1049e157" publication-type="other">
+Modern Language Journal 81 (4): 459.</mixed-citation>
+         </ref>
+         <ref id="d1049e164a1310">
+            <label>5</label>
+            <mixed-citation id="d1049e171" publication-type="other">
+Michael E. Everson and Yasumi Kuriya. 1998</mixed-citation>
+            <mixed-citation id="d1049e177" publication-type="other">
+Journal
+of the Association of Teachers of Japanese 32(1): 1-21.</mixed-citation>
+         </ref>
+         <ref id="d1049e188a1310">
+            <label>7</label>
+            <mixed-citation id="d1049e195" publication-type="other">
+Carol Dowling and
+Anita Mitchell. 1993</mixed-citation>
+            <mixed-citation id="d1049e204" publication-type="other">
+Modern Language Journal
+77(4): 433-444.</mixed-citation>
+         </ref>
+         <ref id="d1049e214a1310">
+            <label>8</label>
+            <mixed-citation id="d1049e221" publication-type="other">
+Vivian Zamel. 1992.</mixed-citation>
+            <mixed-citation id="d1049e227" publication-type="other">
+TESOL Quarterly
+26(3):463.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

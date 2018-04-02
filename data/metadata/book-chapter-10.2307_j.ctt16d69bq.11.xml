@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="fre">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt16d69bq</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Les enfants de Cadmos</book-title>
+         <subtitle>Le paysage religieux de la Phénicie hellénistique</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Bonnet</surname>
+               <given-names>Corinne</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>27</day>
+         <month>11</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9782701803715</isbn>
+      <isbn content-type="epub">9782701804552</isbn>
+      <publisher>
+         <publisher-name>Editions de Boccard</publisher-name>
+         <publisher-loc>Paris</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Éditions de Boccard</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt16d69bq"/>
+      <abstract abstract-type="short">
+         <p>En écho à Nicole Loraux qui, en 1984, dans Les enfants d’Athéna, lisait « en historien les mythes dans leur ancrage civique », les enracinant, tel l’olivier don d’Athéna, dans le paysage de la cité, Corinne Bonnet explore, avec Les enfants de Cadmos, le paysage religieux de la Phénicie tel qu’il se redessine de la conquête d’Alexandre à l’aube de la domination romaine. Entre appropriation territoriale et tissage de réseaux de parenté, entre mobilité et intégration, entre hégémonie et ruses culturelles, la Phénicie hellénistique se complexifie bien plus que le concept d’« hellénisation » ne le donne à penser. Par l’analyse minutieuse des dossiers documentaires issus des cités phéniciennes — Arados, Byblos, Sidon et Tyr — et des milieux diasporiques — Athènes et Délos —, l’enquête poursuivie dans le sillage de ceux qui se revendiquent du prestigieux Cadmos recourt aux outils issus de l’anthropologie et de la sociologie. Elle fait émerger, pour l’interpréter, un middle ground caractérisé par diverses formes de négociation entre Grecs et Phéniciens. En dépit de la morsure de l’impérialisme grec, c’est une Phénicie en marche que l’on observe, nullement figée dans la nostalgie du passé ni arc-boutée sur un patrimoine identitaire menacé, une Phénicie ouverte depuis longtemps aux transactions et aux métissages. Les enfants de Cadmos entend suggérer que seule une approche résolument décloisonnée des études phéniciennes permettra aux sémitisants et aux hellénistes de dialoguer, aux historiens, aux anthropologues et aux sociologues de s’interpeller, aux spécialistes du Liban et de la Tunisie d’hier et d’aujourd’hui de se rencontrer.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>fre</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>2</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.2</book-part-id>
+                  <title-group>
+                     <title>Avant-propos</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>L. B.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>En 1971, Dominique Chevallier publie sa thèse intitulée « La société du Mont Liban à l’époque de la révolution industrielle en Europe »¹. Il y cite en exergue un passage des Souvenirs d’Alexis de Tocqueville²:</p>
+                     <p>Je suis tenté de croire que ce qu’on appelle les institutions nécessaires ne sont souvent que les institutions auxquelles on est accoutumé, et qu’en matière de constitution sociale, le champ du possible est bien plus vaste que les hommes qui vivent dans chaque société ne se l’imaginent.</p>
+                     <p>Il précise sa pensée dans l’avertissement rédigé pour l’édition de 1982³:</p>
+                     <p>Le Liban appartient au monde de la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                     <subtitle>Explorer les paysages culturels d’une rive à l’autre de la Méditerranée</subtitle>
+                  </title-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>En 1984, Nicole Loraux publiait<italic>Les enfants d’Athéna. Idées athéniennes sur la citoyenneté et la division des sexes,</italic>un ouvrage lumineux sur l’ancrage civique des mythes athéniens et singulièrement de l’imaginaire autochtone qui s’enracine, tel l’olivier, don d’Athéna, dans le premier paysage athénien (fig. 1). Nicole Loraux y décrypte les histoires que la cité raconte sur elle-même, tant à elle-même qu’aux autres, une topique du « naître athénien » qui fonde une certaine citoyenneté et les structures de la parenté locale. Pour y parvenir, fi dèle à la méthode expérimentée par Claude Lévi-Strauss, elle s’attache aux lectures, relectures et variantes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.4</book-part-id>
+                  <title-group>
+                     <title>[Maps]</title>
+                  </title-group>
+                  <fpage>37</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.5</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE PREMIER</label>
+                     <title>Dans les pas d’Alexandre en Phénicie:</title>
+                     <subtitle>la mémoire des vainqueurs, le silence des vaincus</subtitle>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>Le moment est venu de larguer les amarres et d’emprunter les pas d’Alexandre quittant Issos, en Cilicie, en novembre 333, après une victoire signifi cative, mais pas encore décisive, en raison de la fuite de Darius III¹. Le couloir maritime s’ouvre néanmoins devant le Macédonien. Plutôt que de poursuivre Darius, il se dirige avec ses troupes (de l’ordre de 40 000 hommes environ) vers les portes de la Phénicie, en rêvant déjà de devenir maître de l’Égypte. Des événements cruciaux qui vont suivre – une guerre de conquête aux accents féroces -, on ne possède qu’une version : celle des Grecs.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.6</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE DEUXIÈME</label>
+                     <title>Arados et sa pérée</title>
+                  </title-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>Alexandre meurt en 323 av. J.-C. en émule d’Héraclès. À Babylone, assailli par de violentes fièvres, il ingurgite une grande quantité de vin, dans un<italic>skyphos héracléen</italic>, raconte Plutarque¹, et meurt peu après sans laisser d’héritier apte. Son immense empire, qui comprend le territoire phénicien, va faire l’objet de partages innombrables entre ses généraux, puis leurs successeurs. Le capital territorial et symbolique est considérable, mais personne n’a l’étoffe pour le gérer seul, en entier. Le fractionnement et les déchirements sont donc inévitables. Quel sera le sort de la Phénicie dans un tel contexte²? En accord avec une tradition plurimillénaire, Ptolémée</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.7</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE TROISIÈME</label>
+                     <title>Byblos, entre Égypte et Grèce</title>
+                  </title-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>La topographie du site de<italic>Gbl</italic>en phénicien, Byblos en grec1 est complexe : bâtie sur une large avancée en mer dotée de deux collines rocheuses (dites « haute » et « basse »), séparées par une dépression, la ville domine une petite plaine côtière et englobe, au nord et au sud, deux modestes criques relativement abritées² (fig. 23). Dans son paysage, il faut intégrer, en arrière-plan, la puissante chaîne du Liban située à quelques dizaines de kilomètres, avec ses somptueuses forêts de cèdres et de pins, une richesse dont l’exploitation fit très tôt la renommée de Byblos. Dans les</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.8</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE QUATRIÈME</label>
+                     <title>Les dieux de Sidon, « mère des Phéniciens, père des Thébains »</title>
+                  </title-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>Avec Sidon, nous touchons à une autre grande métropole, au passé glorieux, où s’entrecroisent influences et modèles, créativité et imitation. Dans l’épopée homérique, l’ethnique<italic>Sidônioi</italic>désigne l’ensemble des Phéniciens, indice d’une domination puissante de la cité sur ses voisines, Tyr comprise. Un trait structurel de l’histoire sidonienne est, en effet, la constante rivalité avec Tyr. À haute époque, au début du Ier millénaire av. J.-C., un royaume tyro-sidonien est attesté, sous hégémonie sidonienne. En revanche, dans le processus d’expansion en Méditerranée, les sources classiques tendent à mettre Tyr en avant, ce qui n’exclut nullement une certaine participation sidonienne. L’union entre</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.9</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE CINQUIÈME</label>
+                     <title>Tyr après la conquête:</title>
+                     <subtitle>un paysage paradoxal</subtitle>
+                  </title-group>
+                  <fpage>269</fpage>
+                  <abstract>
+                     <p>Le chapitre initial de notre enquête, relatif à la mémoire historiographique du siège de Tyr par Alexandre, constitue le premier volet d’une saga tyrienne que l’on pourrait intituler « guerre et paix ». Au fil de la narration, unilatérale et moralisante, les Grecs ont voulu légitimer une sanglante conquête, suivie d’une hégémonie à visée pacifi catrice. Désormais, à dater de juillet 332 av. J.-C., les Grecs sont les maîtres du Rocher (Tyr - Ṣr en phénicien) au passé prestigieux. Ils balisent l’espace, concrètement et symboliquement, remodèlent le paysage culturel et cultuel. Melqart, le Baal de Tyr, expression la plus manifeste</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.10</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE SIXIÈME</label>
+                     <title>Parentés mythiques, diplomatie religieuse</title>
+                  </title-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>« Le calumet était apparu au-delà du Mississippi, chez les Pawnees, qui prétendaient le tenir du soleil », nous apprend Richard White¹. « Il s’était diffusé chez les Sioux et les Illinois avant d’être adopté, vers le milieu du XVII<sup>e</sup>siècle, par les peuples de la région des Grands Lacs. (…) La cérémonie du calumet faisait partie intégrante d’un processus conscient facilitant la paix, l’alliance, l’échange et la liberté de circuler dans la région ». Le calumet, objet d’origine divine, servait à engager le dialogue, à faciliter le compromis. Il intervenait aussi au moment de la ratification de la paix</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.11</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE SEPTIÈME</label>
+                     <title>Stratégies iconographiques:</title>
+                     <subtitle>représenter les dieux dans le middle ground phénicien</subtitle>
+                  </title-group>
+                  <fpage>367</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Medium is the message</italic>est la phrase emblématique que l’on a coutume de mettre en avant pour évoquer l’apport majeur des travaux de Marshall McLuhan¹. Dans le premier chapitre de<italic>Understanding the Media,</italic>qui porte comme titre l’« adage » à peine évoqué, M. McLuhan écrit ceci (p. 13):</p>
+                     <p>No society has ever known enough about its actions to have developed immunity to its new extensions or technologies. Today we have begun to sense that art maybe able to provide such immunity. In the history of human culture there is no example of a conscious adjustment of the various factors</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.12</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE HUITIÈME</label>
+                     <title>Athènes et « ses » Phéniciens</title>
+                  </title-group>
+                  <fpage>415</fpage>
+                  <abstract>
+                     <p>Si les frontières du « monde phénicien » sont mouvantes, c’est qu’il est, d’une part, affecté par des formes de mobilité particulièrement intenses et que, d’autre part, la perception qu’ont les textes anciens de ce qui est « phénicien » (et ne l’est pas) varie en fonction de divers paramètres¹. Le mythe de Cadmos, évoqué ci-dessus, renvoie à ces deux éléments et montre que l’espace égéen pouvait être pensé comme une sorte de prolongement naturel pour les activités phéniciennes. Déplacer notre point d’observation de la côté phénicienne à l’Attique permettra de scruter la manière dont les communautés phéniciennes établies en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.13</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE NEUVIÈME</label>
+                     <title>« Les parlers et les rythmes de tous les hommes »:</title>
+                     <subtitle>le carrefour délien</subtitle>
+                  </title-group>
+                  <fpage>475</fpage>
+                  <abstract>
+                     <p>Pour décrire et analyser les paysages religieux déliens, la thèse de Marie-Françoise Baslez,<italic>Recherche sur les conditions de pénétration et de diff usion des religions orientales à Délos (II<sup>e</sup>-I<sup>er</sup>s. avant notre ère)</italic>et parue en 1977, reste une référence incontournable. On trouvera des compléments d’analyse, moins convaincants, dans la monographie de N.K. Rauh,<italic>The Sacred Bonds of Commerce. Religion, Economy, and Trade Society at Hellenistic Roman Delos, 166-87 B.C.,</italic>publiée à Amsterdam en 1993², et une analyse très pertinente et stimulante de l’agencement des espaces rituels, dans la diachronie, dans l’ouvrage de M. Scott,<italic>Space and Society in the</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.14</book-part-id>
+                  <title-group>
+                     <title>CONCLUSIONS</title>
+                     <subtitle>« More is different »: la Phénicie hellénistique et ses paysages émergents</subtitle>
+                  </title-group>
+                  <fpage>521</fpage>
+                  <abstract>
+                     <p>Au terme de ce long périple dans le sillage de Cadmos et de sa phratrie, bien des tableaux ont défilé sous nos yeux: paysages concrets, de terres, de montagnes, de vallées, de grottes, de fleuves, de rivages et d’étendues de mer, ponctués de villes, de villages, de ports, de routes, de sanctuaires, habités par des dieux et des héros, des hommes, des animaux, des ancêtres, des souvenirs…, univers peuplés de présences innombrables dans des espaces réservés ou partagés à des degrés variés. C’est leur façon de vivre ensemble qui a suscité notre curiosité, leur réaction face à un bouleversement historique:</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.15</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHIE</title>
+                  </title-group>
+                  <fpage>537</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.16</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>579</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.17</book-part-id>
+                  <title-group>
+                     <title>TABLE DES FIGURES</title>
+                  </title-group>
+                  <fpage>597</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.18</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>603</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16d69bq.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>608</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

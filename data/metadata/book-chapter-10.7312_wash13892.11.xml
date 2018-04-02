@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7312/wash13892</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL747.57.N287W37 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">1868–</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japanese fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">Edo period, 1600–1868</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">National characteristics in literature</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nationalism and literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Translating Mount Fuji</book-title>
+         <subtitle>Modern Japanese Fiction and the Ethics of Identity</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Washburn</surname>
+               <given-names>Dennis</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>07</day>
+         <month>11</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="epub">9780231511155</isbn>
+      <isbn content-type="epub">0231511159</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7312/wash13892"/>
+      <abstract abstract-type="short">
+         <p>Dennis Washburn traces the changing character of Japanese national identity in the works of six major authors: Ueda Akinari, Natsume S?seki, Mori ?gai, Yokomitsu Riichi, ?oka Shohei, and Mishima Yukio. By focusing on certain interconnected themes, Washburn illuminates the contradictory desires of a nation trapped between emulating the West and preserving the traditions of Asia.</p>
+         <p>Washburn begins with Ueda's<italic>Ugetsu monogatari</italic>(<italic>Tales of Moonlight and Rain</italic>) and its preoccupation with the distant past, a sense of loss, and the connection between values and identity. He then considers the use of narrative realism and the metaphor of translation in Soseki's<italic>Sanshiro</italic>; the relationship between ideology and selfhood in Ogai's<italic>Seinen</italic>; Yokomitsu Riichi's attempt to synthesize the national and the cosmopolitan; Ooka Shohei's post-World War II representations of the ethical and spiritual crises confronting his age; and Mishima's innovative play with the aesthetics of the inauthentic and the artistry of kitsch.</p>
+         <p>Washburn's brilliant analysis teases out common themes concerning the illustration of moral and aesthetic values, the crucial role of autonomy and authenticity in defining notions of culture, the impact of cultural translation on ideas of nation and subjectivity, the ethics of identity, and the hybrid quality of modern Japanese society. He pinpoints the persistent anxiety that influenced these authors' writings, a struggle to translate rhetorical forms of Western literature while preserving elements of the pre-Meiji tradition.</p>
+         <p>A unique combination of intellectual history and critical literary analysis,<italic>Translating Mount Fuji</italic>recounts the evolution of a conflict that inspired remarkable literary experimentation and achievement.</p>
+      </abstract>
+      <counts>
+         <page-count count="320"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION.</title>
+                     <subtitle>Real Identities</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In his acceptance speech for the 1994 Nobel Prize in literature, Ōe Kenzaburō attempts to capture the history of Japan’s experience of modernity in a single word, “ambiguity.” By “ambiguity” he does not mean the aestheticized vagueness or inscrutability that has so often been invoked as the stereotyped essence of Japanese conceptions of beauty. To the contrary, “ambiguity” is described by Ōe as anything but beautiful. It is for him a “scar” or a “disease” that resulted from his nation having been torn by its contradictory desires to emulate the modernity of the West while preserving the traditions of Asia.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Ghostwriters and Literary Haunts</title>
+                  </title-group>
+                  <fpage>31</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The sources of the language of values and the rhetoric of authenticity in Japan from the Meiji Restoration to the present may be traced back to developments dating from the eighteenth century. During the latter half of the Tokugawa period (1600–1868), the project of uncovering the origins of the Japanese language became a near-obsessive concern for a number of key intellectual movements, most notably National Learning (<italic>kokugaku</italic>). Although scholars of this movement did not imagine “nation” (<italic>koku</italic>) either in the spatial sense of the political and class boundaries that took shape in Meiji Japan or in the social sense</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Translating Mount Fuji</title>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In his 1908 Novel <italic>Sanshirō</italic>, Natsume Sōseki imagines the following conversation between the eponymous hero and his mentor, Professor Hirota. Sanshirō has recently arrived in Tokyo from his provincial home on the southwestern island of Kyushu to study at university. He and another student, a character named Sasaki Yōjirō, need to find lodgings, and one day as they are wandering around the city with Hirota they come across a house that seems appropriate for them. When Yōjirō goes in to inquire about it, Sanshirō and Hirota are left to themselves for a few moments.</p>
+                     <p>“How do you like Tokyo?”</p>
+                     <p>“Well</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Manly Virtue and Modern Identity</title>
+                  </title-group>
+                  <fpage>107</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The hybridity of the fiction of Akinari and Sōseki is an effect of the process of transforming certain ideological tendencies—to define individual or national identity in terms of ethical values, to assume that historical consciousness and subjective experience are vital to knowledge—into textual figures. For Akinari, the representation of ideology in <italic>Ugetsu</italic> was accomplished through the practice of adaptation, which invoked the power of present language to recover the haunting, lost ideal of the undivided ethical consciousness of the past. For Sōseki, the figuration of ideology in his novel <italic>Sanshirō</italic> was achieved through the metaphor of translation, which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Real Images</title>
+                  </title-group>
+                  <fpage>137</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Many postwar histories present the two decades from 1912 through the 1920s as a liberal interlude between Meiji authoritarianism and the quasi-fascist militarism of the 1930s.¹ This revisionist, almost wistful narrative attempts to deflect guilt for World War II onto the militarists alone, by suggesting an alternative path that could have avoided war and domestic oppression. A more accurate characterization of the period is that it was exceptional (that is, liberal) only in the sense that it witnessed an acceleration of late Meiji tendencies to question the cultural synthesis that had emerged out of the discourse on the ethics of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Toward a View from Nowhere</title>
+                  </title-group>
+                  <fpage>175</fpage>
+                  <abstract abstract-type="extract">
+                     <p>By the time the Japanese government broadcast the recording of Emperor Hirohito announcing Japan’s surrender at noon on August 15, 1945, at least three million Japanese had died in the war. Millions more were sick, wounded, malnourished, and homeless. The material culture and the economic infrastructure of the country, especially the industrialized zones of urban areas, had been nearly obliterated.</p>
+                     <p>Accompanying the physical destruction was a shattering of spirit that produced widespread malaise and demoralization. Guilt over the murderous conduct of the Japanese military was compounded by a sense of victimization. The devastating emotions fueled by remorse and the humiliation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Kitsch, Nihilism, and the Inauthentic</title>
+                  </title-group>
+                  <fpage>213</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Charles jencks, in an acerbic account of developments in twentieth-century architectural style, has asserted that “happily, we can date the death of modern architecture to a precise moment in time,” which he claims was “July 15, 1972 at 3:32 p.m. (or thereabouts).”¹ At that moment, several blocks of the Pruitt-Igoe housing complex in St. Louis, Missouri, which had been built from an award-winning design based on the ideals of the Congress of International Modern Architects, were dynamited. Hailed at the time of its construction as the model of a machine for living, the complex proved to be uninhabitable. Its failure</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.11</book-part-id>
+                  <title-group>
+                     <title>EPILOGUE</title>
+                  </title-group>
+                  <fpage>241</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Although mishima killed himself by committing <italic>seppuku</italic>, the ritual disembowelment practiced by the military class as a way to save face or demonstrate authentic loyalty, his death is now often characterized as <italic>jiketsu</italic>.¹ <italic>Jiketsu</italic> is a synonym for the more general term for suicide, <italic>jisatsu</italic>, but it carries with it the notion of committing suicide with a purpose. In fact, the primary meaning of <italic>jiketsu</italic> is “self-determination,” literally, deciding on one’s own. The distinction is a crucial one: it signifies a suicide committed not as a last resort or act of hopelessness but as an expression of individual will. It</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.12</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>249</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.13</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>273</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">wash13892.14</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>287</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

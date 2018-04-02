@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1xwh2z</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Beyond Brushtalk</book-title>
+         <subtitle>Sino-Japanese Literary Exchange in the Interwar Period</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Keaveney</surname>
+               <given-names>Christopher T.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>11</month>
+         <year>2008</year>
+      </pub-date>
+      <isbn content-type="ppub">9789622099289</isbn>
+      <isbn content-type="epub">9789888052066</isbn>
+      <publisher>
+         <publisher-name>Hong Kong University Press, HKU</publisher-name>
+         <publisher-loc>Aberdeen, Hong Kong</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>Christopher T. Keaveney</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1xwh2z"/>
+      <abstract abstract-type="short">
+         <p>Beyond Brushtalk explores interactions between Japanese and Chinese writers during the golden age of such exchange, 1919 to 1937. During this period, there were unprecedented opportunities for exchange between writers, which was made possible by the ease of travel between Japan and China during these years and the educational background of Chinese writers as students in Japan. Although the salubrious interaction that developed during that period was destined not to last, it nevertheless was significant as a courageous essay at cultural interaction. This book will appeal not only to those interested in Sino-Japanese studies, an increasingly important field of study in its own right, but will also appeal to scholars of both Japanese literature and Chinese literature and researchers whose areas of interest correspond to the major writers included in this work such as Lu Xun and Zhou Zuoren on the Chinese side and Tanizaki Jun'ichirō and Hayashi Fumiko on the Japanese side. The relations and resulting literary works involving these major writers are often relatively neglected aspects of their total output and will draw interest from scholars of their work. This book will be accessible to both Sinologists and Japanologists with little background in the corresponding field, and to the generalist possessing an interest in literary exchange.</p>
+      </abstract>
+      <counts>
+         <page-count count="220"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.3</book-part-id>
+                  <title-group>
+                     <title>A Note about Romanization</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The interwar period (1919–1937) was, in a number of significant ways, the nadir of Sino-Japanese relations. The idealistic façade of Jazz Age abandon and “Taishō Democracy” of the twenties masked the systematic expansion of militarism in Japan that ultimately would threaten stability on the continent and stymie efforts at cultural interaction among Chinese and Japanese intellectuals. In China, the various manifestations of Japanese aggression and imperialism met with waves of stiff and increasingly well orchestrated resistance that led first to invasion by the Japanese and then to war in 1937.</p>
+                     <p>Given the severity of the political relations between the two</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Hub:</title>
+                     <subtitle>Uchiyama Kanzō’s Shanghai Bookstore and Its Role in Sino-Japanese Literary Relations</subtitle>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Any attempt to understand relations between the Japanese and Chinese literary communities in the interwar period must begin with Uchiyama Kanzō. Uchiyama, who even in his native Japan has received very little scholarly attention, was the most important single figure in Sino-Japanese literary relations during the 1920s and 1930s. The bookstore, which he established in Shanghai in 1916, became during the period in question, the focal point of relations between the Chinese and Japanese literary communities and a safe haven for those seeking some cultural common ground in the increasingly treacherous political terrain between the two countries.</p>
+                     <p>The path that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Musings of a Literary Pilgrim:</title>
+                     <subtitle>Tanizaki Jun’ichirō’s Discoveries in China and Their Records</subtitle>
+                  </title-group>
+                  <fpage>45</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Tanizaki Jun’ichirō (1886–1965) visited China on two occasions, once in 1918 at the age of thirty-two and again in 1926 at the age of forty. In both cases, experiences in China were recast in literary works representing a variety of genres. The pieces resulting from the first visit fall neatly into the <italic>kikōbun</italic> (travel diary) and <italic>nikki</italic> (literary diary) varieties and are representative examples of a body of such work penned by Japanese writers in the modern period based on their travels, both domestic and overseas. On the other hand, the most significant work produced following Tanizaki’s second visit, in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Allure of the White Birch School to May Fourth Writers</title>
+                  </title-group>
+                  <fpage>65</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Although individual Japanese writers of note such as Tanizaki, Natsume Sōseki (1867–1916) and Akutagawa Ryūnosuke (1892–1927) had followers and ardent advocates among Chinese writers in the interwar period, no coterie of Japanese writers was so openly admired nor so roundly criticized among May Fourth writers as the writers associated with the Shirakaba-ha (White Birch School). The White Birch School’s commingling of concerns for Western aesthetic trends and social critique, the humanistic creed championed by the school and the organizational scheme for an artistic coterie that they developed, exerted a considerable appeal on contemporary Chinese writers, particularly Zhou Zuoren and Lu</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Greener Pastures:</title>
+                     <subtitle>The New Village Ideal and May Fourth Intellectuals</subtitle>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The attraction of May Fourth writers toward the White Birch School was not confined to the school’s literary or artistic achievements. Those writers among the school’s members who were favored by May Fourth intellectuals were those who were perceived to be men of action, those who put into practice the ideals of the school. No manifestation of Shirakaba idealism had a more immediate and dramatic appeal than the New Village commune. The New Village (<italic>Atarashiki mura</italic>) was, in the context of Taishō period Japan (1912–1926), a unique experiment in communal living. As a manifestation of humanist and egalitarian ideals</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Art of Wanderlust:</title>
+                     <subtitle>Hayashi Fumiko’s Encounters with China</subtitle>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Hayashi Fumiko (1903–1951) made an art of wandering. Along with her more celebrated sojourns to Paris and Moscow, Hayashi also visited Shanghai on several occasions during visits to China in the 1930s and became acquainted with Chinese writers during her visits there. Hayashi was well respected among Chinese writers, which was due in part to the powerful portrayal in her fiction of social inequities and the sympathy her works elicited for the downtrodden and displaced. Moreover, Hayashi’s works invariably portrayed a tough female character, freed from the shackles of tradition, which appealed to Chinese writers seeking to portray the modern</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Satō Haruo’s “Ajia no ko” and Yu Dafu’s Response:</title>
+                     <subtitle>Literature, Friendship and Nationalism</subtitle>
+                  </title-group>
+                  <fpage>117</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the March 1938 issue of <italic>Nippon hyōron</italic> there appeared an essay by Mushanokōji Saneatsu about Zhou Zuoren. In the essay, Zhou is praised as a refined man of peace, espousing the same Tolstoyan creed of nonviolence adhered to by Mushanokōji himself. Despite the enmity between the two warring nations, Mushanokōji expressed his intent to remain loyal to a friend with whom he felt a strong personal and intellectual, if not political, kinship. Unabashedly propagandistic, Mushanokōji’s essay nevertheless casts relations between the two literary communities in a positive light.¹</p>
+                     <p>Given the generally sympathetic tone of Mushanokōji’s essay, the inclusion in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Return to the Brush:</title>
+                     <subtitle>The Polarization of the Chinese and Japanese Literary Communities in the 1930s</subtitle>
+                  </title-group>
+                  <fpage>129</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The vigorous exchange between the Chinese and Japanese literary communities in the interwar period portrayed in this study was destined not to last. As early as 1930, in fact, these relations showed signs of strain. The exacting convergence of factors that made this interaction possible in the 1920s had begun to bend beneath the weight of political and ideological differences. Several events served to signal the increasing deterioration of relations between the two communities, and the writers examined in this study came to a variety of fates as a result of this polarization.</p>
+                     <p>Among the factors that conspired in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.13</book-part-id>
+                  <title-group>
+                     <title>Epilogue:</title>
+                     <subtitle>Dream of a Dream</subtitle>
+                  </title-group>
+                  <fpage>157</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The period treated in this study was the age of Taishō Democracy and post-May Fourth idealism; it was an age in which anything seemed possible. There was a naiveté and innocence to the age that provided fertile ground for these literary relations. For this degree of interaction to be possible, writers had to be willing to turn a blind eye to the increasingly dire nature of relations between the two nations. May Fourth writers had been among the vanguard of revolutionary social and cultural change in China and were excruciatingly aware of the increasing menace of Japanese imperialism. Japanese writers,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.14</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>163</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.15</book-part-id>
+                  <title-group>
+                     <title>Appendix:</title>
+                     <subtitle>Glossary of Selected Terms from Chinese and Japanese</subtitle>
+                  </title-group>
+                  <fpage>187</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.16</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>193</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xwh2z.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>201</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">mech</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50003697</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Mechademia</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Minnesota Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">19342489</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">21526648</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41510980</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>REVIEW &amp; COMMENTARY</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Death Note: The Killer in Me Is the Killer in You</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>SUSAN</given-names>
+                  <surname>NAPIER</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2010</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40074085</issue-id>
+         <fpage>356</fpage>
+         <lpage>360</lpage>
+         <product>
+            <source>Death Note. Volumes 1-12</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Tsugumi</given-names>
+               <surname>Ōba</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Takeshi</given-names>
+               <surname>Obata</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Pookie</given-names>
+               <surname>Rolf</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Alexis</given-names>
+               <surname>Kirsch</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Tetsuchiro</given-names>
+               <surname>Miyaki</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 2010 Regents of the University of Minnesota</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41510980"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amerlite</journal-id>
+         <journal-id journal-id-type="jstor">j100068</journal-id>
+         <journal-title-group>
+            <journal-title>American Literature</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Duke University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00029831</issn>
+         <issn pub-type="epub">15272117</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2927686</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Takayuki</given-names>
+                  <surname>Tatsumi</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1992</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">64</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i347253</issue-id>
+         <fpage>865</fpage>
+         <lpage>867</lpage>
+         <page-range>865-867</page-range>
+         <product>
+            <source>[Gertrude Stein in Paris]</source>
+            <string-name>
+               <given-names>Hisao</given-names>
+               <surname>Kanaseki</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>[A Sailing into "Moby-Dick"]</source>
+            <string-name>
+               <given-names>Hideyo</given-names>
+               <surname>Sengoku</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>[Republican America: Biography and Autobiography]</source>
+            <string-name> 
+               <given-names>Kôji</given-names>
+               <surname>Ôi</surname> 
+            </string-name>
+         </product>
+         <product>
+            <source>[Contemporary American Novel]</source>
+            <string-name>
+               <given-names>Tateo</given-names>
+               <surname>Imamura</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>[Heroes in America Literature]</source>
+            <string-name>
+               <given-names>Yoshiaki</given-names>
+               <surname>Koshikawa</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1992 Duke University Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2927686"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

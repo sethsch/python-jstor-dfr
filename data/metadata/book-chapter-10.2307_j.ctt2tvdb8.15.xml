@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt2tvdb8</book-id>
+      <subj-group>
+         <subject content-type="call-number">ML3506.J47 2003</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Jazz</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Music</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Jazz Planet</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Atkins</surname>
+               <given-names>E. Taylor</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="other">WITH ESSAYS BY</role>
+         <contrib contrib-type="other" id="contrib2">
+            <name name-style="western">
+               <surname>Bakriges</surname>
+               <given-names>Christopher G.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib3">
+            <name name-style="western">
+               <surname>Ballantine</surname>
+               <given-names>Christopher</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib4">
+            <name name-style="western">
+               <surname>Fernández</surname>
+               <given-names>Raúl A.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib5">
+            <name name-style="western">
+               <surname>Fornäs</surname>
+               <given-names>Johan</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib6">
+            <name name-style="western">
+               <surname>Givan</surname>
+               <given-names>Benjamin</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib7">
+            <name name-style="western">
+               <surname>Johnson</surname>
+               <given-names>Bruce</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib8">
+            <name name-style="western">
+               <surname>Jones</surname>
+               <given-names>Andrew F.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib9">
+            <name name-style="western">
+               <surname>Molasky</surname>
+               <given-names>Michael</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib10">
+            <name name-style="western">
+               <surname>de Camargo Piedade</surname>
+               <given-names>Acácio Tadeu</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib11">
+            <name name-style="western">
+               <surname>Pinckney</surname>
+               <given-names>Warren R.</given-names>
+               <suffix>Jr.</suffix>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib12">
+            <name name-style="western">
+               <surname>Starr</surname>
+               <given-names>S. Frederick</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib13">
+            <name name-style="western">
+               <surname>Williams</surname>
+               <given-names>Linda F.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib14">
+            <name name-style="western">
+               <surname>Zenni</surname>
+               <given-names>Stefano</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>11</month>
+         <year>2003</year>
+      </pub-date>
+      <isbn content-type="ppub">9781578066094</isbn>
+      <isbn content-type="ppub">1578066093</isbn>
+      <isbn content-type="epub">9781621034445</isbn>
+      <isbn content-type="epub">1621034445</isbn>
+      <publisher>
+         <publisher-name>University Press of Mississippi</publisher-name>
+         <publisher-loc>Jackson</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2003</copyright-year>
+         <copyright-holder>University Press of Mississippi</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt2tvdb8"/>
+      <abstract abstract-type="short">
+         <p>Jazz is typically characterized as a uniquely American form of artistic expression, and narratives of its history are almost always set within the United States.</p>
+         <p>Yet, from its inception, this art form exploded beyond national borders, becoming one of the first modern examples of a global music sensation.<italic>Jazz Planet</italic>collects essays that concentrate for the first time on jazz created outside the United States.</p>
+         <p>What happened when this phenomenon met with indigenous musical practices? What debates on cultural integrity did this "American" styling provoke in far-flung places? Did jazz's insistence on individual innovation and its posture as a music of the disadvantaged generate shakeups in national identity, aesthetic values, and public morality? Through new and previously published essays,<italic>Jazz Planet</italic>recounts the music's fascinating journeys to Asia, Europe, Africa, and Latin America.</p>
+         <p>What emerges is a concept of jazz as a harbinger of current globalization, a process that has engendered both hope for a more enlightened and tranquil future and resistance to the anticipated loss of national identity and sovereignty.</p>
+         <p>Essays in this collection describe the seldom-acknowledged contributions non-Americans have made to the art and explore the social and ideological crises jazz initiated around the globe. Was the rise of jazz in global prominence, they ask, simply a result of its inherent charm? Was it a vehicle for colonialism, Cold War politics, and emerging American hegemony?</p>
+         <p>
+            <italic>Jazz Planet</italic>provokes readers to question the nationalistic bias of most jazz scholarship, and to expand the pantheon of great jazz artists to include innovative musicians who blazed independent paths.</p>
+         <p>E. Taylor Atkins is an associate professor of history at Northern Illinois University and is the author of<italic>Blue Nippon: Authenticating Jazz in Japan</italic>, awarded the John W. Hall Prize of the Association of Asian Studies in 2003 as the best book on Northeast Asia. His work has appeared in such periodicals as<italic>Japanese Studies</italic>and<italic>East-West Connections: Review of Asian Studies</italic>.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.4</book-part-id>
+                  <title-group>
+                     <title>TOWARD A GLOBAL HISTORY OF JAZZ</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Atkins</surname>
+                           <given-names>E. Taylor</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+                  <abstract>
+                     <p>The January 2001 broadcast of Ken Burns’s documentary film<italic>Jazz</italic>on public television dramatically elevated the profile of jazz music. Dedicated jazz aficionados hailed the program for bringing a long-neglected and underappreciated art form to the attention of a general audience. Amazon.com reported that sales of jazz recordings spiked immediately following the first episode, suggesting that Burns’s caché as “America’s storyteller” had generated interest in the music among viewers. Reviews of the film were, nonetheless, almost universally scathing. Many jazz scholars, critics, and artists found Burns’s relatively tidy narrative flawed beyond redemption. Reviewers pummelled the filmmaker for devoting three episodes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.5</book-part-id>
+                  <title-group>
+                     <title>“SI NO TIENE SWING NO VAYA’ A LA RUMBA”:</title>
+                     <subtitle>Cuban Musicians and Jazz</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fernández</surname>
+                           <given-names>Raúl A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>For many in the world of jazz, the history of jazz in Cuba dates to the recent appearance on the scene of brilliant musicians such as Chucho Valdés and Paquito D’Rivera. Others regard the history of Afro-Cuban or Latin jazz as one branch of the U.S.-centered development of jazz itself, a branch that developed almost exclusively in the United States (see Roberts 1999; Hasse 2000; and Ward and Burns 2000).</p>
+                     <p>In this paper I argue that there is a long history of jazz in Cuba, nearly as long as the history of jazz in the United States itself. Cuban musicians</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.6</book-part-id>
+                  <title-group>
+                     <title>DJANGO REINHARDT’S LEFT HAND</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Givan</surname>
+                           <given-names>Benjamin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>A half century after his death, there are signs of a renewed interest in the legendary jazz guitarist Django Reinhardt. Director Woody Allen’s fictional 1999 film<italic>Sweet and Low Down,</italic>in which Reinhardt’s off-screen presence was pivotal, introduced the guitarist’s name to a wider audience, and its soundtrack, featuring the contemporary guitarist Howard Alden, spawned a Reinhardt tribute concert and accompanying memorabilia exhibit in New York during the summer of 2000. Later that year the Big Apple’s first Annual Django Reinhardt Festival presented an array of modern guitarists, including Reinhardt’s son Babik, who died in November 2001 (Django Reinhardt NY</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.7</book-part-id>
+                  <title-group>
+                     <title>BRAZILIAN JAZZ AND FRICTION OF MUSICALITIES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Camargo Piedade</surname>
+                           <given-names>Acácio Tadeu</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translation by</role>
+                        <name name-style="western">
+                           <surname>Langdon</surname>
+                           <given-names>Helen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>This article is a brief ethnography of Brazilian instrumental popular music (<italic>música instrumental</italic>), which is known in the internationally as Brazilian jazz (see also Piedade 1999a). I intend to focus on Brazilian jazz as a musical genre of Brazilian popular music and not as a national adaptation of jazz, and to search for its main characteristics and socio-cultural nexus in contrast with North American jazz. The specific goal is to show how there is constant reference in Brazilian jazz to North American jazz, mainly in the realm of improvisations, and that these references mark the tense encounter between Brazilian and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.8</book-part-id>
+                  <title-group>
+                     <title>JAZZ IN INDIA:</title>
+                     <subtitle>Perspectives on Historical Development and Musical Acculturation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pinckney</surname>
+                           <given-names>Warren R.</given-names>
+                           <suffix>Jr.</suffix>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>The aim of this essay is to analyze the unfolding of American jazz in India. I conducted field work for this study in Bombay in February and March 1988, during Jazz Yatra, India’s biennial international jazz festival. The idea of conducting jazz research in India first occurred to me during a European lecture tour I made in 1986. While searching for albums by European jazz musicians in a record store in Cologne, I discovered the album<italic>Jazz and Hot Dance in India—1926–1944,</italic>which contained dance band arrangements recorded in India during the swing era, and which featured musicians</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.9</book-part-id>
+                  <title-group>
+                     <title>INTERPRETING THE CREATIVE PROCESS OF JAZZ IN ZIMBABWE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Williams</surname>
+                           <given-names>Linda F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>Many fallacies surround the subject of creativity, especially as practiced in jazz improvisation in cultures outside of the United States. One misconception is the notion that improvisation is indeterminate. Another misunderstanding involves the assumption that jazz improvisation is a process distinct from composition. Yet, others presuppose that somehow or other the creator is actually being “pulled” into the music by the transcendent product that he or she has not yet produced (Dutton and Krausz 1991; Nettl 1974). All such assumptions imply an unconscious process in which the musician is propelled beyond his or her conscious mastery of what s/he is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.10</book-part-id>
+                  <title-group>
+                     <title>MUSICAL TRANSCULTURATION:</title>
+                     <subtitle>From African American Avant-Garde Jazz to European Creative Improvisation, 1962–1981</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bakriges</surname>
+                           <given-names>Christopher G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>This article investigates how African American avant-garde musical sensibilities have been received and transformed by European musicians, producers, and culture vendors. The thesis that guides this article is that an important black music variant, variously known as Free Jazz, Energy Music, Great Black Music, or the “new thing,” has had to leave America in order to perpetuate itself. Over time, this music has changed its original name, while simultaneously expanding its meaning outside of the United States. Under consideration is how American musicians transmitted this new music beginning in the early sixties and how it was received in Europe, by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.11</book-part-id>
+                  <title-group>
+                     <title>GIANLUIGI TROVESI’S MUSIC:</title>
+                     <subtitle>An Historical and Geographical Short-Circuit</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zenni</surname>
+                           <given-names>Stefano</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translation by</role>
+                        <name name-style="western">
+                           <surname>Monge</surname>
+                           <given-names>Luigi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>The Italian jazz scene is one of the most lively and variegated in Europe: one can find active musicians following the most diverse stylistic trends ranging from modern mainstream to New Orleans revival, from swing to historical free jazz. Some of the most original contributions have come from musicians such as Gianluigi Trovesi, Eugenio Colombo, and Bruno Tommaso, who emerged in the mid-1970s and nurtured personal, original styles in the 1980s. Their work stands out because of their clear-cut abilities to synthesize markedly different materials, make the most of the Italian folk music heritage, and mix popular and cultured sources</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.12</book-part-id>
+                  <title-group>
+                     <title>THE MUSIC OF THE GROSS, 1928–1931</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Starr</surname>
+                           <given-names>S. Frederick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>For a form of popular culture to flourish and endure it must meet two conditions. First, it must be genuinely well liked. No amount of promotion or hullabaloo can sustain its vitality if it fails to engage the interest of a large number of ordinary people. If a tune is not whistled in private it will never be popular in public. The tyranny of fashion may briefly cow a few, but never the public at large. Second, when a form of popular culture claims the support of part but not all of the public, as often happens, it must be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.13</book-part-id>
+                  <title-group>
+                     <title>NATURALIZING THE EXOTIC:</title>
+                     <subtitle>The Australian Jazz Convention</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Johnson</surname>
+                           <given-names>Bruce</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>Any attempt to understand Australian jazz history and its relation to the broader national culture must examine, among other things, three events of the 1940s.¹ The first was in 1941, when a jazz band performed for the opening of the Contemporary Art Society’s annual exhibition in Melbourne. The third event was in 1947, when an Australian jazz band embarked on a visit to Prague for the International Youth Festival, and went on to tour and perform in Europe and the United Kingdom for a year. Three sectors of interest converge on these events: the jazz and the radical arts communities</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.14</book-part-id>
+                  <title-group>
+                     <title>MUSIC AND EMANCIPATION:</title>
+                     <subtitle>The Social Role of Black Jazz and Vaudeville in South Africa Between the 1920s and the Early 1940s</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ballantine</surname>
+                           <given-names>Christopher</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>As the music culture of black city-dwellers in South Africa grew in breadth and sophistication in the 1920s, 1930s, and 1940s, a great and important question took shape within it. The question was: What could this music accomplish socially? Or, as it was more elaborately framed at the first conference of the South African Bantu Board of Music, held on July 1 and 2 1929: How could this “heavenly gift … best be used for the glory of God and the amelioration of our social and cultural conditions?” (<italic>IZ</italic>2/4/30).¹</p>
+                     <p>The answers differed—and perhaps nowhere more widely than within</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.15</book-part-id>
+                  <title-group>
+                     <title>A JAPANESE STORY ABOUT JAZZ IN RUSSIA:</title>
+                     <subtitle>Itsuki Hiroyuki’s “Farewell, Moscow Gang”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Molasky</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>As any self-respecting jazz buff knows, the Japanese have long been among the world’s most avid consumers of the music, be it recorded or live. Top American musicians who couldn’t<italic>buy</italic>a gig in New York City during the late 1960s and 1970s traveled to Japan, where they were invariably greeted with a full house and a reverential audience. During that time, Tokyo alone was home to dozens of “jazz coffee houses,” where, for the price of a coffee, customers could sit for hours and listen to records from jazz collections that sometimes numbered in the thousands (Atkins 2001; Derschmidt</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.16</book-part-id>
+                  <title-group>
+                     <title>SWINGING DIFFERENCES:</title>
+                     <subtitle>Reconstructed Identities in the Early Swedish Jazz Age</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fornäs</surname>
+                           <given-names>Johan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>When jazz was established in Sweden, it was used as an emblematic symbol for the cultural breakthrough of high modernity, with its newly established world dominance of the United States of America and its crucial dependence upon African-American styles.¹ Its early reception in the 1920–1950 period inspired discourses on the modern transformations of identity and difference orders. Different hierarchizing values clashed in distinguishing the high serious from the low popular, while prevalent divisions between “us” and “them” were articulated, renegotiated, and mobilized.</p>
+                     <p>It is a common supposition that jazz came to Sweden as something alien, imported directly from African</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.17</book-part-id>
+                  <title-group>
+                     <title>BLACK INTERNATIONALE:</title>
+                     <subtitle>Notes on the Chinese Jazz Age</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jones</surname>
+                           <given-names>Andrew F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>The domestic parochialism of much current jazz criticism betrays the resolute internationalism of early twentieth-century African-American critical thinking about the relations between culture and music. The black critic J. A. Rogers’ “Jazz at Home,” an essay anthologized in Alain Locke’s epochal 1929 collection of voices from the Harlem Renaissance,<italic>The New Negro,</italic>is a fascinating case in point. Rogers’ essay describes a dialectical movement that has haunted jazz criticism since its inception. Rogers locates the “primal” origins of jazz—“nobody’s child of the levee and the city slum”—in the “joyous revolt” of African America against “sordidness and sorrow” (Rogers</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.18</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.19</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.20</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>277</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2tvdb8.21</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>281</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

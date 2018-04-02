@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">zeitfurgerm</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50010919</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Zeitschrift für Germanistik</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Peter Lang Europäischer Verlag der Wissenschaften</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03237982</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">22351272</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>journal-series-title</meta-name>
+               <meta-value>Neue Folge</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23978075</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Projekte</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Organisation der Vertauschung oder: „Was deutet uns die Literaturwissenschaft eigentlich?“</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Claus-Michael</given-names>
+                  <surname>Schlesinger</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2006</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">16</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23963754</issue-id>
+         <fpage>93</fpage>
+         <lpage>95</lpage>
+         <permissions>
+            <copyright-statement>© Peter Lang AG, Internationaler Verlag der Wissenschaften 2006</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23978075"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>ger</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1408e117a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1408e124" publication-type="other">
+Haruki Murakami: Wilde Schafsjagd, Frankfurt a. M.
+1997, S. 118.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1408e134a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1408e141" publication-type="other">
+Boris Groys: Der Verdacht ist das Medium. In:
+C. Hegemann (Hrsg.): Kapitalismus und Depres-
+sion I, Berlin 2000, S. 85—102.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1408e154a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1408e161" publication-type="other">
+Ebenda, S. 87.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1408e168a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1408e177" publication-type="other">
+Joseph Vogl (Hrsg.): Poetologien des Wissens
+um 1800, München 1999, insbes. S. 13—16-</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1408e188a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1408e195" publication-type="other">
+Nicolas Pethes:Literatur- undWissenschaftsge-
+schichte. Ein Forschungsbericht. In: IASL 28 (2003),
+S. 181-231.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

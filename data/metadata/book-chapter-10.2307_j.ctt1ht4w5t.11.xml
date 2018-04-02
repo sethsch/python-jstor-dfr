@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1hj9w7s</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1ht4w5t</book-id>
+      <subj-group>
+         <subject content-type="call-number">PR8803 .B75 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">English fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">Irish authors</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">English fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Modernism (Literature)</subject>
+         <subj-group>
+            <subject content-type="lcsh">Ireland</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Badiou, Alain</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Badiou, Alain</subject>
+         <subj-group>
+            <subject content-type="lcsh">Influence</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Punishment in literature</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Hell in literature</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Revolutionary Damnation</book-title>
+         <subtitle>Badiou and Irish Fiction from Joyce to Enright</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>BRIVIC</surname>
+               <given-names>SHELDON</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>28</day>
+         <month>04</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="epub">9780815653578</isbn>
+      <isbn content-type="epub">0815653573</isbn>
+      <publisher>
+         <publisher-name>Syracuse University Press</publisher-name>
+         <publisher-loc>Syracuse, New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Syracuse University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1ht4w5t"/>
+      <abstract abstract-type="short">
+         <p>In Irish fiction, the most famous example of the embrace of damnation in order to gain freedom-politically, religiously, and creatively-is Joyce's Stephen Dedalus. His "non serviam," though, is not just the profound rebellion of one frustrated young man, but, as Brivic demonstrates in this sweeping account of twentieth-century Irish fiction, the emblematic and necessary standpoint for anyartist wishing to envision something truly new. Revolutionary fervor is what allowed a country with a population lower than that of Connecticut to produce so many of the greatest writers of the twentiety century.</p>
+         <p>Because Irish culture was largely dictated by the Catholic Church and its conservatism, the most ambitious Irish writers, like Joyce, Beckett, and the ten others Brivic presents here, saw the advantages of damnation and seized them, rejecting powerful norms of church, state, and culture, as well as of literary form, voice, and character, to produce some of the most radical work of the twentieth century. Brivic links the work of writers such as Flann O'Brien, Patrick McCabe, and Anne Enright to the theories of Alain Badiou. His mathematical procedure for distinguishing what is truly innovative informs the progressive political and philosophical thrust that these writers at their best carry on from Joyce and Beckett to unfold a fierce tradition that extends into the twenty-first century.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.5</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction:</title>
+                     <subtitle>The Radical Irish Renaissance and Badiou</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Irish literature in the twentieth century was moved by a revolution that intensified its insight and innovation, propelling it into a radical philosophical advancement that put it in the vanguard of modern intellectual striving, as exemplified by the international resonance of Joyce and Beckett. New ideas of freedom generated by these writers inspired a series of Irish novelists to write searching works that interrogated the political, psychological, and philosophical organization of society and pointed toward new conceptions for Ireland and the world. This revolution in thought began with a renaissance that shifted the country from a colony to a nation,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Joyce, Stephen’s Damnation, and Badiou’s Saint Paul</title>
+                  </title-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>Joyce’s positions with regard to damnation are so complicated that they can best be explained in three stages. First I will describe his satanic role as an artist, referring to Romantic influences and the theories of Lyotard. Then, using Badiou’s reading of St. Paul’s Epistles, I will show the power of Christian militancy that informed Joyce’s vision. Finally, I will turn to Badiou’s concept of the event to show how Joyce combined Christian thinking with anticlericalism to enlarge human potential. Joyce has Stephen Daedalus declare in<italic>Stephen Hero</italic>that “Satan, really, is the romantic youth of Jesus …” (<italic>SH</italic>, 222).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Badiou and the Multiple Subject of Joyce’s Ulysses</title>
+                  </title-group>
+                  <fpage>54</fpage>
+                  <abstract>
+                     <p>Lyotard’s focus on the subversive disparities of language may be combined with Badiou’s drive toward the hope of the event that breaks free of established forms. And together they can enable a process of multiplying excluded conceivabilities in order to augment human freedom by undermining a series of models so as to see any given model as an entrapment. In such a process, the innovation of Badiou’s generic should be guided by confrontation with the disturbance of Lyotard’s differend so that the hope of heaven takes its reality from being grounded in hell, the grand future of Ireland from its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Beckett’s Lost Love</title>
+                  </title-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>By unfolding possibilities,<italic>Ulysses</italic>moves toward release from traditional values through encounters with the unprecedented. Joyce’s characters tend to be enclosed by belief and compelled to seek escape from it through exploration of the forbidden. Beckett’s characters, on the other hand, are outside belief and hopelessly trying to find their way in. So Beckett’s figures are always in hell, the excluded realm of the demonic: their escapes are evanescent.¹ The work of Beckett that describes hell most definitely may be<italic>Waiting for Godot</italic>, so I will use this play to survey the illusory field of human relations—a field for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Flann O’Brien’s Third Policeman as Infernal Deity</title>
+                  </title-group>
+                  <fpage>114</fpage>
+                  <abstract>
+                     <p>Like Joyce and Beckett, Flann O’Brien used the postcolonial position of being in revolt against the ruling order to question established claims to control and advance life. These three writers used laughter as a support for denial of the fundamental assumption that leans on mythology to make life livable, that one can know the principles that govern the universe. Joyce, Beckett, and O’Brien were all born as colonial subjects, none more native than O’Brien, who grew up speaking Irish in the West. Their intellects made visible the pervasive deployment of imperial injustice as a model of rationality, and this spurred</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>John Banville’s Doctor Copernicus:</title>
+                     <subtitle>Lost in the Stars</subtitle>
+                  </title-group>
+                  <fpage>144</fpage>
+                  <abstract>
+                     <p>In recent years John Banville has come to the conclusion that<italic>Doctor Copernicus</italic>(1976), one of his most celebrated novels, was either misguided in its conception or misinterpreted by critics. In a talk he gave at Temple University in 2005, “Literature and the Dream,” Banville said that the book did not work because it was a novel of ideas that was not properly understood. He seemed to be suggesting that the novel of ideas is a problematic form.<italic>Doctor Copernicus</italic>may incline toward a facet of Banville’s thinking that he was more susceptible to in 1975, and this facet may</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>War 1:</title>
+                     <subtitle>Victims</subtitle>
+                  </title-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>The novels I have read up to now saw hell as a philosophical problem that had to be engaged to find freedom through intellectual progress that proceeded in terms of negation. The manifestation of hell as a historical product was less directly emphasized in these works, but in those that follow, while damnation persists, it is seen more as a social problem than a philosophical one. In many cases, this may be because the later writers were less subjugated by colonialism in their youth. The conviction that desolation is so ineluctable that unheard of new ideas must be sought continues</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>War 2:</title>
+                     <subtitle>Heroes</subtitle>
+                  </title-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>Whereas the last chapter dealt mainly with ways in which people are victimized by war, this one treats two novels in which protagonists assert the revolutionary value of armed resistance. This brings us back to the philosophical radicalism of Joyce, Beckett, Flann O’Brien, and Banville insofar as hell here is not just a historical situation forced on people, but a chosen means of approaching the most difficult truth. The attempt to grasp the power of the event is Badiouvian, but it strays from Badiou’s discipline, which requires that the event remain unknown. As Ireland enters an expansive phase (The Celtic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Family:</title>
+                     <subtitle>The Runaway Son</subtitle>
+                  </title-group>
+                  <fpage>223</fpage>
+                  <abstract>
+                     <p>The novels about the family that I treat all define the structure of this set by means of a son or daughter who is excluded as unacceptable, and this figure represents inconsistencies in the group that must be recognized. Historically, the focus on the family as an objective moves toward assembling a social situation that is stable and independent as Ireland grows into autonomy, a situation in which hell can be left behind. But it never can, and we start with the most atrocious assault on the family in a novel that speaks with a serpent’s hiss about pathology inherited</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Anne Enright’s The Gathering:</title>
+                     <subtitle>The Pursuit of Damnation</subtitle>
+                  </title-group>
+                  <fpage>252</fpage>
+                  <abstract>
+                     <p>
+                        <italic>What Are You Like?</italic>and<italic>The Gathering</italic>, Anne Enright’s best novels, both take the form of elaborate quests for figures who are in the position of being damned and who are taken seriously as objects of devotion. In<italic>What Are You Like?</italic>, which I will only touch on, this figure is the lost mother Anna Delahunty. In<italic>The Gathering</italic>, it is the suicide brother Liam Hegarty. In both cases these figures—to whom we may apply Giorgio Agamben’s term<italic>homo sacer</italic>in that they are at once accursed and sacred (Agamben, 1998, 7–9)—generate despite their misery powerful senses</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Conclusion:</title>
+                     <subtitle>The Uses of Damnation</subtitle>
+                  </title-group>
+                  <fpage>276</fpage>
+                  <abstract>
+                     <p>Badiou separates truth from opinions, the commonplaces shared in ordinary discourse; opinions are false because they are motivated by self-interest to preserve a status quo that in Ireland and elsewhere is descended from colonial feudalism. Tana French’s account of the current situation in Ireland says that if one is born into the elite class, one will probably remain in that class, whatever one’s merits (French, 2013). If the existing system is fundamentally false and unjust, truth is what is capable of change. Badiou defines truth as what “cannot be totalized under a predicate, however sophisticated that predicate may be” (Badiou,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.17</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ht4w5t.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>320</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="research-article" dtd-version="1.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">sciefictstud</journal-id>
+         <journal-title-group>
+            <journal-title content-type="full">Science Fiction Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>SF-TH Inc.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00917729</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23276207</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">sciefictstud.38.1.0208</article-id>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.5621/sciefictstud.38.1.0208</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>NOTES AND CORRESPONDENCE</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Suggested Further Readings in the Slipstream</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Rob Latham</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">
+            <day>1</day>
+            <month>3</month>
+            <year>2011</year>
+            <string-date>March 2011</string-date>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink">38</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">sciefictstud.38.issue-1</issue-id>
+         <fpage>208</fpage>
+         <lpage>219</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2011 SF-TH Inc.</copyright-statement>
+            <copyright-year>2011</copyright-year>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/10.5621/sciefictstud.38.1.0208"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

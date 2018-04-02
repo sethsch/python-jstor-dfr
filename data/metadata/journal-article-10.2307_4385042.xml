@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">threrevi</journal-id>
+         <journal-id journal-id-type="jstor">j101366</journal-id>
+         <journal-title-group>
+            <journal-title>The Threepenny Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Threepenny Review</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">02751410</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4385042</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Books</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Break on Through</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Francie Lin</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>2001</year>
+         </pub-date>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">86</issue>
+         <issue-id>i396138</issue-id>
+         <fpage>14</fpage>
+         <lpage>15</lpage>
+         <page-range>14-15</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2001 The Threepenny Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4385042"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

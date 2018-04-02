@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt14w21x</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1ppgsh</book-id>
+      <subj-group>
+         <subject content-type="call-number">H53.J3 B37 2004</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Social sciences</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Intellectuals</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Socialism</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Democracy</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Political culture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Japan</subject>
+            <subj-group>
+               <subject content-type="lcsh">History</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Social Sciences in Modern Japan</book-title>
+         <subtitle>The Marxian and Modernist Traditions</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Barshay</surname>
+               <given-names>Andrew E.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>16</day>
+         <month>02</month>
+         <year>2004</year>
+      </pub-date>
+      <isbn content-type="ppub">9780520236455</isbn>
+      <isbn content-type="epub">9780520941335</isbn>
+      <publisher>
+         <publisher-name>University of California Press</publisher-name>
+         <publisher-loc>Berkeley; Los Angeles; London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2004</copyright-year>
+         <copyright-holder>the Regents of the University of California</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.1525/j.ctt1ppgsh"/>
+      <abstract abstract-type="short">
+         <p>This incisive intellectual history of Japanese social science from the 1890s to the present day considers the various forms of modernity that the processes of "development" or "rationalization" have engendered and the role social scientists have played in their emergence. Andrew E. Barshay argues that Japan, together with Germany and pre-revolutionary Russia, represented forms of developmental alienation from the Atlantic Rim symptomatic of late-emerging empires. Neither members nor colonies of the Atlantic Rim, these were independent national societies whose cultural self-image was nevertheless marked by a sense of difference. Barshay presents a historical overview of major Japanese trends and treats two of the most powerful streams of Japanese social science, one associated with Marxism, the other with Modernism<italic>(kindaishugi)</italic>, whose most representative figure is the late Maruyama Masao. Demonstrating that a sense of developmental alienation shaped the thinking of social scientists in both streams, the author argues that they provided Japanese social science with moments of shared self-understanding.</p>
+      </abstract>
+      <counts>
+         <page-count count="345"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Social Science as History</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>What follows is a historical study of intellectuals and the social sciences, or better, of the intellectual as social scientist, in Japan from the 1890s roughly to the present. But I wish to begin with a Russian parable based on a minor character in a novel by Leo Tolstoy.</p>
+                     <p>The novel is<italic>Anna Karenin,</italic>the character is Sergei Ivanich Koznyshev. Koznyshev is a city intellectual, a social type of whom Tolstoy was none too fond. Unlike his half-brother Konstantin Levin, Koznyshev takes the institution of the<italic>zemstvo</italic>land assembly seriously, even, on occasion, upbraiding the great landowner and spiritual pilgrim</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>The Social Sciences in Modern Japan:</title>
+                     <subtitle>An Overview</subtitle>
+                  </title-group>
+                  <fpage>36</fpage>
+                  <abstract>
+                     <p>The history of Japanese social science has unfolded in five successive “ moments” or intellectual orientations that defined problems, structured analysis, drove disciplinary development, and—importantly—helped to set the terms of collective agency in public discourse: What was Japan? A nation of imperial subjects? Of classes? A single<italic>Volk?</italic>Of “modern” individuals?</p>
+                     <p>Social science anywhere is the “science,” the way(s) of knowing modernity. As such it is fatefully implicated in its political, social, and cultural context, particularly via the professional groups and institutions in which it is practiced. As will become clear, the account here is biased toward elite</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Doubly Cruel:</title>
+                     <subtitle>Marxism and the Presence of the Past in Japanese Capitalism</subtitle>
+                  </title-group>
+                  <fpage>72</fpage>
+                  <abstract>
+                     <p>This chapter and the two that follow pose the question: When Japanese Marxists looked at Japanese capitalism, what did they see, and how did they see it? What was the object of their gaze, and how—by what method—was that gaze itself formed?</p>
+                     <p>I begin with the observation that Japan has developed a tradition of noncapitalist capitalism, a capitalism in which non-, or precapitalist values and practices are held to remain salient, indeed decisive in shaping institutional as well as personal behavior in the economic sphere. This much, of course, has been said for decades by its critics and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Thinking through Capital:</title>
+                     <subtitle>Uno Kōzō and Marxian Political Economy</subtitle>
+                  </title-group>
+                  <fpage>92</fpage>
+                  <abstract>
+                     <p>Uno Kōzō (1897–1977) stands at the head of the most influential school of postwar Japanese Marxism. Resolutely academic, indeed founded on the strict separation of political economy as a science from ideological practice, Uno’s avowed project was to build a system of political economy that could provide a basis for “scientific socialism,” as Uno defined that term. Political economy<italic>(keizaigaku)</italic>was to operate at three distinct levels, or in three dimensions. The first was the “basic principles”<italic>(genron)</italic>, which Uno formulated by appropriating and reconstructing the contents of<italic>Capital.</italic>These were to provide an abstract but objective model of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>School’s Out?</title>
+                     <subtitle>The Uno School Meets Japanese Capitalism</subtitle>
+                  </title-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>To speak of Uno Kōzō is also to speak of the school of economics, or political economy, that developed under the impetus of his ideas. Set against the background of postwar privation, economic recovery, and the capitalist surge that the school was fated to explain, the story is one of dramatic coalescence and academic dominance, but also of deepening scholasticism, paradigm shifts, and ultimately of decomposition. In this sense, the trajectory of the Uno school is both a case study of social science history and an episode in the intellectual history of Marxism.</p>
+                     <p>Uno-school political economy, according to a recent</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Social Science and Ethics:</title>
+                     <subtitle>Civil Society Marxism</subtitle>
+                  </title-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>In surveying the achievements and problematic legacy of Uno Kōzō in chapter 4, I concluded with the idea that “what Marxism needed was not better science, but better ethics.” Taking up this theme, this chapter explores the attempts by Japanese Marxists, including the critical legatees of Marxism, to develop a viable ethics for the postwar Japan that constituted their “zone of engagement.” The argument, in essence, is that among the notions around which they sought to construct such an ethics, “civil society” was of particular importance. This was not something easily predicted: the term “civil society” had had little direct</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Imagining Democracy in Postwar Japan:</title>
+                     <subtitle>Maruyama Masao as a Political Thinker</subtitle>
+                  </title-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>“We are all democrats today,” John Dunn has observed. “We” in the West, however, were not always democrats. Still less was it to be taken for granted that “ they”—the rest of the world—would, should, or could be. Yet if any western idea has extended its reach beyond its own parochial core, democracy is that idea. To be sure, democracy, along with many other notions, such as nationalism, accompanied the “consolidation of the world market . . . and the invasive thrust of western imperialism.” But it has also outlasted the conditions under which it was first introduced.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.12</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>240</fpage>
+                  <abstract>
+                     <p>“A small country out in the sticks”<italic>(henpi no shōhō)</italic>, “a piece of the larger world”<italic>(sekai no ikkan)</italic>—these phrases were used to describe Japan, the first in the thirteenth century by the great Zen master Dōgen, and the second by Tosaka Jun, a Marxist philosopher of the twentieth.¹ For Dōgen, the comparison of Japan to India and China was unflattering. His country seemed to him a peripheral land of the willfully ignorant, and lacking in wisdom. Yet the Buddhist law, despite or because of this deficiency, had made its way east, and Japan had now been brought to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.14</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>301</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>321</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppgsh.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>332</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

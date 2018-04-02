@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1t89k61</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN1031 .P78 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Poetry</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Princeton Handbook of World Poetries</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Greene</surname>
+               <given-names>Roland</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Cushman</surname>
+               <given-names>Stephen</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>22</day>
+         <month>11</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="epub">9781400880638</isbn>
+      <isbn content-type="epub">1400880637</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>Princeton; Oxford</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1t89k61"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>The Princeton Handbook of World Poetries</italic>-drawn from the latest edition of the acclaimed<italic>Princeton Encyclopedia of Poetry and Poetics</italic>-provides a comprehensive and authoritative survey of the history and practice of poetry in more than 100 major regional, national, and diasporic literatures and language traditions around the globe. With more than 165 entries, the book combines broad overviews and focused accounts to give extensive coverage of poetic traditions throughout the world. For students, teachers, researchers, poets, and other readers, it supplies a one-of-a-kind resource, offering in-depth treatment of Indo-European poetries (all the major Celtic, Slavic, Germanic, and Romance languages, and others); ancient Middle Eastern poetries (Hebrew, Persian, Sumerian, and Assyro-Babylonian); subcontinental Indian poetries (Bengali, Hindi, Marathi, Punjabi, Sanskrit, Tamil, Urdu, and more); Asian and Pacific poetries (Chinese, Japanese, Korean, Vietnamese, Mongolian, Nepalese, Thai, and Tibetan); Spanish American poetries (those of Mexico, Peru, Argentina, Chile, and many other Latin American countries); indigenous American poetries (Guaraní, Inuit, and Navajo); and African poetries (those of Ethiopia, Somalia, South Africa, and other countries, and including African languages, English, French, and Portuguese). Complete with an introduction by the editors, this is an essential volume for anyone interested in understanding poetry in an international context.</p>
+         <p>Drawn from the latest edition of the acclaimed<italic>Princeton Encyclopedia of Poetry and Poetics</italic>Provides more than 165 authoritative entries on poetry in more than 100 regional, national, and diasporic literatures and language traditions throughout the worldFeatures extensive coverage of non-Western poetic traditionsIncludes an introduction, bibliographies, cross-references, and a general index</p>
+      </abstract>
+      <counts>
+         <page-count count="720"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.5</book-part-id>
+                  <title-group>
+                     <title>Alphabetical List of Entries</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.6</book-part-id>
+                  <title-group>
+                     <title>Bibliographical Abbreviations</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.7</book-part-id>
+                  <title-group>
+                     <title>General Abbreviations</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.8</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>xix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.9</book-part-id>
+                  <title-group>
+                     <title>A</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.10</book-part-id>
+                  <title-group>
+                     <title>B</title>
+                  </title-group>
+                  <fpage>51</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.11</book-part-id>
+                  <title-group>
+                     <title>C</title>
+                  </title-group>
+                  <fpage>75</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.12</book-part-id>
+                  <title-group>
+                     <title>D</title>
+                  </title-group>
+                  <fpage>142</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.13</book-part-id>
+                  <title-group>
+                     <title>E</title>
+                  </title-group>
+                  <fpage>148</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.14</book-part-id>
+                  <title-group>
+                     <title>F</title>
+                  </title-group>
+                  <fpage>186</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.15</book-part-id>
+                  <title-group>
+                     <title>G</title>
+                  </title-group>
+                  <fpage>209</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.16</book-part-id>
+                  <title-group>
+                     <title>H</title>
+                  </title-group>
+                  <fpage>248</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.17</book-part-id>
+                  <title-group>
+                     <title>I</title>
+                  </title-group>
+                  <fpage>276</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.18</book-part-id>
+                  <title-group>
+                     <title>J</title>
+                  </title-group>
+                  <fpage>334</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.19</book-part-id>
+                  <title-group>
+                     <title>K</title>
+                  </title-group>
+                  <fpage>349</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.20</book-part-id>
+                  <title-group>
+                     <title>L</title>
+                  </title-group>
+                  <fpage>357</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.21</book-part-id>
+                  <title-group>
+                     <title>M</title>
+                  </title-group>
+                  <fpage>379</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.22</book-part-id>
+                  <title-group>
+                     <title>N</title>
+                  </title-group>
+                  <fpage>394</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.23</book-part-id>
+                  <title-group>
+                     <title>O</title>
+                  </title-group>
+                  <fpage>413</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.24</book-part-id>
+                  <title-group>
+                     <title>P</title>
+                  </title-group>
+                  <fpage>419</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.25</book-part-id>
+                  <title-group>
+                     <title>R</title>
+                  </title-group>
+                  <fpage>451</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.26</book-part-id>
+                  <title-group>
+                     <title>S</title>
+                  </title-group>
+                  <fpage>470</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.27</book-part-id>
+                  <title-group>
+                     <title>T</title>
+                  </title-group>
+                  <fpage>538</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.28</book-part-id>
+                  <title-group>
+                     <title>U</title>
+                  </title-group>
+                  <fpage>562</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.29</book-part-id>
+                  <title-group>
+                     <title>V</title>
+                  </title-group>
+                  <fpage>590</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.30</book-part-id>
+                  <title-group>
+                     <title>W</title>
+                  </title-group>
+                  <fpage>596</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.31</book-part-id>
+                  <title-group>
+                     <title>X</title>
+                  </title-group>
+                  <fpage>603</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.32</book-part-id>
+                  <title-group>
+                     <title>Y</title>
+                  </title-group>
+                  <fpage>606</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.33</book-part-id>
+                  <title-group>
+                     <title>Z</title>
+                  </title-group>
+                  <fpage>611</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1t89k61.34</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>613</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1tfj8m3</collection-id>
+      <volume>290</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1tm7f8c</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL857.A3683A99 2007</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nakagami, Kenji</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Buraku people in literature</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Out of the Alleyway</book-title>
+         <subtitle>Nakagami Kenji and the Poetics of Outcaste Fiction</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Zimmerman</surname>
+               <given-names>Eve</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>2007</year>
+      </pub-date>
+      <isbn content-type="ppub">9780674026032</isbn>
+      <isbn content-type="epub">9781684174591</isbn>
+      <isbn content-type="epub">1684174597</isbn>
+      <publisher>
+         <publisher-name>Harvard University Asia Center</publisher-name>
+         <publisher-loc>Cambridge (Massachusetts); London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>The President and Fellows of Harvard College</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1tm7f8c"/>
+      <abstract abstract-type="short">
+         <p>The writer Nakagami Kenji (1946-1992) rose to fame in the mid-1970s for his vivid stories about a clan scarred by violence and poverty on the underside of the Japanese economic miracle. Drawing upon the lives, experiences, and languages of the burakumin, the outcaste communities long discriminated against in Japanese society as a defiled underclass, Nakagami’s works of fiction and nonfiction record with vitality and violence the realities—actual and imagined—of buraku culture. In this critical study of Nakagami’s life and oeuvre, Eve Zimmerman delves into the writer’s literary world, exploring the genres, forms, and themes with which Nakagami worked and experimented. These chapters trace the biographical thread running through his works while foregrounding such diverse facets of his writing as his interest in the modern possibilities of traditional myths and forms of storytelling, his deployment of shocking tropes and images, and his crafting of a unique poetic language. By bringing to the fore the literary urgency and social engagement that informed all aspects of Nakagami’s creative and intellectual production, from his works of prose and poetry to his criticism, this book argues eloquently and effectively for us to appreciate Nakagami as a distinctive and relevant voice in modern Japanese literature.</p>
+      </abstract>
+      <counts>
+         <page-count count="312"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.3</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>xii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>Nothing but Words</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Nakagami Kenji (1946–1992) rose to fame in the mid-1970s for his vivid stories about a clan scarred by violence and poverty on the underside of the Japanese economic miracle. Wrung from his own experience growing up in a provincial city in southeastern Wakayama, Nakagami’s writing burst apart stereotypes of a serene, precious, and exotic Japan. Possessing a highly sensitive ear, he wrote a rhythmic, kinetic prose that in the early years of his writing career scans in short poetic breaths and in his later work winds into great streams of words. In this prose, Nakagami captured his characters’ sudden</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.5</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Roots and Branches</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>In 1988, Nakagami sat down to do a taped interview with me in a noisy restaurant in the Chelsea area of New York City that offered a “gospel brunch.” At that point, little of Nakagami’s work had been translated into English, and he was known mainly in academic circles in the United States. We talked for over an hour before conversation was cut short by the arrival of the gospel choir. In the interview, Nakagami covered some familiar ground, such as his views on Japanese literature; but he also shaded his remarks for a Western audience, reminiscing about aspects of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.6</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Icarus Descending:</title>
+                     <subtitle>Expendable Males and the Poetry of Nakagami Kenji</subtitle>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>In August 1966, Nakagami Kenji published a handful of poems in<italic>Michi</italic>, a local Shingū literary magazine. Soon after publication, he attended a gathering in Shingū to celebrate the tenth issue of the magazine in hopes of hearing comments on his poetry. Unfortunately, the audience asked only a few questions about specific words in the poems, waiting patiently for the author to explain his own work. Asamori Mizuho, the editor of the magazine, reported that people had complained about the difficulty of the poems even as some declared that they must be masterpieces.¹</p>
+                     <p>The silence in the room that day</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.7</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Brother-Sister Love and the Creation of Akiyuki</title>
+                  </title-group>
+                  <fpage>86</fpage>
+                  <abstract>
+                     <p>On July 29, 1978, Nakagami Kenji addressed a local audience at the Rinpōkan, the<italic>buraku</italic>community center in the Kasuga district of Shingū. His subject that day was a folksong about brother-sister love, replete with a bold confession, mistaken identities, and tragic death. During the 1970s the song was still performed (and danced) every year in August at the<italic>obon</italic>festival for the dead in Shingū. As if to guarantee the authenticity of his materials, Nakagami played a tape recording of the song made by a woman who lived around the corner. The old woman sang:</p>
+                     <p>It happened in Nishijin,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.8</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>Knowing Pleasures:</title>
+                     <subtitle>Sennen no yuraku, a Tale for Our Times</subtitle>
+                  </title-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>In March 1978, Matsune Hisao, a shoe salesman and self-published haiku poet, took Nakagami Kenji into the neighborhood to meet an elderly woman named Tabata Ryū. Eighty-eight years old and ill in bed, Tabata Ryū (nicknamed Oryū no Oba, or “Old Lady Ryū”) told Nakagami stories about the old neighborhood and about her deceased husband Reijo, a special<italic>roji</italic>priest.¹ Like others in her community, Oryū no Oba had never learned to read or write, but according to Matsune, she had a “mind like a computer,” and she held the birth and death dates of everyone in the neighborhood in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.9</book-part-id>
+                  <title-group>
+                     <title>Photo Insert</title>
+                  </title-group>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.10</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>A Language of Kumano</title>
+                  </title-group>
+                  <fpage>154</fpage>
+                  <abstract>
+                     <p>In “Tengu no matsu” (The Pine Tree of the Tengu), the third story of<italic>Sennen no yuraku</italic>, Nakagami illustrates the ways in which discrimination operates through language in the lives of the outcaste people. It is February, and the young men of the<italic>roji</italic>have been preparing for the annual fire festival by undergoing ritual purification, fasting, and sexual abstinence. That day, as they ready themselves to climb the mountain with burning torches, they encounter an unexpected setback:</p>
+                     <p>It was painful for Oryū no Oba to witness the excitement of the young men every year at festival time. One, who</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.11</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>Violent Histories:</title>
+                     <subtitle>The Snake and the Shaman</subtitle>
+                  </title-group>
+                  <fpage>184</fpage>
+                  <abstract>
+                     <p>In three decades of writing, Nakagami Kenji explored the coordinates of<italic>buraku</italic>identity, created a fictional family saga, and pushed at the boundaries of Japanese literary language. A thread emerges in the work of a younger brother who struggles to resist a family or a community that threatens to engulf him. In the preceding pages we have explored the notion that masculinity itself is fragile; Nakagami’s fiction is full of young men like Hanzō or Jūkichi who do not reach the age of 30. But we have not yet examined the ways in which masculinity is implicated in acts of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.12</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>212</fpage>
+                  <abstract>
+                     <p>In 1978, Nakagami Kenji, aged 35, traveled from Tokyo to Shingū, where he made a short film of the Shingū alleyway, which was in its final stages of “urban renewal.” Panning down narrow alleyways with a 16-millimeter camera, Nakagami’s lens lingered on the small houses, the close-fitting roofs, the potted plants, and the sweets displayed in the local shop. With images of a neighborhood that was soon to be destroyed by the wrecker’s ball, Nakagami created a visual record of the place that had nourished his fiction. The alleyways shaped Nakagami’s ideas about identity—they provided a reservoir of legends</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.13</book-part-id>
+                  <title-group>
+                     <title>Appendix</title>
+                  </title-group>
+                  <fpage>221</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.14</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>225</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.15</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>247</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1tm7f8c.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>265</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

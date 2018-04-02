@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1551m8h</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt155j7p4</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Douglas Coupland</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Tate</surname>
+               <given-names>Andrew</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>19</day>
+         <month>07</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780719076619</isbn>
+      <isbn content-type="epub">9781847791924</isbn>
+      <publisher>
+         <publisher-name>Manchester University Press</publisher-name>
+         <publisher-loc>Manchester; New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>Andrew Tate</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt155j7p4"/>
+      <abstract abstract-type="short">
+         <p>This book is the first full-length study of Douglas Coupland, one of the twenty-first century’s most innovative and influential novelists. The study explores the prolific first decade and a half of Coupland’s career, from Generation X: Tales for an Accelerated Culture (1991) to JPod (2006), a period in which he published ten novels and four significant volumes of non-fiction. Emerging in the last decade of the twentieth century - amidst the absurd contradictions of instantaneous global communication and acute poverty - Coupland’s novels, short stories, essays and visual art have intervened in specifically contemporary debates regarding authenticity, artifice and art. This book explores Coupland’s response, in ground-breaking novels such as Microserfs, Girlfriend in a Coma and Miss Wyoming, to some of the most pressing issues of our times. Designed for students, researchers and general readers alike, the study is structured around thematically focused chapters that consider Coupland’s engagement with narrative, consumer culture, space, religion and ideas of the future.</p>
+      </abstract>
+      <counts>
+         <page-count count="200"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.3</book-part-id>
+                  <title-group>
+                     <title>List of abbreviations</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.4</book-part-id>
+                  <title-group>
+                     <title>Series editors’ foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yousaf</surname>
+                           <given-names>Nahem</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Monteith</surname>
+                           <given-names>Sharon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+                  <abstract>
+                     <p>This innovative series reflects the breadth and diversity of writing over the last thirty years, and provides critical evaluations of established, emerging and critically neglected writers – mixing the canonical with the unexpected. It explores notions of the contemporary and analyses current and developing modes of representation with a focus on individual writers and their work. The series seeks to reflect both the growing body of academic research in the field, and the increasing prevalence of contemporary American and Canadian fiction on programmes of study in institutions of higher education around the world.囎Central to the series is a concern that each</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.5</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction:</title>
+                     <subtitle>Coupland’s contexts</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Does Douglas Coupland’s fiction ‘speak’ with ‘a voice from nowhere’? Is he a Canadian who strategically chooses to write with a US accent, an involuntary American novelist who happens to hold a Canadian passport or a writer whose narrative concerns transcend national boundaries? The anonymous narrator of Coupland’s short story, ‘In the Desert’ (1994), a wanderer lost in the scorched American wilderness, makes revealing connections between the simulated, late twentieth-century ‘electronic dream’ of shared televisual memory and the dubious coherence of his own life story. This insecurity about the capricious, unstable nature of identity – including a sense of ambivalence about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>‘Denarration’ or getting a life:</title>
+                     <subtitle>Coupland and narrative</subtitle>
+                  </title-group>
+                  <fpage>38</fpage>
+                  <abstract>
+                     <p>How might a novelist represent contemporary, globalized reality if that world and its citizens have become plotless? The phenomenon of ‘denarration’ described in Coupland’s ‘Brentwood Notebook’ (1994) – a collage-report of a single day in this blandly affluent LA suburb, a putative ‘secular nirvana’ – thematizes the author’s ongoing concern with the failure of old stories to adequately explain, or render meaningful, the complexities of living in a new era (<italic>PD,</italic>p. 148). This embryonic trend named by a writer from Canada’s west coast, much of whose early work focuses on the odd textures of 1990s Californian experience, echoes observations made twenty</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>‘I am not a target market’:</title>
+                     <subtitle>Coupland, consumption and junk culture</subtitle>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>Douglas Coupland is captivated by rubbish, its possible uses and its plural connotations. Motifs of household garbage, environmental pollution and technological junk are everywhere in his fiction and visual art – the substance of his work is frequently constructed from broken things, forgotten concepts, obsolete inventions and the many ‘time-expired’, disposable items that we routinely ditch. In his ‘Canada House’ exhibition (2003; 2004–5), for example, a number of sculptures incorporate salvaged odds and ends – discarded tin cans, plastic bottles, food packaging, shreds of clothing, broken buoys and the assorted, shop-worn treasures of the tenacious beachcomber – all of which are redeployed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Nowhere, anywhere, somewhere:</title>
+                     <subtitle>Coupland and space</subtitle>
+                  </title-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Souvenir of Canada,</italic>Coupland’s first explicit reading of the national consciousness, begins with an aerial vision of the country’s unpopulated, wild northern lands. Gazing at the enigmatic landscape, the writer lists places that, apart from the colonial act of naming, appear to be untainted by human intervention (‘Hudson Bay and the Ungava Peninsula, Ellesmere Island, Baffin Island’) and starts the work of rethinking his own relationship with geography. Cocooned in the memory of one or many aeroplane cabins – an interchangeable tourist space emblematic of modernity’s uninhibited penchant for constant motion – Coupland attempts to connect the knowable and malleable (sub)urban reality</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>‘You are the first generation raised without religion’:</title>
+                     <subtitle>Coupland and postmodern spirituality</subtitle>
+                  </title-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>Belief, or its absence, haunts Douglas Coupland’s most dispirited protagonists. The wilderness reflections, for example, uttered by the anonymous narrator of ‘In the Desert’ – one of the thematically interconnected narratives in<italic>Life After God</italic>– pivot around a sensation of spiritual dissatisfaction that is shared by many individuals in Coupland’s fiction. This desert sojourner’s conviction that he was raised in a creedal vacuum, without fixed beliefs – a personal history ‘clean of any ideology’ – is optimistic but, as he suspects, not entirely credible. The blank-slate, zero history contexts that he and many of his contemporaries view as normative are, above all else,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Conclusion:</title>
+                     <subtitle>JPod and Coupland the future</subtitle>
+                  </title-group>
+                  <fpage>162</fpage>
+                  <abstract>
+                     <p>What do Douglas Coupland’s abundant – and frequently conflicting – images of the future reveal about his worldview? Does his writing and visual art aspire to represent the innovative and the imminent, that is, to forge new ideas in a seemingly exhausted, derivative era? His novels occupy a perplexing hinterland between Tyler Johnson’s irrepressible optimism ‘about the future’ and the everyday, apocalyptic paranoia expressed in<italic>JPod,</italic>the writer’s most playfully surreal, exuberantly decadent and morally unsettling piece of fiction to date. This conclusion will use Coupland’s highly self-conscious tenth ‘novel’ – though absurdist science-project or anti-art manifesto might be more appropriate terms of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.12</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>174</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j7p4.13</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>183</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

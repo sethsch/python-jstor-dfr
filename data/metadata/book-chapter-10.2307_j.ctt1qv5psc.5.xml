@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1d8hbt3</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1qv5psc</book-id>
+      <subj-group>
+         <subject content-type="call-number">PS3505.A87 Z947 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Cather, Willa, 1873–1947</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Modernism (Literature)</subject>
+         <subj-group>
+            <subject content-type="lcsh">United States</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Cather, Willa, 1873–1947. Song of the lark</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Cather Studies, Volume 11</book-title>
+         <subtitle>Willa Cather at the Modernist Crux</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Moseley</surname>
+               <given-names>Ann</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Murphy</surname>
+               <given-names>John J.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Thacker</surname>
+               <given-names>Robert</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>08</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9780803296992</isbn>
+      <isbn content-type="epub">9781496200662</isbn>
+      <isbn content-type="epub">1496200667</isbn>
+      <publisher>
+         <publisher-name>UNP - Nebraska</publisher-name>
+         <publisher-loc>LINCOLN; LONDON</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>the Board of Regents of the University of Nebraska</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1qv5psc"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Willa Cather at the Modernist Crux</italic>examines Willa Cather's position in time, in aesthetics, and in the world. Born a Victorian in 1873, Cather made herself a modernist through the poems, stories, and novels she wrote and published into the twentieth century. Beginning with a prologue locating Cather's position, this volume of Cather Studies offers three sets of related essays.The first section takes up Cather's beginnings with her late nineteenth-century cultural influences. The second section explores a range of discernible direct connections with contemporary artists (Howard Pyle, Frederic Remington, and Ernest Blumenschein) and others who figured in the making of her texts. The third section focuses on<italic>The Song of the Lark</italic>, a novel that confirms Cather's shift westward and elaborates her emergent modernism. An epilogue by the editors of<italic>The Selected Letters of Willa Cather</italic>addresses how the recent availability of these letters has transformed Cather studies. Altogether, these essays detail Cather's shaping of the world of the early twentieth century and later into a singular modernism born of both inherited and newer cultural traditions.</p>
+      </abstract>
+      <counts>
+         <page-count count="366"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Willa Cather at the Modernist Crux</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOSELEY</surname>
+                           <given-names>ANN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MURPHY</surname>
+                           <given-names>JOHN J.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THACKER</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+                  <abstract>
+                     <p>When in<italic>My Ántonia</italic>Willa Cather concludes the story of Mr. Shimerda’s burial, his grave having been placed by Mrs. Shimerda and Ambrosch at “the southwest corner of their own land,” perhaps to satisfy an old Bohemian custom that a suicide be buried at a crossroads, she explains through Jim Burden how the roads that came later, as his grandfather had foreseen, deviated slightly so as to avoid passing over the suicide’s grave. Stepping back, Jim also writes that “I never came upon that place without emotion, and in all that country it was the spot most dear to me.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.5</book-part-id>
+                  <title-group>
+                     <title>Prologue:</title>
+                     <subtitle>Gifts from the Museum: Catherian Epiphanies in Context</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MURPHY</surname>
+                           <given-names>JOHN J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>About a year ago, while helping one of my grandsons with a college English assignment, I rediscovered Wallace Stevens’s 1942 poem “Of Modern Poetry” and was surprised how applicable it is to the Cather canon, a body of work distinguished by the task of constructing a new stage during an age when the set script used by many generations of poets had become what Stevens refers to as “a souvenir” (line 6). “[T] he problem of modern life and art was for Cather, as it was for Wallace Stevens,” observes Tom Quirk, “finding ‘what will suffice’” (155). Her project is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Compatibility of Art and Religion for Willa Cather:</title>
+                     <subtitle>From the Beginning</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SHIVELY</surname>
+                           <given-names>STEVEN B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>The touchstone for this essay is Godfrey St. Peter’s statement to his students in<italic>The Professor’s House</italic>(1925) that “Art and religion (they are the same thing, in the end, of course) have given man the only happiness he has ever had” (69). The Professor asserts that art and religion are compatible, that they are—or at least have the potential to be—equal and complementary forces for finding meaning in life. Many readers and critics believe this linking of religion and art expresses not only Godfrey St. Peter’s thinking but also that of Willa Cather, who said almost the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Thea in Wonderland:</title>
+                     <subtitle>Willa Cather’s Revision of the Alice Novels and the Gender Codes of the Western Frontier</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOORE</surname>
+                           <given-names>MICHELLE E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>William M. Curtin claims that Lewis Carroll “was one of Cather’s great enthusiasms” as indicated by her membership in the Lewis Carroll club at the University of Nebraska. In a letter to Mariel Gere dated 12 March 1896, Willa Cather explains how she relieved her boredom in Red Cloud by reading<italic>Alice in Wonderland</italic>to her ten-year-old brother, James. Curtin notes the letter in<italic>The World and the Parish</italic>(1:357–58), and James Woodress has added about the visit that Cather “was sick of<italic>Alice in Wonderland</italic>after reading it to Jim sixteen times” (Woodress 105; Letter 22). In the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Ántonia and Hiawatha:</title>
+                     <subtitle>Spectacles of the Nation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MURPHY</surname>
+                           <given-names>JOSEPH C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>64</fpage>
+                  <abstract>
+                     <p>In an 1882 photograph taken in Washington DC, Willa Cather, aged about nine, wears a cross on a cotton lace dress and grips a bow and arrow fully her own height (fig. 3.1). She is out-fitted for a recitation of Henry Wadsworth Longfellow’s<italic>Song of Hiawatha</italic>(1855). At the ripe moment in her performance, Cather reportedly “would drop on one knee and shoot her arrow into the imaginary forest,” in step with Longfellow’s verse: “Then, upon one knee uprising /Hiawatha aimed an arrow” (161).¹ Having committed the lines to memory, she embodied them in pose and picture.</p>
+                     <p>This pictorial vignette</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Willa Cather, Howard Pyle, and “The Precious Message of Romance”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HARRIS</surname>
+                           <given-names>RICHARD C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>In the poem “Dedicatory,” which opens<italic>April Twilights</italic>, Willa Cather wonderfully evokes the sense of childhood play. The poem, dedicated to her brothers Douglass and Roscoe, recaptures the world of the Cather children’s youth and their “vanished kingdom” “on an island in a western river,” where they and other playmates talked of “war and ocean venture, / Brave with brigandage and sack of cities.” “Wonder tales” they were. These brief lines recall the passage in<italic>Alexander’s Bridge</italic>in which Bartley Alexander remembers “a group of boys sitting around a little fire . . . on a sandbar in a Western</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>“Then a Great Man in American Art”:</title>
+                     <subtitle>Willa Cather’s Frederic Remington</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THACKER</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>Among the most discussed scenes in Cather’s fiction is the beginning of the narrative proper of<italic>My Ántonia</italic>. Ten-year-old orphan Jim Burden has embarked from Virginia for Nebraska in the company of Jake Marpole, “one of the ‘hands’ on my father’s old farm under the Blue Ridge,” Jim writes, and the two travel west “all the way by day-coaches, becoming more sticky and grimy with each stage of the journey.” Along the way, Jake, who is older but not much more worldly than his charge, “bought everything the newsboys offered him: candy, oranges, brass collar buttons, a watch-charm, and for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Willa Cather, Ernest L. Blumenschein, and “The Painting of Tomorrow”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JAAP</surname>
+                           <given-names>JAMES A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>132</fpage>
+                  <abstract>
+                     <p>Willa Cather was both enamored of and inspired by the region, people, and culture of the American Southwest. Scholars have had a lot to say about her relationship to this region, but even so, gaps remain. One unexplored aspect of Cather’s Southwest experiences is her relationship with the modernist American painter Ernest L. Blumenschein. Born in Pittsburgh and raised in Dayton, Ohio, Blumenschein began his career illustrating works by Joseph Conrad, Stephen Crane, and Jack London for such publications as<italic>Century</italic>,<italic>McClure’s</italic>, and<italic>Harper’s</italic>. In 1907, Blumenschein provided the illustrations for Cather’s third story in<italic>McClure’s</italic>, “The Namesake.” He and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>From The Song of the Lark to Lucy Gayheart, and Die Walküre to Die Winterreise</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PORTER</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>Cather’s familiar words from 1896 provide an apt entrée to the relationship between<italic>The Song of the Lark</italic>and<italic>Lucy Gayheart</italic>.<italic>Song</italic>, published in 1915, traces the long and hard journey by which its heroine moves from early intimations of her musical talent to their brilliant realization.<italic>Lucy</italic>, published twenty years later, moves from its heroine’s bright glimmerings of musical discovery to the fading of these fugitive gleams. This essay suggests that Cather underscored the gulf between these musical journeys by constantly projecting Lucy’s against the template of Thea’s, a contrast reflective also of the differing trajectories of Cather’s own</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Trafficking of Mrs. Forrester:</title>
+                     <subtitle>Prostitution and Willa Cather’s A Lost Lady</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GUSTKE</surname>
+                           <given-names>CHARMION</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>170</fpage>
+                  <abstract>
+                     <p>In a letter addressed to her mother, Mary Virginia Boak Cather, on 2 March 1925, Willa Cather, seeking her mother’s forgiveness after a quarrel, reminds her that the last time they had been “cross” at one another was “about poor Mrs. Garber”: “and you see now, don’t you, that I understood her better than you thought I did, and that though I admired certain things, I was never taken in by her” (<italic>Letters</italic>367). Cather’s compassionate regard for Mrs. Garber, the inspiration behind<italic>A Lost Lady</italic>’s Mrs. Forrester, generated tension between Cather and her mother, who seemingly disapproved of Mrs.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Outlandish Hands of Fred Demmler:</title>
+                     <subtitle>Pittsburgh Prototypes in The Professor’s House</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BINTRIM</surname>
+                           <given-names>TIMOTHY W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>188</fpage>
+                  <abstract>
+                     <p>Complaining of prototype hunters to her lifelong friend Carrie Miner Sherwood, Willa Cather muttered, “You can never get it through people’s heads that a story is made out of an emotion or an excitement, and is<italic>not</italic>made out of the legs and arms and faces of one’s acquaintances” (<italic>Letters</italic>492; Cather’s emphasis). Of course, scholars know better. Serious readers can both appreciate the aesthetics of Cather’s fiction and discern the “legs and arms and faces” of her friends and casual acquaintances that, more often than not, provided the initial emotion or excitement. A case in point is Mark Madigan’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Translating the Southwest:</title>
+                     <subtitle>The 1940 French Edition of Death Comes for the Archbishop</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MADIGAN</surname>
+                           <given-names>MARK J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>214</fpage>
+                  <abstract>
+                     <p>Marc Chénetier wrote that all translations are doomed to a degree of failure “the way all writing fails compared with the dazzling, burning desire behind it” (42). Cervantes put it a different way: “Translation is the other side of a tapestry” (877). Most famously, Robert Frost commented, “Poetry is what is lost in translation” (Untermeyer 18). The French translator, Spanish novelist, and American poet each call our attention to the difficulty of the translator’s art.</p>
+                     <p>Willa Cather became familiar with the challenges of translation early in her writing career. In Pittsburgh she experienced them firsthand when translating French and German</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Elements of Modernism in The Song of the Lark</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOSELEY</surname>
+                           <given-names>ANN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>When literary critics think of Willa Cather and modernism, they think first of<italic>A Lost Lady</italic>and<italic>The Professor’s House</italic>, perhaps even of<italic>My Ántonia</italic>, but they hardly ever think of<italic>The Song of the Lark</italic>. However, if we expand our parameters and definitions of modernism beyond the “high modernism” of the 1920s, as Richard Lehan and other literary historians such as Ricardo J. Quinones, Sanford Schwartz, and Michael Levenson have done, we find several elements of modernism in this early novel. Although I am certainly not arguing that The Song of the Lark—a chronological narrative written primarily in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>“The Earliest Sources of Gladness”:</title>
+                     <subtitle>Reading the Deep Map of Cather’s Southwest</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PRENATT</surname>
+                           <given-names>DIANE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>Willa Cather discovered the American Southwest a decade after she discovered Europe. I use the word “discovered” deliberately, despite its postcolonial baggage, because for Cather, to encounter a landscape was to discern what it had to reveal, to uncover its meaning. As a child transplanted from Virginia to Nebraska, she may have developed an early disposition for such discoveries, but her imaginative experience of landscape and its relation to her writing were redefined by her first trip to Europe in 1902, and especially by her visit to Provence. Something about<italic>Lettres de mon moulin</italic>(1869;<italic>Letters from My Windmill</italic>), the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Re(con)ceiving Experience:</title>
+                     <subtitle>Cognitive Science and Creativity in The Song of the Lark</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DOLEŽAL</surname>
+                           <given-names>JOSHUA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>271</fpage>
+                  <abstract>
+                     <p>Anyone hazarding a scientific reading of Willa Cather’s work might take warning from her scorn for her former professor Lucius Sherman at the University of Nebraska. Sherman’s<italic>Analytics of Literature</italic>(1893) counted word frequency and used equations to measure sentence length and “ratios of force” (Woodress 80). In his preface, Sherman claims great success with his “objective” method in literature classes: “Those accustomed to write in a lumbering awkward fashion began to express themselves in strong, clear phrases, and with a large preponderance of simple sentences. . . . Students apparently without a taste for reading, or capacity to discern</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Women and Vessels in The Song of the Lark and Shadows on the Rock</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CONRAD</surname>
+                           <given-names>ANGELA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>289</fpage>
+                  <abstract>
+                     <p>Many Cather scholars are drawn to the powerful figure of Thea in<italic>The Song of the Lark</italic>as she comes to know herself and become an artist during her time spent in Panther Canyon. In the canyon she contemplates the vessels of pottery left by the ancient cliff dwellers, connecting them in her imagination with art in their ability to capture and contain life. As she examines the shards of broken pottery and recognizes herself as a vessel for art, she links the traditional women’s labor of carrying water to the creativity and confidence of creating art. In this setting</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.20</book-part-id>
+                  <title-group>
+                     <title>Epilogue:</title>
+                     <subtitle>The Difference That Letters Make: A Meditation on The Selected Letters of Willa Cather</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JEWELL</surname>
+                           <given-names>ANDREW</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STOUT</surname>
+                           <given-names>JANIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>303</fpage>
+                  <abstract>
+                     <p>Anyone who works on Cather knows what a difference it makes to have or not to have the letters. Years of difficult access and the need to paraphrase, or to read only in someone else’s paraphrases, approximate at best, fastened our eyes toward a hoped-for future when the letters themselves, or at least some of them, would be readily accessible in print. Even so, the question posed here—What difference do letters make?—seems worth thinking about, both in a general way and in ways that pertain specifically to<italic>The Selected Letters of Willa Cather</italic>.</p>
+                     <p>In<italic>The Art of Literary</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.21</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>327</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1qv5psc.22</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>333</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>
