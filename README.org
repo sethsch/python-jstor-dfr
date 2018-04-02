@@ -1,0 +1,3 @@
+* A Short Tutorial on JSTOR Data for Research
+
+This is a short tutorial on JSTOR Data for Research (DfR), which provides data sets of informations on articles and books on JSTOR. DfR is often used for text mining purpose on academic articles. I was first introduced to DfR in 2016 in a Digital Humanities course, and found it quite useful for historiographical research.  
