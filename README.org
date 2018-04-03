@@ -8,6 +8,23 @@ DfR has changed a lot since 2016. It has a better user interface, and faster ser
 
 [[https://www.jstor.org/dfr/][Here is the link to JSTOR DfR]]
 
-[[file:./screen_shot/home.png]]
+[[file:./screen_shot/home.png][Homepage]]
 
+You can sign up an account on the homepage. It is free, but I don't think you can sign in through library.
+
+Click "Create a Dataset"
+
+[[file:screen_shot/search.png][Search]]
+
+Search by keyword. You can refine the result on the left panels.
+
+Once you are ready, click "Request Dataset"
+
+[[file:screen_shot/confirmation.png][Confirmation]]
+
+Select the data you wanted. You will receive an email for the data. (Usually within an hour, since the DfR server is better now)
+
+** Cleaning the Data
+
+As I mentioned, the data from DfR is in xml and txt format. You can find the data I requested in [[./data][data]] folder.
 
