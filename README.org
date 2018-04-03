@@ -76,7 +76,7 @@ Of course, there are a lot more information you can extract from the xml files. 
 
 Here are some visualization for my historiographical research I did in 2016 with ggplot2. I plotted the rolling average of word frequencies in percentages of several key words over five years in articles about Natsume Soseki. This is not difficult if you have cleaned data, like the one generated above.
 
-[[file:./fig/Natsume Soseki Authors.jpeg]]
-[[file:./fig/Natsume Soseki Discipline.jpeg]]
-[[file:./fig/Natsume Soseki Language.jpeg]]
-[[file:./fig/Natsume Soseki Theme.jpeg]]
+[[file:./fig/Authors.jpeg]]
+[[file:./fig/Discipline.jpeg]]
+[[file:./fig/Language.jpeg]]
+[[file:./fig/Theme.jpeg]]
