@@ -8,19 +8,19 @@ DfR has changed a lot since 2016. It has a better user interface, and faster ser
 
 [[https://www.jstor.org/dfr/][Here is the link to JSTOR DfR]]
 
-[[file:./screen_shot/home.png][Homepage]]
+[[file:./screen_shot/home.png]]
 
 You can sign up an account on the homepage. It is free, but I don't think you can sign in through library.
 
 Click "Create a Dataset"
 
-[[file:screen_shot/search.png][Search]]
+[[file:screen_shot/search.png]]
 
 Search by keyword. You can refine the result on the left panels.
 
 Once you are ready, click "Request Dataset"
 
-[[file:screen_shot/confirmation.png][Confirmation]]
+[[file:screen_shot/confirmation.png]]
 
 Select the data you wanted. You will receive an email for the data. (Usually within an hour, since the DfR server is better now)
 
