@@ -1,3 +1,13 @@
 * A Short Tutorial on JSTOR Data for Research
 
-This is a short tutorial on JSTOR Data for Research (DfR), which provides data sets of informations on articles and books on JSTOR. DfR is often used for text mining purpose on academic articles. I was first introduced to DfR in 2016 in a Digital Humanities course, and found it quite useful for historiographical research.  
+This is a short tutorial on JSTOR Data for Research ([[https://www.jstor.org/dfr/][DfR]]), which provides data sets of informations on articles and books on JSTOR. DfR is often used for text mining purpose on academic articles. I was first introduced to DfR in 2016 in a Digital Humanities course, and found it quite useful for historiographical research. DfR is a rather new service by JSTOR, and few people are familiar with it, so I think it would be nice if I write this short tutorial on DfR.
+
+DfR has changed a lot since 2016. It has a better user interface, and faster server, but one thing that I don't like is the data format DfR provides also changed. It used to provide citation information for every article and book in a csv file. Now, it only provides metadata in xml format. Fortunately, however, it is not hard to extract information from xml files. I have written some simple python script for processing the data. Besides metadata of every article, DfR also provides word count, bigram count and trigram count in txt files.
+
+** Getting the Data
+
+[[https://www.jstor.org/dfr/][Here is the link to JSTOR DfR]]
+
+[[file:./screen_shot/home.png]]
+
+
