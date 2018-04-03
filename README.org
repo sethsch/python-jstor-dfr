@@ -1,8 +1,10 @@
 * A Short Tutorial on JSTOR Data for Research
 
-This is a short tutorial on JSTOR Data for Research ([[https://www.jstor.org/dfr/][DfR]]), which provides data sets of informations on articles and books on JSTOR. DfR is often used for text mining purpose on academic articles. I was first introduced to DfR in 2016 in a Digital Humanities course, and found it quite useful for historiographical research. DfR is a rather new service by JSTOR, and few people are familiar with it, so I think it would be nice if I write this short tutorial on DfR.
+This is a short tutorial on JSTOR Data for Research ([[https://www.jstor.org/dfr/][DfR]]), which provides data sets of information on articles and books on JSTOR. DfR is often used for text mining purpose on academic articles. I was first introduced to DfR in 2016 in a Digital Humanities seminar, and found it quite useful for historiographical research. DfR is a rather new service by JSTOR, so not that many people are familiar with it. I think it would be nice if I write this short tutorial on DfR.
 
-DfR has changed a lot since 2016. It has a better user interface, and faster server, but one thing that I don't like is the data format DfR provides also changed. It used to provide citation information for every article and book in a csv file. Now, it only provides metadata in xml format. Fortunately, however, it is not hard to extract information from xml files. I have written some simple python script for processing the data. Besides metadata of every article, DfR also provides word count, bigram count and trigram count in txt files.
+DfR has changed a lot since 2016. It has a better user interface, and faster server, but one thing that I don't like is the data format also changed. It used to provide citation information for every article and book in a csv file. Now, it only provides metadata of each article and book in xml format. Fortunately, however, it is not hard to extract information from xml files. I have written some simple python script for processing the data. Besides metadata of every article, DfR also provides word count, bigram count and trigram count in txt files. I have included at the end of this tutorial some of my past data visualizations based on DfR.
+
+This is also my community contribution to the EDVA course.
 
 ** Getting the Data
 
@@ -22,13 +24,13 @@ Once you are ready, click "Request Dataset"
 
 [[file:screen_shot/confirmation.png]]
 
-Select the data you wanted. You will receive an email for the data. (Usually within an hour, since the DfR server is better now)
+Select the data you wanted. You will receive an email for the data. (Usually within an hour, since the DfR server is quite fast now)
 
 ** Cleaning the Data
 
 As I mentioned, the data from DfR is in xml and txt format. You can find the data I requested in [[./data][data]] folder.
 
-It is not hard to pre-process the data, you can use my scripts to convert to [[./csv_word_count.py][csv]] and [[./json_word_count.py][json]] format. I made a word count of articles by the publish year. BeautifulSoup is helpful for parsing xml files. Json files maybe better for the data I wanted, so I've pasted my script for pre-processing here:
+It is not hard to pre-process the data, you can use my scripts to convert to [[./csv_word_count.py][csv]] and [[./json_word_count.py][json]] format. I made a word count of articles by the publish year. BeautifulSoup is helpful for parsing xml files. Json files maybe better for the data I wanted (you can imagine that csv files will be large, since there is a lot entries of zero). I've pasted my script for pre-processing here:
 
 #+BEGIN_SRC python
 from bs4 import BeautifulSoup
@@ -38,10 +40,13 @@ import json
 
 total_freq = {}
 
+# The json schema here is {pub-year: {word: count}}
+
 for xml in glob.iglob('data/metadata/*.xml'):
     with open(xml) as f:
         bs = BeautifulSoup(f, "lxml-xml")
-        
+    
+    # Extract pub lish year
     pub_year = bs.year
     year = int(str(pub_year)[6:10])
     
@@ -70,7 +75,7 @@ with file:
     json.dump(total_freq, file)
 #+END_SRC
 
-Of course, there are a lot more information you can extract from the xml files. Explore it on your own. The xml was rather clean; I've been not coding defensively. For this small set of 789 records, my script works smoothly.
+Of course, there are a lot more information you can extract from the xml files. Explore it on your own. The xml was rather clean; I've been not coding defensively, but for this small set of 789 records, my script works smoothly.
 
 ** Visualization
 
