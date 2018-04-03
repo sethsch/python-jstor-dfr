@@ -28,3 +28,55 @@ Select the data you wanted. You will receive an email for the data. (Usually wit
 
 As I mentioned, the data from DfR is in xml and txt format. You can find the data I requested in [[./data][data]] folder.
 
+It is not hard to pre-process the data, you can use my scripts to convert to [[./csv_word_count.py][csv]] and [[./json_word_count.py][json]] format. I made a word count of articles by the publish year. BeautifulSoup is helpful for parsing xml files. Json files maybe better for the data I wanted, so I've pasted my script for pre-processing here:
+
+#+BEGIN_SRC python
+from bs4 import BeautifulSoup
+import glob
+import re
+import json
+
+total_freq = {}
+
+for xml in glob.iglob('data/metadata/*.xml'):
+    with open(xml) as f:
+        bs = BeautifulSoup(f, "lxml-xml")
+        
+    pub_year = bs.year
+    year = int(str(pub_year)[6:10])
+    
+    total_freq[year] = total_freq.get(year, {})
+
+    
+    txt = xml.replace("metadata", "ngram1").replace(".xml", "-ngram1.txt")
+    
+    
+    
+    with open(txt) as t:
+        for line in t:
+            sub = re.split("\s+", line)
+            word = sub[0]
+            count = int(sub[1])
+            
+        if total_freq[year].get(word, 0) == 0:
+            total_freq[year][word] = 0
+
+        total_freq[year][word] += count
+
+    
+file = open("count.json", "w")
+    
+with file:
+    json.dump(total_freq, file)
+#+END_SRC
+
+Of course, there are a lot more information you can extract from the xml files. Explore it on your own. The xml was rather clean; I've been not coding defensively. For this small set of 789 records, my script works smoothly.
+
+** Visualization
+
+Here are some visualization for my historiographical research I did in 2016 with ggplot2. I plotted the rolling average of word frequencies in percentages of several key words over five years in articles about Natsume Soseki. This is not difficult if you have cleaned data, like the one generated above.
+
+[[file:./fig/Natsume Soseki Authors.jpeg]]
+[[file:./fig/Natsume Soseki Discipline.jpeg]]
+[[file:./fig/Natsume Soseki Language.jpeg]]
+[[file:./fig/Natsume Soseki Theme.jpeg]]
